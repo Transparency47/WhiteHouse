@@ -1,0 +1,7 @@
+<!-- source: https://www.whitehouse.gov/briefings-statements/2025/04/presidential-message-for-the-masters-tournament-2025/ -->
+<!-- date_published: 2025-04-10T09:32:00-04:00 -->
+<!-- date_accessed: 2026-06-01T01:11:26.691032+00:00 -->
+
+# Presidential Message for the Masters Tournament, 2025
+
+The Masters is more than just a golf tournament—it’s a tradition unlike any other. Every April, Augusta National becomes the center of the golf world, bringing together players and fans across the globe to witness history in the making. From the beauty of its famed Second Nine through the Georgia pines to the drama of Amen Corner, the Masters represents excellence, perseverance, and the pursuit of greatness—the very ideals that define our Nation. As we watch the sport’s top players compete for the prestigious Green Jacket, we celebrate the skill, determination, and sportsmanship that make this tournament an enduring symbol of American pride. I’d also like to congratulate the women who competed in the Augusta National Women’s Amateur last weekend. They are some of the brightest young stars in the women’s game, who we’ll enjoy watching for many years to come. As the Masters Tournament begins today, I extend my best wishes to the competitors, caddies, staff, volunteers, and patrons for a safe and fun Masters. May the best golfer win, and may all have a memorable week filled with moments that will last a lifetime.

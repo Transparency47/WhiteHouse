@@ -1,0 +1,21 @@
+<!-- source: https://www.whitehouse.gov/releases/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/ -->
+<!-- date_published: 2026-01-22T17:18:50-05:00 -->
+<!-- date_accessed: 2026-06-01T00:59:31.980553+00:00 -->
+
+# President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans
+
+**Today, in an historic ceremony in Davos, Switzerland, President Donald J. Trump formally ratified the Charter of the Board of Peace — establishing it as an official international organization.** President Trump, who is serving as the Board’s Chairman, was joined by Founding Members representing countries around the world who have committed to building a secure and prosperous future for Gaza that delivers lasting peace, stability, and opportunity for its people.
+
+**It’s another pivotal step forward in realizing President Trump’s** [**vision**](https://x.com/RapidResponse47/status/1972726021196562494) **of transforming Gaza from a region plagued by conflict and despair into one defined by opportunity, hope, and vitality.** The Board of Peace stands ready to mobilize global resources, enforce accountability, and guide the implementation of the next critical phases of demilitarization, governance reform, and large-scale rebuilding.
+
+- [**President Trump**](https://www.youtube.com/watch?v=S0uSK9MaCdA) **:** “This Board has the chance to be one of the most consequential bodies ever created, and It’s my enormous honor to serve as its Chairman… Today, the first steps toward a brighter day for the Middle East and a much safer future for the world are unfolding right before your very eyes. Together, we are in a position to have any credible chance… to end decades of suffering, stop generations of hatred and bloodshed, and forge a beautiful, everlasting, and glorious peace for that region.”
+
+- [**Secretary of State Marco Rubio**](https://x.com/RapidResponse47/status/2014289807585743188) **:** “We are here today because of President Trump’s vision. If we go back just a few months ago, people thought what was happening in Gaza was impossible to solve… No one thought that that would ever come to a resolution without more fighting and more bloodshed along the way… But President Trump had the vision and the courage to dream the impossible, to believe that it was doable, and to pursue it with all of his heart.”
+
+- [**Chief Commissioner of the National Committee for the Administration of Gaza Dr. Ali Sha’ath**](https://x.com/RapidResponse47/status/2014291460485472374?s=20) **:** “I want to start by thanking President Donald J. Trump and his Administration for his intensive efforts to advance peace in the whole region… These efforts created the opportunity for a new future in Gaza, but what will really matter is what comes next.”
+
+- [**High Representative for Gaza Nickolay Mladenov**](https://x.com/RapidResponse47/status/2014295780165587381?s=20) **:** “Who would’ve thought two years ago that we would be sitting here with this group of countries, with this leadership, giving the people of Gaza a new chance?… For too long, Gazans, Palestinians, and Israelis have lived with conflict, with death, with destruction. Now, the page turns.”
+
+- [**Special Envoy for Peace Missions Steve Witkoff**](https://x.com/RapidResponse47/status/2014292512182050830?s=20) **:** “We have achieved a peace deal in Gaza. We have brought the hostages home… And maybe most importantly, we have created a sense of hope for what the future can bring in Gaza and all other places where the Board of Peace will operate. And I am so honored, Mr. President, to have worked on this on your behalf.”
+
+- [**Jared Kushner**](https://x.com/RapidResponse47/status/2014296086333034791?s=20) **:** “85% of the GDP of Gaza has been aid for a long time. That’s not sustainable. It doesn’t give these people dignity; it doesn’t give them hope. And so we want to use free market economy principles — a lot of what President Trump spoke about that he’s doing in America — we want to bring the same mindset, the same approach, to a place like Gaza to give these people the ability to thrive and have a good life… If we believe that peace is possible then peace really can be possible.”
