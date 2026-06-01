@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-01T18:18:31.039817+00:00",
+  "last_successful_run": "2026-06-01T20:55:58.410885+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -14345,6 +14345,18 @@
       ],
       "published": "2026-05-07T16:58:45-04:00",
       "title": "Victory Day for World War II, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-06-01T20:55:57.187583+00:00",
+      "paths": [
+        "Actions/Nominations/2026/06/01/Nominations_and_Withdrawal_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-06-01T15:45:44-04:00",
+      "title": "Nominations and Withdrawal Sent to the Senate"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [

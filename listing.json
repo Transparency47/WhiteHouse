@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-01T18:18:34.373006+00:00",
+  "generatedAt": "2026-06-01T20:56:01.141894+00:00",
   "records": [
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-06-01",
+      "id": "whitehouse:e4e1fda3c591ca9a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-01T20:55:57.187583+00:00"
+      },
+      "path": "Actions/Nominations/2026/06/01/Nominations_and_Withdrawal_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations and Withdrawal Sent to the Senate"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-05-29",
