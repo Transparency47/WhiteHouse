@@ -28,7 +28,7 @@ President Donald J. Trump has launched the largest criminal illegal immigrant de
 
 - A Guatemalan national [charged](https://www.foxnews.com/us/ice-arrests-illegal-guatemalan-migrant-man-facing-multiple-child-rape-charges-massachusetts?msockid=39cef04a7cdd669717c4e5c87d6467b6) with multiple counts of child rape, apprehended in Massachusetts.
 
-- A Dominican Republican national [convicted](https://www.whitehouse.gov/Users/JKSchneider/Work%20Folders/Downloads/According%20to%20ICE%20records,%20the%20arrests%20included%20one%20in%20Buffalo,%20New%20York%20of%20an%20Ecuadorian%20national%20convicted%20of%20rape.%20Also%20in%20Buffalo,%20agents%20arrested%20Pedro%20Julio%20Mejia,%20a%20national%20from%20the%20Dominican%20Republic%20convicted%20of%20sexual%20conduct%20against%20a%20child.) of sexual conduct against a child, apprehended in Buffalo.
+- A Dominican Republican national convicted of sexual conduct against a child, apprehended in Buffalo.
 
 - A Mexican national [convicted](https://www.foxnews.com/politics/trumps-ice-nabs-child-sex-offenders-among-530-illegal-immigrants-caught-single-day#:~:text=Meanwhile%2C%20in%20San%20Francisco%2C%20agents%20arrested%20Ariel%20Rene%20Romice%2DPatino%2C%20a%20Mexican%20who%20was%20convicted%20of%20sexual%20exploitation%20of%20a%20child%20and%20sentenced%20to%2062%20months%20in%20prison.) of sexual exploitation of a child, apprehended in San Francisco.
 

@@ -35,6 +35,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 SCRAPER_DIR = Path(__file__).resolve().parent
 STATE_PATH = SCRAPER_DIR / "state.json"
 LOCK_PATH = SCRAPER_DIR / ".whitehouse_news_scraper.lock"
+LISTING_GENERATOR_PATH = SCRAPER_DIR / "generate_listing.py"
 REQUEST_TIMEOUT = 30
 USER_AGENT = "WhiteHouseNewsScraper/1.0 (+local archive; respects whitehouse.gov robots.txt)"
 INCREMENTAL_SEEN_LIMIT = 25
@@ -138,6 +139,14 @@ def save_state(state: dict) -> None:
     tmp_path.replace(STATE_PATH)
 
 
+def refresh_listing() -> None:
+    if not LISTING_GENERATOR_PATH.exists():
+        return
+    import subprocess
+
+    subprocess.run([sys.executable, str(LISTING_GENERATOR_PATH)], check=True)
+
+
 @contextlib.contextmanager
 def lock_or_exit() -> Iterable[None]:
     LOCK_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -199,9 +208,12 @@ def markdown_escape(text: str) -> str:
 
 def safe_join_url(href: str) -> str | None:
     try:
-        return urljoin(BASE_URL, href)
+        url = urljoin(BASE_URL, href)
     except ValueError:
         return None
+    if re.search(r"/Users/[^/?#]+/", url, flags=re.IGNORECASE):
+        return None
+    return url
 
 
 def join_inline_parts(parts: list[str]) -> str:
@@ -482,7 +494,10 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 def main(argv: list[str]) -> int:
     args = parse_args(argv)
     with lock_or_exit():
-        return run(args)
+        result = run(args)
+        if result == 0:
+            refresh_listing()
+        return result
 
 
 if __name__ == "__main__":

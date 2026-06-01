@@ -26,7 +26,7 @@
 
 - The National Portrait Gallery [commissioned](https://portraitcompetition.si.edu/competition/commissioned-works/) a “stop-motion drawing animation” that “ [examines the career](https://portraitcompetition.si.edu/competition/commissioned-works/portrait-dr-anthony-fauci/) “ of Anthony Fauci.
 
-- The American History Museum’s exhibit marking the 50 th anniversary of Title IX [includes](https://www.whitehouse.gov/Users/jkschneider/Documents/Releases/transgender) biological men competing in women’s sports and [argues in favor](https://thefederalist.com/2025/08/15/smithsonians-american-history-museum-is-wall-to-wall-anti-american-propaganda/#:~:text=True%20to%20form,traditional%20gender%20norms.%E2%80%9D) of “transgender” athletes competing in sports against the opposite biological sex.
+- The American History Museum’s exhibit marking the 50 th anniversary of Title IX includes biological men competing in women’s sports and [argues in favor](https://thefederalist.com/2025/08/15/smithsonians-american-history-museum-is-wall-to-wall-anti-american-propaganda/#:~:text=True%20to%20form,traditional%20gender%20norms.%E2%80%9D) of “transgender” athletes competing in sports against the opposite biological sex.
 
 - A exhibit at the American History Museum [depicts](https://thefederalist.com/2025/08/15/smithsonians-american-history-museum-is-wall-to-wall-anti-american-propaganda/#:~:text=To%20further%20that,non%2DWhite%20immigration.%E2%80%9D) migrants watching Independence Day fireworks “through an opening in the U.S.-Mexico border wall” and says America’s founders “feared non-White immigration.”
 
@@ -40,7 +40,7 @@
 
   - The exhibit features [writing](https://latino.si.edu/exhibitions/presente/immigration-stories/jairo-javier-morales-graduation-cap-and-stole) from illegal immigrants “fighting to belong.”
 
-  - The exhibit displays [a quote](https://www.whitehouse.gov/Users/jkschneider/Documents/Releases/Claudia%20de%20la%20Cruz) from Claudia de la Cruz, the [socialist](https://votesocialist2024.com/) nominee for president and a director an [anti-American hate group](https://www.aei.org/op-eds/code-pinks-denial-of-the-uyghur-genocide-makes-it-a-hate-group/), as well as [another quote](https://thefederalist.com/2025/08/15/smithsonians-american-history-museum-is-wall-to-wall-anti-american-propaganda/#:~:text=Stand%2Dalone%20quote%20from%20the%20American%20History%20Museum) that reads, “We didn’t cross the border; the border crossed us.”
+  - The exhibit displays a quote from Claudia de la Cruz, the [socialist](https://votesocialist2024.com/) nominee for president and a director an [anti-American hate group](https://www.aei.org/op-eds/code-pinks-denial-of-the-uyghur-genocide-makes-it-a-hate-group/), as well as [another quote](https://thefederalist.com/2025/08/15/smithsonians-american-history-museum-is-wall-to-wall-anti-american-propaganda/#:~:text=Stand%2Dalone%20quote%20from%20the%20American%20History%20Museum) that reads, “We didn’t cross the border; the border crossed us.”
 
   - The exhibit remains [prominently featured](https://archive.ph/lXErr) on its website alongside a quote from the Communist Party USA’s Angela Davis, who was once [among](https://www.history.com/articles/angela-davis-fbi-most-wanted-list) the FBI’s Top 10 Most Wanted Fugitives.
 

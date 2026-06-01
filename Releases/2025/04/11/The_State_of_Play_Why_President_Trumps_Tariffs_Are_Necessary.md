@@ -52,7 +52,7 @@ It’s cliché, yet true — the definition of insanity is repeating the same th
 
 - Paris Baguette [announced](https://www.manufacturingdive.com/news/paris-baguette-plans-first-us-bakery-plant-Texas-160-million-investment/740929/) a $160 million investment to construct a manufacturing plant in Texas.
 
-- Switzerland-based ABB [announced](https://www.whitehouse.gov/Users/APfeiffer/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/M3U0SZ4L/manufacturingdive.com/news/swiss-giant-abb-invest-120-million-us-manufacturing/741971/) a $120 million investment to expand production of its low-voltage electrification products in Tennessee and Mississippi.
+- Switzerland-based ABB announced a $120 million investment to expand production of its low-voltage electrification products in Tennessee and Mississippi.
 
 - Saica Group, a Spain-based corrugated packaging maker, [announced](https://whitehouse.us10.list-manage.com/track/click?u=dace49741569f7585670378b3&id=7cea6ebd23&e=c44d992a91) [plans](https://whitehouse.us10.list-manage.com/track/click?u=dace49741569f7585670378b3&id=91f4b79f59&e=c44d992a91) to build a $110 million new manufacturing facility in Anderson, Indiana.
 

@@ -58,7 +58,7 @@ Here are 50 reasons why President Donald J. Trump’s One Big Beautiful Bill is 
 
 26. **It** [**holds**](https://waysandmeans.house.gov/2025/05/21/the-one-big-beautiful-bill-holds-elites-accountable-ends-tax-payer-benefits-for-illegal-immigrants-provides-additional-relief-for-parents/) **woke, elitist universities accountable by increasing the endowment tax on large universities.**
 
-27. **It protects hardworking taxpayers by canceling Biden’s illegal and unfair** [**student loan bailouts**](https://www.whitehouse.gov/Users/CRParent/Work%20Folders/Desktop/One%20Big%20Beautiful%20Bill/Education%20and%20Workforce%20Talking%20Points.html) **.**
+27. **It protects hardworking taxpayers by canceling Biden’s illegal and unfair** **student loan bailouts** **.**
 
 28. **It ends taxpayer-funded sex changes.** It [reverses](https://d1dth6e84htgma.cloudfront.net/05_13_2025_FCMU_Memorandum_UPDATED_55a74a132a.pdf) the [Biden-era mandate](https://www.kff.org/affordable-care-act/issue-brief/the-biden-administrations-final-rule-on-section-1557-non-discrimination-regulations-under-the-aca/) that Medicaid [cover](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/) so-called “gender transition” procedures — ending the taxpayer-funded chemical castration and mutilation of American children.
 

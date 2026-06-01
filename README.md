@@ -46,6 +46,12 @@ python3 Scrapers/whitehouse_news_scraper.py --force
 
 The cron example in `Scrapers/crontab.example` runs the incremental scraper every 15 minutes. Cron is not installed by this repository automatically.
 
+## Automated Import
+
+The GitHub workflow at `.github/workflows/import-whitehouse-news.yml` runs the scraper automatically. It runs every 15 minutes in incremental mode and can also be started manually with `incremental` or `backfill` mode, optional `max_pages`, and optional `force`.
+
+The workflow installs `Scrapers/requirements.txt`, runs `Scrapers/whitehouse_news_scraper.py`, regenerates `listing.json`, checks for local path leaks, and commits generated changes back to `main`.
+
 ## Repository Status
 
 This archive is intended to be append-only and read-only for consumers. New posts should be added by the scraper, preserving the original publication URL and metadata for each archived item.
