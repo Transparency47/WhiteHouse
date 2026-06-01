@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-01T20:56:01.141894+00:00",
+  "generatedAt": "2026-06-01T23:03:24.672020+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-01",
+      "id": "whitehouse:a5a450984763c3ad",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-01T23:03:20.458648+00:00"
+      },
+      "path": "Briefings/2026/06/01/Presidential_Message_on_Global_Coptic_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/",
+      "summary": "On Global Coptic Day, we celebrate the enduring faith, time-honored traditions, and remarkable resilience of the Coptic Orthodox Church.",
+      "title": "Presidential Message on Global Coptic Day"
+    },
     {
       "category": "Nominations & Appointments",
       "date": "2026-06-01",
