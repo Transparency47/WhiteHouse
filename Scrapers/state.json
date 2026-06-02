@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-01T23:03:21.641236+00:00",
+  "last_successful_run": "2026-06-02T04:03:24.505405+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -7877,6 +7877,17 @@
       "published": "2026-05-17T13:15:13-04:00",
       "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-02T04:03:22.947055+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/01/Fact_Sheet_President_Donald_J_Trump_Updates_Tariffs_on_Steel_Aluminum_and_Copper_Imports.md"
+      ],
+      "published": "2026-06-01T21:10:32-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Updates Tariffs on Steel, Aluminum, and Copper Imports"
+    },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
         "Presidential Actions"
@@ -14356,6 +14367,18 @@
       ],
       "published": "2026-05-07T16:58:45-04:00",
       "title": "Victory Day for World War II, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-06-02T04:03:23.343282+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/06/01/Further_Adjusting_the_Tariff_Regimes_for_Imports_of_Aluminum_Steel_and_Copper_into_the_United_States.md"
+      ],
+      "published": "2026-06-01T21:09:17-04:00",
+      "title": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/": {
       "categories": [

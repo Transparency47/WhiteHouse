@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T23:03:24.672020+00:00",
+  "generatedAt": "2026-06-02T04:03:26.870072+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -26,6 +26,32 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/",
       "summary": "NOMINATIONS SENT TO THE SENATE:",
       "title": "Nominations and Withdrawal Sent to the Senate"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-06-01",
+      "id": "whitehouse:0b6d6ab199a638ca",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-02T04:03:23.343282+00:00"
+      },
+      "path": "Actions/Proclamations/2026/06/01/Further_Adjusting_the_Tariff_Regimes_for_Imports_of_Aluminum_Steel_and_Copper_into_the_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-01",
+      "id": "whitehouse:a9eec71525455889",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-02T04:03:22.947055+00:00"
+      },
+      "path": "Fact Sheets/2026/06/01/Fact_Sheet_President_Donald_J_Trump_Updates_Tariffs_on_Steel_Aluminum_and_Copper_Imports.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/",
+      "summary": "**BOLSTERING DOMESTIC MANUFACTURING OF STRATEGIC METALS:** Today, President Donald J. Trump signed a Proclamation adjusting certain metals tariffs to more effectively address national security threats, spur investment in American agriculture, housing, and manufacturing, and facil",
+      "title": "Fact Sheet: President Donald J. Trump Updates Tariffs on Steel, Aluminum, and Copper Imports"
     },
     {
       "category": "Executive Orders",
