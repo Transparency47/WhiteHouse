@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-02T14:04:50.483375+00:00",
+  "generatedAt": "2026-06-02T18:40:11.342878+00:00",
   "records": [
+    {
+      "category": "Executive Orders",
+      "date": "2026-06-02",
+      "id": "whitehouse:19669c4a84496cce",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-02T18:40:06.267621+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/06/02/Promoting_Advanced_Artificial_Intelligence_Innovation_and_Security.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Promoting Advanced Artificial Intelligence Innovation and Security"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-02",
+      "id": "whitehouse:56870356ca2bb2e4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-02T18:40:05.874879+00:00"
+      },
+      "path": "Fact Sheets/2026/06/02/Fact_Sheet_President_Donald_J_Trump_Promotes_Advanced_Artificial_Intelligence_Innovation_and_Security.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/",
+      "summary": "**PROMOTING AMERICAN AI INNOVATION AND SECURITY:** Today, President Donald J. Trump signed an Executive Order to advance American artificial intelligence (AI) innovation to strengthen America\u2019s cybersecurity, protect critical infrastructure, and ensure the United States remains t",
+      "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-01",
@@ -78,6 +104,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/05/realigning-united-states-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/",
       "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
       "title": "Realigning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-05-29",
+      "id": "whitehouse:7ed42be989fd60fa",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-02T18:40:06.653907+00:00"
+      },
+      "path": "Briefings/2026/05/29/Memorandum_from_the_White_House_Physician.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/05/memorandum-from-the-white-house-physician-9440/",
+      "summary": null,
+      "title": "Memorandum from the White House Physician"
     },
     {
       "category": "Fact Sheets",

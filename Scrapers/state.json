@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-02T14:04:47.147773+00:00",
+  "last_successful_run": "2026-06-02T18:40:08.257428+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4236,6 +4236,17 @@
       "published": "2026-05-20T12:57:01-04:00",
       "title": "First Lady Melania Trump\u2019s 4 Community-Centric Pillars of Foster Care"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/05/memorandum-from-the-white-house-physician-9440/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-02T18:40:06.653907+00:00",
+      "paths": [
+        "Briefings/2026/05/29/Memorandum_from_the_White_House_Physician.md"
+      ],
+      "published": "2026-05-29T23:00:00-04:00",
+      "title": "Memorandum from the White House Physician"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-armed-forces-day/": {
       "categories": [
         "Briefings & Statements"
@@ -7876,6 +7887,17 @@
       ],
       "published": "2026-05-17T13:15:13-04:00",
       "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-02T18:40:05.874879+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/02/Fact_Sheet_President_Donald_J_Trump_Promotes_Advanced_Artificial_Intelligence_Innovation_and_Security.md"
+      ],
+      "published": "2026-06-02T14:04:20-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/": {
       "categories": [
@@ -14391,6 +14413,18 @@
       ],
       "published": "2026-06-01T15:45:44-04:00",
       "title": "Nominations and Withdrawal Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-06-02T18:40:06.267621+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/06/02/Promoting_Advanced_Artificial_Intelligence_Innovation_and_Security.md"
+      ],
+      "published": "2026-06-02T11:34:13-04:00",
+      "title": "Promoting Advanced Artificial Intelligence Innovation and Security"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
