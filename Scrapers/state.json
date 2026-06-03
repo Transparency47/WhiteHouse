@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-03T18:44:27.713801+00:00",
+  "last_successful_run": "2026-06-03T21:50:13.074841+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -7888,6 +7888,17 @@
       "published": "2026-05-17T13:15:13-04:00",
       "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-03T21:50:11.470466+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/03/Fact_Sheet_President_Donald_J_Trump_Increases_Accountability_in_the_Federal_Workforce.md"
+      ],
+      "published": "2026-06-03T16:30:33-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/": {
       "categories": [
         "Fact Sheets"
@@ -7898,6 +7909,17 @@
       ],
       "published": "2026-06-02T14:04:20-04:00",
       "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-03T21:50:11.884490+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/03/Fact_Sheet_President_Donald_J_Trump_Strengthens_Customs_Enforcement.md"
+      ],
+      "published": "2026-06-03T16:29:46-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/": {
       "categories": [
@@ -14402,6 +14424,18 @@
       "published": "2026-06-01T21:09:17-04:00",
       "title": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/implementing-schedule-policy-career-in-the-excepted-service/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-06-03T21:50:11.069413+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/06/03/Implementing_Schedule_Policy_Career_in_the_Excepted_Service.md"
+      ],
+      "published": "2026-06-03T16:34:27-04:00",
+      "title": "Implementing Schedule Policy/Career in the Excepted Service"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/": {
       "categories": [
         "Presidential Actions",
@@ -14425,6 +14459,18 @@
       ],
       "published": "2026-06-02T11:34:13-04:00",
       "title": "Promoting Advanced Artificial Intelligence Innovation and Security"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-06-03T21:50:10.665969+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/06/03/Strengthening_Customs_Enforcement.md"
+      ],
+      "published": "2026-06-03T16:35:52-04:00",
+      "title": "Strengthening Customs Enforcement"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [

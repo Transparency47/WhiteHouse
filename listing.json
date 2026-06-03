@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-06-03T18:44:31.027449+00:00",
+  "generatedAt": "2026-06-03T21:50:16.442423+00:00",
   "records": [
+    {
+      "category": "Executive Orders",
+      "date": "2026-06-03",
+      "id": "whitehouse:6210b0a26a251f27",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-03T21:50:10.665969+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/06/03/Strengthening_Customs_Enforcement.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby determine and order:",
+      "title": "Strengthening Customs Enforcement"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-06-03",
+      "id": "whitehouse:5fa2d5c93ac7193b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-03T21:50:11.069413+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/06/03/Implementing_Schedule_Policy_Career_in_the_Excepted_Service.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/implementing-schedule-policy-career-in-the-excepted-service/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301, 3302, 5595 and 7511 of title 5, United States Code, it is hereby ordered:",
+      "title": "Implementing Schedule Policy/Career in the Excepted Service"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-03",
+      "id": "whitehouse:e5d5e0a7f149ba16",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-03T21:50:11.884490+00:00"
+      },
+      "path": "Fact Sheets/2026/06/03/Fact_Sheet_President_Donald_J_Trump_Strengthens_Customs_Enforcement.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/",
+      "summary": "**DIRECTING COMPREHENSIVE CUSTOMS REFORM:** Today, President Donald J. Trump signed an Executive Order that will strengthen the enforcement of U.S. customs laws through comprehensive reform.",
+      "title": "Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-03",
+      "id": "whitehouse:60db60044d7d320e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-03T21:50:11.470466+00:00"
+      },
+      "path": "Fact Sheets/2026/06/03/Fact_Sheet_President_Donald_J_Trump_Increases_Accountability_in_the_Federal_Workforce.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/",
+      "summary": "**RESTORING ACCOUNTABILITY TO THE FEDERAL WORKFORCE:** Today, President Donald J. Trump signed an Executive Order that makes senior Federal leaders that influence policy decisions more accountable to the American people.",
+      "title": "Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-06-02",
