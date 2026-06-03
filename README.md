@@ -1,6 +1,6 @@
 # The White House Press Releases - Mirror
 
-This repository is a read-only mirror of posts published on WhiteHouse.gov, organized into a structured local archive. It is part of the Restoring American Sovereignty Project and exists to preserve a public record of what the White House publishes.
+This repository is a read-only mirror of posts published on WhiteHouse.gov, organized into a structured local archive. It is part of Citizens for Government Transparency and exists to preserve a public record of what the White House publishes.
 
 The archive stores each post as Markdown, grouped by post category and publication date:
 
