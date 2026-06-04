@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T15:17:02.631667+00:00",
+  "generatedAt": "2026-06-04T18:16:50.984580+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/",
       "summary": "**President Trump\u2019s** [**appointment**](https://truthsocial.com/@realDonaldTrump/116680659724813616) **of Willia** **m J. Pulte to serve as Acting Director of National Intelligence is drawing praise from lawmakers in the nation\u2019s capital.** A battle-tested reformer with deep expe",
       "title": "Strong Support for President Trump\u2019s Appointment of William J. Pulte as Acting Director of National Intelligence"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-04",
+      "id": "whitehouse:c3e11d7b54ceaa73",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-04T18:16:46.453065+00:00"
+      },
+      "path": "Briefings/2026/06/04/America_250_Presidential_Message_on_the_Anniversary_of_the_Battle_of_Midway.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-midway/",
+      "summary": "Today, our Nation commemorates the Battle of Midway, the extraordinary air and sea victory that stripped Imperial Japan of its naval supremacy in the Pacific and set America\u2019s Armed Forces on a path to ultimate triumph in World War II.",
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway"
     },
     {
       "category": "Executive Orders",
