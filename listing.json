@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-04T11:55:09.902609+00:00",
+  "generatedAt": "2026-06-04T15:17:02.631667+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-04",
+      "id": "whitehouse:d081fcef4dae9f18",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-04T15:16:58.113807+00:00"
+      },
+      "path": "Releases/2026/06/04/Strong_Support_for_President_Trumps_Appointment_of_William_J_Pulte_as_Acting_Director_of_National_Intelligence.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/",
+      "summary": "**President Trump\u2019s** [**appointment**](https://truthsocial.com/@realDonaldTrump/116680659724813616) **of Willia** **m J. Pulte to serve as Acting Director of National Intelligence is drawing praise from lawmakers in the nation\u2019s capital.** A battle-tested reformer with deep expe",
+      "title": "Strong Support for President Trump\u2019s Appointment of William J. Pulte as Acting Director of National Intelligence"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-06-03",

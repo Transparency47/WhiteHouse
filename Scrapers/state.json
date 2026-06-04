@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-04T11:55:06.787847+00:00",
+  "last_successful_run": "2026-06-04T15:16:59.357446+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -20543,6 +20543,17 @@
       ],
       "published": "2026-05-26T09:56:31-04:00",
       "title": "Trump Administration\u2019s Full-Scale War on Fraud"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-04T15:16:58.113807+00:00",
+      "paths": [
+        "Releases/2026/06/04/Strong_Support_for_President_Trumps_Appointment_of_William_J_Pulte_as_Acting_Director_of_National_Intelligence.md"
+      ],
+      "published": "2026-06-04T09:36:09-04:00",
+      "title": "Strong Support for President Trump\u2019s Appointment of William J. Pulte as Acting Director of National Intelligence"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
