@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-05T17:56:07.464111+00:00",
+  "last_successful_run": "2026-06-05T19:59:25.249132+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -7921,6 +7921,17 @@
       "published": "2026-06-02T14:04:20-04:00",
       "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-05T19:59:23.604662+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/05/Fact_Sheet_President_Donald_J_Trump_Signs_Historic_Directive_on_AI_in_the_National_Security_Enterprise.md"
+      ],
+      "published": "2026-06-05T14:24:14-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/": {
       "categories": [
         "Fact Sheets"
@@ -14446,6 +14457,18 @@
       ],
       "published": "2026-06-03T16:34:27-04:00",
       "title": "Implementing Schedule Policy/Career in the Excepted Service"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-06-05T19:59:24.023579+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/06/05/National_Security_Presidential_Memorandum_NSPM_11.md"
+      ],
+      "published": "2026-06-05T14:22:57-04:00",
+      "title": "National Security Presidential Memorandum/NSPM-11"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/": {
       "categories": [
