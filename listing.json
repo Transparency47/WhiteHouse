@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-05T19:59:28.631339+00:00",
+  "generatedAt": "2026-06-05T21:40:56.678301+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-05",
+      "id": "whitehouse:79999b4fce8c6b70",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-05T21:40:52.426313+00:00"
+      },
+      "path": "Briefings/2026/06/05/Presidential_Message_on_National_Ocean_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/",
+      "summary": "During National Ocean Month, my Administration recognizes the vital role oceans play in driving American commerce, strengthening our economy, and advancing our national security. This month, we remain committed to expanding access to our ocean resources, rebuilding our shipbuildi",
+      "title": "Presidential Message on National Ocean Month"
+    },
     {
       "category": "Presidential Memoranda",
       "date": "2026-06-05",

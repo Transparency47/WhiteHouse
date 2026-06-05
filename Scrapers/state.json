@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-05T19:59:25.249132+00:00",
+  "last_successful_run": "2026-06-05T21:40:53.609466+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4466,6 +4466,17 @@
       ],
       "published": "2026-06-01T18:12:24-04:00",
       "title": "Presidential Message on Global Coptic Day"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-05T21:40:52.426313+00:00",
+      "paths": [
+        "Briefings/2026/06/05/Presidential_Message_on_National_Ocean_Month.md"
+      ],
+      "published": "2026-06-05T16:54:08-04:00",
+      "title": "Presidential Message on National Ocean Month"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
