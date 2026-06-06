@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T23:10:32.904658+00:00",
+  "generatedAt": "2026-06-06T03:34:40.790983+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -52,6 +52,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/",
       "summary": "**President Trump\u2019s** [**appointment**](https://truthsocial.com/@realDonaldTrump/116680659724813616) **of Willia** **m J. Pulte to serve as Acting Director of National Intelligence is drawing praise from lawmakers in the nation\u2019s capital.** A battle-tested reformer with deep expe",
       "title": "Strong Support for President Trump\u2019s Appointment of William J. Pulte as Acting Director of National Intelligence"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-06-04",
+      "id": "whitehouse:51f74d67f23fa76a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-06T03:34:36.216001+00:00"
+      },
+      "path": "Actions/Proclamations/2026/06/04/Granting_Pardon_to_Stephen_E_Buyer.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/granting-pardon-to-stephen-e-buyer/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Granting Pardon to Stephen E. Buyer"
     },
     {
       "category": "Briefings & Statements",
