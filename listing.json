@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-06T23:05:00.408402+00:00",
+  "generatedAt": "2026-06-07T04:01:08.936792+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-06",
+      "id": "whitehouse:eb3e6125d1e63018",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-07T04:01:04.944303+00:00"
+      },
+      "path": "Briefings/2026/06/06/America_250_Presidential_Message_on_the_Anniversary_of_D_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/",
+      "summary": "On June 6, 1944, the Soldiers, Sailors, and Airmen of the Allied Expeditionary Force launched Operation Overlord\u2014the largest amphibious invasion in the history of warfare\u2014to break Nazi Germany\u2019s grip on Europe.",
+      "title": "America 250: Presidential Message on the Anniversary of D-Day"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-05",

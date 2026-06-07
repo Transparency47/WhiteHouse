@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-06T23:04:57.653785+00:00",
+  "last_successful_run": "2026-06-07T04:01:06.169451+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4444,6 +4444,17 @@
       ],
       "published": "2026-05-19T09:27:07-04:00",
       "title": "Presidential Message on World Trade Week"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-07T04:01:04.944303+00:00",
+      "paths": [
+        "Briefings/2026/06/06/America_250_Presidential_Message_on_the_Anniversary_of_D_Day.md"
+      ],
+      "published": "2026-06-06T19:13:18-04:00",
+      "title": "America 250: Presidential Message on the Anniversary of D-Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-midway/": {
       "categories": [
