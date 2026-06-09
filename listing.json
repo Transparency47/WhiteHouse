@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-09T12:38:12.322969+00:00",
+  "generatedAt": "2026-06-09T15:56:02.997716+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-09",
+      "id": "whitehouse:20b2a4684fc7c9de",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-09T15:55:59.050804+00:00"
+      },
+      "path": "Briefings/2026/06/09/First_Lady_Melania_Trump_Honors_Americas_Next_Generation_of_Top_AI_Talent_at_Historic_Presidential_AI_Challenge_Awards_Ceremony.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
+      "summary": "\u201cToday is about opening doors,\u201d said First Lady Melania Trump. \u201cWhen new doors open, passions flow, courage blossoms, and dreams are realized. AI inspires.\u201d",
+      "title": "First Lady Melania Trump Honors America\u2019s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony"
+    },
     {
       "category": "Nominations & Appointments",
       "date": "2026-06-08",

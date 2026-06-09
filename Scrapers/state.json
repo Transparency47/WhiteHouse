@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-09T12:38:09.264475+00:00",
+  "last_successful_run": "2026-06-09T15:56:00.582188+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4466,6 +4466,17 @@
       ],
       "published": "2026-06-04T13:25:26-04:00",
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-09T15:55:59.050804+00:00",
+      "paths": [
+        "Briefings/2026/06/09/First_Lady_Melania_Trump_Honors_Americas_Next_Generation_of_Top_AI_Talent_at_Historic_Presidential_AI_Challenge_Awards_Ceremony.md"
+      ],
+      "published": "2026-06-09T11:51:33-04:00",
+      "title": "First Lady Melania Trump Honors America\u2019s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/": {
       "categories": [
