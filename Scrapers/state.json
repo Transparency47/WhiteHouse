@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-09T18:09:00.388710+00:00",
+  "last_successful_run": "2026-06-09T20:58:22.969102+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4466,6 +4466,17 @@
       ],
       "published": "2026-06-04T13:25:26-04:00",
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-09T20:58:21.487256+00:00",
+      "paths": [
+        "Briefings/2026/06/09/Congressional_Bills_H_R_3490_and_S_2393_Signed_into_Law.md"
+      ],
+      "published": "2026-06-09T16:01:10-04:00",
+      "title": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/": {
       "categories": [
@@ -20645,6 +20656,17 @@
       ],
       "published": "2026-06-04T09:36:09-04:00",
       "title": "Strong Support for President Trump\u2019s Appointment of William J. Pulte as Acting Director of National Intelligence"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-09T20:58:21.093011+00:00",
+      "paths": [
+        "Releases/2026/06/09/The_Secure_America_Act_Ends_Democrat_Obstruction_Fully_Funds_CBP_ICE_and_President_Trumps_Border_Security_Agenda.md"
+      ],
+      "published": "2026-06-09T16:26:34-04:00",
+      "title": "The Secure America Act Ends Democrat Obstruction\u2014 Fully Funds CBP, ICE and President Trump\u2019s Border Security Agenda"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [

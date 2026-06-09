@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-09T18:09:03.460683+00:00",
+  "generatedAt": "2026-06-09T20:58:26.364963+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-09",
+      "id": "whitehouse:35951f2c99836ce3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-09T20:58:21.093011+00:00"
+      },
+      "path": "Releases/2026/06/09/The_Secure_America_Act_Ends_Democrat_Obstruction_Fully_Funds_CBP_ICE_and_President_Trumps_Border_Security_Agenda.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/",
+      "summary": "After four years of Democrats\u2019 dangerous open-border policies that fueled chaos and lawlessness across the country, President Trump has delivered the most secure border in history, with illegal crossings dropping to record lows\u2014just as he promised. In spite of President Trump\u2019s s",
+      "title": "The Secure America Act Ends Democrat Obstruction\u2014 Fully Funds CBP, ICE and President Trump\u2019s Border Security Agenda"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-09",
@@ -13,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
       "summary": "\u201cToday is about opening doors,\u201d said First Lady Melania Trump. \u201cWhen new doors open, passions flow, courage blossoms, and dreams are realized. AI inspires.\u201d",
       "title": "First Lady Melania Trump Honors America\u2019s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-09",
+      "id": "whitehouse:34afb4a08837460b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-09T20:58:21.487256+00:00"
+      },
+      "path": "Briefings/2026/06/09/Congressional_Bills_H_R_3490_and_S_2393_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/",
+      "summary": "On Tuesday, June 9, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law"
     },
     {
       "category": "Nominations & Appointments",
