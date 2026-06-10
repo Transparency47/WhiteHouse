@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T17:58:06.668530+00:00",
+  "generatedAt": "2026-06-10T20:41:01.045795+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -26,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
       "summary": "**Since returning to office, President Donald J. Trump has unleashed a bold America First agenda that is crushing bureaucracy, restoring fairness, and rebuilding American dominance.** Through sweeping deregulation, pro-growth policies, and decisive enforcement, the Trump Administ",
       "title": "President Trump Is Restoring American Greatness One Win at a Time"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-06-10",
+      "id": "whitehouse:8d64fe93099d6d16",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-10T20:40:56.794643+00:00"
+      },
+      "path": "Actions/Nominations/2026/06/10/Nomination_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/",
+      "summary": "NOMINATION SENT TO THE SENATE:",
+      "title": "Nomination Sent to the Senate"
     },
     {
       "category": "Releases",
