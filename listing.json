@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-10T14:23:15.619284+00:00",
+  "generatedAt": "2026-06-10T17:58:06.668530+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-10",
+      "id": "whitehouse:9aa6370745ef6d05",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-10T17:58:03.084934+00:00"
+      },
+      "path": "Briefings/2026/06/10/S_2_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/",
+      "summary": "On Wednesday, June 10, 2026, the President signed into law:",
+      "title": "S. 2 Signed into Law"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-06-10",
+      "id": "whitehouse:36048645a390372e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-10T17:58:02.705136+00:00"
+      },
+      "path": "Releases/2026/06/10/President_Trump_Is_Restoring_American_Greatness_One_Win_at_a_Time.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
+      "summary": "**Since returning to office, President Donald J. Trump has unleashed a bold America First agenda that is crushing bureaucracy, restoring fairness, and rebuilding American dominance.** Through sweeping deregulation, pro-growth policies, and decisive enforcement, the Trump Administ",
+      "title": "President Trump Is Restoring American Greatness One Win at a Time"
+    },
     {
       "category": "Releases",
       "date": "2026-06-09",

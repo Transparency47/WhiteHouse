@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-10T14:23:12.967471+00:00",
+  "last_successful_run": "2026-06-10T17:58:04.236434+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4510,6 +4510,17 @@
       ],
       "published": "2026-06-05T16:54:08-04:00",
       "title": "Presidential Message on National Ocean Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-10T17:58:03.084934+00:00",
+      "paths": [
+        "Briefings/2026/06/10/S_2_Signed_into_Law.md"
+      ],
+      "published": "2026-06-10T12:25:35-04:00",
+      "title": "S. 2 Signed into Law"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
@@ -20645,6 +20656,17 @@
       ],
       "published": "2026-05-26T09:56:31-04:00",
       "title": "Trump Administration\u2019s Full-Scale War on Fraud"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-10T17:58:02.705136+00:00",
+      "paths": [
+        "Releases/2026/06/10/President_Trump_Is_Restoring_American_Greatness_One_Win_at_a_Time.md"
+      ],
+      "published": "2026-06-10T13:34:42-04:00",
+      "title": "President Trump Is Restoring American Greatness One Win at a Time"
     },
     "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/": {
       "categories": [
