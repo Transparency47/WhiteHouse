@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-11T10:26:45.361076+00:00",
+  "generatedAt": "2026-06-11T14:37:58.299921+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-11",
+      "id": "whitehouse:67d88056289d4a94",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-11T14:37:53.613166+00:00"
+      },
+      "path": "Briefings/2026/06/11/Presidential_Message_on_U_S_Catholic_Bishops_Honoring_the_250th_Anniversary_of_American_Independence.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/",
+      "summary": "Today, Melania and I join in prayer with Catholic Bishops gathered in Orlando, Florida, as they consecrate the United States of America to the Sacred Heart of Jesus on the occasion of our 250th year of American Independence\u2014a powerful moment in our national story and a poignant r",
+      "title": "Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-10",
