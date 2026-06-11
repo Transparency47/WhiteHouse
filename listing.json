@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T14:37:58.299921+00:00",
+  "generatedAt": "2026-06-11T18:14:45.133536+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/",
       "summary": "Today, Melania and I join in prayer with Catholic Bishops gathered in Orlando, Florida, as they consecrate the United States of America to the Sacred Heart of Jesus on the occasion of our 250th year of American Independence\u2014a powerful moment in our national story and a poignant r",
       "title": "Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-11",
+      "id": "whitehouse:a1401086940046db",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:14:40.596297+00:00"
+      },
+      "path": "Briefings/2026/06/11/First_Lady_Melania_Trump_Launches_Fostering_the_Future_Accounts_Americas_First_Savings_and_Investment_Vehicle_for_Foster_Youth.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/",
+      "summary": "First Lady Melania Trump launched her Fostering the Future Accounts, a new financial resource established to empower foster youth to be fiscally autonomous upon reaching the age of majority.",
+      "title": "First Lady Melania Trump Launches Fostering the Future Accounts America\u2019s First Savings & Investment Vehicle for Foster Youth"
     },
     {
       "category": "Briefings & Statements",

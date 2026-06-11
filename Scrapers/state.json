@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-11T14:37:54.829647+00:00",
+  "last_successful_run": "2026-06-11T18:14:41.807117+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4488,6 +4488,17 @@
       ],
       "published": "2026-06-09T11:51:33-04:00",
       "title": "First Lady Melania Trump Honors America\u2019s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-11T18:14:40.596297+00:00",
+      "paths": [
+        "Briefings/2026/06/11/First_Lady_Melania_Trump_Launches_Fostering_the_Future_Accounts_Americas_First_Savings_and_Investment_Vehicle_for_Foster_Youth.md"
+      ],
+      "published": "2026-06-11T12:13:47-04:00",
+      "title": "First Lady Melania Trump Launches Fostering the Future Accounts America\u2019s First Savings & Investment Vehicle for Foster Youth"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/": {
       "categories": [
