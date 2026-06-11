@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-11T18:14:41.807117+00:00",
+  "last_successful_run": "2026-06-11T21:21:49.825551+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -7998,6 +7998,17 @@
       "published": "2026-06-02T14:04:20-04:00",
       "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-11T21:21:47.946170+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/11/Fact_Sheet_President_Donald_J_Trump_Restores_American_Commercial_Fishing_in_the_Pacific.md"
+      ],
+      "published": "2026-06-11T16:26:56-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/": {
       "categories": [
         "Fact Sheets"
@@ -14511,6 +14522,18 @@
       "published": "2026-05-07T16:58:45-04:00",
       "title": "Victory Day for World War II, 2026"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-06-11T21:21:47.543275+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/06/11/75th_Anniversary_of_the_White_House_Navy_Mess_2026.md"
+      ],
+      "published": "2026-06-11T16:27:44-04:00",
+      "title": "75th Anniversary of the White House Navy Mess, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/": {
       "categories": [
         "Presidential Actions",
@@ -14559,6 +14582,18 @@
       "published": "2026-06-05T14:22:57-04:00",
       "title": "National Security Presidential Memorandum/NSPM-11"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-06-11T21:21:47.140964+00:00",
+      "paths": [
+        "Actions/Nominations/2026/06/11/Nomination_and_Withdrawal_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-06-11T17:03:00-04:00",
+      "title": "Nomination and Withdrawal Sent to the Senate"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/": {
       "categories": [
         "Presidential Actions",
@@ -14606,6 +14641,18 @@
       ],
       "published": "2026-06-02T11:34:13-04:00",
       "title": "Promoting Advanced Artificial Intelligence Innovation and Security"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-06-11T21:21:48.349490+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/06/11/Restoring_American_Commercial_Fishing_in_the_Pacific.md"
+      ],
+      "published": "2026-06-11T16:25:24-04:00",
+      "title": "Restoring American Commercial Fishing in the Pacific"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/": {
       "categories": [
