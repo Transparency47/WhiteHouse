@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-12T19:05:41.734382+00:00",
+  "last_successful_run": "2026-06-12T21:45:45.106144+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4445,6 +4445,17 @@
       "published": "2026-05-19T09:27:07-04:00",
       "title": "Presidential Message on World Trade Week"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-12T21:45:41.387411+00:00",
+      "paths": [
+        "Briefings/2026/06/12/America_250_Presidential_Message_on_the_250th_Anniversary_of_the_Virginia_Declaration_of_Rights.md"
+      ],
+      "published": "2026-06-12T16:21:35-04:00",
+      "title": "America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/": {
       "categories": [
         "Briefings & Statements"
@@ -4500,6 +4511,17 @@
       "published": "2026-06-11T12:13:47-04:00",
       "title": "First Lady Melania Trump Launches Fostering the Future Accounts America\u2019s First Savings & Investment Vehicle for Foster Youth"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-12T21:45:41.008414+00:00",
+      "paths": [
+        "Briefings/2026/06/12/First_Lady_Melania_Trumps_Remarkable_Week_Empowering_Youth_through_AI_Challenge_and_Fostering_the_Future_Accounts.md"
+      ],
+      "published": "2026-06-12T16:58:22-04:00",
+      "title": "First Lady Melania Trump\u2019s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/": {
       "categories": [
         "Briefings & Statements"
@@ -4543,6 +4565,17 @@
       ],
       "published": "2026-06-10T12:25:35-04:00",
       "title": "S. 2 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/s-254-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-12T21:45:42.148368+00:00",
+      "paths": [
+        "Briefings/2026/06/12/S_254_Signed_into_Law.md"
+      ],
+      "published": "2026-06-12T15:26:27-04:00",
+      "title": "S. 254 Signed into Law"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
@@ -7975,6 +8008,17 @@
       ],
       "published": "2026-05-17T13:15:13-04:00",
       "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-12T21:45:41.770607+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/12/Fact_Sheet_President_Donald_J_Trump_Defends_Americas_Warfighters_and_Intelligence_Officers_Against_Cyber_Threats.md"
+      ],
+      "published": "2026-06-12T15:36:33-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Defends America\u2019s Warfighters and Intelligence Officers Against Cyber Threats"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/": {
       "categories": [
@@ -14534,6 +14578,18 @@
       "published": "2026-06-11T16:27:44-04:00",
       "title": "75th Anniversary of the White House Navy Mess, 2026"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-06-12T21:45:42.922709+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/06/12/Flag_Day_and_National_Flag_Week_2026.md"
+      ],
+      "published": "2026-06-12T15:22:08-04:00",
+      "title": "Flag Day and National Flag Week, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/": {
       "categories": [
         "Presidential Actions",
@@ -14570,6 +14626,18 @@
       "published": "2026-06-03T16:34:27-04:00",
       "title": "Implementing Schedule Policy/Career in the Excepted Service"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-06-12T21:45:42.541319+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/06/12/National_Homeownership_Month_2026.md"
+      ],
+      "published": "2026-06-12T15:24:42-04:00",
+      "title": "National Homeownership Month, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/": {
       "categories": [
         "Presidential Actions",
@@ -14581,6 +14649,18 @@
       ],
       "published": "2026-06-05T14:22:57-04:00",
       "title": "National Security Presidential Memorandum/NSPM-11"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-06-12T21:45:43.316461+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/06/12/National_Security_Presidential_Memorandum_NSPM_12.md"
+      ],
+      "published": "2026-06-12T15:19:12-04:00",
+      "title": "National Security Presidential Memorandum/NSPM-12"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/": {
       "categories": [
