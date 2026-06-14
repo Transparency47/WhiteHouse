@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-14T18:13:35.187395+00:00",
+  "last_successful_run": "2026-06-14T20:18:16.118065+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4543,6 +4543,17 @@
       ],
       "published": "2026-06-05T16:54:08-04:00",
       "title": "Presidential Message on National Ocean Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-14T20:18:14.906255+00:00",
+      "paths": [
+        "Briefings/2026/06/14/Presidential_Message_on_the_251st_Birthday_of_the_United_States_Army.md"
+      ],
+      "published": "2026-06-14T14:42:20-04:00",
+      "title": "Presidential Message on the 251st Birthday of the United States Army"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/": {
       "categories": [

@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-14T18:13:38.505630+00:00",
+  "generatedAt": "2026-06-14T20:18:19.547521+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-14",
+      "id": "whitehouse:b6c9e1865af518ce",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-14T20:18:14.906255+00:00"
+      },
+      "path": "Briefings/2026/06/14/Presidential_Message_on_the_251st_Birthday_of_the_United_States_Army.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/",
+      "summary": "Today, our Nation celebrates the 251st birthday of the United States Army, the oldest branch of the most storied and feared fighting force the world has ever known. For over two and a half centuries, the courage and sacrifice of our soldiers have defended our homeland and kept ou",
+      "title": "Presidential Message on the 251st Birthday of the United States Army"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-12",
