@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-15T21:43:41.601266+00:00",
+  "last_successful_run": "2026-06-15T23:45:53.765827+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -14720,6 +14720,18 @@
       ],
       "published": "2026-06-01T15:45:44-04:00",
       "title": "Nominations and Withdrawal Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-06-15T23:45:52.593236+00:00",
+      "paths": [
+        "Actions/Nominations/2026/06/15/Nominations_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-06-15T17:53:41-04:00",
+      "title": "Nominations Sent to the Senate"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/": {
       "categories": [
