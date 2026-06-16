@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-16T10:08:15.646602+00:00",
+  "generatedAt": "2026-06-16T15:55:06.649865+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-16",
+      "id": "whitehouse:ae621e98cc1d0f8a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:55:01.709023+00:00"
+      },
+      "path": "Releases/2026/06/16/White_House_CEQ_to_Convene_Leading_Innovators_with_Promising_Permitting_Technology.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/white-house-ceq-to-convene-leading-innovators-with-promising-permitting-technology/",
+      "summary": "*CEQ invites industry to showcase solutions at the inaugural Permitting Innovators Expo.*",
+      "title": "White House CEQ to Convene Leading Innovators with Promising Permitting Technology"
+    },
     {
       "category": "Nominations & Appointments",
       "date": "2026-06-15",

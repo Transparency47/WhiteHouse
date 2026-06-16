@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-16T10:08:12.520802+00:00",
+  "last_successful_run": "2026-06-16T15:55:03.194542+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -20884,6 +20884,17 @@
       ],
       "published": "2026-06-09T16:26:34-04:00",
       "title": "The Secure America Act Ends Democrat Obstruction\u2014 Fully Funds CBP, ICE and President Trump\u2019s Border Security Agenda"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/white-house-ceq-to-convene-leading-innovators-with-promising-permitting-technology/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-16T15:55:01.709023+00:00",
+      "paths": [
+        "Releases/2026/06/16/White_House_CEQ_to_Convene_Leading_Innovators_with_Promising_Permitting_Technology.md"
+      ],
+      "published": "2026-06-16T10:29:12-04:00",
+      "title": "White House CEQ to Convene Leading Innovators with Promising Permitting Technology"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
