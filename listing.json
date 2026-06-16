@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:45:56.880042+00:00",
+  "generatedAt": "2026-06-16T04:14:07.276185+00:00",
   "records": [
     {
       "category": "Nominations & Appointments",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/",
       "summary": "NOMINATIONS SENT TO THE SENATE:",
       "title": "Nominations Sent to the Senate"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-15",
+      "id": "whitehouse:d9957d58d2d07544",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-16T04:14:02.676926+00:00"
+      },
+      "path": "Briefings/2026/06/15/America_250_Presidential_Message_on_the_Anniversary_of_the_Signing_of_Magna_Carta.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/",
+      "summary": "Today, we celebrate the anniversary of the adoption of Magna Carta\u2014one of history\u2019s earliest and most consequential declarations of human freedom. Forged over 500 years before the dawn of our Republic, its eternal principles of equal justice, liberty, and the rule of law would ul",
+      "title": "America 250: Presidential Message on the Anniversary of the Signing of Magna Carta"
     },
     {
       "category": "Briefings & Statements",

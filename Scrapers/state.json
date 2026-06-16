@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-15T23:45:53.765827+00:00",
+  "last_successful_run": "2026-06-16T04:14:03.890964+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4477,6 +4477,17 @@
       ],
       "published": "2026-06-04T13:25:26-04:00",
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-16T04:14:02.676926+00:00",
+      "paths": [
+        "Briefings/2026/06/15/America_250_Presidential_Message_on_the_Anniversary_of_the_Signing_of_Magna_Carta.md"
+      ],
+      "published": "2026-06-15T20:02:15-04:00",
+      "title": "America 250: Presidential Message on the Anniversary of the Signing of Magna Carta"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/": {
       "categories": [
