@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-16T15:55:03.194542+00:00",
+  "last_successful_run": "2026-06-16T19:37:13.019140+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -20851,6 +20851,17 @@
       ],
       "published": "2026-05-26T09:56:31-04:00",
       "title": "Trump Administration\u2019s Full-Scale War on Fraud"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/excellent-choice-jay-clayton-earns-broad-praise-as-president-trumps-dni-nominee/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-16T19:37:11.817881+00:00",
+      "paths": [
+        "Releases/2026/06/16/Excellent_Choice_Jay_Clayton_Earns_Broad_Praise_as_President_Trumps_DNI_Nominee.md"
+      ],
+      "published": "2026-06-16T14:07:26-04:00",
+      "title": "\u201cExcellent Choice\u201d: Jay Clayton Earns Broad Praise as President Trump\u2019s DNI Nominee"
     },
     "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/": {
       "categories": [
