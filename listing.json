@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-17T11:48:46.972966+00:00",
+  "generatedAt": "2026-06-17T15:32:58.864968+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-17",
+      "id": "whitehouse:cf6e176a953a94a1",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-17T15:32:54.549932+00:00"
+      },
+      "path": "Briefings/2026/06/17/WHAT_THEY_ARE_SAYING_First_Lady_Melania_Trump_Launches_Fostering_the_Future_Accounts.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/",
+      "summary": "Last week, First Lady Melania Trump launched Fostering the Future Accounts, a new financial resource established to empower foster youth to be fiscally autonomous in adulthood. Developed in partnership with the Department of the Treasury, these accounts will provide eligible yout",
+      "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts"
+    },
     {
       "category": "Releases",
       "date": "2026-06-16",

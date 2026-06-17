@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-17T11:48:43.836207+00:00",
+  "last_successful_run": "2026-06-17T15:32:55.734414+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4598,6 +4598,17 @@
       ],
       "published": "2026-06-12T15:26:27-04:00",
       "title": "S. 254 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-17T15:32:54.549932+00:00",
+      "paths": [
+        "Briefings/2026/06/17/WHAT_THEY_ARE_SAYING_First_Lady_Melania_Trump_Launches_Fostering_the_Future_Accounts.md"
+      ],
+      "published": "2026-06-17T09:23:49-04:00",
+      "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
