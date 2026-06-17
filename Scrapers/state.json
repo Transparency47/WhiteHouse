@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-17T15:32:55.734414+00:00",
+  "last_successful_run": "2026-06-17T18:17:50.647430+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4543,6 +4543,17 @@
       ],
       "published": "2026-06-01T18:12:24-04:00",
       "title": "Presidential Message on Global Coptic Day"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-mens-health-week/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-17T18:17:49.017851+00:00",
+      "paths": [
+        "Briefings/2026/06/15/Presidential_Message_on_Mens_Health_Week.md"
+      ],
+      "published": "2026-06-15T12:00:00-04:00",
+      "title": "Presidential Message on Men\u2019s Health Week"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/": {
       "categories": [
@@ -20906,6 +20917,17 @@
       ],
       "published": "2026-06-09T16:26:34-04:00",
       "title": "The Secure America Act Ends Democrat Obstruction\u2014 Fully Funds CBP, ICE and President Trump\u2019s Border Security Agenda"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/trump-administration-delivers-another-crushing-blow-to-antifa-terrorist-network/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-17T18:17:48.610096+00:00",
+      "paths": [
+        "Releases/2026/06/17/Trump_Administration_Delivers_Another_Crushing_Blow_to_Antifa_Terrorist_Network.md"
+      ],
+      "published": "2026-06-17T11:57:08-04:00",
+      "title": "Trump Administration Delivers Another Crushing Blow to Antifa Terrorist Network"
     },
     "https://www.whitehouse.gov/releases/2026/06/white-house-ceq-to-convene-leading-innovators-with-promising-permitting-technology/": {
       "categories": [
