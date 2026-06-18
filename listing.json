@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-18T12:54:08.482352+00:00",
+  "generatedAt": "2026-06-18T16:33:24.643535+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-18",
+      "id": "whitehouse:79e9990be84ab21c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-18T16:33:21.069864+00:00"
+      },
+      "path": "Briefings/2026/06/18/President_Trump_to_Award_Medal_of_Honor.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/",
+      "summary": "On Thursday, June 18, 2026, President Donald J. Trump will award the Medal of Honor to Major James Capers, Jr., U.S. Marine Corps (Retired), Colonel John W. Ripley, U.S. Marine Corps (Posthumous), and Major Nicholas Dockery, U.S. Army (Retired).",
+      "title": "President Trump to Award Medal of Honor"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-17",

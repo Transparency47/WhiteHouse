@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-18T12:54:06.044493+00:00",
+  "last_successful_run": "2026-06-18T16:33:22.240024+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4532,6 +4532,17 @@
       ],
       "published": "2026-06-12T16:58:22-04:00",
       "title": "First Lady Melania Trump\u2019s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-18T16:33:21.069864+00:00",
+      "paths": [
+        "Briefings/2026/06/18/President_Trump_to_Award_Medal_of_Honor.md"
+      ],
+      "published": "2026-06-18T09:23:51-04:00",
+      "title": "President Trump to Award Medal of Honor"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/": {
       "categories": [
