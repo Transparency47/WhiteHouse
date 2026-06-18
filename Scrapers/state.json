@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-18T19:29:27.669505+00:00",
+  "last_successful_run": "2026-06-18T22:09:20.798490+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21225,6 +21225,17 @@
       ],
       "published": "2026-05-05T10:36:40-04:00",
       "title": "Savings from Most-Favored-Nation Drug Pricing Policy"
+    },
+    "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/": {
+      "categories": [
+        "Research"
+      ],
+      "last_accessed": "2026-06-18T22:09:19.604332+00:00",
+      "paths": [
+        "Research/2026/06/18/Effects_of_Banning_Anti_Competitive_Hospital_Contracts.md"
+      ],
+      "published": "2026-06-18T15:31:26-04:00",
+      "title": "Effects of Banning Anti-Competitive Hospital Contracts"
     }
   }
 }

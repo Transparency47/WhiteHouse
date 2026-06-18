@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T19:29:31.013660+00:00",
+  "generatedAt": "2026-06-18T22:09:24.204838+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/",
       "summary": "On Thursday, June 18, 2026, President Donald J. Trump will award the Medal of Honor to Major James Capers, Jr., U.S. Marine Corps (Retired), Colonel John W. Ripley, U.S. Marine Corps (Posthumous), and Major Nicholas Dockery, U.S. Army (Retired).",
       "title": "President Trump to Award Medal of Honor"
+    },
+    {
+      "category": "Research",
+      "date": "2026-06-18",
+      "id": "whitehouse:8a13276373079049",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-18T22:09:19.604332+00:00"
+      },
+      "path": "Research/2026/06/18/Effects_of_Banning_Anti_Competitive_Hospital_Contracts.md",
+      "sourceUrl": "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/",
+      "summary": "Effects of Banning Hospitals\u2019 Anti-Steering, Anti-Tiering, and All-or-Nothing Contracts",
+      "title": "Effects of Banning Anti-Competitive Hospital Contracts"
     },
     {
       "category": "Briefings & Statements",
