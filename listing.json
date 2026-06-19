@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-19T15:19:33.728190+00:00",
+  "generatedAt": "2026-06-19T17:59:11.346454+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-19",
+      "id": "whitehouse:8e4bebe8aec7ca54",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-19T17:59:06.987667+00:00"
+      },
+      "path": "Releases/2026/06/19/President_Trumps_Iran_Agreement_Is_America_First_in_Action.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/",
+      "summary": "**President Donald J. Trump and Vice President JD Vance have secured a historic breakthrough by signing a Memorandum of Understanding with Iran.** Forged through decisive American strength, this agreement ensures Iran will never obtain a nuclear weapon, reopens the Strait of Horm",
+      "title": "President Trump\u2019s Iran Agreement Is America First in Action"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-18",

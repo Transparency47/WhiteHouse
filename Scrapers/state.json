@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-19T15:19:30.602978+00:00",
+  "last_successful_run": "2026-06-19T17:59:08.553561+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -20906,6 +20906,17 @@
       ],
       "published": "2026-06-10T13:34:42-04:00",
       "title": "President Trump Is Restoring American Greatness One Win at a Time"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-19T17:59:06.987667+00:00",
+      "paths": [
+        "Releases/2026/06/19/President_Trumps_Iran_Agreement_Is_America_First_in_Action.md"
+      ],
+      "published": "2026-06-19T13:37:43-04:00",
+      "title": "President Trump\u2019s Iran Agreement Is America First in Action"
     },
     "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/": {
       "categories": [
