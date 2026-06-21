@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-21T15:52:28.472637+00:00",
+  "generatedAt": "2026-06-21T17:39:24.381298+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-21",
+      "id": "whitehouse:859bc2be38cc0c90",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-21T17:39:19.753494+00:00"
+      },
+      "path": "Briefings/2026/06/21/Presidential_Message_on_Fathers_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/",
+      "summary": "This Father\u2019s Day, we honor the men who are the backbone of our families and the strength of our Republic\u2014the driving force behind 250 glorious years of American prosperity and success.",
+      "title": "Presidential Message on Father\u2019s Day"
+    },
     {
       "category": "Releases",
       "date": "2026-06-19",

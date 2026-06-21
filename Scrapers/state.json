@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-21T15:52:25.660881+00:00",
+  "last_successful_run": "2026-06-21T17:39:20.968326+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4543,6 +4543,17 @@
       ],
       "published": "2026-06-18T09:23:51-04:00",
       "title": "President Trump to Award Medal of Honor"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-21T17:39:19.753494+00:00",
+      "paths": [
+        "Briefings/2026/06/21/Presidential_Message_on_Fathers_Day.md"
+      ],
+      "published": "2026-06-21T12:46:19-04:00",
+      "title": "Presidential Message on Father\u2019s Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/": {
       "categories": [
