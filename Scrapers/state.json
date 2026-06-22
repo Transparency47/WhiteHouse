@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-22T15:52:17.617428+00:00",
+  "last_successful_run": "2026-06-22T19:28:54.309356+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -20906,6 +20906,17 @@
       ],
       "published": "2026-06-16T14:07:26-04:00",
       "title": "\u201cExcellent Choice\u201d: Jay Clayton Earns Broad Praise as President Trump\u2019s DNI Nominee"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-22T19:28:53.160342+00:00",
+      "paths": [
+        "Releases/2026/06/22/President_Trump_Drives_Down_Rents_by_Ending_Open_Borders_Disaster.md"
+      ],
+      "published": "2026-06-22T14:47:12-04:00",
+      "title": "President Trump Drives Down Rents by Ending Open Borders Disaster"
     },
     "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/": {
       "categories": [

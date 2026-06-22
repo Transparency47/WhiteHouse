@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-22T15:52:21.124049+00:00",
+  "generatedAt": "2026-06-22T19:28:56.129903+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-22",
+      "id": "whitehouse:df714adabd8425aa",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-22T19:28:53.160342+00:00"
+      },
+      "path": "Releases/2026/06/22/President_Trump_Drives_Down_Rents_by_Ending_Open_Borders_Disaster.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
+      "summary": "**President Donald J. Trump\u2019s decisive enforcement of America\u2019s immigration laws is producing real results for hardworking families \u2014 including the nation\u2019s** [**46 million renters**](https://fred.stlouisfed.org/series/ERNTOCCUSQ176N) **.** Rents are falling sharply across the co",
+      "title": "President Trump Drives Down Rents by Ending Open Borders Disaster"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-21",
