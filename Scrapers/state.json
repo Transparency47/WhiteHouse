@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-22T19:28:54.309356+00:00",
+  "last_successful_run": "2026-06-22T22:03:05.263253+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8119,6 +8119,17 @@
       "published": "2026-06-11T16:26:56-04:00",
       "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-22T22:03:02.872938+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/22/Fact_Sheet_President_Donald_J_Trump_Secures_the_Nation_Against_Advanced_Cryptographic_Attacks.md"
+      ],
+      "published": "2026-06-22T16:39:42-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/": {
       "categories": [
         "Fact Sheets"
@@ -8151,6 +8162,17 @@
       ],
       "published": "2026-06-01T21:10:32-04:00",
       "title": "Fact Sheet: President Donald J. Trump Updates Tariffs on Steel, Aluminum, and Copper Imports"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-22T22:03:03.267299+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/22/Fact_Sheet_President_Donald_J_Trump_Ushers_in_the_Next_Frontier_of_Quantum_Innovation.md"
+      ],
+      "published": "2026-06-22T16:39:32-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation"
     },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
@@ -14812,6 +14834,18 @@
       "published": "2026-06-11T16:25:24-04:00",
       "title": "Restoring American Commercial Fishing in the Pacific"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-06-22T22:03:04.066732+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/06/22/Securing_the_Nation_Against_Advanced_Cryptographic_Attacks.md"
+      ],
+      "published": "2026-06-22T16:37:30-04:00",
+      "title": "Securing the Nation Against Advanced Cryptographic Attacks"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/": {
       "categories": [
         "Presidential Actions",
@@ -14823,6 +14857,18 @@
       ],
       "published": "2026-06-03T16:35:52-04:00",
       "title": "Strengthening Customs Enforcement"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-06-22T22:03:03.668758+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/06/22/Ushering_in_the_Next_Frontier_of_Quantum_Innovation.md"
+      ],
+      "published": "2026-06-22T16:38:18-04:00",
+      "title": "Ushering in the Next Frontier of Quantum Innovation"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [

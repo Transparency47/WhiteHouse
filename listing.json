@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-22T19:28:56.129903+00:00",
+  "generatedAt": "2026-06-22T22:03:08.422871+00:00",
   "records": [
+    {
+      "category": "Executive Orders",
+      "date": "2026-06-22",
+      "id": "whitehouse:d71343b24456015d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-22T22:03:03.668758+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/06/22/Ushering_in_the_Next_Frontier_of_Quantum_Innovation.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
+      "summary": "Executive Order 14411",
+      "title": "Ushering in the Next Frontier of Quantum Innovation"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-06-22",
+      "id": "whitehouse:d828e7baff6a359b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-22T22:03:04.066732+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/06/22/Securing_the_Nation_Against_Advanced_Cryptographic_Attacks.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
+      "summary": "Executive Order 14409",
+      "title": "Securing the Nation Against Advanced Cryptographic Attacks"
+    },
     {
       "category": "Releases",
       "date": "2026-06-22",
@@ -13,6 +39,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
       "summary": "**President Donald J. Trump\u2019s decisive enforcement of America\u2019s immigration laws is producing real results for hardworking families \u2014 including the nation\u2019s** [**46 million renters**](https://fred.stlouisfed.org/series/ERNTOCCUSQ176N) **.** Rents are falling sharply across the co",
       "title": "President Trump Drives Down Rents by Ending Open Borders Disaster"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-22",
+      "id": "whitehouse:863a508a81fdb249",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-22T22:03:03.267299+00:00"
+      },
+      "path": "Fact Sheets/2026/06/22/Fact_Sheet_President_Donald_J_Trump_Ushers_in_the_Next_Frontier_of_Quantum_Innovation.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
+      "summary": "**ACCELERATING QUANTUM INNOVATION:** Today, President Donald J. Trump signed an Executive Order to supercharge U.S. innovation in quantum technologies and strengthen our national security in this critical area.",
+      "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-22",
+      "id": "whitehouse:2302fab8661c2e67",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-22T22:03:02.872938+00:00"
+      },
+      "path": "Fact Sheets/2026/06/22/Fact_Sheet_President_Donald_J_Trump_Secures_the_Nation_Against_Advanced_Cryptographic_Attacks.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
+      "summary": "**DRIVING INNOVATION WHILE DEFENDING DATA:** Today, President Donald J. Trump signed an Executive Order to safeguard America\u2019s most sensitive data, our critical infrastructure, and the digital economy that drives jobs and growth.",
+      "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks"
     },
     {
       "category": "Briefings & Statements",
