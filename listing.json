@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-23T20:09:50.649029+00:00",
+  "generatedAt": "2026-06-23T22:14:12.165458+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-23",
+      "id": "whitehouse:7c9503dfc4ceda23",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-23T22:14:07.547656+00:00"
+      },
+      "path": "Releases/2026/06/23/White_House_Unveils_President_Trumps_America_First_Resilience_Strategy.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
+      "summary": "The White House today released \u201cPresident Trump\u2019s America First Resilience Strategy,\u201d a bold mandate that denies adversaries the ability to hold America and our core interests at risk. Resilience is a strategic capability that preserves our freedom of action, advances American in",
+      "title": "White House Unveils President Trump\u2019s America First Resilience Strategy"
+    },
     {
       "category": "Releases",
       "date": "2026-06-23",

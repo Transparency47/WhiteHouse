@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-23T20:09:47.536146+00:00",
+  "last_successful_run": "2026-06-23T22:14:08.741616+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21063,6 +21063,17 @@
       ],
       "published": "2026-06-16T10:29:12-04:00",
       "title": "White House CEQ to Convene Leading Innovators with Promising Permitting Technology"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-23T22:14:07.547656+00:00",
+      "paths": [
+        "Releases/2026/06/23/White_House_Unveils_President_Trumps_America_First_Resilience_Strategy.md"
+      ],
+      "published": "2026-06-23T17:28:24-04:00",
+      "title": "White House Unveils President Trump\u2019s America First Resilience Strategy"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
