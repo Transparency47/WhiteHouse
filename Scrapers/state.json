@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-23T09:40:10.256399+00:00",
+  "last_successful_run": "2026-06-23T12:33:12.592151+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4477,6 +4477,17 @@
       ],
       "published": "2026-06-04T13:25:26-04:00",
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-23T12:33:10.910576+00:00",
+      "paths": [
+        "Briefings/2026/06/22/America_250_Presidential_Message_on_the_Anniversary_of_the_Battle_of_Okinawa.md"
+      ],
+      "published": "2026-06-22T20:00:00-04:00",
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/": {
       "categories": [

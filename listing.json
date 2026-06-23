@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T09:40:13.734624+00:00",
+  "generatedAt": "2026-06-23T12:33:16.076472+00:00",
   "records": [
     {
       "category": "Executive Orders",
@@ -65,6 +65,19 @@
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
       "summary": "**DRIVING INNOVATION WHILE DEFENDING DATA:** Today, President Donald J. Trump signed an Executive Order to safeguard America\u2019s most sensitive data, our critical infrastructure, and the digital economy that drives jobs and growth.",
       "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-22",
+      "id": "whitehouse:829119ed0432f3f6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-23T12:33:10.910576+00:00"
+      },
+      "path": "Briefings/2026/06/22/America_250_Presidential_Message_on_the_Anniversary_of_the_Battle_of_Okinawa.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/",
+      "summary": "On this day 81 years ago, American forces emerged victorious from the Battle of Okinawa, a grueling test of American might, will, and sacrifice that would echo through the ages. As Imperial Japan mounted one of its final and most ferocious defenses, our Nation\u2019s courageous heroes",
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa"
     },
     {
       "category": "Briefings & Statements",
