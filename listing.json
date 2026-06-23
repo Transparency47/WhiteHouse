@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-23T15:48:54.223236+00:00",
+  "generatedAt": "2026-06-23T17:56:13.710753+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-23",
+      "id": "whitehouse:df7d65345be43213",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-23T17:56:08.667565+00:00"
+      },
+      "path": "Releases/2026/06/23/OMB_Advances_Revolutionary_FAR_Overhaul_with_Formal_Publication_of_Regulatory_Changes.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/omb-advances-revolutionary-far-overhaul-with-formal-publication-of-regulatory-changes/",
+      "summary": "**Proposed changes will make common sense the hallmark of federal contracting and help the world\u2019s largest buyer accelerate mission delivery, save money, and strengthen competition.**",
+      "title": "OMB Advances Revolutionary FAR Overhaul with Formal Publication of Regulatory Changes"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-06-23",
+      "id": "whitehouse:b993d86aabbf5b44",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-23T17:56:09.063214+00:00"
+      },
+      "path": "Actions/Nominations/2026/06/23/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-06-22",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-23T15:48:50.747969+00:00",
+  "last_successful_run": "2026-06-23T17:56:10.254419+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -14821,6 +14821,18 @@
       "published": "2026-06-15T17:53:41-04:00",
       "title": "Nominations Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-06-23T17:56:09.063214+00:00",
+      "paths": [
+        "Actions/Nominations/2026/06/23/Nominations_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-06-23T12:18:27-04:00",
+      "title": "Nominations Sent to the Senate"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/": {
       "categories": [
         "Presidential Actions",
@@ -20963,6 +20975,17 @@
       ],
       "published": "2026-06-16T14:07:26-04:00",
       "title": "\u201cExcellent Choice\u201d: Jay Clayton Earns Broad Praise as President Trump\u2019s DNI Nominee"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/omb-advances-revolutionary-far-overhaul-with-formal-publication-of-regulatory-changes/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-23T17:56:08.667565+00:00",
+      "paths": [
+        "Releases/2026/06/23/OMB_Advances_Revolutionary_FAR_Overhaul_with_Formal_Publication_of_Regulatory_Changes.md"
+      ],
+      "published": "2026-06-23T12:45:45-04:00",
+      "title": "OMB Advances Revolutionary FAR Overhaul with Formal Publication of Regulatory Changes"
     },
     "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/": {
       "categories": [
