@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-24T11:45:18.981084+00:00",
+  "generatedAt": "2026-06-24T14:32:09.651229+00:00",
   "records": [
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-06-24",
+      "id": "whitehouse:6cf655ef7cd8c571",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-24T14:32:05.057632+00:00"
+      },
+      "path": "Actions/Nominations/2026/06/24/Nomination_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
+      "summary": "NOMINATION SENT TO THE SENATE:",
+      "title": "Nomination Sent to the Senate"
+    },
     {
       "category": "Releases",
       "date": "2026-06-23",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-24T11:45:15.806218+00:00",
+  "last_successful_run": "2026-06-24T14:32:06.501775+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -14783,6 +14783,18 @@
         "Actions/Nominations/2026/06/08/Nomination_Sent_to_the_Senate.md"
       ],
       "published": "2026-06-08T15:38:26-04:00",
+      "title": "Nomination Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-06-24T14:32:05.057632+00:00",
+      "paths": [
+        "Actions/Nominations/2026/06/24/Nomination_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-06-24T10:08:26-04:00",
       "title": "Nomination Sent to the Senate"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/": {
