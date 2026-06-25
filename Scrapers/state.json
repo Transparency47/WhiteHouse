@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-25T21:43:03.885114+00:00",
+  "last_successful_run": "2026-06-25T23:18:32.824916+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8097,6 +8097,17 @@
       "published": "2026-05-17T13:15:13-04:00",
       "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-25T23:18:31.329508+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/25/Fact_Sheet_President_Donald_J_Trump_Advances_Regenerative_Agriculture_and_Strengthens_American_Farm_Resilience.md"
+      ],
+      "published": "2026-06-25T19:00:00-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/": {
       "categories": [
         "Fact Sheets"
@@ -14687,6 +14698,18 @@
       ],
       "published": "2026-06-11T16:27:44-04:00",
       "title": "75th Anniversary of the White House Navy Mess, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-06-25T23:18:30.930456+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/06/25/Advancing_Regenerative_Agriculture_and_Strengthening_American_Farm_Resilience.md"
+      ],
+      "published": "2026-06-25T19:00:19-04:00",
+      "title": "Advancing Regenerative Agriculture and Strengthening American Farm Resilience"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/": {
       "categories": [

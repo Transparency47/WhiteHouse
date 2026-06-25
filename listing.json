@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T21:43:07.288626+00:00",
+  "generatedAt": "2026-06-25T23:18:36.270646+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/radical-lunatics-deface-americas-reflecting-pool-and-president-trump-was-right-again/",
       "summary": "Crazed and deranged lunatics have once again exposed their hatred for America with a cowardly, deliberate attack on one of our nation\u2019s most iconic landmarks \u2014 the newly renovated Lincoln Memorial Reflecting Pool.",
       "title": "Radical Lunatics Deface America\u2019s Reflecting Pool \u2014 and President Trump Was Right (Again)"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-25",
+      "id": "whitehouse:ea98f3e3971894b1",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-25T23:18:31.329508+00:00"
+      },
+      "path": "Fact Sheets/2026/06/25/Fact_Sheet_President_Donald_J_Trump_Advances_Regenerative_Agriculture_and_Strengthens_American_Farm_Resilience.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/",
+      "summary": "**ACCELERATING INNOVATION IN AMERICA\u2019S FOOD SUPPLY:** Today, President Donald J. Trump signed an Executive Order to accelerate American agriculture modernization, empowering farmers and ranchers and bolstering the strength and security of our food supply.",
+      "title": "Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-06-25",
+      "id": "whitehouse:6f2a0653f6555a81",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-25T23:18:30.930456+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/06/25/Advancing_Regenerative_Agriculture_and_Strengthening_American_Farm_Resilience.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Advancing Regenerative Agriculture and Strengthening American Farm Resilience"
     },
     {
       "category": "Nominations & Appointments",
