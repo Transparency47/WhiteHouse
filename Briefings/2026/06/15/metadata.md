@@ -18,3 +18,12 @@
 - Date accessed: 2026-06-17T18:17:49.017851+00:00
 - Markdown filename: Presidential_Message_on_Mens_Health_Week.md
 
+## Letter from ONDCP Director Carter to WADA Stakeholders
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/letterfromdirectorcartertowadastakeholders/
+- Title: Letter from ONDCP Director Carter to WADA Stakeholders
+- Category: Briefings & Statements
+- Date published: 2026-06-15T06:31:55-04:00
+- Date accessed: 2026-06-25T19:05:16.921511+00:00
+- Markdown filename: Letter_from_ONDCP_Director_Carter_to_WADA_Stakeholders.md
+

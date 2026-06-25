@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-25T16:25:13.823868+00:00",
+  "generatedAt": "2026-06-25T19:05:21.227690+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-25",
+      "id": "whitehouse:502d45deffc1c9f1",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-25T19:05:15.698380+00:00"
+      },
+      "path": "Releases/2026/06/25/Radical_Lunatics_Deface_Americas_Reflecting_Pool_and_President_Trump_Was_Right_Again.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/radical-lunatics-deface-americas-reflecting-pool-and-president-trump-was-right-again/",
+      "summary": "Crazed and deranged lunatics have once again exposed their hatred for America with a cowardly, deliberate attack on one of our nation\u2019s most iconic landmarks \u2014 the newly renovated Lincoln Memorial Reflecting Pool.",
+      "title": "Radical Lunatics Deface America\u2019s Reflecting Pool \u2014 and President Trump Was Right (Again)"
+    },
     {
       "category": "Nominations & Appointments",
       "date": "2026-06-24",
@@ -260,6 +273,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/",
       "summary": "NOMINATIONS SENT TO THE SENATE:",
       "title": "Nominations Sent to the Senate"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-15",
+      "id": "whitehouse:dee09ea1f31f1e7d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-25T19:05:16.921511+00:00"
+      },
+      "path": "Briefings/2026/06/15/Letter_from_ONDCP_Director_Carter_to_WADA_Stakeholders.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/letterfromdirectorcartertowadastakeholders/",
+      "summary": "Open Letter from Director Carter to WADA Stakeholders",
+      "title": "Letter from ONDCP Director Carter to WADA Stakeholders"
     },
     {
       "category": "Briefings & Statements",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-25T16:25:10.409487+00:00",
+  "last_successful_run": "2026-06-25T19:05:18.121957+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4543,6 +4543,17 @@
       ],
       "published": "2026-06-12T16:58:22-04:00",
       "title": "First Lady Melania Trump\u2019s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/letterfromdirectorcartertowadastakeholders/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-25T19:05:16.921511+00:00",
+      "paths": [
+        "Briefings/2026/06/15/Letter_from_ONDCP_Director_Carter_to_WADA_Stakeholders.md"
+      ],
+      "published": "2026-06-15T06:31:55-04:00",
+      "title": "Letter from ONDCP Director Carter to WADA Stakeholders"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/": {
       "categories": [
@@ -21031,6 +21042,17 @@
       ],
       "published": "2026-06-19T13:37:43-04:00",
       "title": "President Trump\u2019s Iran Agreement Is America First in Action"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/radical-lunatics-deface-americas-reflecting-pool-and-president-trump-was-right-again/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-25T19:05:15.698380+00:00",
+      "paths": [
+        "Releases/2026/06/25/Radical_Lunatics_Deface_Americas_Reflecting_Pool_and_President_Trump_Was_Right_Again.md"
+      ],
+      "published": "2026-06-25T14:01:50-04:00",
+      "title": "Radical Lunatics Deface America\u2019s Reflecting Pool \u2014 and President Trump Was Right (Again)"
     },
     "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/": {
       "categories": [
