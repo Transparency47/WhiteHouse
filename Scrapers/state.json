@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-26T20:46:58.035445+00:00",
+  "last_successful_run": "2026-06-26T22:14:05.689981+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4631,6 +4631,17 @@
       ],
       "published": "2026-06-11T08:36:32-04:00",
       "title": "Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-06-26T22:14:04.443326+00:00",
+      "paths": [
+        "Briefings/2026/06/26/S_1003_Signed_into_Law.md"
+      ],
+      "published": "2026-06-26T16:55:58-04:00",
+      "title": "S. 1003 Signed into Law"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/": {
       "categories": [

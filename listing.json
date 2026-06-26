@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-26T20:47:01.489944+00:00",
+  "generatedAt": "2026-06-26T22:14:09.082912+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-06-26",
+      "id": "whitehouse:ce4b0d33e441d606",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-26T22:14:04.443326+00:00"
+      },
+      "path": "Briefings/2026/06/26/S_1003_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
+      "summary": "On Friday, June 26, 2026, the President signed into law:",
+      "title": "S. 1003 Signed into Law"
+    },
     {
       "category": "Releases",
       "date": "2026-06-26",
