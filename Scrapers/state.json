@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-26T16:17:21.411599+00:00",
+  "last_successful_run": "2026-06-26T18:52:03.628458+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21054,6 +21054,17 @@
       ],
       "published": "2026-06-10T13:34:42-04:00",
       "title": "President Trump Is Restoring American Greatness One Win at a Time"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-06-26T18:52:02.432164+00:00",
+      "paths": [
+        "Releases/2026/06/26/President_Trumps_America_First_Agenda_Scores_Major_Supreme_Court_Win_on_TPS_Termination.md"
+      ],
+      "published": "2026-06-26T14:13:13-04:00",
+      "title": "President Trump\u2019s America First Agenda Scores Major Supreme Court Win on TPS Termination"
     },
     "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/": {
       "categories": [

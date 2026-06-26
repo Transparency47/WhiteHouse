@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-26T16:17:24.771230+00:00",
+  "generatedAt": "2026-06-26T18:52:07.035596+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-26",
+      "id": "whitehouse:0bcceea3ff6c2294",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-26T18:52:02.432164+00:00"
+      },
+      "path": "Releases/2026/06/26/President_Trumps_America_First_Agenda_Scores_Major_Supreme_Court_Win_on_TPS_Termination.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/",
+      "summary": "**The Supreme Court has delivered a major victory for American sovereignty, ruling that the Trump Administration has full authority to terminate Temporary Protected Status (TPS) for Haitian migrants.** The Biden Administration weaponized TPS as a backdoor amnesty to flood the cou",
+      "title": "President Trump\u2019s America First Agenda Scores Major Supreme Court Win on TPS Termination"
+    },
     {
       "category": "Releases",
       "date": "2026-06-25",
