@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-29T17:37:35.973178+00:00",
+  "generatedAt": "2026-06-29T19:58:53.050634+00:00",
   "records": [
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-06-29",
+      "id": "whitehouse:e76aa0f78d05c25a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-29T19:58:48.103716+00:00"
+      },
+      "path": "Actions/Memoranda/2026/06/29/Lowering_the_Cost_of_Living_by_Promoting_the_Freedom_to_Fix.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/",
+      "summary": "MEMORANDUM FOR THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY",
+      "title": "Lowering the Cost of Living by Promoting the Freedom to Fix"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-29",
+      "id": "whitehouse:0179085582d60953",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-29T19:58:47.695124+00:00"
+      },
+      "path": "Fact Sheets/2026/06/29/Fact_Sheet_President_Donald_J_Trump_Lowers_the_Cost_of_Living_by_Promoting_the_Freedom_to_Fix.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
+      "summary": "**EXPANDING AMERICANS\u2019 FREEDOM TO FIX THEIR OWN VEHICLES:** Today, President Donald J. Trump signed a Presidential Memorandum expanding Americans\u2019 freedom to fix their own vehicles.",
+      "title": "Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-06-26",

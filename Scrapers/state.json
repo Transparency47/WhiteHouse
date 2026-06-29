@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-29T17:37:32.513168+00:00",
+  "last_successful_run": "2026-06-29T19:58:49.606077+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8141,6 +8141,17 @@
       "published": "2026-06-03T16:30:33-04:00",
       "title": "Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-29T19:58:47.695124+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/29/Fact_Sheet_President_Donald_J_Trump_Lowers_the_Cost_of_Living_by_Promoting_the_Freedom_to_Fix.md"
+      ],
+      "published": "2026-06-29T15:54:29-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/": {
       "categories": [
         "Fact Sheets"
@@ -14769,6 +14780,18 @@
       ],
       "published": "2026-06-03T16:34:27-04:00",
       "title": "Implementing Schedule Policy/Career in the Excepted Service"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-06-29T19:58:48.103716+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/06/29/Lowering_the_Cost_of_Living_by_Promoting_the_Freedom_to_Fix.md"
+      ],
+      "published": "2026-06-29T15:53:41-04:00",
+      "title": "Lowering the Cost of Living by Promoting the Freedom to Fix"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/": {
       "categories": [
