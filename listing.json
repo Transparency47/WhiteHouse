@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T22:58:37.451007+00:00",
+  "generatedAt": "2026-06-30T00:13:59.262458+00:00",
   "records": [
     {
       "category": "Presidential Memoranda",
@@ -26,6 +26,32 @@
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
       "summary": "**EXPANDING AMERICANS\u2019 FREEDOM TO FIX THEIR OWN VEHICLES:** Today, President Donald J. Trump signed a Presidential Memorandum expanding Americans\u2019 freedom to fix their own vehicles.",
       "title": "Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-06-29",
+      "id": "whitehouse:217f1048e7b0af78",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-30T00:13:54.631599+00:00"
+      },
+      "path": "Fact Sheets/2026/06/29/Fact_Sheet_President_Donald_J_Trump_Declares_an_Emergency_and_Authorizes_the_Temporary_Suspension_of_Certain_Duties_on_Phosphate_Fertilizer_from_Morocco.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/",
+      "summary": "**PROTECTING AMERICA\u2019S FOOD SUPPLY:** Today, President Donald J. Trump took action to safeguard America\u2019s food supply and support domestic agricultural production by authorizing the temporary suspension of certain duties on phosphate fertilizer imported from Morocco, helping ensu",
+      "title": "Fact Sheet: President Donald J. Trump Declares an Emergency and Authorizes the Temporary Suspension of Certain Duties on Phosphate Fertilizer from Morocco"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-06-29",
+      "id": "whitehouse:27927a47f85a326b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-30T00:13:54.230527+00:00"
+      },
+      "path": "Actions/Proclamations/2026/06/29/Declaration_of_Emergency_and_Authorization_for_Temporary_Duty_Free_Importation_of_Phosphate_Fertilizer_Morocco.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate-fertilizer-morocco/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Declaration of Emergency and Authorization for Temporary Duty Free Importation of Phosphate Fertilizer Morocco"
     },
     {
       "category": "Briefings & Statements",

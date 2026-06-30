@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-06-29T22:58:34.316695+00:00",
+  "last_successful_run": "2026-06-30T00:13:55.827643+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8119,6 +8119,17 @@
       "published": "2026-06-25T19:00:00-04:00",
       "title": "Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-06-30T00:13:54.631599+00:00",
+      "paths": [
+        "Fact Sheets/2026/06/29/Fact_Sheet_President_Donald_J_Trump_Declares_an_Emergency_and_Authorizes_the_Temporary_Suspension_of_Certain_Duties_on_Phosphate_Fertilizer_from_Morocco.md"
+      ],
+      "published": "2026-06-29T19:26:58-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Declares an Emergency and Authorizes the Temporary Suspension of Certain Duties on Phosphate Fertilizer from Morocco"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/": {
       "categories": [
         "Fact Sheets"
@@ -14732,6 +14743,18 @@
       ],
       "published": "2026-06-25T19:00:19-04:00",
       "title": "Advancing Regenerative Agriculture and Strengthening American Farm Resilience"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/06/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate-fertilizer-morocco/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-06-30T00:13:54.230527+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/06/29/Declaration_of_Emergency_and_Authorization_for_Temporary_Duty_Free_Importation_of_Phosphate_Fertilizer_Morocco.md"
+      ],
+      "published": "2026-06-29T19:31:17-04:00",
+      "title": "Declaration of Emergency and Authorization for Temporary Duty Free Importation of Phosphate Fertilizer Morocco"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/": {
       "categories": [
