@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-06-30T12:09:17.603247+00:00",
+  "generatedAt": "2026-06-30T15:28:23.974599+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-06-30",
+      "id": "whitehouse:43025e1f2416d3fd",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-06-30T15:28:18.980980+00:00"
+      },
+      "path": "Releases/2026/06/30/Trump_Administration_NEPA_Reforms_A_Win_for_All_Americans.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/trump-administration-nepa-reforms-a-win-for-all-americans/",
+      "summary": "*\u201cIn this Administration, NEPA\u2019s regulatory reign of terror has ended,\u201d said **White House** **Council on Environmental Quality Chairman Katherine Scarlett**.*",
+      "title": "Trump Administration NEPA Reforms: A Win for All Americans"
+    },
     {
       "category": "Presidential Memoranda",
       "date": "2026-06-29",
