@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T17:56:45.889755+00:00",
+  "generatedAt": "2026-07-01T20:02:32.373594+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/trump-administration-nepa-reforms-a-win-for-all-americans/",
       "summary": "*\u201cIn this Administration, NEPA\u2019s regulatory reign of terror has ended,\u201d said **White House** **Council on Environmental Quality Chairman Katherine Scarlett**.*",
       "title": "Trump Administration NEPA Reforms: A Win for All Americans"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-06-30",
+      "id": "whitehouse:c5cfb99b70662662",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-01T20:02:27.999152+00:00"
+      },
+      "path": "Releases/2026/06/30/Supreme_Court_Bolsters_President_Trumps_Push_to_Eliminate_Transgender_Insanity.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/06/supreme-court-bolsters-president-trumps-push-to-eliminate-transgender-insanity/",
+      "summary": "Today, the Supreme Court affirmed President Donald J. Trump\u2019s longstanding commitment to protect women and girls, ruling that states may reserve female athletic competition for biological females.",
+      "title": "Supreme Court Bolsters President Trump\u2019s Push to Eliminate Transgender Insanity"
     },
     {
       "category": "Presidential Memoranda",

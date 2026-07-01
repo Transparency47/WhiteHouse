@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-01T17:56:42.740209+00:00",
+  "last_successful_run": "2026-07-01T20:02:29.227470+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21155,6 +21155,17 @@
       ],
       "published": "2026-06-04T09:36:09-04:00",
       "title": "Strong Support for President Trump\u2019s Appointment of William J. Pulte as Acting Director of National Intelligence"
+    },
+    "https://www.whitehouse.gov/releases/2026/06/supreme-court-bolsters-president-trumps-push-to-eliminate-transgender-insanity/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-01T20:02:27.999152+00:00",
+      "paths": [
+        "Releases/2026/06/30/Supreme_Court_Bolsters_President_Trumps_Push_to_Eliminate_Transgender_Insanity.md"
+      ],
+      "published": "2026-06-30T14:00:00-04:00",
+      "title": "Supreme Court Bolsters President Trump\u2019s Push to Eliminate Transgender Insanity"
     },
     "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/": {
       "categories": [
