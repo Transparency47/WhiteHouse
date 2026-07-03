@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-03T18:12:49.724826+00:00",
+  "last_successful_run": "2026-07-03T20:14:04.511147+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -14995,6 +14995,18 @@
       ],
       "published": "2026-06-22T16:38:18-04:00",
       "title": "Ushering in the Next Frontier of Quantum Innovation"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-03T20:14:03.326877+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/03/250th_Anniversary_of_the_Adoption_of_the_Declaration_of_Independence.md"
+      ],
+      "published": "2026-07-03T15:57:05-04:00",
+      "title": "250th Anniversary of the Adoption of the Declaration of Independence"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [

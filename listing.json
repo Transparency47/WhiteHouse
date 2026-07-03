@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T18:12:53.226612+00:00",
+  "generatedAt": "2026-07-03T20:14:07.669989+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/",
       "summary": "As we celebrate America\u2019s 250th birthday this week, our nation is stronger with President Trump at the helm\u2014 a leader who believes that people who work hard every day deserve to keep more of what they earn. One year after President Trump signed the Working Families Tax Cuts into ",
       "title": "One Year Later: President Trump\u2019s Working Families Tax Cuts Are Delivering for American Workers"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-03",
+      "id": "whitehouse:9a3abc797b0ed8da",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-03T20:14:03.326877+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/03/250th_Anniversary_of_the_Adoption_of_the_Declaration_of_Independence.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "250th Anniversary of the Adoption of the Declaration of Independence"
     },
     {
       "category": "Releases",
