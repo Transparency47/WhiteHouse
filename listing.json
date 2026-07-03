@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-03T16:24:24.915013+00:00",
+  "generatedAt": "2026-07-03T18:12:53.226612+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-03",
+      "id": "whitehouse:23f89c5bd0a07a5a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-03T18:12:48.509779+00:00"
+      },
+      "path": "Releases/2026/07/03/One_Year_Later_President_Trumps_Working_Families_Tax_Cuts_Are_Delivering_for_American_Workers.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/",
+      "summary": "As we celebrate America\u2019s 250th birthday this week, our nation is stronger with President Trump at the helm\u2014 a leader who believes that people who work hard every day deserve to keep more of what they earn. One year after President Trump signed the Working Families Tax Cuts into ",
+      "title": "One Year Later: President Trump\u2019s Working Families Tax Cuts Are Delivering for American Workers"
+    },
     {
       "category": "Releases",
       "date": "2026-06-30",

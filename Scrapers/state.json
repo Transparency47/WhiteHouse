@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-03T16:24:21.725848+00:00",
+  "last_successful_run": "2026-07-03T18:12:49.724826+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21221,6 +21221,17 @@
       ],
       "published": "2026-06-23T17:28:24-04:00",
       "title": "White House Unveils President Trump\u2019s America First Resilience Strategy"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-03T18:12:48.509779+00:00",
+      "paths": [
+        "Releases/2026/07/03/One_Year_Later_President_Trumps_Working_Families_Tax_Cuts_Are_Delivering_for_American_Workers.md"
+      ],
+      "published": "2026-07-03T13:18:56-04:00",
+      "title": "One Year Later: President Trump\u2019s Working Families Tax Cuts Are Delivering for American Workers"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
