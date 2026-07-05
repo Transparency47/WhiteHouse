@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-04T23:05:59.417676+00:00",
+  "generatedAt": "2026-07-05T03:28:36.149577+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-04",
+      "id": "whitehouse:d04a3ecd88f671be",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-05T03:28:31.438300+00:00"
+      },
+      "path": "Releases/2026/07/04/Saving_Americas_Story.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/",
+      "summary": "Saving America\u2019s Story",
+      "title": "Saving America\u2019s Story"
+    },
     {
       "category": "Releases",
       "date": "2026-07-03",
