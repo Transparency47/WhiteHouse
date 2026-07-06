@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-05T22:02:02.329682+00:00",
+  "last_successful_run": "2026-07-06T00:06:23.205276+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4675,6 +4675,28 @@
       ],
       "published": "2026-06-17T09:23:49-04:00",
       "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/america-250-presidential-message-on-the-anniversary-of-the-battle-of-chippawa/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-06T00:06:21.588537+00:00",
+      "paths": [
+        "Briefings/2026/07/05/America_250_Presidential_Message_on_the_Anniversary_of_the_Battle_of_Chippawa.md"
+      ],
+      "published": "2026-07-05T19:06:52-04:00",
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-united-states-secret-service/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-06T00:06:21.993558+00:00",
+      "paths": [
+        "Briefings/2026/07/05/Presidential_Message_on_the_Anniversary_of_the_United_States_Secret_Service.md"
+      ],
+      "published": "2026-07-05T19:02:52-04:00",
+      "title": "Presidential Message on the Anniversary of the United States Secret Service"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [

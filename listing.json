@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-07-05T22:02:04.784024+00:00",
+  "generatedAt": "2026-07-06T00:06:26.698642+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-05",
+      "id": "whitehouse:0e5c8e6a3bc7ada0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-06T00:06:21.993558+00:00"
+      },
+      "path": "Briefings/2026/07/05/Presidential_Message_on_the_Anniversary_of_the_United_States_Secret_Service.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-united-states-secret-service/",
+      "summary": "On the 161st anniversary of the United States Secret Service, we celebrate the extraordinary professionals who, with absolute selflessness and little fanfare, work to protect our Nation\u2019s leaders and safeguard our most sacred institutions. With their quiet professionalism, unwave",
+      "title": "Presidential Message on the Anniversary of the United States Secret Service"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-05",
+      "id": "whitehouse:40314d6fe125009b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-06T00:06:21.588537+00:00"
+      },
+      "path": "Briefings/2026/07/05/America_250_Presidential_Message_on_the_Anniversary_of_the_Battle_of_Chippawa.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/america-250-presidential-message-on-the-anniversary-of-the-battle-of-chippawa/",
+      "summary": "Today, our Nation commemorates the Battle of Chippawa\u2014the historic victory in which American forces decisively defeated the British Army on July 5, 1814. During the early days of our young Republic, American Soldiers met the seasoned ranks of the British Army in open battle and p",
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa"
+    },
     {
       "category": "Releases",
       "date": "2026-07-04",
