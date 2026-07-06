@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-06T17:43:59.241347+00:00",
+  "last_successful_run": "2026-07-06T19:58:06.325121+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21266,6 +21266,17 @@
       ],
       "published": "2026-07-03T13:18:56-04:00",
       "title": "One Year Later: President Trump\u2019s Working Families Tax Cuts Are Delivering for American Workers"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-06T19:58:05.133850+00:00",
+      "paths": [
+        "Releases/2026/07/06/President_Trump_Rings_in_Trump_Accounts_with_Historic_Opening_Bell_Ceremony_from_the_Oval_Office.md"
+      ],
+      "published": "2026-07-06T14:15:57-04:00",
+      "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office"
     },
     "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/": {
       "categories": [

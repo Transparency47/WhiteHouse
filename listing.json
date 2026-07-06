@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-06T17:44:02.744066+00:00",
+  "generatedAt": "2026-07-06T19:58:09.739324+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-06",
+      "id": "whitehouse:efac1cc6fd3aaf14",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-06T19:58:05.133850+00:00"
+      },
+      "path": "Releases/2026/07/06/President_Trump_Rings_in_Trump_Accounts_with_Historic_Opening_Bell_Ceremony_from_the_Oval_Office.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",
+      "summary": "**In a historic first, President Donald J. Trump today rang the opening bells of both the New York Stock Exchange and NASDAQ from the Oval Office, marking the** [**official launch**](https://home.treasury.gov/news/press-releases/sb0554) **of** [**Trump Accounts**](https://trumpac",
+      "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-07-05",
