@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-07T19:02:33.656428+00:00",
+  "last_successful_run": "2026-07-07T21:25:04.169401+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21255,6 +21255,17 @@
       ],
       "published": "2026-06-23T17:28:24-04:00",
       "title": "White House Unveils President Trump\u2019s America First Resilience Strategy"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-07T21:25:02.972520+00:00",
+      "paths": [
+        "Releases/2026/07/07/Democrats_Fought_Against_Historic_Tax_Cuts_Now_Theyre_Fighting_Against_Opportunity_for_Americas_Kids.md"
+      ],
+      "published": "2026-07-07T17:02:50-04:00",
+      "title": "Democrats Fought Against Historic Tax Cuts. Now They\u2019re Fighting Against Opportunity for America\u2019s Kids."
     },
     "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/": {
       "categories": [

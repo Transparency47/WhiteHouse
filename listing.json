@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-07T19:02:36.816445+00:00",
+  "generatedAt": "2026-07-07T21:25:07.623011+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-07",
+      "id": "whitehouse:4842da607f334e1c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-07T21:25:02.972520+00:00"
+      },
+      "path": "Releases/2026/07/07/Democrats_Fought_Against_Historic_Tax_Cuts_Now_Theyre_Fighting_Against_Opportunity_for_Americas_Kids.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/",
+      "summary": "President Donald J. Trump and Republicans [delivered](https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/) the largest middle- and working-class tax cuts in history through the Working Families",
+      "title": "Democrats Fought Against Historic Tax Cuts. Now They\u2019re Fighting Against Opportunity for America\u2019s Kids."
+    },
     {
       "category": "Releases",
       "date": "2026-07-06",
