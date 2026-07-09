@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-09T11:59:37.767207+00:00",
+  "generatedAt": "2026-07-09T15:29:57.449234+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-09",
+      "id": "whitehouse:3ac25999f8df26e9",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-09T15:29:52.767788+00:00"
+      },
+      "path": "Releases/2026/07/09/White_House_CEQ_Announces_Technology_Solutions_Selected_to_Showcase_at_Permitting_Innovators_Expo.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/white-house-ceq-announces-technology-solutions-selected-to-showcase-at-permitting-innovators-expo/",
+      "summary": "*Industry partners to showcase permitting technologies at the Permitting Innovators Expo.*",
+      "title": "White House CEQ Announces Technology Solutions Selected to Showcase at Permitting Innovators Expo"
+    },
     {
       "category": "Fact Sheets",
       "date": "2026-07-08",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-09T11:59:35.383667+00:00",
+  "last_successful_run": "2026-07-09T15:29:53.981550+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21310,6 +21310,17 @@
       ],
       "published": "2026-07-04T20:30:00-04:00",
       "title": "Saving America\u2019s Story"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/white-house-ceq-announces-technology-solutions-selected-to-showcase-at-permitting-innovators-expo/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-09T15:29:52.767788+00:00",
+      "paths": [
+        "Releases/2026/07/09/White_House_CEQ_Announces_Technology_Solutions_Selected_to_Showcase_at_Permitting_Innovators_Expo.md"
+      ],
+      "published": "2026-07-09T10:59:39-04:00",
+      "title": "White House CEQ Announces Technology Solutions Selected to Showcase at Permitting Innovators Expo"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
