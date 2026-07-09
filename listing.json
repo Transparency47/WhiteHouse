@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-09T00:10:13.782312+00:00",
+  "generatedAt": "2026-07-09T04:55:18.336012+00:00",
   "records": [
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-08",
+      "id": "whitehouse:57a1e7131322a966",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-09T04:55:13.740395+00:00"
+      },
+      "path": "Fact Sheets/2026/07/08/Fact_Sheet_President_Donald_J_Trump_Secures_Historic_Defense_Investment_from_NATO_Allies_Powering_American_Industry.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/",
+      "summary": "**STRENGTHENING THE U.S. DEFENSE INDUSTRIAL BASE:** This week, at NATO\u2019s 2026 Ankara Summit, President Donald J. Trump announced a surge in defense investment from Allies, increasing market access for American companies and supporting thousands of high-paying American manufacturi",
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Defense Investment from NATO Allies, Powering American Industry"
+    },
     {
       "category": "Releases",
       "date": "2026-07-07",
