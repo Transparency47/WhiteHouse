@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-10T16:25:11.782847+00:00",
+  "generatedAt": "2026-07-10T18:23:16.789381+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-10",
+      "id": "whitehouse:00c53ec4869ad0a3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-10T18:23:12.697748+00:00"
+      },
+      "path": "Releases/2026/07/10/Minnesota_Democrats_Pardoned_a_Convicted_Child_Rapist_President_Trump_Deported_Him.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/minnesota-democrats-pardoned-a-convicted-child-rapist-president-trump-deported-him/",
+      "summary": "**A convicted child sex offender is [no longer in](https://www.dhs.gov/news/2026/07/10/deported-dhs-removes-convicted-child-rapist-pardoned-minnesota-governor-tim-walz) [our country](https://x.com/SecRubio/status/2075567815856177323) thanks to President Donald J. Trump and his Ad",
+      "title": "Minnesota Democrats Pardoned a Convicted Child Rapist. President Trump Deported Him."
+    },
     {
       "category": "Releases",
       "date": "2026-07-09",
