@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T20:15:01.971374+00:00",
+  "generatedAt": "2026-07-13T21:57:03.903869+00:00",
   "records": [
     {
       "category": "Releases",
@@ -26,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trump-honors-the-life-and-legacy-of-senator-lindsey-graham/",
       "summary": "**President Donald J. Trump reflected on the life and legacy of Senator Lindsey Graham following his sudden** [**passing**](https://truthsocial.com/@realDonaldTrump/posts/116905798341654664) **this weekend.** Speaking in several interviews, President Trump spoke of his close frie",
       "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-07-13",
+      "id": "whitehouse:e6c6ca90c5c0677e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T21:56:59.099186+00:00"
+      },
+      "path": "Actions/Nominations/2026/07/13/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
     },
     {
       "category": "Proclamations",
