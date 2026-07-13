@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-13T18:43:44.553237+00:00",
+  "last_successful_run": "2026-07-13T20:14:58.776733+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21356,6 +21356,17 @@
       ],
       "published": "2026-07-06T14:15:57-04:00",
       "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/president-trumps-relentless-strategy-is-dismantling-fentanyl-networks-and-saving-lives/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-13T20:14:57.598888+00:00",
+      "paths": [
+        "Releases/2026/07/13/President_Trumps_Relentless_Strategy_Is_Dismantling_Fentanyl_Networks_and_Saving_Lives.md"
+      ],
+      "published": "2026-07-13T14:54:35-04:00",
+      "title": "President Trump\u2019s Relentless Strategy Is Dismantling Fentanyl Networks and Saving Lives"
     },
     "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/": {
       "categories": [

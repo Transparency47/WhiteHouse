@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-13T18:43:48.033475+00:00",
+  "generatedAt": "2026-07-13T20:15:01.971374+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-13",
+      "id": "whitehouse:fc609b7644da3967",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T20:14:57.598888+00:00"
+      },
+      "path": "Releases/2026/07/13/President_Trumps_Relentless_Strategy_Is_Dismantling_Fentanyl_Networks_and_Saving_Lives.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trumps-relentless-strategy-is-dismantling-fentanyl-networks-and-saving-lives/",
+      "summary": "**This week, the Trump Administration convenes the inaugural** [**Fentanyl Free America Summit**](https://www.dea.gov/fentanyl-free-summit) **, bringing together partners from across the country to lock in and accelerate the historic progress achieved against the deadliest drug t",
+      "title": "President Trump\u2019s Relentless Strategy Is Dismantling Fentanyl Networks and Saving Lives"
+    },
     {
       "category": "Releases",
       "date": "2026-07-13",
