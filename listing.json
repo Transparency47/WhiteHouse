@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-13T16:34:12.499252+00:00",
+  "generatedAt": "2026-07-13T18:43:48.033475+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-13",
+      "id": "whitehouse:3b453879bb28dba3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T18:43:43.357838+00:00"
+      },
+      "path": "Releases/2026/07/13/President_Trump_Honors_the_Life_and_Legacy_of_Senator_Lindsey_Graham.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trump-honors-the-life-and-legacy-of-senator-lindsey-graham/",
+      "summary": "**President Donald J. Trump reflected on the life and legacy of Senator Lindsey Graham following his sudden** [**passing**](https://truthsocial.com/@realDonaldTrump/posts/116905798341654664) **this weekend.** Speaking in several interviews, President Trump spoke of his close frie",
+      "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham"
+    },
     {
       "category": "Proclamations",
       "date": "2026-07-13",
