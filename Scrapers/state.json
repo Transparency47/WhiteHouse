@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-13T21:57:00.298681+00:00",
+  "last_successful_run": "2026-07-13T22:59:40.077429+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8273,6 +8273,28 @@
       "published": "2026-07-09T16:23:18-04:00",
       "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-07-13T22:59:37.202726+00:00",
+      "paths": [
+        "Fact Sheets/2026/07/13/Fact_Sheet_President_Donald_J_Trump_Grants_Further_Regulatory_Relief_from_Burdensome_EPA_Restrictions_to_Promote_American_Security.md"
+      ],
+      "published": "2026-07-13T18:23:56-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-07-13T22:59:38.428254+00:00",
+      "paths": [
+        "Fact Sheets/2026/07/13/Fact_Sheet_President_Donald_J_Trump_Modifies_Two_National_Monuments_Restoring_Sensible_Land_Management.md"
+      ],
+      "published": "2026-07-13T18:13:50-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/": {
       "categories": [
         "Fact Sheets"
@@ -15076,6 +15098,30 @@
       "published": "2026-07-13T12:06:47-04:00",
       "title": "Death of Senator Lindsey Graham"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-13T22:59:38.020177+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/13/Modifying_the_Bears_Ears_National_Monument.md"
+      ],
+      "published": "2026-07-13T18:14:23-04:00",
+      "title": "Modifying the Bears Ears National Monument"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-13T22:59:38.863791+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/13/Modifying_the_Grand_Staircase_Escalante_National_Monument.md"
+      ],
+      "published": "2026-07-13T18:10:38-04:00",
+      "title": "Modifying the Grand Staircase-Escalante National Monument"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/": {
       "categories": [
         "Presidential Actions",
@@ -15087,6 +15133,18 @@
       ],
       "published": "2026-07-13T16:39:42-04:00",
       "title": "Nominations Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-13T22:59:37.607858+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/13/Regulatory_Relief_for_Certain_Stationary_Sources_to_Promote_American_Chemical_Manufacturing_Security.md"
+      ],
+      "published": "2026-07-13T18:23:12-04:00",
+      "title": "Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [

@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-13T21:57:03.903869+00:00",
+  "generatedAt": "2026-07-13T22:59:44.016881+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-07-13",
+      "id": "whitehouse:3c874c452c29d051",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T22:59:37.607858+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/13/Regulatory_Relief_for_Certain_Stationary_Sources_to_Promote_American_Chemical_Manufacturing_Security.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security"
+    },
     {
       "category": "Releases",
       "date": "2026-07-13",
@@ -39,6 +52,58 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
       "summary": "NOMINATIONS SENT TO THE SENATE:",
       "title": "Nominations Sent to the Senate"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-13",
+      "id": "whitehouse:4d9e602b19c03e0e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T22:59:38.863791+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/13/Modifying_the_Grand_Staircase_Escalante_National_Monument.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Modifying the Grand Staircase-Escalante National Monument"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-13",
+      "id": "whitehouse:92e4fed690e72bba",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T22:59:38.020177+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/13/Modifying_the_Bears_Ears_National_Monument.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Modifying the Bears Ears National Monument"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-13",
+      "id": "whitehouse:154f4de339e915a9",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T22:59:38.428254+00:00"
+      },
+      "path": "Fact Sheets/2026/07/13/Fact_Sheet_President_Donald_J_Trump_Modifies_Two_National_Monuments_Restoring_Sensible_Land_Management.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/",
+      "summary": "**RIGHTSIZING UTAH NATIONAL MONUMENTS:** Today, President Donald J. Trump signed Proclamations modifying two Utah national monuments, the Bears Ears National Monument and Grand Staircase-Escalante National Monument. The Proclamations reduce these monuments to appropriate sizes th",
+      "title": "Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-13",
+      "id": "whitehouse:313d89680772c065",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T22:59:37.202726+00:00"
+      },
+      "path": "Fact Sheets/2026/07/13/Fact_Sheet_President_Donald_J_Trump_Grants_Further_Regulatory_Relief_from_Burdensome_EPA_Restrictions_to_Promote_American_Security.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/",
+      "summary": "**PROVIDING REGULATORY RELIEF:** Today, President Donald J. Trump signed a proclamation granting two years of regulatory relief from stringent Biden-era regulations that have hampered sectors vital to national security.",
+      "title": "Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security"
     },
     {
       "category": "Proclamations",
