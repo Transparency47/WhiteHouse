@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-13T10:26:57.418671+00:00",
+  "generatedAt": "2026-07-13T16:34:12.499252+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-07-13",
+      "id": "whitehouse:a2d1a21b52ef2832",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-13T16:34:08.874941+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/13/Death_of_Senator_Lindsey_Graham.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Death of Senator Lindsey Graham"
+    },
     {
       "category": "Releases",
       "date": "2026-07-10",

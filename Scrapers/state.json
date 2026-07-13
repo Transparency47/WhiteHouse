@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-13T10:26:54.161638+00:00",
+  "last_successful_run": "2026-07-13T16:34:10.041388+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -15063,6 +15063,18 @@
       ],
       "published": "2026-07-09T16:21:16-04:00",
       "title": "Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-13T16:34:08.874941+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/13/Death_of_Senator_Lindsey_Graham.md"
+      ],
+      "published": "2026-07-13T12:06:47-04:00",
+      "title": "Death of Senator Lindsey Graham"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
