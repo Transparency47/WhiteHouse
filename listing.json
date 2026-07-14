@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-14T17:14:57.071073+00:00",
+  "generatedAt": "2026-07-14T19:20:33.281984+00:00",
   "records": [
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-07-14",
+      "id": "whitehouse:400318074e95ade9",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-14T19:20:28.153221+00:00"
+      },
+      "path": "Actions/Nominations/2026/07/14/Nominations_and_Withdrawals_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations and Withdrawals Sent to the Senate"
+    },
     {
       "category": "Proclamations",
       "date": "2026-07-13",

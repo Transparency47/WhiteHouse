@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-14T17:14:53.891890+00:00",
+  "last_successful_run": "2026-07-14T19:20:29.787630+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -15121,6 +15121,18 @@
       ],
       "published": "2026-07-13T18:10:38-04:00",
       "title": "Modifying the Grand Staircase-Escalante National Monument"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-07-14T19:20:28.153221+00:00",
+      "paths": [
+        "Actions/Nominations/2026/07/14/Nominations_and_Withdrawals_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-07-14T15:12:59-04:00",
+      "title": "Nominations and Withdrawals Sent to the Senate"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/": {
       "categories": [
