@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-14T19:20:29.787630+00:00",
+  "last_successful_run": "2026-07-14T21:00:34.922783+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21395,6 +21395,17 @@
       "published": "2026-07-07T17:02:50-04:00",
       "title": "Democrats Fought Against Historic Tax Cuts. Now They\u2019re Fighting Against Opportunity for America\u2019s Kids."
     },
+    "https://www.whitehouse.gov/releases/2026/07/law-enforcement-leaders-across-america-support-todd-blanche-for-attorney-general/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-14T21:00:32.909939+00:00",
+      "paths": [
+        "Releases/2026/07/14/Law_Enforcement_Leaders_Across_America_Support_Todd_Blanche_for_Attorney_General.md"
+      ],
+      "published": "2026-07-14T16:52:20-04:00",
+      "title": "Law Enforcement Leaders Across America Support Todd Blanche for Attorney General"
+    },
     "https://www.whitehouse.gov/releases/2026/07/minnesota-democrats-pardoned-a-convicted-child-rapist-president-trump-deported-him/": {
       "categories": [
         "Releases"
@@ -21471,6 +21482,17 @@
       ],
       "published": "2026-07-09T10:59:39-04:00",
       "title": "White House CEQ Announces Technology Solutions Selected to Showcase at Permitting Innovators Expo"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-14T21:00:33.314612+00:00",
+      "paths": [
+        "Releases/2026/07/14/White_House_Launches_Gold_Eagle_Initiative_for_Unprecedented_Cybersecurity_Vulnerability_Coordination.md"
+      ],
+      "published": "2026-07-14T15:50:00-04:00",
+      "title": "White House Launches Gold Eagle Initiative for Unprecedented Cybersecurity Vulnerability Coordination"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
