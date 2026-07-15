@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-15T14:50:51.076491+00:00",
+  "generatedAt": "2026-07-15T16:22:19.327098+00:00",
   "records": [
+    {
+      "category": "Research",
+      "date": "2026-07-15",
+      "id": "whitehouse:570fcaf5f4a4c7ea",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-15T16:22:14.932822+00:00"
+      },
+      "path": "Research/2026/07/15/Measuring_Balance_of_Payments_Deficits.md",
+      "sourceUrl": "https://www.whitehouse.gov/research/2026/07/measuring-balance-of-payments-deficits/",
+      "summary": "Measuring Balance of Payments Deficits",
+      "title": "Measuring Balance of Payments Deficits"
+    },
     {
       "category": "Releases",
       "date": "2026-07-14",

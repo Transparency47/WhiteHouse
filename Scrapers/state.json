@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-15T14:50:47.553577+00:00",
+  "last_successful_run": "2026-07-15T16:22:16.108709+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21779,6 +21779,17 @@
       ],
       "published": "2026-06-18T15:31:26-04:00",
       "title": "Effects of Banning Anti-Competitive Hospital Contracts"
+    },
+    "https://www.whitehouse.gov/research/2026/07/measuring-balance-of-payments-deficits/": {
+      "categories": [
+        "Research"
+      ],
+      "last_accessed": "2026-07-15T16:22:14.932822+00:00",
+      "paths": [
+        "Research/2026/07/15/Measuring_Balance_of_Payments_Deficits.md"
+      ],
+      "published": "2026-07-15T12:12:50-04:00",
+      "title": "Measuring Balance of Payments Deficits"
     }
   }
 }
