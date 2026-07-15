@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-15T20:09:12.911748+00:00",
+  "last_successful_run": "2026-07-15T22:01:00.399474+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4697,6 +4697,17 @@
       ],
       "published": "2026-07-05T19:02:52-04:00",
       "title": "Presidential Message on the Anniversary of the United States Secret Service"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-15T22:00:59.222827+00:00",
+      "paths": [
+        "Briefings/2026/07/15/Presidential_Message_on_the_Birthday_of_Saint_Frances_Xavier_Cabrini.md"
+      ],
+      "published": "2026-07-15T16:50:29-04:00",
+      "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [

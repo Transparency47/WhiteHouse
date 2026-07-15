@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-15T20:09:16.091529+00:00",
+  "generatedAt": "2026-07-15T22:01:03.652320+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-15",
+      "id": "whitehouse:4291c93d8f61dd46",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-15T22:00:59.222827+00:00"
+      },
+      "path": "Briefings/2026/07/15/Presidential_Message_on_the_Birthday_of_Saint_Frances_Xavier_Cabrini.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
+      "summary": "Today, we celebrate the birthday of Saint Frances Xavier Cabrini\u2014a woman of boundless faith and limitless charity, a towering Italian American hero, and the first American citizen ever proclaimed a saint by the Catholic Church.",
+      "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini"
+    },
     {
       "category": "Research",
       "date": "2026-07-15",
