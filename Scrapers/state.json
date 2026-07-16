@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-16T17:16:15.896962+00:00",
+  "last_successful_run": "2026-07-16T19:11:39.807029+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21482,6 +21482,17 @@
       ],
       "published": "2026-07-04T20:30:00-04:00",
       "title": "Saving America\u2019s Story"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/trump-administration-unleashes-global-campaign-to-crush-radical-left-terrorism/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-16T19:11:38.327438+00:00",
+      "paths": [
+        "Releases/2026/07/16/Trump_Administration_Unleashes_Global_Campaign_to_Crush_Radical_Left_Terrorism.md"
+      ],
+      "published": "2026-07-16T14:55:22-04:00",
+      "title": "Trump Administration Unleashes Global Campaign to Crush Radical Left Terrorism"
     },
     "https://www.whitehouse.gov/releases/2026/07/white-house-ceq-announces-technology-solutions-selected-to-showcase-at-permitting-innovators-expo/": {
       "categories": [

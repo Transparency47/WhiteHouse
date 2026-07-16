@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-16T17:16:19.388262+00:00",
+  "generatedAt": "2026-07-16T19:11:42.969000+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-16",
+      "id": "whitehouse:daa5656813c52368",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-16T19:11:38.327438+00:00"
+      },
+      "path": "Releases/2026/07/16/Trump_Administration_Unleashes_Global_Campaign_to_Crush_Radical_Left_Terrorism.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/trump-administration-unleashes-global-campaign-to-crush-radical-left-terrorism/",
+      "summary": "**Today, the Trump Administration convened senior officials from governments around the world to** [**launch**](https://www.state.gov/releases/office-of-the-spokesperson/2026/07/state-department-addresses-international-resurgence-of-far-left-political-terrorism/) **an unprecedent",
+      "title": "Trump Administration Unleashes Global Campaign to Crush Radical Left Terrorism"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-07-15",
