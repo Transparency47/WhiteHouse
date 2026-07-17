@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T21:55:04.350197+00:00",
+  "generatedAt": "2026-07-17T22:51:00.767854+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-exposes-bombshell-evidence-of-foreign-election-interference-and-deep-state-suppression/",
       "summary": "In a powerful primetime address, President Donald J. Trump released newly [declassified documents](https://www.whitehouse.gov/election-integrity/) that reveal foreign election interference, serious vulnerabilities in U.S. election infrastructure, and deliberate efforts by intelli",
       "title": "WHAT THEY ARE SAYING: President Trump Exposes Bombshell Evidence of Foreign Election Interference and Deep State Suppression"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-07-17",
+      "id": "whitehouse:ecdd40d5bd5cc510",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-17T22:50:57.097847+00:00"
+      },
+      "path": "Releases/2026/07/17/SETTING_THE_RECORD_STRAIGHT_President_Trump_Declassifies_Intel_on_Foreign_Election_Interference_and_Deep_State_Coverup.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/setting-the-record-straight-president-trump-declassifies-intel-on-foreign-election-interference-deep-state-coverup/",
+      "summary": "**Last night, President Donald J. Trump released** [**newly declassified intelligence**](https://www.whitehouse.gov/election-integrity/) **that had been hidden from the American people for years.** The documents reveal that foreign adversaries, led by China, have compromised U.S.",
+      "title": "SETTING THE RECORD STRAIGHT: President Trump Declassifies Intel on Foreign Election Interference and Deep State Coverup"
     },
     {
       "category": "Releases",

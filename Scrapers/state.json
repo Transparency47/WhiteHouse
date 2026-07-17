@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-17T21:55:01.932177+00:00",
+  "last_successful_run": "2026-07-17T22:50:58.293119+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21482,6 +21482,17 @@
       ],
       "published": "2026-07-04T20:30:00-04:00",
       "title": "Saving America\u2019s Story"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/setting-the-record-straight-president-trump-declassifies-intel-on-foreign-election-interference-deep-state-coverup/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-17T22:50:57.097847+00:00",
+      "paths": [
+        "Releases/2026/07/17/SETTING_THE_RECORD_STRAIGHT_President_Trump_Declassifies_Intel_on_Foreign_Election_Interference_and_Deep_State_Coverup.md"
+      ],
+      "published": "2026-07-17T18:09:54-04:00",
+      "title": "SETTING THE RECORD STRAIGHT: President Trump Declassifies Intel on Foreign Election Interference and Deep State Coverup"
     },
     "https://www.whitehouse.gov/releases/2026/07/trump-administration-unleashes-global-campaign-to-crush-radical-left-terrorism/": {
       "categories": [
