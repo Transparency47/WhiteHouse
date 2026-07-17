@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-17T17:12:22.256196+00:00",
+  "last_successful_run": "2026-07-17T19:09:24.435622+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21493,6 +21493,17 @@
       ],
       "published": "2026-07-16T14:55:22-04:00",
       "title": "Trump Administration Unleashes Global Campaign to Crush Radical Left Terrorism"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-exposes-bombshell-evidence-of-foreign-election-interference-and-deep-state-suppression/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-17T19:09:23.219633+00:00",
+      "paths": [
+        "Releases/2026/07/17/WHAT_THEY_ARE_SAYING_President_Trump_Exposes_Bombshell_Evidence_of_Foreign_Election_Interference_and_Deep_State_Suppression.md"
+      ],
+      "published": "2026-07-17T14:46:51-04:00",
+      "title": "WHAT THEY ARE SAYING: President Trump Exposes Bombshell Evidence of Foreign Election Interference and Deep State Suppression"
     },
     "https://www.whitehouse.gov/releases/2026/07/white-house-ceq-announces-technology-solutions-selected-to-showcase-at-permitting-innovators-expo/": {
       "categories": [

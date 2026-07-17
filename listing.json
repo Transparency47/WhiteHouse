@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-17T17:12:24.609119+00:00",
+  "generatedAt": "2026-07-17T19:09:27.978848+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-17",
+      "id": "whitehouse:9f0e003c5b6ae088",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-17T19:09:23.219633+00:00"
+      },
+      "path": "Releases/2026/07/17/WHAT_THEY_ARE_SAYING_President_Trump_Exposes_Bombshell_Evidence_of_Foreign_Election_Interference_and_Deep_State_Suppression.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-exposes-bombshell-evidence-of-foreign-election-interference-and-deep-state-suppression/",
+      "summary": "In a powerful primetime address, President Donald J. Trump released newly [declassified documents](https://www.whitehouse.gov/election-integrity/) that reveal foreign election interference, serious vulnerabilities in U.S. election infrastructure, and deliberate efforts by intelli",
+      "title": "WHAT THEY ARE SAYING: President Trump Exposes Bombshell Evidence of Foreign Election Interference and Deep State Suppression"
+    },
     {
       "category": "Releases",
       "date": "2026-07-16",
