@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T20:21:08.725655+00:00",
+  "generatedAt": "2026-07-20T22:00:05.004251+00:00",
   "records": [
     {
       "category": "Executive Orders",
@@ -43,6 +43,45 @@
     {
       "category": "Proclamations",
       "date": "2026-07-20",
+      "id": "whitehouse:bc07ec7ded7b3be4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T21:59:59.010274+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/20/Imposing_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Motor_Vehicles.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Motor Vehicles"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-20",
+      "id": "whitehouse:aeb68d9fb1843d0f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T21:59:59.817024+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/20/Imposing_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Dairy.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Dairy"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-20",
+      "id": "whitehouse:b76e37752e0537bf",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T21:59:59.414923+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/20/Imposing_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Alcoholic_Beverages.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-20",
       "id": "whitehouse:e2e5688ec4368b83",
       "kind": "whitehouse_record",
       "metadata": {
@@ -78,6 +117,19 @@
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/",
       "summary": "**SECURING AMERICA\u2019S DEFENSE SUPPLY CHAINS:** Today, President Donald J. Trump signed an Executive Order to secure America\u2019s defense supply chains for the cutting-edge equipment that allows the U.S. to dominate the modern battlefield, particularly, the critical materials and comp",
       "title": "Fact Sheet: President Donald J. Trump Secures America\u2019s Defense Supply Chains and Ensures Domestic Acquisition of Critical Materials"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-20",
+      "id": "whitehouse:655e183925bde283",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T22:00:00.219750+00:00"
+      },
+      "path": "Fact Sheets/2026/07/20/Fact_Sheet_President_Donald_J_Trump_Imposes_Additional_Tariffs_on_Canada.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
+      "summary": "**DEFENDING AMERICAN WORKERS AND ENSURING FAIR TRADE:** Today, President Donald J. Trump signed three Proclamations pursuant to Section 338 of the Tariff Act of 1930 to impose additional 50% tariffs on certain goods of Canada in response to Canada\u2019s discriminatory treatment of Am",
+      "title": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada"
     },
     {
       "category": "Proclamations",

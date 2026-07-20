@@ -18,3 +18,12 @@
 - Date accessed: 2026-07-20T20:21:02.310266+00:00
 - Markdown filename: Fact_Sheet_President_Donald_J_Trump_Secures_Americas_Defense_Supply_Chains_and_Ensures_Domestic_Acquisition_of_Critical_Materials.md
 
+## Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada
+
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/
+- Title: Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada
+- Category: Fact Sheets
+- Date published: 2026-07-20T17:00:00-04:00
+- Date accessed: 2026-07-20T22:00:00.219750+00:00
+- Markdown filename: Fact_Sheet_President_Donald_J_Trump_Imposes_Additional_Tariffs_on_Canada.md
+

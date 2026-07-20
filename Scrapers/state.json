@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-20T20:21:05.477147+00:00",
+  "last_successful_run": "2026-07-20T22:00:01.430412+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8295,6 +8295,17 @@
       "published": "2026-07-13T18:23:56-04:00",
       "title": "Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-07-20T22:00:00.219750+00:00",
+      "paths": [
+        "Fact Sheets/2026/07/20/Fact_Sheet_President_Donald_J_Trump_Imposes_Additional_Tariffs_on_Canada.md"
+      ],
+      "published": "2026-07-20T17:00:00-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/": {
       "categories": [
         "Fact Sheets"
@@ -15154,6 +15165,42 @@
       ],
       "published": "2026-07-20T15:44:08-04:00",
       "title": "Further Strengthening Actions Taken to Adjust Imports of Aluminum into the United States"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-20T21:59:59.414923+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/20/Imposing_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Alcoholic_Beverages.md"
+      ],
+      "published": "2026-07-20T17:00:00-04:00",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-20T21:59:59.817024+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/20/Imposing_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Dairy.md"
+      ],
+      "published": "2026-07-20T17:00:00-04:00",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Dairy"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-20T21:59:59.010274+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/20/Imposing_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Motor_Vehicles.md"
+      ],
+      "published": "2026-07-20T17:00:00-04:00",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Motor Vehicles"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/07/made-in-america-week-2026/": {
       "categories": [
