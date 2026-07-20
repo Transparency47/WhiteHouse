@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-07-20T18:03:07.009672+00:00",
+  "generatedAt": "2026-07-20T20:21:08.725655+00:00",
   "records": [
+    {
+      "category": "Executive Orders",
+      "date": "2026-07-20",
+      "id": "whitehouse:65ce424fcfe57d37",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T20:21:02.707838+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/07/20/Securing_Americas_Defense_Supply_Chains_and_Ensuring_Domestic_Acquisition_of_Critical_Materials.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Securing America\u2019s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-07-20",
+      "id": "whitehouse:dccd530ca7841520",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T20:21:03.109613+00:00"
+      },
+      "path": "Actions/Nominations/2026/07/20/Nomination_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/nomination-sent-to-the-senate-4c22/",
+      "summary": "NOMINATION SENT TO THE SENATE:",
+      "title": "Nomination Sent to the Senate"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-20",
+      "id": "whitehouse:2b594cf5c5760984",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T20:21:03.887913+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/20/Made_in_America_Week_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/made-in-america-week-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Made in America Week, 2026"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-20",
+      "id": "whitehouse:e2e5688ec4368b83",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T20:21:01.920511+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/20/Further_Strengthening_Actions_Taken_to_Adjust_Imports_of_Aluminum_into_the_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/further-strengthening-actions-taken-to-adjust-imports-of-aluminum-into-the-united-states/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Further Strengthening Actions Taken to Adjust Imports of Aluminum into the United States"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-20",
+      "id": "whitehouse:e619331f57725039",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T20:21:01.524237+00:00"
+      },
+      "path": "Fact Sheets/2026/07/20/Fact_Sheet_President_Donald_J_Trump_Takes_Further_Action_To_Adjust_Imports_Of_Aluminum_Into_The_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-united-states/",
+      "summary": "**BOLSTERING DOMESTIC MANUFACTURING OF PRIMARY ALUMINUM:** Today, President Donald J. Trump signed a Proclamation using his authority under Section 232 of the Trade Expansion Act of 1962 to address the national security threat posed by imports of aluminum into the United States a",
+      "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-20",
+      "id": "whitehouse:5f30b1bd41af6cb6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T20:21:02.310266+00:00"
+      },
+      "path": "Fact Sheets/2026/07/20/Fact_Sheet_President_Donald_J_Trump_Secures_Americas_Defense_Supply_Chains_and_Ensures_Domestic_Acquisition_of_Critical_Materials.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/",
+      "summary": "**SECURING AMERICA\u2019S DEFENSE SUPPLY CHAINS:** Today, President Donald J. Trump signed an Executive Order to secure America\u2019s defense supply chains for the cutting-edge equipment that allows the U.S. to dominate the modern battlefield, particularly, the critical materials and comp",
+      "title": "Fact Sheet: President Donald J. Trump Secures America\u2019s Defense Supply Chains and Ensures Domestic Acquisition of Critical Materials"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-07-20",
+      "id": "whitehouse:17593881a4794830",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T20:21:03.497367+00:00"
+      },
+      "path": "Actions/Proclamations/2026/07/20/Captive_Nations_Week_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/captive-nations-week-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Captive Nations Week, 2026"
+    },
     {
       "category": "Releases",
       "date": "2026-07-17",
