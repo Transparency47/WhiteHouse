@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-20T22:00:01.430412+00:00",
+  "last_successful_run": "2026-07-20T23:09:12.641604+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4686,6 +4686,17 @@
       ],
       "published": "2026-07-05T19:06:52-04:00",
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-20T23:09:11.088818+00:00",
+      "paths": [
+        "Briefings/2026/07/20/Presidential_Message_on_Space_Exploration_Day.md"
+      ],
+      "published": "2026-07-20T19:06:31-04:00",
+      "title": "Presidential Message on Space Exploration Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-united-states-secret-service/": {
       "categories": [

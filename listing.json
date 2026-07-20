@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:00:05.004251+00:00",
+  "generatedAt": "2026-07-20T23:09:16.233640+00:00",
   "records": [
     {
       "category": "Executive Orders",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
       "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
       "title": "Securing America\u2019s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-20",
+      "id": "whitehouse:93047131147ad356",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-20T23:09:11.088818+00:00"
+      },
+      "path": "Briefings/2026/07/20/Presidential_Message_on_Space_Exploration_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/",
+      "summary": "On Space Exploration Day, we commemorate one of the greatest achievements in the history of our Republic: landing Americansupon the surface of the Moon. Inspired by that giant leap, welook ahead with bold resolve, certain that America will continue to lead humanity into a new Gol",
+      "title": "Presidential Message on Space Exploration Day"
     },
     {
       "category": "Nominations & Appointments",
