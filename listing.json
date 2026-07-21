@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-21T21:09:53.740568+00:00",
+  "generatedAt": "2026-07-21T22:57:11.847352+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-21",
+      "id": "whitehouse:97c4741a52bd9411",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-21T22:57:07.166740+00:00"
+      },
+      "path": "Briefings/2026/07/21/Presidential_Message_on_the_Anniversary_of_the_Liberation_of_Guam.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-liberation-of-guam/",
+      "summary": "Today, our Nation marks the 82nd anniversary of the American liberation of Guam\u2014the day the United States shattered a brutal occupation and carried freedom back to an island that had endured more than 2 years of suffering under Imperial Japan. That hard-won triumph stands among t",
+      "title": "Presidential Message on the Anniversary of the Liberation of Guam"
+    },
     {
       "category": "Releases",
       "date": "2026-07-21",

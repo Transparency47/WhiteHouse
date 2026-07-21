@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-21T21:09:50.129541+00:00",
+  "last_successful_run": "2026-07-21T22:57:08.360916+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4708,6 +4708,17 @@
       ],
       "published": "2026-07-20T19:06:31-04:00",
       "title": "Presidential Message on Space Exploration Day"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-liberation-of-guam/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-21T22:57:07.166740+00:00",
+      "paths": [
+        "Briefings/2026/07/21/Presidential_Message_on_the_Anniversary_of_the_Liberation_of_Guam.md"
+      ],
+      "published": "2026-07-21T17:30:51-04:00",
+      "title": "Presidential Message on the Anniversary of the Liberation of Guam"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-united-states-secret-service/": {
       "categories": [
