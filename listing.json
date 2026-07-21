@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:57:11.847352+00:00",
+  "generatedAt": "2026-07-21T23:58:51.299103+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -26,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trumps-working-families-tax-cuts-ignite-manufacturing-renaissance-across-all-50-states/",
       "summary": "**One year after President Donald J. Trump signed the Working Families Tax Cuts into law, a** [**new report**](https://nam.org/wp-content/uploads/2026/07/NAM_Tax_Wins_Collection_Final.pdf) **confirms the legislation has delivered a powerful** [**manufacturing resurgence**](https:",
       "title": "President Trump\u2019s Working Families Tax Cuts Ignite Manufacturing Renaissance Across All 50 States"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-07-21",
+      "id": "whitehouse:80ac0c52154db869",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-21T23:58:46.863247+00:00"
+      },
+      "path": "Releases/2026/07/21/OSTP_Director_Releases_Landmark_Report_and_Recommendations_for_Renewing_American_Scientific_Discovery.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/45470/",
+      "summary": "**WASHINGTON, DC** \u2013 Today, Assistant to the President and Director of the White House Office of Science and Technology Policy (OSTP) Michael Kratsios published a new report to President Trump that charts a bold course to revitalize American research and development (R&D). The re",
+      "title": "OSTP Director Releases Landmark Report and Recommendations for Renewing American Scientific Discovery"
     },
     {
       "category": "Nominations & Appointments",

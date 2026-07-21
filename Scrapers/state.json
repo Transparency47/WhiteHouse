@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-21T22:57:08.360916+00:00",
+  "last_successful_run": "2026-07-21T23:58:48.049933+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21579,6 +21579,17 @@
       ],
       "published": "2026-06-23T17:28:24-04:00",
       "title": "White House Unveils President Trump\u2019s America First Resilience Strategy"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/45470/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-21T23:58:46.863247+00:00",
+      "paths": [
+        "Releases/2026/07/21/OSTP_Director_Releases_Landmark_Report_and_Recommendations_for_Renewing_American_Scientific_Discovery.md"
+      ],
+      "published": "2026-07-21T18:22:17-04:00",
+      "title": "OSTP Director Releases Landmark Report and Recommendations for Renewing American Scientific Discovery"
     },
     "https://www.whitehouse.gov/releases/2026/07/democrat-glitch-registers-thousands-of-noncitizens-to-vote-another-reason-to-pass-the-save-america-act/": {
       "categories": [

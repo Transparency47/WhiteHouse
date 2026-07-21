@@ -18,3 +18,12 @@
 - Date accessed: 2026-07-21T21:09:48.912444+00:00
 - Markdown filename: Democrat_Glitch_Registers_Thousands_of_Noncitizens_to_Vote_Another_Reason_to_Pass_the_SAVE_America_Act.md
 
+## OSTP Director Releases Landmark Report and Recommendations for Renewing American Scientific Discovery
+
+- URL: https://www.whitehouse.gov/releases/2026/07/45470/
+- Title: OSTP Director Releases Landmark Report and Recommendations for Renewing American Scientific Discovery
+- Category: Releases
+- Date published: 2026-07-21T18:22:17-04:00
+- Date accessed: 2026-07-21T23:58:46.863247+00:00
+- Markdown filename: OSTP_Director_Releases_Landmark_Report_and_Recommendations_for_Renewing_American_Scientific_Discovery.md
+
