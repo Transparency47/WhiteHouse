@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-07-21T15:43:45.718040+00:00",
+  "generatedAt": "2026-07-21T17:20:01.069976+00:00",
   "records": [
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-21",
+      "id": "whitehouse:925d6e5f076193df",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-21T17:19:56.224746+00:00"
+      },
+      "path": "Fact Sheets/2026/07/21/Fact_Sheet_President_Donald_J_Trump_Announces_Trade_Deal_with_Jordan.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
+      "summary": "**DELIVERING ON RECIPROCAL TRADE:** Today, President Donald J. Trump announced a landmark trade deal with Jordan.",
+      "title": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-21",
+      "id": "whitehouse:983eb15bbd06f9bd",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-21T17:19:56.627252+00:00"
+      },
+      "path": "Briefings/2026/07/21/AGREEMENT_BETWEEN_THE_UNITED_STATES_OF_AMERICA_AND_THE_HASHEMITE_KINGDOM_OF_JORDAN_ON_RECIPROCAL_TRADE.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/agreement-between-the-united-states-of-america-and-the-hashemite-kingdom-of-jordan-on-reciprocal-trade/",
+      "summary": "**AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE**",
+      "title": "AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-07-20",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-21T15:43:43.795182+00:00",
+  "last_successful_run": "2026-07-21T17:19:57.809509+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4676,6 +4676,17 @@
       "published": "2026-06-17T09:23:49-04:00",
       "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/agreement-between-the-united-states-of-america-and-the-hashemite-kingdom-of-jordan-on-reciprocal-trade/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-21T17:19:56.627252+00:00",
+      "paths": [
+        "Briefings/2026/07/21/AGREEMENT_BETWEEN_THE_UNITED_STATES_OF_AMERICA_AND_THE_HASHEMITE_KINGDOM_OF_JORDAN_ON_RECIPROCAL_TRADE.md"
+      ],
+      "published": "2026-07-21T11:55:51-04:00",
+      "title": "AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/07/america-250-presidential-message-on-the-anniversary-of-the-battle-of-chippawa/": {
       "categories": [
         "Briefings & Statements"
@@ -8294,6 +8305,17 @@
       ],
       "published": "2026-07-09T16:23:18-04:00",
       "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-07-21T17:19:56.224746+00:00",
+      "paths": [
+        "Fact Sheets/2026/07/21/Fact_Sheet_President_Donald_J_Trump_Announces_Trade_Deal_with_Jordan.md"
+      ],
+      "published": "2026-07-21T11:56:03-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/": {
       "categories": [
