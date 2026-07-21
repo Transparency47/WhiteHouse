@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-21T19:22:40.549234+00:00",
+  "last_successful_run": "2026-07-21T21:09:50.129541+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -15307,6 +15307,18 @@
       "published": "2026-07-13T16:39:42-04:00",
       "title": "Nominations Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-07-21T21:09:48.506683+00:00",
+      "paths": [
+        "Actions/Nominations/2026/07/21/Nominations_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-07-21T15:58:17-04:00",
+      "title": "Nominations Sent to the Senate"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/": {
       "categories": [
         "Presidential Actions",
@@ -21556,6 +21568,17 @@
       ],
       "published": "2026-06-23T17:28:24-04:00",
       "title": "White House Unveils President Trump\u2019s America First Resilience Strategy"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/democrat-glitch-registers-thousands-of-noncitizens-to-vote-another-reason-to-pass-the-save-america-act/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-21T21:09:48.912444+00:00",
+      "paths": [
+        "Releases/2026/07/21/Democrat_Glitch_Registers_Thousands_of_Noncitizens_to_Vote_Another_Reason_to_Pass_the_SAVE_America_Act.md"
+      ],
+      "published": "2026-07-21T15:31:04-04:00",
+      "title": "Democrat \u201cGlitch\u201d Registers Thousands of Noncitizens to Vote: Another Reason to Pass the SAVE America Act"
     },
     "https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/": {
       "categories": [

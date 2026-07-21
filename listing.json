@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:22:43.038668+00:00",
+  "generatedAt": "2026-07-21T21:09:53.740568+00:00",
   "records": [
     {
       "category": "Releases",
@@ -15,6 +15,19 @@
       "title": "President Trump\u2019s Working Families Tax Cuts Ignite Manufacturing Renaissance Across All 50 States"
     },
     {
+      "category": "Nominations & Appointments",
+      "date": "2026-07-21",
+      "id": "whitehouse:4c9628c0a8c498e2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-21T21:09:48.506683+00:00"
+      },
+      "path": "Actions/Nominations/2026/07/21/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
+    },
+    {
       "category": "Fact Sheets",
       "date": "2026-07-21",
       "id": "whitehouse:925d6e5f076193df",
@@ -26,6 +39,19 @@
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
       "summary": "**DELIVERING ON RECIPROCAL TRADE:** Today, President Donald J. Trump announced a landmark trade deal with Jordan.",
       "title": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-07-21",
+      "id": "whitehouse:28c97adc0fb3498d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-21T21:09:48.912444+00:00"
+      },
+      "path": "Releases/2026/07/21/Democrat_Glitch_Registers_Thousands_of_Noncitizens_to_Vote_Another_Reason_to_Pass_the_SAVE_America_Act.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/democrat-glitch-registers-thousands-of-noncitizens-to-vote-another-reason-to-pass-the-save-america-act/",
+      "summary": "Democrat New Jersey Gov. Mikie Sherrill [admitted](https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html) today that a \u201csoftware glitch\u201d registered approximately 6,600 noncitizens to vote in her state between 2023 and 2024 \u2014 and hundreds of them actu",
+      "title": "Democrat \u201cGlitch\u201d Registers Thousands of Noncitizens to Vote: Another Reason to Pass the SAVE America Act"
     },
     {
       "category": "Briefings & Statements",
