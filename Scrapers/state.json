@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-21T17:19:57.809509+00:00",
+  "last_successful_run": "2026-07-21T19:22:40.549234+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21633,6 +21633,17 @@
       ],
       "published": "2026-07-13T14:54:35-04:00",
       "title": "President Trump\u2019s Relentless Strategy Is Dismantling Fentanyl Networks and Saving Lives"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/president-trumps-working-families-tax-cuts-ignite-manufacturing-renaissance-across-all-50-states/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-21T19:22:39.383103+00:00",
+      "paths": [
+        "Releases/2026/07/21/President_Trumps_Working_Families_Tax_Cuts_Ignite_Manufacturing_Renaissance_Across_All_50_States.md"
+      ],
+      "published": "2026-07-21T13:49:00-04:00",
+      "title": "President Trump\u2019s Working Families Tax Cuts Ignite Manufacturing Renaissance Across All 50 States"
     },
     "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/": {
       "categories": [

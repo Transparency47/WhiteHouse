@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-21T17:20:01.069976+00:00",
+  "generatedAt": "2026-07-21T19:22:43.038668+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-21",
+      "id": "whitehouse:fd04bf9b3e959b81",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-21T19:22:39.383103+00:00"
+      },
+      "path": "Releases/2026/07/21/President_Trumps_Working_Families_Tax_Cuts_Ignite_Manufacturing_Renaissance_Across_All_50_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trumps-working-families-tax-cuts-ignite-manufacturing-renaissance-across-all-50-states/",
+      "summary": "**One year after President Donald J. Trump signed the Working Families Tax Cuts into law, a** [**new report**](https://nam.org/wp-content/uploads/2026/07/NAM_Tax_Wins_Collection_Final.pdf) **confirms the legislation has delivered a powerful** [**manufacturing resurgence**](https:",
+      "title": "President Trump\u2019s Working Families Tax Cuts Ignite Manufacturing Renaissance Across All 50 States"
+    },
     {
       "category": "Fact Sheets",
       "date": "2026-07-21",
