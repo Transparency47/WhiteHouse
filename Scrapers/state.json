@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-22T11:47:23.716827+00:00",
+  "last_successful_run": "2026-07-22T13:54:30.450571+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21590,6 +21590,17 @@
       ],
       "published": "2026-07-21T18:22:17-04:00",
       "title": "OSTP Director Releases Landmark Report and Recommendations for Renewing American Scientific Discovery"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/45502/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-22T13:54:29.273792+00:00",
+      "paths": [
+        "Releases/2026/07/22/Trump_Administration_Announces_More_Than_5_Billion_for_the_Genesis_Mission_a_National_Mission_on_AI_for_Science.md"
+      ],
+      "published": "2026-07-22T08:00:59-04:00",
+      "title": "Trump Administration Announces More Than $5 Billion for the Genesis Mission, a National Mission on AI for Science"
     },
     "https://www.whitehouse.gov/releases/2026/07/democrat-glitch-registers-thousands-of-noncitizens-to-vote-another-reason-to-pass-the-save-america-act/": {
       "categories": [

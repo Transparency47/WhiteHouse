@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-22T11:47:27.312479+00:00",
+  "generatedAt": "2026-07-22T13:54:33.683257+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-22",
+      "id": "whitehouse:a475e652b34d69d4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-22T13:54:29.273792+00:00"
+      },
+      "path": "Releases/2026/07/22/Trump_Administration_Announces_More_Than_5_Billion_for_the_Genesis_Mission_a_National_Mission_on_AI_for_Science.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/45502/",
+      "summary": "**WASHINGTON, DC \u2014** Today, Assistant to the President and Director of the White House Office of Science and Technology Policy Michael Kratsios unveiled more than $5 billion in Federal commitments expanding the [Genesis Mission](https://www.energy.gov/undersecretaryforscience/gen",
+      "title": "Trump Administration Announces More Than $5 Billion for the Genesis Mission, a National Mission on AI for Science"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-07-21",
