@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-23T22:03:34.769824+00:00",
+  "last_successful_run": "2026-07-24T00:00:24.914692+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21678,6 +21678,17 @@
       ],
       "published": "2026-07-06T14:15:57-04:00",
       "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-24T00:00:23.714461+00:00",
+      "paths": [
+        "Releases/2026/07/23/President_Trumps_Ratepayer_Protection_Pledge_Secures_American_AI_Dominance_Protects_Consumers.md"
+      ],
+      "published": "2026-07-23T18:12:29-04:00",
+      "title": "President Trump\u2019s Ratepayer Protection Pledge Secures American AI Dominance, Protects Consumers"
     },
     "https://www.whitehouse.gov/releases/2026/07/president-trumps-relentless-strategy-is-dismantling-fentanyl-networks-and-saving-lives/": {
       "categories": [

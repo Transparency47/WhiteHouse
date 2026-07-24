@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-23T22:03:37.716485+00:00",
+  "generatedAt": "2026-07-24T00:00:28.511360+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-23",
+      "id": "whitehouse:342cf6a95d13bae7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-24T00:00:23.714461+00:00"
+      },
+      "path": "Releases/2026/07/23/President_Trumps_Ratepayer_Protection_Pledge_Secures_American_AI_Dominance_Protects_Consumers.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/",
+      "summary": "**Today, President Donald J. Trump heralded a historic expansion of the** [**Ratepayer Protection Pledge**](https://www.whitehouse.gov/ratepayer-protection-pledge) **, bringing more than 200 additional utilities, data center developers, cooperatives, and states into this growing ",
+      "title": "President Trump\u2019s Ratepayer Protection Pledge Secures American AI Dominance, Protects Consumers"
+    },
     {
       "category": "Releases",
       "date": "2026-07-22",
