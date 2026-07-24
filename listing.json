@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-07-24T18:17:50.113350+00:00",
+  "generatedAt": "2026-07-24T20:19:40.813861+00:00",
   "records": [
+    {
+      "category": "Executive Orders",
+      "date": "2026-07-24",
+      "id": "whitehouse:f6419ff28c05c237",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-24T20:19:34.981032+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/07/24/Restoring_Trust_in_the_Smithsonian_Institution.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Restoring Trust in the Smithsonian Institution"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-24",
+      "id": "whitehouse:1463d5f918eef192",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-24T20:19:35.383400+00:00"
+      },
+      "path": "Fact Sheets/2026/07/24/Fact_Sheet_President_Donald_J_Trump_Restores_Trust_in_the_Smithsonian_Institution.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/",
+      "summary": "**RESTORING TRUST IN THE SMITHSONIAN:** Today, President Donald J. Trump signed an Executive Order to reestablish confidence in the Smithsonian Institution. As illustrated by the Domestic Policy Council\u2019s report, [*Saving America\u2019s Story: How Ideological Capture at the Smithsonia",
+      "title": "Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution"
+    },
     {
       "category": "Releases",
       "date": "2026-07-23",

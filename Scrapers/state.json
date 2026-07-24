@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-24T18:17:46.533187+00:00",
+  "last_successful_run": "2026-07-24T20:19:37.278944+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8361,6 +8361,17 @@
       "published": "2026-07-13T18:13:50-04:00",
       "title": "Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-07-24T20:19:35.383400+00:00",
+      "paths": [
+        "Fact Sheets/2026/07/24/Fact_Sheet_President_Donald_J_Trump_Restores_Trust_in_the_Smithsonian_Institution.md"
+      ],
+      "published": "2026-07-24T15:11:24-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/": {
       "categories": [
         "Fact Sheets"
@@ -15341,6 +15352,18 @@
       ],
       "published": "2026-07-13T18:23:12-04:00",
       "title": "Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-07-24T20:19:34.981032+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/07/24/Restoring_Trust_in_the_Smithsonian_Institution.md"
+      ],
+      "published": "2026-07-24T16:19:11-04:00",
+      "title": "Restoring Trust in the Smithsonian Institution"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/": {
       "categories": [
