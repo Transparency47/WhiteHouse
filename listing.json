@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-27T14:34:47.013463+00:00",
+  "generatedAt": "2026-07-27T16:57:28.265138+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-27",
+      "id": "whitehouse:516f477670c617f8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-27T16:57:23.934360+00:00"
+      },
+      "path": "Releases/2026/07/27/Made_in_Michigan_Again_President_Trumps_Trade_Agenda_Is_Supercharging_American_Auto_Manufacturing.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/made-in-michigan-again-president-trumps-trade-agenda-is-supercharging-american-auto-manufacturing/",
+      "summary": "**President Donald J. Trump returns to Michigan today to visit the General Motors Proving Ground in Milford and celebrate the roaring comeback of American auto manufacturing under his leadership.** Since taking office, President Trump has ignited an automotive renaissance \u2014 onsho",
+      "title": "Made in Michigan Again: President Trump\u2019s Trade Agenda Is Supercharging American Auto Manufacturing"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-07-27",
