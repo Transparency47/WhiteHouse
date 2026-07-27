@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-27T11:21:54.564538+00:00",
+  "last_successful_run": "2026-07-27T14:34:43.771280+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4697,6 +4697,17 @@
       ],
       "published": "2026-07-05T19:06:52-04:00",
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-27T14:34:41.783803+00:00",
+      "paths": [
+        "Briefings/2026/07/27/First_Lady_Melania_Trump_Announces_Opening_of_Christmas_Volunteer_and_Performer_Applications.md"
+      ],
+      "published": "2026-07-27T09:04:29-04:00",
+      "title": "First Lady Melania Trump Announces Opening of Christmas Volunteer & Performer Applications"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/": {
       "categories": [

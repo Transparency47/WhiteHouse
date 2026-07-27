@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-27T11:21:58.170965+00:00",
+  "generatedAt": "2026-07-27T14:34:47.013463+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-27",
+      "id": "whitehouse:cef6397dc9808490",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-27T14:34:41.783803+00:00"
+      },
+      "path": "Briefings/2026/07/27/First_Lady_Melania_Trump_Announces_Opening_of_Christmas_Volunteer_and_Performer_Applications.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/",
+      "summary": "Christmas planning is underway at the White House, and President Donald J. Trump and First Lady Melania Trump are excited to continue the cherished tradition of welcoming volunteers to help celebrate the holiday season at the People\u2019s House.",
+      "title": "First Lady Melania Trump Announces Opening of Christmas Volunteer & Performer Applications"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-07-24",
