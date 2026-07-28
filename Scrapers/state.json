@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-27T22:07:42.670580+00:00",
+  "last_successful_run": "2026-07-28T00:02:33.038669+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4708,6 +4708,17 @@
       ],
       "published": "2026-07-27T09:04:29-04:00",
       "title": "First Lady Melania Trump Announces Opening of Christmas Volunteer & Performer Applications"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-28T00:02:31.050988+00:00",
+      "paths": [
+        "Briefings/2026/07/27/Presidential_Message_on_National_Korean_War_Veterans_Armistice_Day.md"
+      ],
+      "published": "2026-07-27T18:51:46-04:00",
+      "title": "Presidential Message on National Korean War Veterans Armistice Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/": {
       "categories": [

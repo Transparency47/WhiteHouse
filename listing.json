@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-27T22:07:44.611215+00:00",
+  "generatedAt": "2026-07-28T00:02:35.544592+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-27",
+      "id": "whitehouse:3d452c06a58baf31",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-28T00:02:31.050988+00:00"
+      },
+      "path": "Briefings/2026/07/27/Presidential_Message_on_National_Korean_War_Veterans_Armistice_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/",
+      "summary": "Today, our Nation marks the 82nd anniversary of the American liberation of Guam\u2014the day the United States shattered a brutal occupation and carried freedom back to an island that had endured more than 2 years of suffering As our Nation observes National Korean War Veterans Armist",
+      "title": "Presidential Message on National Korean War Veterans Armistice Day"
+    },
     {
       "category": "Releases",
       "date": "2026-07-27",
