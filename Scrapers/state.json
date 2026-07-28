@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-28T04:10:05.092644+00:00",
+  "last_successful_run": "2026-07-28T07:38:47.572932+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4730,6 +4730,17 @@
       ],
       "published": "2026-07-20T19:06:31-04:00",
       "title": "Presidential Message on Space Exploration Day"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-07-28T07:38:45.514980+00:00",
+      "paths": [
+        "Briefings/2026/07/28/Presidential_Message_on_the_45th_Anniversary_of_the_Martyrdom_of_Father_Stanley_Rother.md"
+      ],
+      "published": "2026-07-28T00:30:00-04:00",
+      "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-liberation-of-guam/": {
       "categories": [

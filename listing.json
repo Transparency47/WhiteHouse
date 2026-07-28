@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-28T04:10:07.031095+00:00",
+  "generatedAt": "2026-07-28T07:38:51.174429+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-28",
+      "id": "whitehouse:42b71b563faef76f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-28T07:38:45.514980+00:00"
+      },
+      "path": "Briefings/2026/07/28/Presidential_Message_on_the_45th_Anniversary_of_the_Martyrdom_of_Father_Stanley_Rother.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
+      "summary": "Today, Melania and I join with American Catholics and people of faith all across the world in honoring the towering legacy of Father Stanley Rother\u2014an Oklahoma farm boy, the first American-born martyr beatified by the Catholic Church, and a champion of human dignity who heroicall",
+      "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-07-27",
