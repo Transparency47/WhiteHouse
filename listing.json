@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-29T19:16:29.812159+00:00",
+  "generatedAt": "2026-07-29T20:56:10.927482+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-07-29",
+      "id": "whitehouse:6a743ce794953b9e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-29T20:56:04.771086+00:00"
+      },
+      "path": "Briefings/2026/07/29/Presidential_Message_on_the_Birthday_of_Alexis_de_Tocqueville.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
+      "summary": "Today, our Nation honors the life, legacy, and enduring wisdom of Alexis de Tocqueville\u2014a great witness to the promise of our young Republic and one of the most brilliant political minds in the history of the world.",
+      "title": "Presidential Message on the Birthday of Alexis de Tocqueville"
+    },
     {
       "category": "Releases",
       "date": "2026-07-29",
