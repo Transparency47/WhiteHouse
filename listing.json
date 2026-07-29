@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T13:00:33.936696+00:00",
+  "generatedAt": "2026-07-29T15:49:18.238060+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
       "summary": "Today, Melania and I join with American Catholics and people of faith all across the world in honoring the towering legacy of Father Stanley Rother\u2014an Oklahoma farm boy, the first American-born martyr beatified by the Catholic Church, and a champion of human dignity who heroicall",
       "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-07-28",
+      "id": "whitehouse:9650e4f566e946c3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-29T15:49:12.111128+00:00"
+      },
+      "path": "Releases/2026/07/28/President_Trump_on_Fox_and_Friends_Americas_Unrelenting_Strength_Keeps_Maximum_Pressure_on_Iran.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/president-trump-on-fox-friends-americas-unrelenting-strength-keeps-maximum-pressure-on-iran/",
+      "summary": "**This morning** [**on *Fox & Friends***](https://x.com/RapidResponse47/status/2082106417004093653) **, President Donald J. Trump delivered a clear, uncompromising update on U.S. operations against Iran.** President Trump detailed total naval control of the Strait of Hormuz, unma",
+      "title": "President Trump on Fox & Friends: America\u2019s Unrelenting Strength Keeps Maximum Pressure on Iran"
     },
     {
       "category": "Briefings & Statements",
@@ -52,6 +65,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/",
       "summary": "Christmas planning is underway at the White House, and President Donald J. Trump and First Lady Melania Trump are excited to continue the cherished tradition of welcoming volunteers to help celebrate the holiday season at the People\u2019s House.",
       "title": "First Lady Melania Trump Announces Opening of Christmas Volunteer & Performer Applications"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-07-24",
+      "id": "whitehouse:c1ee087407e8bd8e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-29T15:49:12.524370+00:00"
+      },
+      "path": "Releases/2026/07/24/WHAT_THEY_ARE_SAYING_President_Trump_Unites_Industry_and_State_Leaders_to_Protect_American_Ratepayers.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-unites-industry-and-state-leaders-to-protect-american-ratepayers/",
+      "summary": "At the EPA Headquarters on Thursday, President Trump convened utilities, data center developers, and state leaders to announce a major expansion of his administration\u2019s historic [Ratepayer Protection Pledge](https://us.list-manage.com/7_NqFoFVniU?e=40024b103d&c2id=0c9f8fbc9d21163",
+      "title": "WHAT THEY ARE SAYING: President Trump Unites Industry and State Leaders to Protect American Ratepayers"
     },
     {
       "category": "Executive Orders",

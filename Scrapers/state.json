@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-29T13:00:30.339332+00:00",
+  "last_successful_run": "2026-07-29T15:49:14.606434+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21735,6 +21735,17 @@
       "published": "2026-07-13T13:21:08-04:00",
       "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham"
     },
+    "https://www.whitehouse.gov/releases/2026/07/president-trump-on-fox-friends-americas-unrelenting-strength-keeps-maximum-pressure-on-iran/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-29T15:49:12.111128+00:00",
+      "paths": [
+        "Releases/2026/07/28/President_Trump_on_Fox_and_Friends_Americas_Unrelenting_Strength_Keeps_Maximum_Pressure_on_Iran.md"
+      ],
+      "published": "2026-07-28T11:00:00-04:00",
+      "title": "President Trump on Fox & Friends: America\u2019s Unrelenting Strength Keeps Maximum Pressure on Iran"
+    },
     "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/": {
       "categories": [
         "Releases"
@@ -21822,6 +21833,17 @@
       ],
       "published": "2026-07-17T14:46:51-04:00",
       "title": "WHAT THEY ARE SAYING: President Trump Exposes Bombshell Evidence of Foreign Election Interference and Deep State Suppression"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-unites-industry-and-state-leaders-to-protect-american-ratepayers/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-29T15:49:12.524370+00:00",
+      "paths": [
+        "Releases/2026/07/24/WHAT_THEY_ARE_SAYING_President_Trump_Unites_Industry_and_State_Leaders_to_Protect_American_Ratepayers.md"
+      ],
+      "published": "2026-07-24T12:30:00-04:00",
+      "title": "WHAT THEY ARE SAYING: President Trump Unites Industry and State Leaders to Protect American Ratepayers"
     },
     "https://www.whitehouse.gov/releases/2026/07/white-house-ceq-announces-technology-solutions-selected-to-showcase-at-permitting-innovators-expo/": {
       "categories": [
