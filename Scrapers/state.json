@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-29T15:49:14.606434+00:00",
+  "last_successful_run": "2026-07-29T17:15:02.845215+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21657,6 +21657,17 @@
       ],
       "published": "2026-07-22T08:00:59-04:00",
       "title": "Trump Administration Announces More Than $5 Billion for the Genesis Mission, a National Mission on AI for Science"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/crime-plummets-another-historic-low-under-president-trump/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-29T17:15:00.733102+00:00",
+      "paths": [
+        "Releases/2026/07/29/Crime_Plummets_to_Another_Historic_Low_Under_President_Trump.md"
+      ],
+      "published": "2026-07-29T11:53:22-04:00",
+      "title": "Crime Plummets to Another Historic Low Under President Trump"
     },
     "https://www.whitehouse.gov/releases/2026/07/democrat-glitch-registers-thousands-of-noncitizens-to-vote-another-reason-to-pass-the-save-america-act/": {
       "categories": [

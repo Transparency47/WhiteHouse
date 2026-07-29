@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-29T15:49:18.238060+00:00",
+  "generatedAt": "2026-07-29T17:15:06.370782+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-29",
+      "id": "whitehouse:429e6d70eb78cca6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-29T17:15:00.733102+00:00"
+      },
+      "path": "Releases/2026/07/29/Crime_Plummets_to_Another_Historic_Low_Under_President_Trump.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/crime-plummets-another-historic-low-under-president-trump/",
+      "summary": "**Under President Donald J. Trump, violent crime is collapsing at a pace unmatched in modern American history.** A [new mid-year report](https://counciloncj.org/homicide-likely-reaching-a-new-historic-low-as-most-crime-rates-continue-to-decline-at-mid-year/) confirms that homicid",
+      "title": "Crime Plummets to Another Historic Low Under President Trump"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-07-28",
