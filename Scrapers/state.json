@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-30T20:14:08.717379+00:00",
+  "last_successful_run": "2026-07-30T22:08:02.214885+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8383,6 +8383,17 @@
       "published": "2026-07-21T11:56:03-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-07-30T22:07:59.013418+00:00",
+      "paths": [
+        "Fact Sheets/2026/07/30/Fact_Sheet_President_Donald_J_Trump_Delegates_Defense_Production_Act_Authority_with_Respect_to_Recoverable_Critical_Minerals_and_Materials_That_Are_Essential_to_Our_National_Defense.md"
+      ],
+      "published": "2026-07-30T16:34:56-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/": {
       "categories": [
         "Fact Sheets"
@@ -15395,6 +15406,30 @@
       ],
       "published": "2026-07-21T15:58:17-04:00",
       "title": "Nominations Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-07-30T22:07:59.796663+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/07/30/Presidential_Determination_Pursuant_to_Section_101_of_the_Defense_Production_Act_of_1950_as_Amended_on_Recoverable_Critical_Minerals_and_Materials.md"
+      ],
+      "published": "2026-07-30T16:33:26-04:00",
+      "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-permit-authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in-brownsville-texas/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-07-30T22:07:59.405365+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/07/30/Presidential_Permit_Authorizing_Cameron_County_Texas_To_Own_Operate_and_Maintain_the_Brownsville_and_Matamoros_Bridge_in_Brownsville_Texas.md"
+      ],
+      "published": "2026-07-30T16:34:13-04:00",
+      "title": "Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/": {
       "categories": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T20:14:12.038705+00:00",
+  "generatedAt": "2026-07-30T22:08:05.447008+00:00",
   "records": [
     {
       "category": "Releases",
@@ -15,6 +15,32 @@
       "title": "The White House Government Transparency Task Force Fact Sheet"
     },
     {
+      "category": "Presidential Memoranda",
+      "date": "2026-07-30",
+      "id": "whitehouse:434de7c7a7d4d24a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-30T22:07:59.405365+00:00"
+      },
+      "path": "Actions/Memoranda/2026/07/30/Presidential_Permit_Authorizing_Cameron_County_Texas_To_Own_Operate_and_Maintain_the_Brownsville_and_Matamoros_Bridge_in_Brownsville_Texas.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-permit-authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in-brownsville-texas/",
+      "summary": "By virtue of the authority vested in me as President of the United States of America (the \u201cPresident\u201d), I hereby grant permission, subject to the conditions set forth herein, to Cameron County, Texas (the \u201cpermittee\u201d), to own, operate, and maintain a vehicular, pedestrian, and bi",
+      "title": "Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas"
+    },
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-07-30",
+      "id": "whitehouse:008d7202731b4c67",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-30T22:07:59.796663+00:00"
+      },
+      "path": "Actions/Memoranda/2026/07/30/Presidential_Determination_Pursuant_to_Section_101_of_the_Defense_Production_Act_of_1950_as_Amended_on_Recoverable_Critical_Minerals_and_Materials.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF COMMERCE",
+      "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials"
+    },
+    {
       "category": "Briefings & Statements",
       "date": "2026-07-30",
       "id": "whitehouse:1123f2fffbfdeb94",
@@ -26,6 +52,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/",
       "summary": "First Lady Melania Trump has helped reunite a fifth group of Ukrainian and Russian children with their loved ones, continuing her humanitarian work on behalf of those affected by the war. A total of five children were reunited today.",
       "title": "First Lady Melania Trump Facilitates Her Fifth Ukraine\u2013Russia Family Reunification"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-07-30",
+      "id": "whitehouse:e74bdbc25580b5bc",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-30T22:07:59.013418+00:00"
+      },
+      "path": "Fact Sheets/2026/07/30/Fact_Sheet_President_Donald_J_Trump_Delegates_Defense_Production_Act_Authority_with_Respect_to_Recoverable_Critical_Minerals_and_Materials_That_Are_Essential_to_Our_National_Defense.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
+      "summary": "**SECURING AMERICA\u2019S SUPPLY CHAINS:** Today, President Donald J. Trump signed a Presidential Determination delegating authority under the Defense Production Act to institute export restrictions on recoverable critical minerals and materials (CMMs).",
+      "title": "Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense"
     },
     {
       "category": "Briefings & Statements",
