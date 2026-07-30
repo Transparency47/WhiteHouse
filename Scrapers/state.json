@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-30T11:51:28.424676+00:00",
+  "last_successful_run": "2026-07-30T14:02:19.811318+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -21844,6 +21844,17 @@
       ],
       "published": "2026-07-17T18:09:54-04:00",
       "title": "SETTING THE RECORD STRAIGHT: President Trump Declassifies Intel on Foreign Election Interference and Deep State Coverup"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/the-white-house-government-transparency-task-force-fact-sheet/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-30T14:02:17.794954+00:00",
+      "paths": [
+        "Releases/2026/07/30/The_White_House_Government_Transparency_Task_Force_Fact_Sheet.md"
+      ],
+      "published": "2026-07-30T09:18:36-04:00",
+      "title": "The White House Government Transparency Task Force Fact Sheet"
     },
     "https://www.whitehouse.gov/releases/2026/07/trump-administration-unleashes-global-campaign-to-crush-radical-left-terrorism/": {
       "categories": [

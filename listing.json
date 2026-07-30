@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-30T11:51:31.983750+00:00",
+  "generatedAt": "2026-07-30T14:02:23.075140+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-30",
+      "id": "whitehouse:3c9eebc8cbf821c6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-30T14:02:17.794954+00:00"
+      },
+      "path": "Releases/2026/07/30/The_White_House_Government_Transparency_Task_Force_Fact_Sheet.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/the-white-house-government-transparency-task-force-fact-sheet/",
+      "summary": "The White House Government Transparency Task Force releases the following fact sheet approved by the directors of the Office of the Director of National Intelligence, the National Security Agency, the Central Intelligence Agency, and the Department of Homeland Security relating t",
+      "title": "The White House Government Transparency Task Force Fact Sheet"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-07-30",
