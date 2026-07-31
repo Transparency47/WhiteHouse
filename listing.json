@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-07-31T17:37:22.072244+00:00",
+  "generatedAt": "2026-07-31T19:25:21.603245+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-07-31",
+      "id": "whitehouse:b243e1bf32ed9a5e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-07-31T19:25:15.364053+00:00"
+      },
+      "path": "Releases/2026/07/31/ICYMI_Confirm_Todd_Blanche_as_Attorney_General.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/07/icymi-confirm-todd-blanche-as-attorney-general/",
+      "summary": "**President Donald J. Trump\u2019s nominee for Attorney General, Todd Blanche, should be** [**confirmed**](https://truthsocial.com/@realDonaldTrump/posts/117009581290419286) **by the U.S. Senate without delay.** As President Trump has [stated](http://truthsocial.com/@realDonaldTrump/p",
+      "title": "ICYMI: Confirm Todd Blanche as Attorney General"
+    },
     {
       "category": "Releases",
       "date": "2026-07-30",
