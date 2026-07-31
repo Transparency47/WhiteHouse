@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-07-31T19:25:17.885443+00:00",
+  "last_successful_run": "2026-07-31T21:04:12.842935+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -15467,6 +15467,18 @@
       "published": "2026-07-20T15:38:18-04:00",
       "title": "Securing America\u2019s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-07-31T21:04:09.857112+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/07/31/To_Facilitate_Positive_Adjustment_to_Competition_from_Imports_of_Quartz_Surface_Products.md"
+      ],
+      "published": "2026-07-31T17:00:00-04:00",
+      "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products"
+    },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
         "Releases"
@@ -21813,6 +21825,17 @@
       ],
       "published": "2026-07-13T13:21:08-04:00",
       "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham"
+    },
+    "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-07-31T21:04:10.321968+00:00",
+      "paths": [
+        "Releases/2026/07/31/President_Trump_Hosts_Historic_Cabinet_Meeting_at_Camp_David.md"
+      ],
+      "published": "2026-07-31T15:55:19-04:00",
+      "title": "President Trump Hosts Historic Cabinet Meeting at Camp David"
     },
     "https://www.whitehouse.gov/releases/2026/07/president-trump-on-fox-friends-americas-unrelenting-strength-keeps-maximum-pressure-on-iran/": {
       "categories": [
