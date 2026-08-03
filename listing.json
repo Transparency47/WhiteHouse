@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-08-03T17:51:02.903622+00:00",
+  "generatedAt": "2026-08-03T19:37:17.868878+00:00",
   "records": [
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-03",
+      "id": "whitehouse:bed799e332a652d4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-03T19:37:12.731703+00:00"
+      },
+      "path": "Fact Sheets/2026/08/03/Fact_Sheet_President_Donald_J_Trump_Establishes_the_Presidents_Military_Spouse_Commission.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
+      "summary": "**STRENGTHENING MILITARY READINESS:** Today, President Donald J. Trump signed an Executive Order establishing the Military Spouse Commission to strengthen military readiness by improving the quality of life for military spouses and families.",
+      "title": "Fact Sheet: President Donald J. Trump Establishes the President\u2019s Military Spouse Commission"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-08-03",
+      "id": "whitehouse:1e3291d6bd4fc98d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-03T19:37:12.341311+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/08/03/Establishing_the_Presidents_Military_Spouse_Commission.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Establishing the President\u2019s Military Spouse Commission"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-08-03",
+      "id": "whitehouse:fbee2a0bc7918302",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-03T19:37:13.126508+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/08/03/Establishing_the_Presidents_Military_Spouse_Commission_6ac02d2b.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission/",
+      "summary": "Executive Order 14415",
+      "title": "Establishing the President\u2019s Military Spouse Commission"
+    },
     {
       "category": "Proclamations",
       "date": "2026-07-31",
