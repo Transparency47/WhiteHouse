@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-03T19:37:17.868878+00:00",
+  "generatedAt": "2026-08-03T21:02:44.863775+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-03",
+      "id": "whitehouse:a01e1e3e9dadafdd",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-03T21:02:40.003557+00:00"
+      },
+      "path": "Releases/2026/08/03/Under_President_Trump_U_S_Factories_Expand_at_Fastest_Clip_in_More_Than_Four_Years.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/",
+      "summary": "**U.S. manufacturing activity [surged](https://www.bloomberg.com/news/articles/2026-08-03/us-manufacturing-activity-expands-at-strongest-pace-since-2022) in July at the strongest rate in more than four years \u2014 driven by soaring demand, record production, and a wave of new hiring.",
+      "title": "Under President Trump, U.S. Factories Expand at Fastest Clip in More Than Four Years"
+    },
     {
       "category": "Fact Sheets",
       "date": "2026-08-03",
