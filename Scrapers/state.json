@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-04T20:24:38.645400+00:00",
+  "last_successful_run": "2026-08-04T22:12:07.091587+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22014,6 +22014,17 @@
       ],
       "published": "2026-07-14T15:50:00-04:00",
       "title": "White House Launches Gold Eagle Initiative for Unprecedented Cybersecurity Vulnerability Coordination"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-04T22:12:04.643899+00:00",
+      "paths": [
+        "Releases/2026/08/04/Manufacturing_Jobs_Flock_to_the_U_S_Thanks_to_President_Trumps_America_First_Economic_Agenda.md"
+      ],
+      "published": "2026-08-04T17:33:29-04:00",
+      "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump\u2019s America First Economic Agenda"
     },
     "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/": {
       "categories": [

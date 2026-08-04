@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-04T20:24:41.924688+00:00",
+  "generatedAt": "2026-08-04T22:12:10.347537+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-04",
+      "id": "whitehouse:7afdd30e057834b7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-04T22:12:04.643899+00:00"
+      },
+      "path": "Releases/2026/08/04/Manufacturing_Jobs_Flock_to_the_U_S_Thanks_to_President_Trumps_America_First_Economic_Agenda.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/",
+      "summary": "**With President Trump\u2019s economic agenda taking effect, the United States is seeing an economic revival across our manufacturing industry.** July saw the [strongest expansion](https://www.bloomberg.com/news/articles/2026-08-03/us-manufacturing-activity-expands-at-strongest-pace-s",
+      "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump\u2019s America First Economic Agenda"
+    },
     {
       "category": "Releases",
       "date": "2026-08-03",
