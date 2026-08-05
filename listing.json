@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-05T00:02:36.421256+00:00",
+  "generatedAt": "2026-08-05T04:09:36.959127+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-04",
+      "id": "whitehouse:60f827c8f4b8bd99",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-05T04:09:30.598944+00:00"
+      },
+      "path": "Briefings/2026/08/04/Presidential_Message_on_the_Birthday_of_the_United_States_Coast_Guard.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/",
+      "summary": "Today, our Nation celebrates the 236th birthday of the United States Coast Guard, a force of American law enforcement professionals and Coast Guardsmen who stand constant watch over our shores, our waters, and our glorious way of life. From the earliest days of our Republic, Coas",
+      "title": "Presidential Message on the Birthday of the United States Coast Guard"
+    },
     {
       "category": "Releases",
       "date": "2026-08-04",

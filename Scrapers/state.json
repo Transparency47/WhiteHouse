@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-05T00:02:32.771158+00:00",
+  "last_successful_run": "2026-08-05T04:09:33.281080+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4796,6 +4796,17 @@
       ],
       "published": "2026-07-15T16:50:29-04:00",
       "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-05T04:09:30.598944+00:00",
+      "paths": [
+        "Briefings/2026/08/04/Presidential_Message_on_the_Birthday_of_the_United_States_Coast_Guard.md"
+      ],
+      "published": "2026-08-04T20:47:48-04:00",
+      "title": "Presidential Message on the Birthday of the United States Coast Guard"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
