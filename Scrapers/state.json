@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-05T15:13:25.685284+00:00",
+  "last_successful_run": "2026-08-05T17:37:32.524088+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22047,6 +22047,17 @@
       ],
       "published": "2026-08-04T17:33:29-04:00",
       "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump\u2019s America First Economic Agenda"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-05T17:37:29.577529+00:00",
+      "paths": [
+        "Releases/2026/08/05/President_Trump_and_Republicans_Deliver_Big_Wins_for_the_Silver_State.md"
+      ],
+      "published": "2026-08-05T11:53:47-04:00",
+      "title": "President Trump and Republicans Deliver Big Wins for the Silver State"
     },
     "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/": {
       "categories": [

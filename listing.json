@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-05T15:13:29.235379+00:00",
+  "generatedAt": "2026-08-05T17:37:35.287029+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-05",
+      "id": "whitehouse:48382b83a5afe0f3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-05T17:37:29.577529+00:00"
+      },
+      "path": "Releases/2026/08/05/President_Trump_and_Republicans_Deliver_Big_Wins_for_the_Silver_State.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
+      "summary": "**From the largest tax cut for working families in American history to the most secure border on record, Nevada is winning again under President Donald J. Trump and Republican leadership.** Since returning to office, President Trump has cut taxes, driven down crime, secured the b",
+      "title": "President Trump and Republicans Deliver Big Wins for the Silver State"
+    },
     {
       "category": "Releases",
       "date": "2026-08-05",
