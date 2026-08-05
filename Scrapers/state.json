@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-05T10:34:49.453562+00:00",
+  "last_successful_run": "2026-08-05T12:52:28.119231+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22025,6 +22025,17 @@
       ],
       "published": "2026-07-14T15:50:00-04:00",
       "title": "White House Launches Gold Eagle Initiative for Unprecedented Cybersecurity Vulnerability Coordination"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-05T12:52:25.715133+00:00",
+      "paths": [
+        "Releases/2026/08/05/FBI_Secretly_Opened_Probe_Alleging_Trump_Fired_Comey_because_he_was_a_Russian_Asset_Declassified_Memos_Show.md"
+      ],
+      "published": "2026-08-05T06:51:05-04:00",
+      "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian Asset, Declassified Memos Show"
     },
     "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/": {
       "categories": [
