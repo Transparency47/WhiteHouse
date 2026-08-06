@@ -1,6 +1,110 @@
 {
-  "generatedAt": "2026-08-06T15:16:48.142753+00:00",
+  "generatedAt": "2026-08-06T23:59:20.087573+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-06",
+      "id": "whitehouse:5c546711e1f3a044",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:15.245820+00:00"
+      },
+      "path": "Releases/2026/08/06/Private_Sector_Answers_President_Trumps_Call_to_Lower_Prices_for_American_Families.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/",
+      "summary": "President Donald J. Trump inherited an economy battered by years of inflation that crushed working families. Through bold action to restore American energy dominance, slash red tape, and secure fair trade, the Trump Administration is quickly rebuilding the foundation for lasting ",
+      "title": "Private Sector Answers President Trump\u2019s Call to Lower Prices for American Families"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-08-06",
+      "id": "whitehouse:5570e76943fbb8bc",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:14.843705+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/06/National_Purple_Heart_Day_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "National Purple Heart Day, 2026"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-08-06",
+      "id": "whitehouse:ba16bc3257f44e33",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:15.658805+00:00"
+      },
+      "path": "Releases/2026/08/06/Fraud_gov_Track_the_Trump_Administrations_Relentless_War_on_Fraud.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/fraud-gov-track-the-trump-administrations-relentless-war-on-fraud/",
+      "summary": "President Donald J. Trump and Vice President JD Vance are waging war on the fraudsters and scammers who have looted hardworking Americans for far too long.",
+      "title": "Fraud.gov: Track the Trump Administration\u2019s Relentless War on Fraud"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-06",
+      "id": "whitehouse:74dbd783b836b5e6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:12.872657+00:00"
+      },
+      "path": "Fact Sheets/2026/08/06/Fact_Sheet_President_Donald_J_Trump_Ends_Birth_Tourism_and_Protects_the_Meaning_and_Value_of_American_Citizenship.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/",
+      "summary": "**SAFEGUARDING AMERICAN CITIZENSHIP AND ENDING BIRTH TOURISM:** Today, President Donald J. Trump signed two Executive Orders to continue to protect the meaning and value of American citizenship after *Trump v. Barbara*.",
+      "title": "Fact Sheet: President Donald J. Trump Ends Birth Tourism and Protects the Meaning and Value of American Citizenship"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-06",
+      "id": "whitehouse:15b6bc4587183449",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:14.046600+00:00"
+      },
+      "path": "Fact Sheets/2026/08/06/Fact_Sheet_President_Donald_J_Trump_Bolsters_National_Security_and_Strengthens_U_S_Supply_Chains_by_Imposing_Tariffs_on_Polysilicon_and_its_Derivatives.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
+      "summary": "**DEFENDING THE AMERICAN INDUSTRIAL BASE:** Today, President Donald J. Trump signed a Proclamation to protect America\u2019s polysilicon industry and supply chain from imports that threaten national security.",
+      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-08-06",
+      "id": "whitehouse:c15b4d6dfb0c8285",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:13.656710+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/08/06/Ending_Birth_Tourism.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Ending Birth Tourism"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-08-06",
+      "id": "whitehouse:57a0f40a5189014f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:13.264878+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/08/06/Continuing_to_Protect_the_Meaning_and_Value_of_American_Citizenship.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Continuing to Protect the Meaning and Value of American Citizenship"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-08-06",
+      "id": "whitehouse:18fb8a8f3fc6f0f4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-06T23:59:14.455271+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/06/Adjusting_Imports_of_Polysilicon_and_its_Derivatives_into_the_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Adjusting Imports of Polysilicon and its Derivatives into the United States"
+    },
     {
       "category": "Releases",
       "date": "2026-08-05",

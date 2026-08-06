@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-06T15:16:44.844346+00:00",
+  "last_successful_run": "2026-08-06T23:59:17.237681+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8482,6 +8482,28 @@
       "published": "2026-07-20T15:44:17-04:00",
       "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-06T23:59:14.046600+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/06/Fact_Sheet_President_Donald_J_Trump_Bolsters_National_Security_and_Strengthens_U_S_Supply_Chains_by_Imposing_Tariffs_on_Polysilicon_and_its_Derivatives.md"
+      ],
+      "published": "2026-08-06T17:04:59-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-06T23:59:12.872657+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/06/Fact_Sheet_President_Donald_J_Trump_Ends_Birth_Tourism_and_Protects_the_Meaning_and_Value_of_American_Citizenship.md"
+      ],
+      "published": "2026-08-06T17:11:38-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Ends Birth Tourism and Protects the Meaning and Value of American Citizenship"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/": {
       "categories": [
         "Fact Sheets"
@@ -15501,6 +15523,42 @@
       "published": "2026-07-31T17:00:00-04:00",
       "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-06T23:59:14.455271+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/06/Adjusting_Imports_of_Polysilicon_and_its_Derivatives_into_the_United_States.md"
+      ],
+      "published": "2026-08-06T17:03:35-04:00",
+      "title": "Adjusting Imports of Polysilicon and its Derivatives into the United States"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-08-06T23:59:13.264878+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/08/06/Continuing_to_Protect_the_Meaning_and_Value_of_American_Citizenship.md"
+      ],
+      "published": "2026-08-06T17:08:24-04:00",
+      "title": "Continuing to Protect the Meaning and Value of American Citizenship"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-08-06T23:59:13.656710+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/08/06/Ending_Birth_Tourism.md"
+      ],
+      "published": "2026-08-06T17:07:11-04:00",
+      "title": "Ending Birth Tourism"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/": {
       "categories": [
         "Presidential Actions",
@@ -15524,6 +15582,18 @@
       ],
       "published": "2026-08-03T14:20:09-04:00",
       "title": "Establishing the President\u2019s Military Spouse Commission"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-06T23:59:14.843705+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/06/National_Purple_Heart_Day_2026.md"
+      ],
+      "published": "2026-08-06T16:54:24-04:00",
+      "title": "National Purple Heart Day, 2026"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
@@ -22037,6 +22107,17 @@
       "published": "2026-08-05T06:51:05-04:00",
       "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian Asset, Declassified Memos Show"
     },
+    "https://www.whitehouse.gov/releases/2026/08/fraud-gov-track-the-trump-administrations-relentless-war-on-fraud/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-06T23:59:15.658805+00:00",
+      "paths": [
+        "Releases/2026/08/06/Fraud_gov_Track_the_Trump_Administrations_Relentless_War_on_Fraud.md"
+      ],
+      "published": "2026-08-06T11:48:21-04:00",
+      "title": "Fraud.gov: Track the Trump Administration\u2019s Relentless War on Fraud"
+    },
     "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/": {
       "categories": [
         "Releases"
@@ -22058,6 +22139,17 @@
       ],
       "published": "2026-08-05T11:53:47-04:00",
       "title": "President Trump and Republicans Deliver Big Wins for the Silver State"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-06T23:59:15.245820+00:00",
+      "paths": [
+        "Releases/2026/08/06/Private_Sector_Answers_President_Trumps_Call_to_Lower_Prices_for_American_Families.md"
+      ],
+      "published": "2026-08-06T15:59:11-04:00",
+      "title": "Private Sector Answers President Trump\u2019s Call to Lower Prices for American Families"
     },
     "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/": {
       "categories": [
