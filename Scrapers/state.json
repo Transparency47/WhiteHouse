@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-07T18:56:45.655360+00:00",
+  "last_successful_run": "2026-08-07T19:53:30.825512+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8481,6 +8481,17 @@
       ],
       "published": "2026-07-20T15:44:17-04:00",
       "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-07T19:53:29.306347+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/07/Fact_Sheet_President_Donald_J_Trump_Announces_Billions_in_New_Deals_and_Investments_to_Power_American_Mining.md"
+      ],
+      "published": "2026-08-07T15:44:19-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/": {
       "categories": [
