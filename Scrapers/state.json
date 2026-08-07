@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-07T17:49:56.055319+00:00",
+  "last_successful_run": "2026-08-07T18:56:45.655360+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22129,6 +22129,17 @@
       ],
       "published": "2026-08-06T11:48:21-04:00",
       "title": "Fraud.gov: Track the Trump Administration\u2019s Relentless War on Fraud"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-07T18:56:44.377458+00:00",
+      "paths": [
+        "Releases/2026/08/07/ICYMI_Statement_from_President_Donald_J_Trump.md"
+      ],
+      "published": "2026-08-07T14:04:10-04:00",
+      "title": "ICYMI: Statement from President Donald J. Trump"
     },
     "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/": {
       "categories": [
