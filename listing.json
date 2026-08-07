@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-07T14:52:42.106464+00:00",
+  "generatedAt": "2026-08-07T15:55:54.850794+00:00",
   "records": [
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-08-07",
+      "id": "whitehouse:3256b974b6fca4b7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-07T15:55:51.117731+00:00"
+      },
+      "path": "Actions/Nominations/2026/08/07/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
+    },
     {
       "category": "Releases",
       "date": "2026-08-06",
