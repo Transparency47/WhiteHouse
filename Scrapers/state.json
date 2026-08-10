@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-10T18:57:17.732286+00:00",
+  "last_successful_run": "2026-08-10T19:56:15.588159+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8504,6 +8504,17 @@
       "published": "2026-08-06T17:04:59-04:00",
       "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-10T19:56:13.955958+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/10/Fact_Sheet_President_Donald_J_Trump_Delivers_Gold_Standard_Childhood_Vaccine_Recommendations_for_Americans.md"
+      ],
+      "published": "2026-08-10T15:44:46-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/": {
       "categories": [
         "Fact Sheets"
@@ -15557,6 +15568,18 @@
       ],
       "published": "2026-08-06T17:08:24-04:00",
       "title": "Continuing to Protect the Meaning and Value of American Citizenship"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-08-10T19:56:14.372036+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/08/10/Delivering_Gold_Standard_Childhood_Vaccine_Recommendations_for_Americans.md"
+      ],
+      "published": "2026-08-10T15:41:50-04:00",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/": {
       "categories": [

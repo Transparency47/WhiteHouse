@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T18:57:21.388968+00:00",
+  "generatedAt": "2026-08-10T19:56:19.274795+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/one-year-later-president-trump-has-delivered-on-making-d-c-safe-again/",
       "summary": "One year after President Donald J. Trump [declared](https://www.whitehouse.gov/presidential-actions/2025/08/declaring-a-crime-emergency-in-the-district-of-columbia/) a crime emergency in the District of Columbia and [unleashed](https://www.whitehouse.gov/fact-sheets/2025/08/fact-",
       "title": "One Year Later, President Trump Has Delivered on Making D.C. Safe Again"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-10",
+      "id": "whitehouse:1e3487f61916b558",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-10T19:56:13.955958+00:00"
+      },
+      "path": "Fact Sheets/2026/08/10/Fact_Sheet_President_Donald_J_Trump_Delivers_Gold_Standard_Childhood_Vaccine_Recommendations_for_Americans.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
+      "summary": "**DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS:** Today, President Donald J. Trump signed an Executive Order to recognize Gold Standard Childhood Vaccine Recommendations that maximize parental choices over vaccinations for their children and align three categories o",
+      "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-08-10",
+      "id": "whitehouse:dc346bcd1152b102",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-10T19:56:14.372036+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/08/10/Delivering_Gold_Standard_Childhood_Vaccine_Recommendations_for_Americans.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans"
     },
     {
       "category": "Nominations & Appointments",
