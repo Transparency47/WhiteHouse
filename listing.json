@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-10T20:45:07.305612+00:00",
+  "generatedAt": "2026-08-10T21:41:13.949329+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-10",
+      "id": "whitehouse:6688da3d36ad54ec",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-10T21:41:09.105946+00:00"
+      },
+      "path": "Briefings/2026/08/10/Presidential_Message_on_National_Shooting_Sports_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/",
+      "summary": "This National Shooting Sports Month, we celebrate America\u2019s proud tradition of recreational shooting and hunting and the glorious exercise of our Second Amendment rights. For generations, this time-honored way of life has instilled discipline, promoted rugged individualism that d",
+      "title": "Presidential Message on National Shooting Sports Month"
+    },
     {
       "category": "Releases",
       "date": "2026-08-10",

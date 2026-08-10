@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-10T20:45:03.685523+00:00",
+  "last_successful_run": "2026-08-10T21:41:10.322256+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4796,6 +4796,17 @@
       ],
       "published": "2026-07-15T16:50:29-04:00",
       "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-10T21:41:09.105946+00:00",
+      "paths": [
+        "Briefings/2026/08/10/Presidential_Message_on_National_Shooting_Sports_Month.md"
+      ],
+      "published": "2026-08-10T17:06:36-04:00",
+      "title": "Presidential Message on National Shooting Sports Month"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/": {
       "categories": [
