@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-10T17:51:19.063167+00:00",
+  "last_successful_run": "2026-08-10T18:57:17.732286+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22162,6 +22162,17 @@
       ],
       "published": "2026-08-04T17:33:29-04:00",
       "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump\u2019s America First Economic Agenda"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/one-year-later-president-trump-has-delivered-on-making-d-c-safe-again/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-10T18:57:16.085593+00:00",
+      "paths": [
+        "Releases/2026/08/10/One_Year_Later_President_Trump_Has_Delivered_on_Making_D_C_Safe_Again.md"
+      ],
+      "published": "2026-08-10T14:06:42-04:00",
+      "title": "One Year Later, President Trump Has Delivered on Making D.C. Safe Again"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/": {
       "categories": [

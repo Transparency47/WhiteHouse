@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-10T17:51:22.999656+00:00",
+  "generatedAt": "2026-08-10T18:57:21.388968+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-10",
+      "id": "whitehouse:00e29a3785520887",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-10T18:57:16.085593+00:00"
+      },
+      "path": "Releases/2026/08/10/One_Year_Later_President_Trump_Has_Delivered_on_Making_D_C_Safe_Again.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/one-year-later-president-trump-has-delivered-on-making-d-c-safe-again/",
+      "summary": "One year after President Donald J. Trump [declared](https://www.whitehouse.gov/presidential-actions/2025/08/declaring-a-crime-emergency-in-the-district-of-columbia/) a crime emergency in the District of Columbia and [unleashed](https://www.whitehouse.gov/fact-sheets/2025/08/fact-",
+      "title": "One Year Later, President Trump Has Delivered on Making D.C. Safe Again"
+    },
     {
       "category": "Nominations & Appointments",
       "date": "2026-08-07",
