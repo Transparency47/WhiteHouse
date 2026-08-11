@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-11T16:04:16.635530+00:00",
+  "last_successful_run": "2026-08-11T17:56:56.156236+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22185,6 +22185,17 @@
       ],
       "published": "2026-08-07T14:04:10-04:00",
       "title": "ICYMI: Statement from President Donald J. Trump"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/icymi-violent-crime-keeps-falling-in-biggest-u-s-cities/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-11T17:56:54.939596+00:00",
+      "paths": [
+        "Releases/2026/08/11/ICYMI_Violent_crime_keeps_falling_in_biggest_U_S_cities.md"
+      ],
+      "published": "2026-08-11T13:38:27-04:00",
+      "title": "ICYMI: \u201cViolent crime keeps falling in biggest U.S. cities\u201d"
     },
     "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/": {
       "categories": [

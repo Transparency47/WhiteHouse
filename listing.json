@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-11T16:04:20.250804+00:00",
+  "generatedAt": "2026-08-11T17:56:59.157059+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-11",
+      "id": "whitehouse:12da185d02fe17ba",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-11T17:56:54.939596+00:00"
+      },
+      "path": "Releases/2026/08/11/ICYMI_Violent_crime_keeps_falling_in_biggest_U_S_cities.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/icymi-violent-crime-keeps-falling-in-biggest-u-s-cities/",
+      "summary": "**A new** [**mid-year crime report**](https://majorcitieschiefs.com/wp-content/uploads/2026/08/MCCA-Violent-Crime-Report-2026-and-2025-Midyear.pdf) **delivers more clear proof: President Donald J. Trump\u2019s law-and-order agenda is crushing violent crime across America.**",
+      "title": "ICYMI: \u201cViolent crime keeps falling in biggest U.S. cities\u201d"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-08-10",
