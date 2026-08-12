@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-12T20:44:03.573434+00:00",
+  "last_successful_run": "2026-08-12T21:44:43.726764+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8548,6 +8548,17 @@
       "published": "2026-08-03T14:55:57-04:00",
       "title": "Fact Sheet: President Donald J. Trump Establishes the President\u2019s Military Spouse Commission"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-expands-capabilities-to-combat-transnational-cyber-enabled-crime/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-12T21:44:41.788908+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/12/Fact_Sheet_President_Donald_J_Trump_Expands_Capabilities_to_Combat_Transnational_Cyber_Enabled_Crime.md"
+      ],
+      "published": "2026-08-12T17:43:04-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
         "Presidential Actions"
@@ -15628,6 +15639,18 @@
       "published": "2026-08-03T14:20:09-04:00",
       "title": "Establishing the President\u2019s Military Spouse Commission"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-08-12T21:44:41.381840+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/08/12/Expanding_Capabilities_to_Combat_Transnational_Cyber_Enabled_Crime.md"
+      ],
+      "published": "2026-08-12T17:43:13-04:00",
+      "title": "Expanding Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/": {
       "categories": [
         "Presidential Actions",
@@ -15639,6 +15662,18 @@
       ],
       "published": "2026-08-06T16:54:24-04:00",
       "title": "National Purple Heart Day, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/national-substance-use-primary-prevention-month-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-12T21:44:42.195228+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/12/National_Substance_Use_Primary_Prevention_Month_2026.md"
+      ],
+      "published": "2026-08-12T17:37:50-04:00",
+      "title": "National Substance Use Primary Prevention Month, 2026"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/": {
       "categories": [

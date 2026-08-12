@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-08-12T20:44:07.216659+00:00",
+  "generatedAt": "2026-08-12T21:44:46.330391+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-08-12",
+      "id": "whitehouse:fa894d3841785845",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-12T21:44:42.195228+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/12/National_Substance_Use_Primary_Prevention_Month_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/national-substance-use-primary-prevention-month-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "National Substance Use Primary Prevention Month, 2026"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-12",
+      "id": "whitehouse:6ef3d9d89cc5a818",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-12T21:44:41.788908+00:00"
+      },
+      "path": "Fact Sheets/2026/08/12/Fact_Sheet_President_Donald_J_Trump_Expands_Capabilities_to_Combat_Transnational_Cyber_Enabled_Crime.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-expands-capabilities-to-combat-transnational-cyber-enabled-crime/",
+      "summary": "**THWARTING CYBER CRIMES:** Today, President Donald J. Trump signed a National Security Presidential Memorandum (NSPM) empowering U.S. Federal law enforcement to use cyber tools to disrupt transnational criminal organizations (TCOs) that operate in foreign jurisdictions to attack",
+      "title": "Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-08-12",
+      "id": "whitehouse:54a4b96b26357f1b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-12T21:44:41.381840+00:00"
+      },
+      "path": "Actions/Memoranda/2026/08/12/Expanding_Capabilities_to_Combat_Transnational_Cyber_Enabled_Crime.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/",
+      "summary": "MEMORANDUM FOR THE VICE PRESIDENT",
+      "title": "Expanding Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
     {
       "category": "Releases",
       "date": "2026-08-11",
