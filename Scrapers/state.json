@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-13T08:20:51.354035+00:00",
+  "last_successful_run": "2026-08-13T10:05:44.119085+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22286,6 +22286,17 @@
       ],
       "published": "2026-08-06T15:59:11-04:00",
       "title": "Private Sector Answers President Trump\u2019s Call to Lower Prices for American Families"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-13T10:05:42.930592+00:00",
+      "paths": [
+        "Releases/2026/08/13/The_Great_Transshipment_Scam.md"
+      ],
+      "published": "2026-08-13T05:00:00-04:00",
+      "title": "The Great Transshipment Scam"
     },
     "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/": {
       "categories": [
