@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T20:42:01.629772+00:00",
+  "generatedAt": "2026-08-13T21:44:35.435511+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,58 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/",
       "summary": "The Great Transshipment Scam",
       "title": "The Great Transshipment Scam"
+    },
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-08-13",
+      "id": "whitehouse:5e0ffff5577beac7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-13T21:44:30.446703+00:00"
+      },
+      "path": "Actions/Memoranda/2026/08/13/Rebuilding_the_United_States_Navy_and_Americas_Shipbuilding_Industrial_Base.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF WAR",
+      "title": "Rebuilding the United States Navy and America\u2019s Shipbuilding Industrial Base"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-13",
+      "id": "whitehouse:a835a79ca26f34c7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-13T21:44:29.168750+00:00"
+      },
+      "path": "Fact Sheets/2026/08/13/Fact_Sheet_President_Donald_J_Trump_Rebuilds_the_U_S_Navy_and_Americas_Shipbuilding_Industrial_Base.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/",
+      "summary": "**TRANSFORMING U.S. SHIPBUILDING:** Today, President Donald J. Trump signed a National Security Presidential Memorandum to fix critical long-term issues in Navy shipbuilding and ship repair programs and restore capacity and competition to the maritime industrial base.",
+      "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America\u2019s Shipbuilding Industrial Base"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-13",
+      "id": "whitehouse:a0531a513137ad5d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-13T21:44:29.593137+00:00"
+      },
+      "path": "Fact Sheets/2026/08/13/Fact_Sheet_President_Donald_J_Trump_Bolsters_National_Security_and_Strengthens_U_S_Supply_Chains_by_Imposing_Tariffs_on_Drones_and_Their_Parts_and_Components.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/",
+      "summary": "**SECURING AMERICAN DRONE DOMINANCE:** Today, President Donald J. Trump signed a Proclamation to address the national security threat posed by imports of drones and their components, including by strengthening America\u2019s drone industry and supply chain.",
+      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-08-13",
+      "id": "whitehouse:1052352bee0e07d6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-13T21:44:30.024006+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/13/Adjusting_Imports_of_Unmanned_Aircraft_Systems_and_Unmanned_Aircraft_Systems_Components_into_the_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States"
     },
     {
       "category": "Proclamations",

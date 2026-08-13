@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-13T20:41:58.260919+00:00",
+  "last_successful_run": "2026-08-13T21:44:32.083064+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8504,6 +8504,17 @@
       "published": "2026-08-07T15:44:19-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-13T21:44:29.593137+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/13/Fact_Sheet_President_Donald_J_Trump_Bolsters_National_Security_and_Strengthens_U_S_Supply_Chains_by_Imposing_Tariffs_on_Drones_and_Their_Parts_and_Components.md"
+      ],
+      "published": "2026-08-13T17:22:01-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/": {
       "categories": [
         "Fact Sheets"
@@ -8558,6 +8569,17 @@
       ],
       "published": "2026-08-12T17:43:04-04:00",
       "title": "Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-13T21:44:29.168750+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/13/Fact_Sheet_President_Donald_J_Trump_Rebuilds_the_U_S_Navy_and_Americas_Shipbuilding_Industrial_Base.md"
+      ],
+      "published": "2026-08-13T17:23:07-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America\u2019s Shipbuilding Industrial Base"
     },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
@@ -15579,6 +15601,18 @@
       "published": "2026-08-06T17:03:35-04:00",
       "title": "Adjusting Imports of Polysilicon and its Derivatives into the United States"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-13T21:44:30.024006+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/13/Adjusting_Imports_of_Unmanned_Aircraft_Systems_and_Unmanned_Aircraft_Systems_Components_into_the_United_States.md"
+      ],
+      "published": "2026-08-13T17:21:57-04:00",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/": {
       "categories": [
         "Presidential Actions",
@@ -15686,6 +15720,18 @@
       ],
       "published": "2026-08-07T11:09:20-04:00",
       "title": "Nominations Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-08-13T21:44:30.446703+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/08/13/Rebuilding_the_United_States_Navy_and_Americas_Shipbuilding_Industrial_Base.md"
+      ],
+      "published": "2026-08-13T17:21:46-04:00",
+      "title": "Rebuilding the United States Navy and America\u2019s Shipbuilding Industrial Base"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
