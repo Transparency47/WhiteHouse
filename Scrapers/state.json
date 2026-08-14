@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-14T16:52:29.238175+00:00",
+  "last_successful_run": "2026-08-14T17:52:38.544757+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4807,6 +4807,28 @@
       ],
       "published": "2026-08-10T17:06:36-04:00",
       "title": "Presidential Message on National Shooting Sports Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-the-social-security-act/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-14T17:52:36.965558+00:00",
+      "paths": [
+        "Briefings/2026/08/14/Presidential_Message_on_the_Anniversary_of_the_Social_Security_Act.md"
+      ],
+      "published": "2026-08-14T13:36:36-04:00",
+      "title": "Presidential Message on the Anniversary of the Social Security Act"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-winning-world-war-ii/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-14T17:52:36.557275+00:00",
+      "paths": [
+        "Briefings/2026/08/14/Presidential_Message_on_the_Anniversary_of_Winning_World_War_II.md"
+      ],
+      "published": "2026-08-14T13:39:15-04:00",
+      "title": "Presidential Message on the Anniversary of Winning World War II"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/": {
       "categories": [

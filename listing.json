@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-08-14T16:52:32.903299+00:00",
+  "generatedAt": "2026-08-14T17:52:42.255227+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-14",
+      "id": "whitehouse:4ed2d1218a7f0e7f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-14T17:52:36.965558+00:00"
+      },
+      "path": "Briefings/2026/08/14/Presidential_Message_on_the_Anniversary_of_the_Social_Security_Act.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-the-social-security-act/",
+      "summary": "Today, our Nation commemorates 91 years since President Franklin D. Roosevelt signed the landmark Social Security Act into law. For more than nine decades, this program has stood as a fundamental promise at the heart of American life, guaranteeing that the men and women who built",
+      "title": "Presidential Message on the Anniversary of the Social Security Act"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-14",
+      "id": "whitehouse:250c40af3562e866",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-14T17:52:36.557275+00:00"
+      },
+      "path": "Briefings/2026/08/14/Presidential_Message_on_the_Anniversary_of_Winning_World_War_II.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-winning-world-war-ii/",
+      "summary": "Today, our Nation celebrates the 81st anniversary of Imperial Japan\u2019s unconditional surrender\u2014the moment American might brought the Second World War to its end in complete and total victory. On this monumental occasion, we pay tribute to the grit and sacrifice of the warriors who",
+      "title": "Presidential Message on the Anniversary of Winning World War II"
+    },
     {
       "category": "Releases",
       "date": "2026-08-13",
