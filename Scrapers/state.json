@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-17T12:42:55.575931+00:00",
+  "last_successful_run": "2026-08-17T13:38:52.649140+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4796,6 +4796,17 @@
       ],
       "published": "2026-07-15T16:50:29-04:00",
       "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-17T13:38:51.412094+00:00",
+      "paths": [
+        "Briefings/2026/08/17/First_Lady_Melania_Trumps_Efforts_Prove_Successful_in_Ukraine_Russia.md"
+      ],
+      "published": "2026-08-17T09:02:21-04:00",
+      "title": "First Lady Melania Trump\u2019s Efforts Prove Successful in Ukraine-Russia"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/": {
       "categories": [

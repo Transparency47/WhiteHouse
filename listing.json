@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-17T12:42:58.975451+00:00",
+  "generatedAt": "2026-08-17T13:38:56.297743+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-17",
+      "id": "whitehouse:9c2b504175afb7a1",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-17T13:38:51.412094+00:00"
+      },
+      "path": "Briefings/2026/08/17/First_Lady_Melania_Trumps_Efforts_Prove_Successful_in_Ukraine_Russia.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
+      "summary": "First Lady Melania Trump facilitated the reunification of another child with her family on Monday, August 17, 2026, after being separated during the Ukraine \u2013 Russia Federation conflict.",
+      "title": "First Lady Melania Trump\u2019s Efforts Prove Successful in Ukraine-Russia"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-08-14",
