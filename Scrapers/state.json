@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-17T14:27:27.295181+00:00",
+  "last_successful_run": "2026-08-17T15:25:00.432167+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22310,6 +22310,17 @@
       ],
       "published": "2026-08-07T14:04:10-04:00",
       "title": "ICYMI: Statement from President Donald J. Trump"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-17T15:24:58.959549+00:00",
+      "paths": [
+        "Releases/2026/08/17/ICYMI_USS_Lincoln_Performance_For_the_Ages.md"
+      ],
+      "published": "2026-08-17T10:29:09-04:00",
+      "title": "ICYMI: \u201cUSS Lincoln: Performance For the Ages\u201d"
     },
     "https://www.whitehouse.gov/releases/2026/08/icymi-violent-crime-keeps-falling-in-biggest-u-s-cities/": {
       "categories": [

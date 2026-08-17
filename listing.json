@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:27:30.703022+00:00",
+  "generatedAt": "2026-08-17T15:25:04.117087+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
       "summary": "**President Donald J. Trump promised to slash prescription drug prices \u2014 and he has delivered.** [New data](https://www.bls.gov/news.release/cpi.nr0.htm) confirms prescription drug prices just recorded their largest annual decline in more than 60 years, the steepest drop since 19",
       "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-08-17",
+      "id": "whitehouse:e591e01a6b63e4cd",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-17T15:24:58.959549+00:00"
+      },
+      "path": "Releases/2026/08/17/ICYMI_USS_Lincoln_Performance_For_the_Ages.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/",
+      "summary": "**In a** [**powerful op-ed**](https://www.wsj.com/opinion/uss-lincoln-performance-for-the-ages-0bd6300d) **, U.S. Central Command Commander Adm. Brad Cooper shares a firsthand account from his visit to the USS Abraham Lincoln.** Adm. Cooper describes a crew of extraordinary Ameri",
+      "title": "ICYMI: \u201cUSS Lincoln: Performance For the Ages\u201d"
     },
     {
       "category": "Briefings & Statements",
