@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-17T13:38:52.649140+00:00",
+  "last_successful_run": "2026-08-17T14:27:27.295181+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22354,6 +22354,17 @@
       ],
       "published": "2026-08-05T11:53:47-04:00",
       "title": "President Trump and Republicans Deliver Big Wins for the Silver State"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-17T14:27:26.105988+00:00",
+      "paths": [
+        "Releases/2026/08/17/President_Trump_Delivers_Largest_Prescription_Drug_Price_Drop_in_Over_60_Years.md"
+      ],
+      "published": "2026-08-17T10:03:07-04:00",
+      "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years"
     },
     "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/": {
       "categories": [

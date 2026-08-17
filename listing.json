@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-17T13:38:56.297743+00:00",
+  "generatedAt": "2026-08-17T14:27:30.703022+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-17",
+      "id": "whitehouse:56319a1bc2f1dcc8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-17T14:27:26.105988+00:00"
+      },
+      "path": "Releases/2026/08/17/President_Trump_Delivers_Largest_Prescription_Drug_Price_Drop_in_Over_60_Years.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
+      "summary": "**President Donald J. Trump promised to slash prescription drug prices \u2014 and he has delivered.** [New data](https://www.bls.gov/news.release/cpi.nr0.htm) confirms prescription drug prices just recorded their largest annual decline in more than 60 years, the steepest drop since 19",
+      "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-08-17",
