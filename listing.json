@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-18T13:41:39.663876+00:00",
+  "generatedAt": "2026-08-18T14:33:13.001938+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-17",
+      "id": "whitehouse:cfd8e478b6b16d04",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-18T14:33:08.425533+00:00"
+      },
+      "path": "Briefings/2026/08/17/Presidential_Message_on_National_Employer_Support_of_the_Guard_and_Reserve_Week.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-employer-support-of-the-guard-and-reserve-week-1d9a/",
+      "summary": "The citizen warriors of the National Guard and Reserve carry forward a tradition as old as our Republic itself, building careers in the communities they serve while answering our Nation\u2019s call in its hour of need. Their service strengthens our communities, powers our economy, and",
+      "title": "Presidential Message on National Employer Support of the Guard and Reserve Week"
+    },
     {
       "category": "Releases",
       "date": "2026-08-17",

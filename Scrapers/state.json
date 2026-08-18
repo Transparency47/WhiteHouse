@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-18T13:41:36.037047+00:00",
+  "last_successful_run": "2026-08-18T14:33:09.651556+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4807,6 +4807,17 @@
       ],
       "published": "2026-08-17T09:02:21-04:00",
       "title": "First Lady Melania Trump\u2019s Efforts Prove Successful in Ukraine-Russia"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-employer-support-of-the-guard-and-reserve-week-1d9a/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-18T14:33:08.425533+00:00",
+      "paths": [
+        "Briefings/2026/08/17/Presidential_Message_on_National_Employer_Support_of_the_Guard_and_Reserve_Week.md"
+      ],
+      "published": "2026-08-17T17:15:00-04:00",
+      "title": "Presidential Message on National Employer Support of the Guard and Reserve Week"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/": {
       "categories": [
