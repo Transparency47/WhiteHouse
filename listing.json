@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:27:15.374918+00:00",
+  "generatedAt": "2026-08-18T20:23:36.765187+00:00",
   "records": [
     {
       "category": "Releases",
@@ -11,6 +11,19 @@
       },
       "path": "Releases/2026/08/18/President_Trump_Delivers_the_Largest_Drop_in_Violent_Crime_in_American_History.md",
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-the-largest-drop-in-violent-crime-in-american-history/",
+      "summary": "**President Donald J. Trump and his Administration have delivered the most dramatic decline in violent crime in American history.** According to the FBI\u2019s newly released [Uniform Crime Report for 2025](https://www.fbi.gov/news/press-releases/fbi-releases-2025-reported-crimes-in-t",
+      "title": "President Trump Delivers the Largest Drop in Violent Crime in American History"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-08-18",
+      "id": "whitehouse:98350502a1f91f8b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-18T20:23:31.556225+00:00"
+      },
+      "path": "Releases/2026/08/18/President_Trump_Delivers_the_Largest_Drop_in_Violent_Crime_in_American_History_ac44de64.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-drop-in-violent-crime-in-american-history/",
       "summary": "**President Donald J. Trump and his Administration have delivered the most dramatic decline in violent crime in American history.** According to the FBI\u2019s newly released [Uniform Crime Report for 2025](https://www.fbi.gov/news/press-releases/fbi-releases-2025-reported-crimes-in-t",
       "title": "President Trump Delivers the Largest Drop in Violent Crime in American History"
     },
