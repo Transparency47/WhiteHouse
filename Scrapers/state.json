@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-18T18:37:40.561550+00:00",
+  "last_successful_run": "2026-08-18T19:27:11.756330+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22387,6 +22387,17 @@
       ],
       "published": "2026-08-17T10:03:07-04:00",
       "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-the-largest-drop-in-violent-crime-in-american-history/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-18T19:27:10.556376+00:00",
+      "paths": [
+        "Releases/2026/08/18/President_Trump_Delivers_the_Largest_Drop_in_Violent_Crime_in_American_History.md"
+      ],
+      "published": "2026-08-18T14:38:45-04:00",
+      "title": "President Trump Delivers the Largest Drop in Violent Crime in American History"
     },
     "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/": {
       "categories": [
