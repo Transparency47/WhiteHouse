@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-19T01:14:52.847579+00:00",
+  "generatedAt": "2026-08-19T02:56:53.614811+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-08-18",
+      "id": "whitehouse:449493c4778a0132",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-19T02:56:49.804403+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/18/Temporary_Suspension_of_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Alcoholic_Beverages_Dairy_and_Motor_Vehicles.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/temporary-suspension-of-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages-dairy-and-motor-vehicles/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles"
+    },
     {
       "category": "Releases",
       "date": "2026-08-18",

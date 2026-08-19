@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-19T01:14:50.181874+00:00",
+  "last_successful_run": "2026-08-19T02:56:51.000862+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -15776,6 +15776,18 @@
       ],
       "published": "2026-08-13T17:21:46-04:00",
       "title": "Rebuilding the United States Navy and America\u2019s Shipbuilding Industrial Base"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/temporary-suspension-of-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages-dairy-and-motor-vehicles/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-19T02:56:49.804403+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/18/Temporary_Suspension_of_Additional_Duties_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Alcoholic_Beverages_Dairy_and_Motor_Vehicles.md"
+      ],
+      "published": "2026-08-18T22:34:18-04:00",
+      "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
