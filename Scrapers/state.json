@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-19T21:24:56.302529+00:00",
+  "last_successful_run": "2026-08-19T22:24:21.936342+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22421,6 +22421,17 @@
       ],
       "published": "2026-08-18T14:38:45-04:00",
       "title": "President Trump Delivers the Largest Drop in Violent Crime in American History"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-19T22:24:20.758499+00:00",
+      "paths": [
+        "Releases/2026/08/19/President_Trumps_Trade_Agenda_Is_Rebuilding_the_American_Auto_Industry.md"
+      ],
+      "published": "2026-08-19T17:42:19-04:00",
+      "title": "President Trump\u2019s Trade Agenda Is Rebuilding the American Auto Industry"
     },
     "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/": {
       "categories": [
