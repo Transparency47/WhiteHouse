@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-08-20T20:27:52.312666+00:00",
+  "generatedAt": "2026-08-20T21:27:29.772902+00:00",
   "records": [
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-08-20",
+      "id": "whitehouse:8f7595512d999eeb",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-20T21:27:25.482938+00:00"
+      },
+      "path": "Actions/Memoranda/2026/08/20/The_National_Space_Transportation_Policy.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF WAR THE SECRETARY OF THE INTERIOR THE SECRETARY OF COMMERCE THE SECRETARY OF TRANSPORTATION THE SECRETARY OF ENERGY THE SECRETARY OF HOMELAND SECURITY THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE DIRECTOR OF NATION",
+      "title": "The National Space Transportation Policy"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-08-20",
+      "id": "whitehouse:7a3837c111877004",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-20T21:27:25.881790+00:00"
+      },
+      "path": "Releases/2026/08/20/President_Trumps_Cabinet_Champions_America_First_Successes_Nationwide.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
+      "summary": "**From the heartland to the coasts, members of President Donald J. Trump\u2019s Cabinet are on the ground across the nation to engage with Americans and showcase the Administration\u2019s signature achievements.** From energy dominance and infrastructure modernization to manufacturing grow",
+      "title": "President Trump\u2019s Cabinet Champions America First Successes Nationwide"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-20",
+      "id": "whitehouse:385f771f3b2d3d19",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-20T21:27:25.081456+00:00"
+      },
+      "path": "Fact Sheets/2026/08/20/Fact_Sheet_President_Donald_J_Trump_Launches_the_Golden_Age_of_Space_Transportation.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/",
+      "summary": "**RENEWING AMERICAN SPACE TRANSPORTATION LEADERSHIP:** Today, President Donald J. Trump signed a National Security Presidential Memorandum to reinvigorate America\u2019s leadership in space transportation and enable over 1,000 launches and reentries on American soil annually by 2030.",
+      "title": "Fact Sheet: President Donald J. Trump Launches the Golden Age of Space Transportation"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-20",
+      "id": "whitehouse:9217ec584157a2c4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-20T21:27:26.276453+00:00"
+      },
+      "path": "Briefings/2026/08/20/2_Million_Donation_Expands_First_Lady_Melania_Trumps_Fostering_the_Future_Initiative_to_Indiana_University_and_Purdue_University.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/",
+      "summary": "First Lady Melania Trump\u2019s Fostering the Future initiative will expand its national network through a $2 million donation from IndyCar and Fox Corporation to fund scholarships at Indiana University and Purdue University.",
+      "title": "$2 Million Donation Expands First Lady Melania Trump\u2019s Fostering the Future Initiative to Indiana University and Purdue University"
+    },
     {
       "category": "Releases",
       "date": "2026-08-19",

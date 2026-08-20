@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-20T20:27:48.669208+00:00",
+  "last_successful_run": "2026-08-20T21:27:27.746461+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4797,6 +4797,17 @@
       "published": "2026-07-15T16:50:29-04:00",
       "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-20T21:27:26.276453+00:00",
+      "paths": [
+        "Briefings/2026/08/20/2_Million_Donation_Expands_First_Lady_Melania_Trumps_Fostering_the_Future_Initiative_to_Indiana_University_and_Purdue_University.md"
+      ],
+      "published": "2026-08-20T16:41:41-04:00",
+      "title": "$2 Million Donation Expands First Lady Melania Trump\u2019s Fostering the Future Initiative to Indiana University and Purdue University"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/": {
       "categories": [
         "Briefings & Statements"
@@ -8613,6 +8624,17 @@
       ],
       "published": "2026-08-12T17:43:04-04:00",
       "title": "Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-20T21:27:25.081456+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/20/Fact_Sheet_President_Donald_J_Trump_Launches_the_Golden_Age_of_Space_Transportation.md"
+      ],
+      "published": "2026-08-20T16:58:25-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Launches the Golden Age of Space Transportation"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/": {
       "categories": [
@@ -15741,6 +15763,18 @@
       "published": "2026-08-06T16:54:24-04:00",
       "title": "National Purple Heart Day, 2026"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-08-20T21:27:25.482938+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/08/20/The_National_Space_Transportation_Policy.md"
+      ],
+      "published": "2026-08-20T16:54:58-04:00",
+      "title": "The National Space Transportation Policy"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/08/national-substance-use-primary-prevention-month-2026/": {
       "categories": [
         "Presidential Actions",
@@ -22421,6 +22455,17 @@
       ],
       "published": "2026-08-18T14:38:45-04:00",
       "title": "President Trump Delivers the Largest Drop in Violent Crime in American History"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-20T21:27:25.881790+00:00",
+      "paths": [
+        "Releases/2026/08/20/President_Trumps_Cabinet_Champions_America_First_Successes_Nationwide.md"
+      ],
+      "published": "2026-08-20T16:43:03-04:00",
+      "title": "President Trump\u2019s Cabinet Champions America First Successes Nationwide"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/": {
       "categories": [
