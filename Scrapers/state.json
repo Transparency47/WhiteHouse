@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-21T19:25:25.527455+00:00",
+  "last_successful_run": "2026-08-21T20:25:28.558822+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22422,6 +22422,17 @@
       ],
       "published": "2026-08-05T11:53:47-04:00",
       "title": "President Trump and Republicans Deliver Big Wins for the Silver State"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-21T20:25:27.351672+00:00",
+      "paths": [
+        "Releases/2026/08/21/President_Trump_and_Republicans_Deliver_for_South_Carolina_Families.md"
+      ],
+      "published": "2026-08-21T16:00:54-04:00",
+      "title": "President Trump and Republicans Deliver for South Carolina Families"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-drop-in-violent-crime-in-american-history/": {
       "categories": [

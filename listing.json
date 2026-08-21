@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-21T19:25:29.137649+00:00",
+  "generatedAt": "2026-08-21T20:25:32.208142+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-21",
+      "id": "whitehouse:d9ac631b77cfb756",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-21T20:25:27.351672+00:00"
+      },
+      "path": "Releases/2026/08/21/President_Trump_and_Republicans_Deliver_for_South_Carolina_Families.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
+      "summary": "**Today, President Donald J. Trump returns to South Carolina to celebrate the powerful results of America First leadership.** Under President Trump and Republicans, South Carolina is thriving: the largest tax cuts for working families in a generation, the most secure border in hi",
+      "title": "President Trump and Republicans Deliver for South Carolina Families"
+    },
     {
       "category": "Presidential Memoranda",
       "date": "2026-08-20",
