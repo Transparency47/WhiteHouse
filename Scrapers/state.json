@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-24T16:36:55.717455+00:00",
+  "last_successful_run": "2026-08-24T17:30:26.368745+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22433,6 +22433,17 @@
       ],
       "published": "2026-08-21T16:00:54-04:00",
       "title": "President Trump and Republicans Deliver for South Carolina Families"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-24T17:30:25.188638+00:00",
+      "paths": [
+        "Releases/2026/08/24/President_Trump_Champions_Educational_Freedom_Putting_Students_and_Parents_First.md"
+      ],
+      "published": "2026-08-24T12:41:15-04:00",
+      "title": "President Trump Champions Educational Freedom \u2014 Putting Students and Parents First"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-drop-in-violent-crime-in-american-history/": {
       "categories": [

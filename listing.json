@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-24T16:36:58.579828+00:00",
+  "generatedAt": "2026-08-24T17:30:28.975041+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-24",
+      "id": "whitehouse:cc8e7347a55f1c06",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-24T17:30:25.188638+00:00"
+      },
+      "path": "Releases/2026/08/24/President_Trump_Champions_Educational_Freedom_Putting_Students_and_Parents_First.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
+      "summary": "**Today, President Donald J. Trump** [**welcomes**](https://www.dailysignal.com/2026/08/23/trump-school-choice-rose-garden/) **students, parents, and education advocates to the White House to celebrate the start of a new school year.** Under President Trump\u2019s and Secretary of Edu",
+      "title": "President Trump Champions Educational Freedom \u2014 Putting Students and Parents First"
+    },
     {
       "category": "Releases",
       "date": "2026-08-21",
