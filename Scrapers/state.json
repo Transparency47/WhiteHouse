@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-24T18:39:17.433033+00:00",
+  "last_successful_run": "2026-08-24T19:29:08.326808+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4829,6 +4829,17 @@
       ],
       "published": "2026-08-17T17:15:00-04:00",
       "title": "Presidential Message on National Employer Support of the Guard and Reserve Week"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-park-week/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-24T19:29:06.391991+00:00",
+      "paths": [
+        "Briefings/2026/08/24/Presidential_Message_on_National_Park_Week.md"
+      ],
+      "published": "2026-08-24T15:17:02-04:00",
+      "title": "Presidential Message on National Park Week"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/": {
       "categories": [
@@ -22411,6 +22422,17 @@
       ],
       "published": "2026-08-10T14:06:42-04:00",
       "title": "One Year Later, President Trump Has Delivered on Making D.C. Safe Again"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/operation-economic-outcast-total-isolation-of-the-iranian-regime/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-24T19:29:06.788431+00:00",
+      "paths": [
+        "Releases/2026/08/24/Operation_Economic_Outcast_Total_Isolation_of_the_Iranian_Regime.md"
+      ],
+      "published": "2026-08-24T15:15:08-04:00",
+      "title": "Operation Economic Outcast: Total Isolation of the Iranian Regime"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/": {
       "categories": [
