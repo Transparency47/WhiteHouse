@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-25T17:31:23.318997+00:00",
+  "last_successful_run": "2026-08-25T18:38:50.240222+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22510,6 +22510,17 @@
       ],
       "published": "2026-08-18T14:38:45-04:00",
       "title": "President Trump Delivers the Largest Drop in Violent Crime in American History"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-is-finally-ending-canadas-free-ride/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-25T18:38:49.022353+00:00",
+      "paths": [
+        "Releases/2026/08/25/President_Trump_Is_Finally_Ending_Canadas_Free_Ride.md"
+      ],
+      "published": "2026-08-25T14:19:31-04:00",
+      "title": "President Trump Is Finally Ending Canada\u2019s Free Ride"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/": {
       "categories": [
