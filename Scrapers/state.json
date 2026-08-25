@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-25T12:46:54.079400+00:00",
+  "last_successful_run": "2026-08-25T13:50:16.031702+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4851,6 +4851,17 @@
       ],
       "published": "2026-08-10T17:06:36-04:00",
       "title": "Presidential Message on National Shooting Sports Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-overdose-and-drug-poisoning-awareness-week/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-08-25T13:50:14.791301+00:00",
+      "paths": [
+        "Briefings/2026/08/24/Presidential_Message_on_Overdose_and_Drug_Poisoning_Awareness_Week.md"
+      ],
+      "published": "2026-08-24T22:00:00-04:00",
+      "title": "Presidential Message on Overdose and Drug Poisoning Awareness Week"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-the-social-security-act/": {
       "categories": [

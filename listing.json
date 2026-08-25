@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-25T12:46:57.096363+00:00",
+  "generatedAt": "2026-08-25T13:50:19.677981+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-08-24",
+      "id": "whitehouse:21e28a635d71d844",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-25T13:50:14.791301+00:00"
+      },
+      "path": "Briefings/2026/08/24/Presidential_Message_on_Overdose_and_Drug_Poisoning_Awareness_Week.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-overdose-and-drug-poisoning-awareness-week/",
+      "summary": "During Overdose and Drug Poisoning Awareness Week, our Nation renews its resolve to defeat the scourge of illicit drugs and synthetic poisons that have devastated hundreds of thousands of American lives. My Administration is relentlessly confronting this threat at every source, a",
+      "title": "Presidential Message on Overdose and Drug Poisoning Awareness Week"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-08-24",

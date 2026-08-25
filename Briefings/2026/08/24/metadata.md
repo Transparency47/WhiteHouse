@@ -9,3 +9,12 @@
 - Date accessed: 2026-08-24T19:29:06.391991+00:00
 - Markdown filename: Presidential_Message_on_National_Park_Week.md
 
+## Presidential Message on Overdose and Drug Poisoning Awareness Week
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-overdose-and-drug-poisoning-awareness-week/
+- Title: Presidential Message on Overdose and Drug Poisoning Awareness Week
+- Category: Briefings & Statements
+- Date published: 2026-08-24T22:00:00-04:00
+- Date accessed: 2026-08-25T13:50:14.791301+00:00
+- Markdown filename: Presidential_Message_on_Overdose_and_Drug_Poisoning_Awareness_Week.md
+
