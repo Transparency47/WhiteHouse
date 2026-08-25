@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-25T20:28:33.706864+00:00",
+  "last_successful_run": "2026-08-25T21:28:00.553686+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -15772,6 +15772,18 @@
       ],
       "published": "2026-08-12T17:43:13-04:00",
       "title": "Expanding Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-25T21:27:59.083452+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/25/Honoring_the_Memory_of_Dolly_Parton.md"
+      ],
+      "published": "2026-08-25T16:42:03-04:00",
+      "title": "Honoring the Memory of Dolly Parton"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/": {
       "categories": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T20:28:37.049801+00:00",
+  "generatedAt": "2026-08-25T21:28:02.678011+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-is-finally-ending-canadas-free-ride/",
       "summary": "**Canada has been ripping off the United States for decades \u2014 and President Donald J. Trump is** [**done**](https://truthsocial.com/@realDonaldTrump/posts/117156429202842827) **letting them get away with it.** Last week, the U.S. [offered](https://x.com/USTradeRep/status/20910152",
       "title": "President Trump Is Finally Ending Canada\u2019s Free Ride"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-08-25",
+      "id": "whitehouse:f3e5066d312f8671",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-25T21:27:59.083452+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/25/Honoring_the_Memory_of_Dolly_Parton.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Honoring the Memory of Dolly Parton"
     },
     {
       "category": "Briefings & Statements",
