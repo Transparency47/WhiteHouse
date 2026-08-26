@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:01:42.561987+00:00",
+  "generatedAt": "2026-08-26T22:47:22.174057+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,71 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/trump-delivers-14-wins-you-may-have-missed/",
       "summary": "**President Donald J. Trump is delivering the results he promised \u2014 and the wins keep stacking up.** From the securing a landmark election integrity ruling and launching the largest visa crackdown in American history to cutting illegals off taxpayer benefits and driving fentanyl ",
       "title": "Trump Delivers: 14 Recent Wins You May Have Missed"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-08-26",
+      "id": "whitehouse:7fe3407d733441de",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-26T22:47:17.164119+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/26/Further_Ensuring_Affordable_Beef_for_the_American_Consumer.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Further Ensuring Affordable Beef for the American Consumer"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-08-26",
+      "id": "whitehouse:03144806a9b673cc",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-26T22:47:18.356799+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/26/Fifth_Anniversary_of_the_Attack_at_Abbey_Gate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Fifth Anniversary of the Attack at Abbey Gate"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-26",
+      "id": "whitehouse:2b4ae07589db3018",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-26T22:47:16.768172+00:00"
+      },
+      "path": "Fact Sheets/2026/08/26/Fact_Sheet_President_Donald_J_Trump_Further_Ensures_Affordable_Beef_for_the_American_Consumer.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
+      "summary": "**ADDRESSING BEEF AFFORDABILITY WITH TARGETED ACTION:** Today, President Donald J. Trump signed a Proclamation to temporarily increase the quantity of lean beef trimmings that are imported with no above-quota tariff to ensure affordable beef for American consumers in light of cur",
+      "title": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-26",
+      "id": "whitehouse:176e142bf6a3ab69",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-26T22:47:17.557384+00:00"
+      },
+      "path": "Fact Sheets/2026/08/26/Fact_Sheet_President_Donald_J_Trump_Declares_a_National_Emergency_to_Secure_Americas_Bulk_Power_System.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-declares-a-national-emergency-to-secure-americas-bulk-power-system/",
+      "summary": "**SECURING AMERICA\u2019S BULK-POWER SYSTEM:** Today, President Donald J. Trump signed an Executive Order to protect the security, integrity, and reliability of bulk-power system electric equipment used in the United States, particularly from interference by foreign actors.",
+      "title": "Fact Sheet: President Donald J. Trump Declares a National Emergency to Secure America\u2019s Bulk-Power System"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-08-26",
+      "id": "whitehouse:e7c48af07d8206f5",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-26T22:47:17.953063+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/08/26/Declaring_a_National_Emergency_to_Secure_the_United_States_Bulk_Power_System.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/",
+      "summary": "Executive Order 14420",
+      "title": "Declaring a National Emergency to Secure the United States Bulk-Power System"
     },
     {
       "category": "Releases",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-26T19:01:39.731306+00:00",
+  "last_successful_run": "2026-08-26T22:47:19.523754+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8603,6 +8603,17 @@
       "published": "2026-08-06T17:04:59-04:00",
       "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-declares-a-national-emergency-to-secure-americas-bulk-power-system/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-26T22:47:17.557384+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/26/Fact_Sheet_President_Donald_J_Trump_Declares_a_National_Emergency_to_Secure_Americas_Bulk_Power_System.md"
+      ],
+      "published": "2026-08-26T15:59:27-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Declares a National Emergency to Secure America\u2019s Bulk-Power System"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/": {
       "categories": [
         "Fact Sheets"
@@ -8646,6 +8657,17 @@
       ],
       "published": "2026-08-12T17:43:04-04:00",
       "title": "Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-26T22:47:16.768172+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/26/Fact_Sheet_President_Donald_J_Trump_Further_Ensures_Affordable_Beef_for_the_American_Consumer.md"
+      ],
+      "published": "2026-08-26T17:19:54-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/": {
       "categories": [
@@ -15713,6 +15735,18 @@
       "published": "2026-08-06T17:08:24-04:00",
       "title": "Continuing to Protect the Meaning and Value of American Citizenship"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-08-26T22:47:17.953063+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/08/26/Declaring_a_National_Emergency_to_Secure_the_United_States_Bulk_Power_System.md"
+      ],
+      "published": "2026-08-26T15:59:10-04:00",
+      "title": "Declaring a National Emergency to Secure the United States Bulk-Power System"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/": {
       "categories": [
         "Presidential Actions",
@@ -15772,6 +15806,30 @@
       ],
       "published": "2026-08-12T17:43:13-04:00",
       "title": "Expanding Capabilities to Combat Transnational Cyber-Enabled Crime"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-26T22:47:18.356799+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/26/Fifth_Anniversary_of_the_Attack_at_Abbey_Gate.md"
+      ],
+      "published": "2026-08-26T15:29:53-04:00",
+      "title": "Fifth Anniversary of the Attack at Abbey Gate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-26T22:47:17.164119+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/26/Further_Ensuring_Affordable_Beef_for_the_American_Consumer.md"
+      ],
+      "published": "2026-08-26T17:18:42-04:00",
+      "title": "Further Ensuring Affordable Beef for the American Consumer"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/": {
       "categories": [
