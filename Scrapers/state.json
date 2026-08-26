@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-26T16:17:17.089272+00:00",
+  "last_successful_run": "2026-08-26T19:01:39.731306+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22577,6 +22577,17 @@
       ],
       "published": "2026-08-13T05:00:00-04:00",
       "title": "The Great Transshipment Scam"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/trump-delivers-14-wins-you-may-have-missed/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-26T19:01:38.515717+00:00",
+      "paths": [
+        "Releases/2026/08/26/Trump_Delivers_14_Recent_Wins_You_May_Have_Missed.md"
+      ],
+      "published": "2026-08-26T14:29:53-04:00",
+      "title": "Trump Delivers: 14 Recent Wins You May Have Missed"
     },
     "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/": {
       "categories": [

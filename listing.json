@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-26T16:17:20.463715+00:00",
+  "generatedAt": "2026-08-26T19:01:42.561987+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-26",
+      "id": "whitehouse:4c20d1d0864ab6ef",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-26T19:01:38.515717+00:00"
+      },
+      "path": "Releases/2026/08/26/Trump_Delivers_14_Recent_Wins_You_May_Have_Missed.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/trump-delivers-14-wins-you-may-have-missed/",
+      "summary": "**President Donald J. Trump is delivering the results he promised \u2014 and the wins keep stacking up.** From the securing a landmark election integrity ruling and launching the largest visa crackdown in American history to cutting illegals off taxpayer benefits and driving fentanyl ",
+      "title": "Trump Delivers: 14 Recent Wins You May Have Missed"
+    },
     {
       "category": "Releases",
       "date": "2026-08-25",
