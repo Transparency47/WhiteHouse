@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-27T16:08:23.576274+00:00",
+  "last_successful_run": "2026-08-28T01:17:40.345700+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -15831,6 +15831,18 @@
       "published": "2026-08-26T17:18:42-04:00",
       "title": "Further Ensuring Affordable Beef for the American Consumer"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-08-28T01:17:38.249923+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/08/27/Honoring_the_American_History_of_the_Great_Lakes_and_Renaming_Lake_Ontario_as_Lake_America.md"
+      ],
+      "published": "2026-08-27T17:00:35-04:00",
+      "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/": {
       "categories": [
         "Presidential Actions",
@@ -22493,6 +22505,17 @@
       "published": "2026-08-04T17:33:29-04:00",
       "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump\u2019s America First Economic Agenda"
     },
+    "https://www.whitehouse.gov/releases/2026/08/never-surrender-karoline-leavitts-historic-tenure-as-white-house-press-secretary/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-28T01:17:39.109954+00:00",
+      "paths": [
+        "Releases/2026/08/27/NEVER_SURRENDER_Karoline_Leavitts_Historic_Tenure_as_White_House_Press_Secretary.md"
+      ],
+      "published": "2026-08-27T14:13:38-04:00",
+      "title": "NEVER SURRENDER: Karoline Leavitt\u2019s Historic Tenure as White House Press Secretary"
+    },
     "https://www.whitehouse.gov/releases/2026/08/one-year-later-president-trump-has-delivered-on-making-d-c-safe-again/": {
       "categories": [
         "Releases"
@@ -22547,6 +22570,17 @@
       ],
       "published": "2026-08-24T12:41:15-04:00",
       "title": "President Trump Champions Educational Freedom \u2014 Putting Students and Parents First"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-for-texas-lower-taxes-border-security-and-jobs-coming-home/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-28T01:17:38.684675+00:00",
+      "paths": [
+        "Releases/2026/08/27/President_Trump_Delivers_for_Texas_Lower_Taxes_Border_Security_and_Jobs_Coming_Home.md"
+      ],
+      "published": "2026-08-27T16:09:05-04:00",
+      "title": "President Trump Delivers for Texas: Lower Taxes, Border Security, and Jobs Coming Home"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-drop-in-violent-crime-in-american-history/": {
       "categories": [

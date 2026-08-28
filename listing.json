@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-08-27T16:08:27.286531+00:00",
+  "generatedAt": "2026-08-28T01:17:43.975344+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-27",
+      "id": "whitehouse:47468ff684ea5e92",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-28T01:17:38.684675+00:00"
+      },
+      "path": "Releases/2026/08/27/President_Trump_Delivers_for_Texas_Lower_Taxes_Border_Security_and_Jobs_Coming_Home.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-for-texas-lower-taxes-border-security-and-jobs-coming-home/",
+      "summary": "Today, President Donald J. Trump returns to Texas with a record to match the visit: tax relief in workers\u2019 pockets, the most secure border in a generation, safer streets, and a surge of private investment creating new American jobs across the state.",
+      "title": "President Trump Delivers for Texas: Lower Taxes, Border Security, and Jobs Coming Home"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-08-27",
+      "id": "whitehouse:dd2f7b88022ce3f8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-28T01:17:39.109954+00:00"
+      },
+      "path": "Releases/2026/08/27/NEVER_SURRENDER_Karoline_Leavitts_Historic_Tenure_as_White_House_Press_Secretary.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/never-surrender-karoline-leavitts-historic-tenure-as-white-house-press-secretary/",
+      "summary": "**Today, Karoline Leavitt completes her final day as the 36th White House Press Secretary \u2014 the youngest person to ever hold the position and among the best ever to do it.** She leaves the James S. Brady Briefing Room after a tenure defined by command, clarity, and an unrelenting",
+      "title": "NEVER SURRENDER: Karoline Leavitt\u2019s Historic Tenure as White House Press Secretary"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-08-27",
+      "id": "whitehouse:b2e0b88dabd32fc0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-28T01:17:38.249923+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/08/27/Honoring_the_American_History_of_the_Great_Lakes_and_Renaming_Lake_Ontario_as_Lake_America.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America"
+    },
     {
       "category": "Releases",
       "date": "2026-08-26",
