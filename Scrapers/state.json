@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-28T13:51:54.131578+00:00",
+  "last_successful_run": "2026-08-28T23:25:43.671245+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8636,6 +8636,17 @@
       "published": "2026-08-06T17:11:38-04:00",
       "title": "Fact Sheet: President Donald J. Trump Ends Birth Tourism and Protects the Meaning and Value of American Citizenship"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-28T23:25:42.041063+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/28/Fact_Sheet_President_Donald_J_Trump_Establishes_a_Commission_to_Design_the_United_States_Space_Academy.md"
+      ],
+      "published": "2026-08-28T13:49:33-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Establishes a Commission to Design the United States Space Academy"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/": {
       "categories": [
         "Fact Sheets"
@@ -15794,6 +15805,18 @@
       ],
       "published": "2026-08-03T14:20:09-04:00",
       "title": "Establishing the President\u2019s Military Spouse Commission"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-08-28T23:25:42.457255+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/08/28/Establishing_the_United_States_Space_Academy.md"
+      ],
+      "published": "2026-08-28T13:20:24-04:00",
+      "title": "Establishing the United States Space Academy"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/": {
       "categories": [

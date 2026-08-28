@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-08-28T13:51:57.508217+00:00",
+  "generatedAt": "2026-08-28T23:25:47.356507+00:00",
   "records": [
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-28",
+      "id": "whitehouse:c7515b03e1865ab0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-28T23:25:42.041063+00:00"
+      },
+      "path": "Fact Sheets/2026/08/28/Fact_Sheet_President_Donald_J_Trump_Establishes_a_Commission_to_Design_the_United_States_Space_Academy.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/",
+      "summary": "**BUILDING THE NEXT GENERATION OF AMERICAN SPACE LEADERS:** Today, President Donald J. Trump signed an Executive Order to create a Presidential Commission to begin the process of establishing a new federal academy that will prepare the next generation of Americans to advance our ",
+      "title": "Fact Sheet: President Donald J. Trump Establishes a Commission to Design the United States Space Academy"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-08-28",
+      "id": "whitehouse:29d7a5d158fc5372",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-28T23:25:42.457255+00:00"
+      },
+      "path": "Actions/Proclamations/2026/08/28/Establishing_the_United_States_Space_Academy.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Establishing the United States Space Academy"
+    },
     {
       "category": "Releases",
       "date": "2026-08-27",
