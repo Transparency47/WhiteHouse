@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-28T23:25:43.671245+00:00",
+  "last_successful_run": "2026-08-29T05:56:15.653024+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22648,6 +22648,17 @@
       ],
       "published": "2026-08-25T14:19:31-04:00",
       "title": "President Trump Is Finally Ending Canada\u2019s Free Ride"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-was-right-america-controls-the-strait-of-hormuz/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-29T05:56:14.453017+00:00",
+      "paths": [
+        "Releases/2026/08/28/President_Trump_Was_Right_America_Controls_the_Strait_of_Hormuz.md"
+      ],
+      "published": "2026-08-28T20:00:05-04:00",
+      "title": "President Trump Was Right: America Controls the Strait of Hormuz"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/": {
       "categories": [
