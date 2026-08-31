@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T18:52:01.286720+00:00",
+  "generatedAt": "2026-08-31T23:07:27.524132+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-vp-vance-deliver-manufacturing-renaissance-to-michigan/",
       "summary": "**Vice President JD Vance is in Michigan today to mark the Trump Administration\u2019s unprecedented crackdown on fraud and the comeback of American manufacturing under the leadership of President Donald J. Trump.** Since taking office, the Trump Administration has onshored production",
       "title": "President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-31",
+      "id": "whitehouse:d9b3d85dcd365154",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-31T23:07:22.578283+00:00"
+      },
+      "path": "Fact Sheets/2026/08/31/Fact_Sheet_President_Donald_J_Trump_Announces_Deal_with_Nine_Additional_Pharmaceutical_Manufacturers_to_Lower_Drug_Prices_for_Americans.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
+      "summary": "**ADVANCING MOST-FAVORED-NATION (MFN) PRICING:** Today, President Donald J. Trump announced nine new agreements with pharmaceutical manufacturers to lower prescription drug prices for Americans in line with the lowest prices paid by other developed nations (known as the most-favo",
+      "title": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-31",
+      "id": "whitehouse:23a0d603b2c6bba8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-31T23:07:22.161422+00:00"
+      },
+      "path": "Fact Sheets/2026/08/31/Fact_Sheet_Delivering_a_Universal_Sign_on_for_Public_Services.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/",
+      "summary": "**IMPROVING PUBLIC SERVICE DELIVERY:** The Trump Administration continues to improve how Government delivers services to the American public, in particular through the use of leading and emerging technologies. Today, the Office of Management and Budget released a new policy enfor",
+      "title": "Fact Sheet: Delivering a Universal Sign-on for Public Services"
     },
     {
       "category": "Releases",

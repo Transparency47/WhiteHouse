@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-31T18:51:58.644560+00:00",
+  "last_successful_run": "2026-08-31T23:07:23.799295+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8570,6 +8570,17 @@
       "published": "2026-07-20T15:44:17-04:00",
       "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-31T23:07:22.161422+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/31/Fact_Sheet_Delivering_a_Universal_Sign_on_for_Public_Services.md"
+      ],
+      "published": "2026-08-31T16:38:36-04:00",
+      "title": "Fact Sheet: Delivering a Universal Sign-on for Public Services"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/": {
       "categories": [
         "Fact Sheets"
@@ -8580,6 +8591,17 @@
       ],
       "published": "2026-08-07T15:44:19-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-08-31T23:07:22.578283+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/31/Fact_Sheet_President_Donald_J_Trump_Announces_Deal_with_Nine_Additional_Pharmaceutical_Manufacturers_to_Lower_Drug_Prices_for_Americans.md"
+      ],
+      "published": "2026-08-31T15:14:29-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/": {
       "categories": [
