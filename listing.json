@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-31T11:23:17.508949+00:00",
+  "generatedAt": "2026-08-31T18:52:01.286720+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-08-31",
+      "id": "whitehouse:0d720f6bd1405178",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-08-31T18:51:57.473683+00:00"
+      },
+      "path": "Releases/2026/08/31/President_Trump_and_VP_Vance_Deliver_Manufacturing_Renaissance_to_Michigan.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-vp-vance-deliver-manufacturing-renaissance-to-michigan/",
+      "summary": "**Vice President JD Vance is in Michigan today to mark the Trump Administration\u2019s unprecedented crackdown on fraud and the comeback of American manufacturing under the leadership of President Donald J. Trump.** Since taking office, the Trump Administration has onshored production",
+      "title": "President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan"
+    },
     {
       "category": "Releases",
       "date": "2026-08-28",

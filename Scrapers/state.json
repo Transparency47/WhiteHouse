@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-31T11:23:13.708672+00:00",
+  "last_successful_run": "2026-08-31T18:51:58.644560+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22582,6 +22582,17 @@
       ],
       "published": "2026-08-21T16:00:54-04:00",
       "title": "President Trump and Republicans Deliver for South Carolina Families"
+    },
+    "https://www.whitehouse.gov/releases/2026/08/president-trump-and-vp-vance-deliver-manufacturing-renaissance-to-michigan/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-08-31T18:51:57.473683+00:00",
+      "paths": [
+        "Releases/2026/08/31/President_Trump_and_VP_Vance_Deliver_Manufacturing_Renaissance_to_Michigan.md"
+      ],
+      "published": "2026-08-31T13:02:26-04:00",
+      "title": "President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan"
     },
     "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/": {
       "categories": [
