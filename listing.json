@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T23:07:27.524132+00:00",
+  "generatedAt": "2026-09-01T03:54:33.498081+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-vp-vance-deliver-manufacturing-renaissance-to-michigan/",
       "summary": "**Vice President JD Vance is in Michigan today to mark the Trump Administration\u2019s unprecedented crackdown on fraud and the comeback of American manufacturing under the leadership of President Donald J. Trump.** Since taking office, the Trump Administration has onshored production",
       "title": "President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-08-31",
+      "id": "whitehouse:e855341a21d8beb3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-01T03:54:29.747197+00:00"
+      },
+      "path": "Fact Sheets/2026/08/31/Fact_Sheet_President_Donald_J_Trump_Announces_Historic_Oil_Agreement_to_Secure_American_Energy_Dominance_and_Drive_Venezuelas_Economic_Recovery.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/",
+      "summary": "**SECURING STABLE & LOW-COST OIL SUPPLY IN OUR HEMISPHERE:** In the biggest oil deal in world history, President Donald J. Trump has secured U.S. majority control of more than 65 billion barrels of proven oil reserves in Venezuela \u2013 vastly expanding our current U.S. territorial p",
+      "title": "Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela\u2019s Economic Recovery"
     },
     {
       "category": "Fact Sheets",

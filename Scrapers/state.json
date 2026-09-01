@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-08-31T23:07:23.799295+00:00",
+  "last_successful_run": "2026-09-01T03:54:30.929489+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8602,6 +8602,17 @@
       ],
       "published": "2026-08-31T15:14:29-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-01T03:54:29.747197+00:00",
+      "paths": [
+        "Fact Sheets/2026/08/31/Fact_Sheet_President_Donald_J_Trump_Announces_Historic_Oil_Agreement_to_Secure_American_Energy_Dominance_and_Drive_Venezuelas_Economic_Recovery.md"
+      ],
+      "published": "2026-08-31T19:55:33-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela\u2019s Economic Recovery"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/": {
       "categories": [
