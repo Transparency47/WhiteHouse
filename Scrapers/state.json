@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-02T17:38:50.548940+00:00",
+  "last_successful_run": "2026-09-02T20:36:09.164197+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4906,6 +4906,17 @@
       ],
       "published": "2026-09-02T11:59:31-04:00",
       "title": "Presidential Message on National Childhood Cancer Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-preparedness-month-6e71/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-02T20:36:07.983521+00:00",
+      "paths": [
+        "Briefings/2026/09/02/Presidential_Message_on_National_Preparedness_Month.md"
+      ],
+      "published": "2026-09-02T15:25:58-04:00",
+      "title": "Presidential Message on National Preparedness Month"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-recovery-month/": {
       "categories": [

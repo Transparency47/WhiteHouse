@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T17:38:53.493096+00:00",
+  "generatedAt": "2026-09-02T20:36:12.537108+00:00",
   "records": [
     {
       "category": "Fact Sheets",
@@ -26,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-recovery-month/",
       "summary": "During National Recovery Month, we celebrate the more than 23 million Americans who have found a pathway from addiction to recovery, we recognize those who have helped them reclaim their lives, and we renew our commitment to supporting those still struggling to find hope and heal",
       "title": "Presidential Message on National Recovery Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-02",
+      "id": "whitehouse:132c41102bd9eee9",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-02T20:36:07.983521+00:00"
+      },
+      "path": "Briefings/2026/09/02/Presidential_Message_on_National_Preparedness_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-preparedness-month-6e71/",
+      "summary": "America has always been a nation of strong, capable, and determined people who understand that strength must be built before crisis. Preparedness builds that strength, and readiness is the result. This National Preparedness Month, I call on every American citizen to ready themsel",
+      "title": "Presidential Message on National Preparedness Month"
     },
     {
       "category": "Briefings & Statements",
