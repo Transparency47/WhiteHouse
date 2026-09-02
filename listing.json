@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-02T13:17:57.265946+00:00",
+  "generatedAt": "2026-09-02T17:38:53.493096+00:00",
   "records": [
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-02",
+      "id": "whitehouse:673869c072bf15a8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-02T17:38:49.358795+00:00"
+      },
+      "path": "Fact Sheets/2026/09/02/Ten_Times_Extreme_Liberal_Democrats_in_Congress_Put_Their_Dangerous_Agenda_Ahead_of_the_American_People.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/",
+      "summary": "President Trump and Republicans have passed legislation that has put more money in hardworking American\u2019s pockets and made communities safer nationwide. At every turn, Extreme Liberal Democrats continue to attempt to obstruct commonsense policies in pursuit of their dangerous rad",
+      "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-02",
+      "id": "whitehouse:06c67ceb4b5f597e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-02T17:38:48.966688+00:00"
+      },
+      "path": "Briefings/2026/09/02/Presidential_Message_on_National_Recovery_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-recovery-month/",
+      "summary": "During National Recovery Month, we celebrate the more than 23 million Americans who have found a pathway from addiction to recovery, we recognize those who have helped them reclaim their lives, and we renew our commitment to supporting those still struggling to find hope and heal",
+      "title": "Presidential Message on National Recovery Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-02",
+      "id": "whitehouse:378dbf5fd795b397",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-02T17:38:48.577705+00:00"
+      },
+      "path": "Briefings/2026/09/02/Presidential_Message_on_National_Childhood_Cancer_Awareness_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/",
+      "summary": "This National Childhood Cancer Awareness Month, my Administration stands with the countless children facing the devastating effects of cancer. We recognize the love, strength, and care of the families who walk beside them through every step of their journeys. Above all, we commit",
+      "title": "Presidential Message on National Childhood Cancer Awareness Month"
+    },
     {
       "category": "Releases",
       "date": "2026-08-31",

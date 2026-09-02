@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-02T13:17:53.606128+00:00",
+  "last_successful_run": "2026-09-02T17:38:50.548940+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4896,6 +4896,28 @@
       "published": "2026-08-04T20:47:48-04:00",
       "title": "Presidential Message on the Birthday of the United States Coast Guard"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-02T17:38:48.577705+00:00",
+      "paths": [
+        "Briefings/2026/09/02/Presidential_Message_on_National_Childhood_Cancer_Awareness_Month.md"
+      ],
+      "published": "2026-09-02T11:59:31-04:00",
+      "title": "Presidential Message on National Childhood Cancer Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-recovery-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-02T17:38:48.966688+00:00",
+      "paths": [
+        "Briefings/2026/09/02/Presidential_Message_on_National_Recovery_Month.md"
+      ],
+      "published": "2026-09-02T11:58:33-04:00",
+      "title": "Presidential Message on National Recovery Month"
+    },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
         "Fact Sheets"
@@ -8734,6 +8756,17 @@
       ],
       "published": "2026-08-13T17:23:07-04:00",
       "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America\u2019s Shipbuilding Industrial Base"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-02T17:38:49.358795+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/02/Ten_Times_Extreme_Liberal_Democrats_in_Congress_Put_Their_Dangerous_Agenda_Ahead_of_the_American_People.md"
+      ],
+      "published": "2026-09-02T10:45:55-04:00",
+      "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People"
     },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
