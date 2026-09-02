@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:36:12.537108+00:00",
+  "generatedAt": "2026-09-02T23:01:15.471301+00:00",
   "records": [
     {
       "category": "Fact Sheets",
@@ -52,6 +52,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/",
       "summary": "This National Childhood Cancer Awareness Month, my Administration stands with the countless children facing the devastating effects of cancer. We recognize the love, strength, and care of the families who walk beside them through every step of their journeys. Above all, we commit",
       "title": "Presidential Message on National Childhood Cancer Awareness Month"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-02",
+      "id": "whitehouse:d70bfce2ee1c735d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-02T23:01:11.656319+00:00"
+      },
+      "path": "Releases/2026/09/02/G20_Innovation_Ministerial_Concludes_with_Consensus_Statement.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
+      "summary": "Today, G20 member ministers concluded a two-day Innovation Ministerial in Chapel Hill, North Carolina. The Ministerial was hosted by the Department of Commerce and the White House Office of Science and Technology Policy (OSTP).",
+      "title": "G20 Innovation Ministerial Concludes with Consensus Statement"
     },
     {
       "category": "Releases",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-02T20:36:09.164197+00:00",
+  "last_successful_run": "2026-09-02T23:01:12.854983+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22813,6 +22813,17 @@
       ],
       "published": "2026-08-03T15:41:16-04:00",
       "title": "Under President Trump, U.S. Factories Expand at Fastest Clip in More Than Four Years"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-02T23:01:11.656319+00:00",
+      "paths": [
+        "Releases/2026/09/02/G20_Innovation_Ministerial_Concludes_with_Consensus_Statement.md"
+      ],
+      "published": "2026-09-02T17:37:46-04:00",
+      "title": "G20 Innovation Ministerial Concludes with Consensus Statement"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
