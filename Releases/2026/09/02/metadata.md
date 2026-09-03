@@ -18,3 +18,12 @@
 - Date accessed: 2026-09-03T03:16:53.880493+00:00
 - Markdown filename: President_Trump_Secures_the_Biggest_Oil_Deal_in_World_History.md
 
+## Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People
+
+- URL: https://www.whitehouse.gov/releases/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/
+- Title: Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People
+- Category: Releases
+- Date published: 2026-09-02T10:45:55-04:00
+- Date accessed: 2026-09-03T13:17:27.583097+00:00
+- Markdown filename: Ten_Times_Extreme_Liberal_Democrats_in_Congress_Put_Their_Dangerous_Agenda_Ahead_of_the_American_People.md
+

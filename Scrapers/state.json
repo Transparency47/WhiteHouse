@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-03T08:36:15.021200+00:00",
+  "last_successful_run": "2026-09-03T13:17:29.180045+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22846,6 +22846,17 @@
       ],
       "published": "2026-09-02T20:35:13-04:00",
       "title": "President Trump Secures the Biggest Oil Deal in World History"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-03T13:17:27.583097+00:00",
+      "paths": [
+        "Releases/2026/09/02/Ten_Times_Extreme_Liberal_Democrats_in_Congress_Put_Their_Dangerous_Agenda_Ahead_of_the_American_People.md"
+      ],
+      "published": "2026-09-02T10:45:55-04:00",
+      "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
