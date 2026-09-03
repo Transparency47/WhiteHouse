@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-02T23:01:12.854983+00:00",
+  "last_successful_run": "2026-09-03T03:16:55.480886+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4895,6 +4895,17 @@
       ],
       "published": "2026-08-04T20:47:48-04:00",
       "title": "Presidential Message on the Birthday of the United States Coast Guard"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-03T03:16:54.278855+00:00",
+      "paths": [
+        "Briefings/2026/09/02/Congressional_Bill_H_R_6500_Signed_into_Law.md"
+      ],
+      "published": "2026-09-02T20:02:19-04:00",
+      "title": "Congressional Bill H.R. 6500 Signed into Law"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/": {
       "categories": [
@@ -22824,6 +22835,17 @@
       ],
       "published": "2026-09-02T17:37:46-04:00",
       "title": "G20 Innovation Ministerial Concludes with Consensus Statement"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-03T03:16:53.880493+00:00",
+      "paths": [
+        "Releases/2026/09/02/President_Trump_Secures_the_Biggest_Oil_Deal_in_World_History.md"
+      ],
+      "published": "2026-09-02T20:35:13-04:00",
+      "title": "President Trump Secures the Biggest Oil Deal in World History"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [

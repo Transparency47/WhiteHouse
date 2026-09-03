@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T23:01:15.471301+00:00",
+  "generatedAt": "2026-09-03T03:16:59.235046+00:00",
   "records": [
     {
       "category": "Fact Sheets",
@@ -56,6 +56,19 @@
     {
       "category": "Releases",
       "date": "2026-09-02",
+      "id": "whitehouse:913325daffe06385",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-03T03:16:53.880493+00:00"
+      },
+      "path": "Releases/2026/09/02/President_Trump_Secures_the_Biggest_Oil_Deal_in_World_History.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/",
+      "summary": "President Trump has secured the **biggest oil deal in world history**, delivering U.S. majority control of more than 65 billion barrels of proven oil reserves in Venezuela \u2013 vastly expanding our current U.S. territorial proven reserves of roughly 46 billion barrels. President Tru",
+      "title": "President Trump Secures the Biggest Oil Deal in World History"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-02",
       "id": "whitehouse:d70bfce2ee1c735d",
       "kind": "whitehouse_record",
       "metadata": {
@@ -65,6 +78,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
       "summary": "Today, G20 member ministers concluded a two-day Innovation Ministerial in Chapel Hill, North Carolina. The Ministerial was hosted by the Department of Commerce and the White House Office of Science and Technology Policy (OSTP).",
       "title": "G20 Innovation Ministerial Concludes with Consensus Statement"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-02",
+      "id": "whitehouse:817c8dbaefa2812e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-03T03:16:54.278855+00:00"
+      },
+      "path": "Briefings/2026/09/02/Congressional_Bill_H_R_6500_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/",
+      "summary": "On Wednesday, September 2, 2026, the President signed into law:",
+      "title": "Congressional Bill H.R. 6500 Signed into Law"
     },
     {
       "category": "Releases",
