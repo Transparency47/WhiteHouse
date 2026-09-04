@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-09-04T18:09:21.290480+00:00",
+  "generatedAt": "2026-09-04T21:16:37.510155+00:00",
   "records": [
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-04",
+      "id": "whitehouse:4d7844979e2240aa",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-04T21:16:32.390621+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/04/Supporting_Americas_Ranchers.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Supporting America\u2019s Ranchers"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-04",
+      "id": "whitehouse:2248d0687a77437d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-04T21:16:32.801425+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/04/Promoting_Fair_Competition_In_Livestock_Markets_And_Expanding_Market_Access_for_American_Meat_Producers.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers"
+    },
     {
       "category": "Releases",
       "date": "2026-09-04",
@@ -13,6 +39,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
       "summary": "> ***\u201cAmerica added 162,000 jobs in August \u2014 triple economists\u2019 expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the m",
       "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-04",
+      "id": "whitehouse:e067208b8786fa3f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-04T21:16:33.210784+00:00"
+      },
+      "path": "Fact Sheets/2026/09/04/Fact_Sheet_President_Donald_J_Trump_Supports_Americas_Ranchers.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/",
+      "summary": "**DEFENDING AND STRENGTHENING OUR NATION\u2019S VITAL RANCHING INDUSTRY:** Today, President Donald J. Trump signed an Executive Order launching a whole-of-government effort to protect and fully support America\u2019s ranchers.",
+      "title": "Fact Sheet: President Donald J. Trump Supports America\u2019s Ranchers"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-04",
+      "id": "whitehouse:81b2bdacfdd28580",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-04T21:16:33.616881+00:00"
+      },
+      "path": "Fact Sheets/2026/09/04/Fact_Sheet_President_Donald_J_Trump_Promotes_Fair_Competition_in_Livestock_Markets_and_Expands_Market_Access_for_American_Meat_Producers.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/",
+      "summary": "**ADVANCING COMPETITION AND ACCOUNTABILITY:** Today, President Donald J. Trump signed an Executive Order to support American producers\u2019 ability to butcher, process, package, and sell their meat to consumers across state lines while maintaining the highest standards of food safety",
+      "title": "Fact Sheet: President Donald J. Trump Promotes Fair Competition in Livestock Markets and Expands Market Access for American Meat Producers"
     },
     {
       "category": "Fact Sheets",

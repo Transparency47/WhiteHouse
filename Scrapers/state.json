@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-04T18:09:18.629827+00:00",
+  "last_successful_run": "2026-09-04T21:16:34.830290+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8779,6 +8779,28 @@
       "published": "2026-08-13T17:23:07-04:00",
       "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America\u2019s Shipbuilding Industrial Base"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-04T21:16:33.616881+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/04/Fact_Sheet_President_Donald_J_Trump_Promotes_Fair_Competition_in_Livestock_Markets_and_Expands_Market_Access_for_American_Meat_Producers.md"
+      ],
+      "published": "2026-09-04T15:15:33-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Promotes Fair Competition in Livestock Markets and Expands Market Access for American Meat Producers"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-04T21:16:33.210784+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/04/Fact_Sheet_President_Donald_J_Trump_Supports_Americas_Ranchers.md"
+      ],
+      "published": "2026-09-04T15:15:35-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Supports America\u2019s Ranchers"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/": {
       "categories": [
         "Fact Sheets"
@@ -16037,6 +16059,30 @@
       ],
       "published": "2026-08-18T22:34:18-04:00",
       "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-04T21:16:32.801425+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/04/Promoting_Fair_Competition_In_Livestock_Markets_And_Expanding_Market_Access_for_American_Meat_Producers.md"
+      ],
+      "published": "2026-09-04T15:23:49-04:00",
+      "title": "Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-04T21:16:32.390621+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/04/Supporting_Americas_Ranchers.md"
+      ],
+      "published": "2026-09-04T15:28:18-04:00",
+      "title": "Supporting America\u2019s Ranchers"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
