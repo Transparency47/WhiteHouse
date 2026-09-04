@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-04T14:49:55.332822+00:00",
+  "generatedAt": "2026-09-04T18:09:21.290480+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-04",
+      "id": "whitehouse:812000a93eccc7aa",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-04T18:09:17.477738+00:00"
+      },
+      "path": "Releases/2026/09/04/Made_in_America_Manufacturing_Private_Hiring_Power_Explosive_August_Jobs_Report.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+      "summary": "> ***\u201cAmerica added 162,000 jobs in August \u2014 triple economists\u2019 expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the m",
+      "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report"
+    },
     {
       "category": "Fact Sheets",
       "date": "2026-09-02",

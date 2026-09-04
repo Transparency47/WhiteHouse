@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-04T14:49:51.600286+00:00",
+  "last_successful_run": "2026-09-04T18:09:18.629827+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -22835,6 +22835,17 @@
       ],
       "published": "2026-09-02T17:37:46-04:00",
       "title": "G20 Innovation Ministerial Concludes with Consensus Statement"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-04T18:09:17.477738+00:00",
+      "paths": [
+        "Releases/2026/09/04/Made_in_America_Manufacturing_Private_Hiring_Power_Explosive_August_Jobs_Report.md"
+      ],
+      "published": "2026-09-04T11:25:08-04:00",
+      "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report"
     },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/": {
       "categories": [
