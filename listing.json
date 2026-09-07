@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-07T15:00:18.579103+00:00",
+  "generatedAt": "2026-09-07T19:37:25.815657+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-09-07",
+      "id": "whitehouse:5390c3bf3e4207d1",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-07T19:37:21.142216+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/07/Labor_Day_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
+      "summary": "By the President of the United States of America",
+      "title": "Labor Day, 2026"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-09-04",
