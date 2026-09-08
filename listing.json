@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:23:11.408604+00:00",
+  "generatedAt": "2026-09-08T21:36:45.498211+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,45 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
       "summary": "**Today, President Donald J. Trump stood with first responders, Gold Star families, and the Tunnel to Towers Foundation to honor the Americans who ran toward the fire on September 11, 2001.** At his side was a 21-foot steel beam recovered from the wreckage of the South Tower \u2014 ca",
       "title": "President Trump Honors 9/11 Heroes and Renews America\u2019s Vow to Never Forget"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-08",
+      "id": "whitehouse:eec9fed24e052bae",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T21:36:39.672506+00:00"
+      },
+      "path": "Fact Sheets/2026/09/08/Fact_Sheet_President_Donald_J_Trump_Accelerates_Veterans_Access_to_Benefits_and_Employment_Opportunities.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/",
+      "summary": "**EXPANDING ACCESS AND CREATING OPPORTUNITY:** Today, President Donald J. Trump signed an Executive Order to modernize data management and data sharing between the Departments of War and Veterans Affairs in order to expedite veterans\u2019 access to benefits.",
+      "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-08",
+      "id": "whitehouse:6b7e701fbb46d464",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T21:36:40.508745+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/08/Adjusting_Certain_Delegations_Under_the_Defense_Production_Act.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/adjusting-certain-delegations-under-the-defense-production-act-e2de/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Adjusting Certain Delegations Under the Defense Production Act"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-08",
+      "id": "whitehouse:65a439a1a0ebe72b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T21:36:40.087775+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/08/Accelerating_Access_To_Veterans_Benefits_And_Employment_Opportunities.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Accelerating Access To Veterans\u2019 Benefits And Employment Opportunities"
     },
     {
       "category": "Proclamations",

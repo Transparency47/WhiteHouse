@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-08T18:23:09.381671+00:00",
+  "last_successful_run": "2026-09-08T21:36:41.744994+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8779,6 +8779,17 @@
       "published": "2026-08-13T17:23:07-04:00",
       "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America\u2019s Shipbuilding Industrial Base"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-08T21:36:39.672506+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/08/Fact_Sheet_President_Donald_J_Trump_Accelerates_Veterans_Access_to_Benefits_and_Employment_Opportunities.md"
+      ],
+      "published": "2026-09-08T15:02:42-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/": {
       "categories": [
         "Fact Sheets"
@@ -16059,6 +16070,30 @@
       ],
       "published": "2026-08-18T22:34:18-04:00",
       "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-08T21:36:40.087775+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/08/Accelerating_Access_To_Veterans_Benefits_And_Employment_Opportunities.md"
+      ],
+      "published": "2026-09-08T15:00:01-04:00",
+      "title": "Accelerating Access To Veterans\u2019 Benefits And Employment Opportunities"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/adjusting-certain-delegations-under-the-defense-production-act-e2de/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-08T21:36:40.508745+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/08/Adjusting_Certain_Delegations_Under_the_Defense_Production_Act.md"
+      ],
+      "published": "2026-09-08T14:52:09-04:00",
+      "title": "Adjusting Certain Delegations Under the Defense Production Act"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/": {
       "categories": [
