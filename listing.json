@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-08T14:55:54.321363+00:00",
+  "generatedAt": "2026-09-08T18:23:11.408604+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-08",
+      "id": "whitehouse:e2375e49cbbe41c2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T18:23:07.888320+00:00"
+      },
+      "path": "Releases/2026/09/08/President_Trump_Honors_9_11_Heroes_and_Renews_Americas_Vow_to_Never_Forget.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
+      "summary": "**Today, President Donald J. Trump stood with first responders, Gold Star families, and the Tunnel to Towers Foundation to honor the Americans who ran toward the fire on September 11, 2001.** At his side was a 21-foot steel beam recovered from the wreckage of the South Tower \u2014 ca",
+      "title": "President Trump Honors 9/11 Heroes and Renews America\u2019s Vow to Never Forget"
+    },
     {
       "category": "Proclamations",
       "date": "2026-09-07",
