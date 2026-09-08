@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T21:36:45.498211+00:00",
+  "generatedAt": "2026-09-08T23:52:24.325078+00:00",
   "records": [
     {
       "category": "Releases",
@@ -15,6 +15,32 @@
       "title": "President Trump Honors 9/11 Heroes and Renews America\u2019s Vow to Never Forget"
     },
     {
+      "category": "Proclamations",
+      "date": "2026-09-08",
+      "id": "whitehouse:64cdd1fd80a5b7e0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T23:52:17.752055+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/08/Modifying_the_Scope_of_Products_of_Canada_Subject_to_the_Additional_Duties_Imposed_to_Offset_Canadian_Discrimination_Against_the_United_States_with_Respect_to_Motor_Vehicles.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-united-states-with-respect-to-motor-vehicles/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-08",
+      "id": "whitehouse:18b33f75e428e19f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T23:52:18.959844+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/08/Modifying_the_Scope_of_Products_of_Canada_Subject_to_the_Additional_Duties_Imposed_to_Offset_Canadian_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Alcoholic_Beverages.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/",
+      "summary": "By the President of the United States of America",
+      "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages"
+    },
+    {
       "category": "Fact Sheets",
       "date": "2026-09-08",
       "id": "whitehouse:eec9fed24e052bae",
@@ -26,6 +52,45 @@
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/",
       "summary": "**EXPANDING ACCESS AND CREATING OPPORTUNITY:** Today, President Donald J. Trump signed an Executive Order to modernize data management and data sharing between the Departments of War and Veterans Affairs in order to expedite veterans\u2019 access to benefits.",
       "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-08",
+      "id": "whitehouse:1ae4100b328183f4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T23:52:19.379340+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/08/Excluding_Certain_Canadian_Products_from_Importation_into_the_United_States_in_Response_to_Continued_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Motor_Vehicles.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Motor Vehicles"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-08",
+      "id": "whitehouse:dbd29406e0327d8f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T23:52:18.558503+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/08/Excluding_Certain_Canadian_Products_from_Importation_into_the_United_States_in_Response_to_Continued_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Dairy.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Dairy"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-08",
+      "id": "whitehouse:5fc7136d72994f1b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-08T23:52:18.155125+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/08/Excluding_Certain_Canadian_Alcoholic_Beverages_from_Importation_into_the_United_States_in_Response_to_Continued_Discrimination_Against_the_Commerce_of_the_United_States_with_Respect_to_Alcoholic_Beverages.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-bever/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Excluding Certain Canadian Alcoholic Beverages from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages"
     },
     {
       "category": "Executive Orders",
