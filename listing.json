@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:52:24.325078+00:00",
+  "generatedAt": "2026-09-09T03:27:05.254239+00:00",
   "records": [
     {
       "category": "Releases",
@@ -39,6 +39,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/",
       "summary": "By the President of the United States of America",
       "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-08",
+      "id": "whitehouse:2b62b2b32a985000",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-09T03:27:00.968168+00:00"
+      },
+      "path": "Fact Sheets/2026/09/08/Fact_Sheet_President_Donald_J_Trump_Responds_to_Canadas_Retaliation.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
+      "summary": "**COUNTERING CANADA\u2019S LATEST RETALIATION AGAINST AMERICAN EXPORTS:** Today, to address Canada\u2019s increased discrimination against U.S. commerce, President Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain products from Canada and modi",
+      "title": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation"
     },
     {
       "category": "Fact Sheets",

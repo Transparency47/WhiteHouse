@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-08T23:52:20.576284+00:00",
+  "last_successful_run": "2026-09-09T03:27:02.176911+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8800,6 +8800,17 @@
       ],
       "published": "2026-09-04T15:15:33-04:00",
       "title": "Fact Sheet: President Donald J. Trump Promotes Fair Competition in Livestock Markets and Expands Market Access for American Meat Producers"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-09T03:27:00.968168+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/08/Fact_Sheet_President_Donald_J_Trump_Responds_to_Canadas_Retaliation.md"
+      ],
+      "published": "2026-09-08T21:38:43-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/": {
       "categories": [

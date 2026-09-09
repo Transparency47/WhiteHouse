@@ -9,3 +9,12 @@
 - Date accessed: 2026-09-08T21:36:39.672506+00:00
 - Markdown filename: Fact_Sheet_President_Donald_J_Trump_Accelerates_Veterans_Access_to_Benefits_and_Employment_Opportunities.md
 
+## Fact Sheet: President Donald J. Trump Responds to Canada’s Retaliation
+
+- URL: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/
+- Title: Fact Sheet: President Donald J. Trump Responds to Canada’s Retaliation
+- Category: Fact Sheets
+- Date published: 2026-09-08T21:38:43-04:00
+- Date accessed: 2026-09-09T03:27:00.968168+00:00
+- Markdown filename: Fact_Sheet_President_Donald_J_Trump_Responds_to_Canadas_Retaliation.md
+
