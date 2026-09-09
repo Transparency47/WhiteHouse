@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-09T17:37:03.072958+00:00",
+  "generatedAt": "2026-09-09T20:33:01.797608+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-09",
+      "id": "whitehouse:036bd05a527322e5",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-09T20:32:57.952908+00:00"
+      },
+      "path": "Releases/2026/09/09/President_Trump_Delivers_Historic_Results_for_the_American_People_in_Under_Two_Years.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/",
+      "summary": "**In less than two years, President Donald J. Trump has driven the most consequential stretch of governing in modern American history.** He inherited a disaster \u2014 and turned it into a historic comeback. President Trump sealed the border, drove violent crime to historic lows, unle",
+      "title": "President Trump Delivers Historic Results for the American People in Under Two Years"
+    },
     {
       "category": "Releases",
       "date": "2026-09-08",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-09T17:36:59.609803+00:00",
+  "last_successful_run": "2026-09-09T20:32:59.105139+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23010,6 +23010,17 @@
       ],
       "published": "2026-09-04T11:25:08-04:00",
       "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-09T20:32:57.952908+00:00",
+      "paths": [
+        "Releases/2026/09/09/President_Trump_Delivers_Historic_Results_for_the_American_People_in_Under_Two_Years.md"
+      ],
+      "published": "2026-09-09T16:14:42-04:00",
+      "title": "President Trump Delivers Historic Results for the American People in Under Two Years"
     },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/": {
       "categories": [
