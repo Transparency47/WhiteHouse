@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:58:43.331395+00:00",
+  "generatedAt": "2026-09-10T00:58:30.022289+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/",
       "summary": "**In less than two years, President Donald J. Trump has driven the most consequential stretch of governing in modern American history.** He inherited a disaster \u2014 and turned it into a historic comeback. President Trump sealed the border, drove violent crime to historic lows, unle",
       "title": "President Trump Delivers Historic Results for the American People in Under Two Years"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-09",
+      "id": "whitehouse:33f2326866517a89",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-10T00:58:24.857513+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/09/Patriot_Day_2026_The_25th_Anniversary_of_the_September_11_Terrorist_Attacks.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-09",
+      "id": "whitehouse:67817793809779d3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-10T00:58:25.262670+00:00"
+      },
+      "path": "Briefings/2026/09/09/First_Lady_Melania_Trumps_Personal_Vision_to_Preserve_Americas_Story_Through_Superior_Design.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
+      "summary": "First Lady Melania Trump shared her forward-looking vision on the generational significance of institutional design, declaring that, \u201cThe White House stands as an architectural autobiography of America, embodying the enduring values of ambition, democracy, and civic life through ",
+      "title": "First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design"
     },
     {
       "category": "Releases",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-09T22:58:41.270431+00:00",
+  "last_successful_run": "2026-09-10T00:58:26.473485+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4906,6 +4906,17 @@
       ],
       "published": "2026-09-02T20:02:19-04:00",
       "title": "Congressional Bill H.R. 6500 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-10T00:58:25.262670+00:00",
+      "paths": [
+        "Briefings/2026/09/09/First_Lady_Melania_Trumps_Personal_Vision_to_Preserve_Americas_Story_Through_Superior_Design.md"
+      ],
+      "published": "2026-09-09T18:59:40-04:00",
+      "title": "First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/": {
       "categories": [
@@ -16177,6 +16188,18 @@
       ],
       "published": "2026-09-08T18:50:00-04:00",
       "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-09-10T00:58:24.857513+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/09/09/Patriot_Day_2026_The_25th_Anniversary_of_the_September_11_Terrorist_Attacks.md"
+      ],
+      "published": "2026-09-09T19:23:01-04:00",
+      "title": "Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/": {
       "categories": [
