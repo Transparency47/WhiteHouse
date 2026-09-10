@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-10T14:52:52.837575+00:00",
+  "last_successful_run": "2026-09-10T18:09:34.091347+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23088,6 +23088,17 @@
       ],
       "published": "2026-09-02T10:45:55-04:00",
       "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-10T18:09:32.874226+00:00",
+      "paths": [
+        "Releases/2026/09/10/Trump_Dividend_America_Is_Winning_and_Americans_Should_Win_With_It.md"
+      ],
+      "published": "2026-09-10T13:56:28-04:00",
+      "title": "Trump Dividend: America Is Winning \u2014 and Americans Should Win With It"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [

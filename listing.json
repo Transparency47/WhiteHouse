@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-10T14:52:56.585291+00:00",
+  "generatedAt": "2026-09-10T18:09:37.526232+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-10",
+      "id": "whitehouse:768903fa5ba5cf43",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-10T18:09:32.874226+00:00"
+      },
+      "path": "Releases/2026/09/10/Trump_Dividend_America_Is_Winning_and_Americans_Should_Win_With_It.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/",
+      "summary": "**Last night, President Donald J. Trump** [**unveiled**](https://x.com/RapidResponse47/status/2097871833605279894) **the Trump Dividend \u2014 a historic $5,000 cash payment to every adult American citizen, made possible by the strength of the American economy under his leadership.** ",
+      "title": "Trump Dividend: America Is Winning \u2014 and Americans Should Win With It"
+    },
     {
       "category": "Fact Sheets",
       "date": "2026-09-10",
