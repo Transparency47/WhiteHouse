@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-10T18:09:34.091347+00:00",
+  "last_successful_run": "2026-09-10T21:26:46.028053+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4950,6 +4950,17 @@
       ],
       "published": "2026-09-02T11:58:33-04:00",
       "title": "Presidential Message on National Recovery Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/s-858-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-10T21:26:44.822608+00:00",
+      "paths": [
+        "Briefings/2026/09/10/S_858_Signed_into_Law.md"
+      ],
+      "published": "2026-09-10T15:31:08-04:00",
+      "title": "S. 858 Signed into Law"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
