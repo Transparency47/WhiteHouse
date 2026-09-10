@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-10T10:46:27.513208+00:00",
+  "generatedAt": "2026-09-10T14:52:56.585291+00:00",
   "records": [
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-10",
+      "id": "whitehouse:2e6244f5eb2a14f2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-10T14:52:51.639276+00:00"
+      },
+      "path": "Fact Sheets/2026/09/10/Fact_Sheet_President_Donald_J_Trump_Announces_the_Working_Families_Obamacare_Refunds.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
+      "summary": "**RETURNING BIDEN OVERCHARGES TO WORKING FAMILIES:** Today, President Donald J. Trump announced that the federal government will return to the American people hundreds of millions in Obamacare overcharges, collected by the Biden Administration, by issuing refunds of $500 per pers",
+      "title": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds"
+    },
     {
       "category": "Releases",
       "date": "2026-09-09",
