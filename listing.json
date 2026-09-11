@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:35:06.698343+00:00",
+  "generatedAt": "2026-09-11T20:34:21.107210+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
       "summary": "Melania and I send our warmest greetings to the entire Jewish community on Rosh Hashanah\u2014the Jewish New Year and the first of the High Holy Days.",
       "title": "Presidential Message on Rosh Hashanah"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-11",
+      "id": "whitehouse:d5fea05fddb46296",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-11T20:34:17.888712+00:00"
+      },
+      "path": "Briefings/2026/09/11/Congressional_Bills_H_R_1276_H_R_2069_H_R_2196_and_H_R_5366_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/",
+      "summary": "On Friday, September 11, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law"
     },
     {
       "category": "Releases",
