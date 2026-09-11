@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-11T13:18:15.918076+00:00",
+  "generatedAt": "2026-09-11T17:35:06.698343+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-11",
+      "id": "whitehouse:c6ca2d9b94561cb3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-11T17:35:01.758888+00:00"
+      },
+      "path": "Briefings/2026/09/11/Presidential_Message_on_Rosh_Hashanah.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
+      "summary": "Melania and I send our warmest greetings to the entire Jewish community on Rosh Hashanah\u2014the Jewish New Year and the first of the High Holy Days.",
+      "title": "Presidential Message on Rosh Hashanah"
+    },
     {
       "category": "Releases",
       "date": "2026-09-10",

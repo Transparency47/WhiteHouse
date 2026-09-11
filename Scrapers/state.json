@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-11T13:18:12.253527+00:00",
+  "last_successful_run": "2026-09-11T17:35:02.959343+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4950,6 +4950,17 @@
       ],
       "published": "2026-09-02T11:58:33-04:00",
       "title": "Presidential Message on National Recovery Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-11T17:35:01.758888+00:00",
+      "paths": [
+        "Briefings/2026/09/11/Presidential_Message_on_Rosh_Hashanah.md"
+      ],
+      "published": "2026-09-11T10:22:25-04:00",
+      "title": "Presidential Message on Rosh Hashanah"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/s-858-signed-into-law/": {
       "categories": [
