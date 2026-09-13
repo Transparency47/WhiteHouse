@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-13T20:31:32.035953+00:00",
+  "generatedAt": "2026-09-13T22:55:47.422201+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-13",
+      "id": "whitehouse:20402cad5d3fd4d2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-13T22:55:41.972520+00:00"
+      },
+      "path": "Briefings/2026/09/13/Presidential_Message_on_the_Anniversary_of_the_Battle_of_Fort_McHenry.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-anniversary-of-the-battle-of-fort-mchenry/",
+      "summary": "In September of 1814, 1,000 American patriots heroically defended our young Nation\u2019s sovereignty at the Battle of Fort McHenry, where they halted the British invasion of Baltimore in a critical turning point in the War of 1812. Despite relentless cannon bombardment from the most ",
+      "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-09-11",
