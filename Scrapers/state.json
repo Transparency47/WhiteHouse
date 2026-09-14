@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-14T18:02:31.375598+00:00",
+  "last_successful_run": "2026-09-14T22:17:13.969996+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -16243,6 +16243,18 @@
       ],
       "published": "2026-09-08T18:50:00-04:00",
       "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-09-14T22:17:12.766663+00:00",
+      "paths": [
+        "Actions/Nominations/2026/09/14/Nominations_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-09-14T15:25:34-04:00",
+      "title": "Nominations Sent to the Senate"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/": {
       "categories": [

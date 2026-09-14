@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T18:02:35.113265+00:00",
+  "generatedAt": "2026-09-14T22:17:17.721945+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/warrior-ethos-in-action-dude-44-bravos-incredible-story/",
       "summary": "**For the first time, a U.S. Air Force officer shot down over Iran \u2014 mission call sign DUDE 44 Bravo \u2014 told America his story.** In an exclusive [*60 Minutes* interview](https://x.com/RapidResponse47/status/2099523525572723065), Bravo delivered a powerful account of survival, fai",
       "title": "Warrior Ethos in Action: DUDE 44 Bravo\u2019s Incredible Story"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-09-14",
+      "id": "whitehouse:e24eb60de3e57131",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-14T22:17:12.766663+00:00"
+      },
+      "path": "Actions/Nominations/2026/09/14/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
     },
     {
       "category": "Briefings & Statements",
