@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-14T11:59:45.380475+00:00",
+  "generatedAt": "2026-09-14T18:02:35.113265+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-14",
+      "id": "whitehouse:704ad7df8d44ab8b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-14T18:02:29.750605+00:00"
+      },
+      "path": "Releases/2026/09/14/Warrior_Ethos_in_Action_DUDE_44_Bravos_Incredible_Story.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/warrior-ethos-in-action-dude-44-bravos-incredible-story/",
+      "summary": "**For the first time, a U.S. Air Force officer shot down over Iran \u2014 mission call sign DUDE 44 Bravo \u2014 told America his story.** In an exclusive [*60 Minutes* interview](https://x.com/RapidResponse47/status/2099523525572723065), Bravo delivered a powerful account of survival, fai",
+      "title": "Warrior Ethos in Action: DUDE 44 Bravo\u2019s Incredible Story"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-09-13",

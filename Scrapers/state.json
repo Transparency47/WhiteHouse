@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-14T11:59:41.663851+00:00",
+  "last_successful_run": "2026-09-14T18:02:31.375598+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23143,6 +23143,17 @@
       ],
       "published": "2026-09-10T13:56:28-04:00",
       "title": "Trump Dividend: America Is Winning \u2014 and Americans Should Win With It"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/warrior-ethos-in-action-dude-44-bravos-incredible-story/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-14T18:02:29.750605+00:00",
+      "paths": [
+        "Releases/2026/09/14/Warrior_Ethos_in_Action_DUDE_44_Bravos_Incredible_Story.md"
+      ],
+      "published": "2026-09-14T13:45:59-04:00",
+      "title": "Warrior Ethos in Action: DUDE 44 Bravo\u2019s Incredible Story"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
