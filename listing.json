@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-15T13:11:12.188723+00:00",
+  "generatedAt": "2026-09-15T17:57:38.440203+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-15",
+      "id": "whitehouse:071d13073a7b3424",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-15T17:57:33.465153+00:00"
+      },
+      "path": "Releases/2026/09/15/President_Trump_Promised_to_Make_Memphis_Safe_Again_One_Year_Later_the_Numbers_Prove_It.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-promised-to-make-memphis-safe-again-one-year-later-the-numbers-prove-it/",
+      "summary": "**One year ago, President Donald J. Trump** [**created**](https://www.whitehouse.gov/presidential-actions/2025/09/restoring-law-and-order-in-memphis/) **the Memphis Safe Task Force and ordered a full-scale federal surge into one of America\u2019s** [**most violent**](https://www.white",
+      "title": "President Trump Promised to Make Memphis Safe Again. One Year Later, the Numbers Prove It."
+    },
     {
       "category": "Releases",
       "date": "2026-09-14",

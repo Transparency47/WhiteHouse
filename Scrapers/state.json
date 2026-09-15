@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-15T13:11:10.187735+00:00",
+  "last_successful_run": "2026-09-15T17:57:34.684749+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23122,6 +23122,17 @@
       ],
       "published": "2026-09-08T14:11:32-04:00",
       "title": "President Trump Honors 9/11 Heroes and Renews America\u2019s Vow to Never Forget"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-promised-to-make-memphis-safe-again-one-year-later-the-numbers-prove-it/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-15T17:57:33.465153+00:00",
+      "paths": [
+        "Releases/2026/09/15/President_Trump_Promised_to_Make_Memphis_Safe_Again_One_Year_Later_the_Numbers_Prove_It.md"
+      ],
+      "published": "2026-09-15T11:22:37-04:00",
+      "title": "President Trump Promised to Make Memphis Safe Again. One Year Later, the Numbers Prove It."
     },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/": {
       "categories": [
