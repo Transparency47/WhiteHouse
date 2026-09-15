@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T17:57:38.440203+00:00",
+  "generatedAt": "2026-09-15T21:08:45.805656+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-promised-to-make-memphis-safe-again-one-year-later-the-numbers-prove-it/",
       "summary": "**One year ago, President Donald J. Trump** [**created**](https://www.whitehouse.gov/presidential-actions/2025/09/restoring-law-and-order-in-memphis/) **the Memphis Safe Task Force and ordered a full-scale federal surge into one of America\u2019s** [**most violent**](https://www.white",
       "title": "President Trump Promised to Make Memphis Safe Again. One Year Later, the Numbers Prove It."
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-15",
+      "id": "whitehouse:740d50c147dc7669",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-15T21:08:42.716597+00:00"
+      },
+      "path": "Briefings/2026/09/15/First_Lady_Melania_Trumps_Special_Visit_to_Ashe_County_North_Carolina_Bearing_Witness_to_a_Communitys_Resilience.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-special-visit-to-ashe-county-north-carolina-bearing-witness-to-a-communitys-resilience/",
+      "summary": "First Lady Melania Trump returned to North Carolina to visit Mountain View Elementary School in Ashe County, nearly two years after her initial visit to a community devastated by Hurricane Helene.",
+      "title": "First Lady Melania Trump\u2019s Special Visit to Ashe County, North Carolina Bearing Witness to a Community\u2019s Resilience"
     },
     {
       "category": "Releases",

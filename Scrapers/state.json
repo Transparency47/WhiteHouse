@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-15T17:57:34.684749+00:00",
+  "last_successful_run": "2026-09-15T21:08:43.886118+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4928,6 +4928,17 @@
       ],
       "published": "2026-09-09T18:59:40-04:00",
       "title": "First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-special-visit-to-ashe-county-north-carolina-bearing-witness-to-a-communitys-resilience/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-15T21:08:42.716597+00:00",
+      "paths": [
+        "Briefings/2026/09/15/First_Lady_Melania_Trumps_Special_Visit_to_Ashe_County_North_Carolina_Bearing_Witness_to_a_Communitys_Resilience.md"
+      ],
+      "published": "2026-09-15T16:36:07-04:00",
+      "title": "First Lady Melania Trump\u2019s Special Visit to Ashe County, North Carolina Bearing Witness to a Community\u2019s Resilience"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/": {
       "categories": [
