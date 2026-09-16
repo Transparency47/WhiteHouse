@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:42:06.185768+00:00",
+  "generatedAt": "2026-09-16T21:55:20.877178+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,97 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/safer-stronger-built-in-america-president-trumps-record-in-north-carolina/",
       "summary": "**President Donald J. Trump returns to North Carolina today with a simple message: North Carolinians are better off with Republican leadership.** Since taking office, the Trump Administration has driven crime down, put money back in workers\u2019 pockets, and unleashed a wave of advan",
       "title": "Safer, Stronger, Built in America: President Trump\u2019s Record in North Carolina"
+    },
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-09-16",
+      "id": "whitehouse:2e2b37db219dfeea",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-16T21:55:13.793200+00:00"
+      },
+      "path": "Actions/Memoranda/2026/09/16/Restoring_Reciprocity_in_Government_Procurement.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-reciprocity-in-government-procurement/",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF WAR",
+      "title": "Restoring Reciprocity in Government Procurement"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-16",
+      "id": "whitehouse:47ed8236c463e053",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-16T21:55:14.580890+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/16/Providing_Meaningful_Water_Quality_Improvements_Through_Collaboration_and_Oversight_of_Federal_Support.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/providing-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Clean Water Act of 1972, as amended (33 U.S.C. 1251 *et seq*.), it is hereby ordered:",
+      "title": "Providing Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-16",
+      "id": "whitehouse:dbbdf70727359405",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-16T21:55:15.383563+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/16/National_POW_MIA_Recognition_Day_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "National POW/MIA Recognition Day, 2026"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-16",
+      "id": "whitehouse:8ad6337647ef4cd2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-16T21:55:13.399584+00:00"
+      },
+      "path": "Fact Sheets/2026/09/16/Fact_Sheet_President_Donald_J_Trump_Restores_Reciprocity_in_Government_Procurement.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-reciprocity-in-government-procurement/",
+      "summary": "**ENDING CANADA\u2019S UNFAIR ACCESS TO FEDERAL PROCURMENT:** Today, President Donald J. Trump signed a Presidential Memorandum to identify and take steps to remove Canadian-origin goods from Federal Civil Government Procurement in response to Canada\u2019s measures that have denied U.S. f",
+      "title": "Fact Sheet: President Donald J. Trump Restores Reciprocity in Government Procurement"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-16",
+      "id": "whitehouse:7cef48c6ed4250ab",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-16T21:55:14.187017+00:00"
+      },
+      "path": "Fact Sheets/2026/09/16/Fact_Sheet_President_Donald_J_Trump_Provides_Meaningful_Water_Quality_Improvements_Through_Collaboration_and_Oversight_of_Federal_Support.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
+      "summary": "**IMPROVING WATER QUALITY OF THE CHESAPEAKE BAY:** Today, President Donald J. Trump signed an Executive Order removing unnecessary administrative costs and directing federal resources for the Chesapeake Bay toward projects that improve water quality, promoting a more efficient, a",
+      "title": "Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-16",
+      "id": "whitehouse:e534d51c7e4437f9",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-16T21:55:14.991212+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/16/Constitution_Day_Citizenship_Day_and_Constitution_Week_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/constitution-day-citizenship-day-and-constitution-week-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Constitution Day, Citizenship Day, and Constitution Week, 2026"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-16",
+      "id": "whitehouse:4a63ed5ae66f27f4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-16T21:55:15.771767+00:00"
+      },
+      "path": "Briefings/2026/09/16/Congressional_Bills_S_32_and_S_307_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-s-32-and-s-307-signed-into-law/",
+      "summary": "On Wednesday, September 16, 2026, the President signed into law:",
+      "title": "Congressional Bills S. 32 and S. 307 Signed into Law"
     },
     {
       "category": "Releases",

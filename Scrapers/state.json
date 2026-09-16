@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-16T18:42:04.315442+00:00",
+  "last_successful_run": "2026-09-16T21:55:17.405535+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4918,6 +4918,17 @@
       "published": "2026-09-11T15:11:44-04:00",
       "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-s-32-and-s-307-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-16T21:55:15.771767+00:00",
+      "paths": [
+        "Briefings/2026/09/16/Congressional_Bills_S_32_and_S_307_Signed_into_Law.md"
+      ],
+      "published": "2026-09-16T16:02:31-04:00",
+      "title": "Congressional Bills S. 32 and S. 307 Signed into Law"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/": {
       "categories": [
         "Briefings & Statements"
@@ -8878,6 +8889,17 @@
       "published": "2026-09-04T15:15:33-04:00",
       "title": "Fact Sheet: President Donald J. Trump Promotes Fair Competition in Livestock Markets and Expands Market Access for American Meat Producers"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-16T21:55:14.187017+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/16/Fact_Sheet_President_Donald_J_Trump_Provides_Meaningful_Water_Quality_Improvements_Through_Collaboration_and_Oversight_of_Federal_Support.md"
+      ],
+      "published": "2026-09-16T16:25:19-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/": {
       "categories": [
         "Fact Sheets"
@@ -8888,6 +8910,17 @@
       ],
       "published": "2026-09-08T21:38:43-04:00",
       "title": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-reciprocity-in-government-procurement/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-16T21:55:13.399584+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/16/Fact_Sheet_President_Donald_J_Trump_Restores_Reciprocity_in_Government_Procurement.md"
+      ],
+      "published": "2026-09-16T16:29:14-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Restores Reciprocity in Government Procurement"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/": {
       "categories": [
@@ -16183,6 +16216,18 @@
       "published": "2026-09-08T14:52:09-04:00",
       "title": "Adjusting Certain Delegations Under the Defense Production Act"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/constitution-day-citizenship-day-and-constitution-week-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-09-16T21:55:14.991212+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/09/16/Constitution_Day_Citizenship_Day_and_Constitution_Week_2026.md"
+      ],
+      "published": "2026-09-16T16:09:16-04:00",
+      "title": "Constitution Day, Citizenship Day, and Constitution Week, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-bever/": {
       "categories": [
         "Presidential Actions",
@@ -16255,6 +16300,18 @@
       "published": "2026-09-08T18:50:00-04:00",
       "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-09-16T21:55:15.383563+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/09/16/National_POW_MIA_Recognition_Day_2026.md"
+      ],
+      "published": "2026-09-16T16:05:04-04:00",
+      "title": "National POW/MIA Recognition Day, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/": {
       "categories": [
         "Presidential Actions",
@@ -16290,6 +16347,30 @@
       ],
       "published": "2026-09-04T15:23:49-04:00",
       "title": "Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/providing-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-16T21:55:14.580890+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/16/Providing_Meaningful_Water_Quality_Improvements_Through_Collaboration_and_Oversight_of_Federal_Support.md"
+      ],
+      "published": "2026-09-16T16:23:26-04:00",
+      "title": "Providing Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-reciprocity-in-government-procurement/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-09-16T21:55:13.793200+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/09/16/Restoring_Reciprocity_in_Government_Procurement.md"
+      ],
+      "published": "2026-09-16T16:27:39-04:00",
+      "title": "Restoring Reciprocity in Government Procurement"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/": {
       "categories": [
