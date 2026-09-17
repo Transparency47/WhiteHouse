@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:02:24.056437+00:00",
+  "generatedAt": "2026-09-17T23:24:35.349277+00:00",
   "records": [
     {
       "category": "Nominations & Appointments",
@@ -13,6 +13,32 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
       "summary": "WITHDRAWALS SENT TO THE SENATE:",
       "title": "Withdrawals Sent to the Senate"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-17",
+      "id": "whitehouse:e0ee4bb18db8cc55",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-17T23:24:30.722126+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/17/Reinvigorating_Americas_Hunting_Heritage.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Reinvigorating America\u2019s Hunting Heritage"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-17",
+      "id": "whitehouse:ec80ca48fb3fe907",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-17T23:24:30.326062+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/17/RESTORING_AMERICAN_SALTWATER_ANGLING_AND_RECREATION.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "RESTORING AMERICAN SALTWATER ANGLING AND RECREATION"
     },
     {
       "category": "Briefings & Statements",
@@ -39,6 +65,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/",
       "summary": "***Promises Made, Promises Kept.*** Since taking office, President Donald J. Trump has made history again and again for the faith community. Since the founding of our nation, nobody has fought harder or gained more for believers, reversing the catastrophic policies of the previou",
       "title": "President Trump\u2019s Top 250 Victories For People of Faith"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-17",
+      "id": "whitehouse:a1ec473f65f3f75e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-17T23:24:29.928433+00:00"
+      },
+      "path": "Fact Sheets/2026/09/17/Fact_Sheet_President_Donald_J_Trump_Restores_American_Saltwater_Angling_and_Recreation.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-american-saltwater-angling-and-recreation/",
+      "summary": "**MODERNIZING MANAGEMENT AND EXPANDING PUBLIC ACCESS:** Today, President Donald J. Trump signed an Executive Order to modernize Federal fisheries management, empower recreational industries, and eliminate unnecessary restrictions on American boaters and anglers.",
+      "title": "Fact Sheet: President Donald J. Trump Restores American Saltwater Angling and Recreation"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-17",
+      "id": "whitehouse:1541e719bf04d0b4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-17T23:24:29.527258+00:00"
+      },
+      "path": "Fact Sheets/2026/09/17/Fact_Sheet_President_Donald_J_Trump_Reinvigorates_Americas_Hunting_Heritage.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-reinvigorates-americas-hunting-heritage/",
+      "summary": "**EXPANDING ACCESS AND PROMOTING AMERICA\u2019S HUNTING HERITAGE:** Today, President Donald J. Trump signed an Executive Order to expand access to America\u2019s public lands and waterways, foster and recruit the next generation of hunters, and promote robust and healthy wild game populati",
+      "title": "Fact Sheet: President Donald J. Trump Reinvigorates America\u2019s Hunting Heritage"
     },
     {
       "category": "Releases",

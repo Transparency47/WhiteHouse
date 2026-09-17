@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-17T20:02:22.242471+00:00",
+  "last_successful_run": "2026-09-17T23:24:31.917205+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8911,6 +8911,17 @@
       "published": "2026-09-16T16:25:19-04:00",
       "title": "Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-reinvigorates-americas-hunting-heritage/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-17T23:24:29.527258+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/17/Fact_Sheet_President_Donald_J_Trump_Reinvigorates_Americas_Hunting_Heritage.md"
+      ],
+      "published": "2026-09-17T18:04:08-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Reinvigorates America\u2019s Hunting Heritage"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/": {
       "categories": [
         "Fact Sheets"
@@ -8921,6 +8932,17 @@
       ],
       "published": "2026-09-08T21:38:43-04:00",
       "title": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-american-saltwater-angling-and-recreation/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-17T23:24:29.928433+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/17/Fact_Sheet_President_Donald_J_Trump_Restores_American_Saltwater_Angling_and_Recreation.md"
+      ],
+      "published": "2026-09-17T18:02:56-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Restores American Saltwater Angling and Recreation"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-reciprocity-in-government-procurement/": {
       "categories": [
@@ -16370,6 +16392,30 @@
       ],
       "published": "2026-09-16T16:23:26-04:00",
       "title": "Providing Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-17T23:24:30.722126+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/17/Reinvigorating_Americas_Hunting_Heritage.md"
+      ],
+      "published": "2026-09-17T17:26:54-04:00",
+      "title": "Reinvigorating America\u2019s Hunting Heritage"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-17T23:24:30.326062+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/17/RESTORING_AMERICAN_SALTWATER_ANGLING_AND_RECREATION.md"
+      ],
+      "published": "2026-09-17T17:31:50-04:00",
+      "title": "RESTORING AMERICAN SALTWATER ANGLING AND RECREATION"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-reciprocity-in-government-procurement/": {
       "categories": [
