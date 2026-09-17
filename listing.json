@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-17T11:06:26.995820+00:00",
+  "generatedAt": "2026-09-17T16:23:30.006212+00:00",
   "records": [
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-09-17",
+      "id": "whitehouse:973db62689cc4ec2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-17T16:23:24.633909+00:00"
+      },
+      "path": "Actions/Nominations/2026/09/17/Withdrawals_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
+      "summary": "WITHDRAWALS SENT TO THE SENATE:",
+      "title": "Withdrawals Sent to the Senate"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-17",
+      "id": "whitehouse:d3d9c035ed9fc117",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-17T16:23:25.034229+00:00"
+      },
+      "path": "Briefings/2026/09/17/Presidential_Message_on_National_Hispanic_Heritage_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hispanic-heritage-month/",
+      "summary": "During National Hispanic Heritage Month, we honor the innumerable achievements and vast contributions of Hispanic Americans, whose strength, character, and devotion to our country continue to make America the greatest and most prosperous Nation in the world.",
+      "title": "Presidential Message on National Hispanic Heritage Month"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-17",
+      "id": "whitehouse:5298dd509690dc47",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-17T16:23:25.661883+00:00"
+      },
+      "path": "Releases/2026/09/17/President_Trumps_Top_250_Victories_For_People_of_Faith.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/",
+      "summary": "***Promises Made, Promises Kept.*** Since taking office, President Donald J. Trump has made history again and again for the faith community. Since the founding of our nation, nobody has fought harder or gained more for believers, reversing the catastrophic policies of the previou",
+      "title": "President Trump\u2019s Top 250 Victories For People of Faith"
+    },
     {
       "category": "Releases",
       "date": "2026-09-16",

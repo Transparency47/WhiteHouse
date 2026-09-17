@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-17T11:06:23.235578+00:00",
+  "last_successful_run": "2026-09-17T16:23:26.865102+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4961,6 +4961,17 @@
       ],
       "published": "2026-09-02T11:59:31-04:00",
       "title": "Presidential Message on National Childhood Cancer Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hispanic-heritage-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-17T16:23:25.034229+00:00",
+      "paths": [
+        "Briefings/2026/09/17/Presidential_Message_on_National_Hispanic_Heritage_Month.md"
+      ],
+      "published": "2026-09-17T10:19:32-04:00",
+      "title": "Presidential Message on National Hispanic Heritage Month"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-preparedness-month-6e71/": {
       "categories": [
@@ -16384,6 +16395,18 @@
       "published": "2026-09-04T15:28:18-04:00",
       "title": "Supporting America\u2019s Ranchers"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-09-17T16:23:24.633909+00:00",
+      "paths": [
+        "Actions/Nominations/2026/09/17/Withdrawals_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-09-17T11:48:13-04:00",
+      "title": "Withdrawals Sent to the Senate"
+    },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
         "Releases"
@@ -23236,6 +23259,17 @@
       ],
       "published": "2026-09-02T20:35:13-04:00",
       "title": "President Trump Secures the Biggest Oil Deal in World History"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-17T16:23:25.661883+00:00",
+      "paths": [
+        "Releases/2026/09/17/President_Trumps_Top_250_Victories_For_People_of_Faith.md"
+      ],
+      "published": "2026-09-17T08:00:00-04:00",
+      "title": "President Trump\u2019s Top 250 Victories For People of Faith"
     },
     "https://www.whitehouse.gov/releases/2026/09/safer-stronger-built-in-america-president-trumps-record-in-north-carolina/": {
       "categories": [
