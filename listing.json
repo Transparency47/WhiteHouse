@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-18T17:32:07.101768+00:00",
+  "generatedAt": "2026-09-18T20:30:38.508095+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-18",
+      "id": "whitehouse:1a06b1f48ff758db",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-18T20:30:33.382593+00:00"
+      },
+      "path": "Releases/2026/09/18/WHAT_THEY_ARE_SAYING_President_Trump_Delivers_Historic_Victories_for_Americas_Hunters_Anglers_and_Outdoorsmen.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/what-they-are-saying-president-trump-delivers-historic-victories-for-americas-hunters-anglers-and-outdoorsmen/",
+      "summary": "President Donald J. Trump is delivering on his promises to America\u2019s outdoorsmen by cutting red tape, removing burdensome and unnecessary restrictions levied by previous Administrations and expanding America\u2019s great outdoor recreation sector that generates over $1.2 trillion annu",
+      "title": "WHAT THEY ARE SAYING: President Trump Delivers Historic Victories for America\u2019s Hunters, Anglers, and Outdoorsmen"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-18",
+      "id": "whitehouse:a6064d546df7f67e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-18T20:30:32.972424+00:00"
+      },
+      "path": "Releases/2026/09/18/President_Trump_Extends_Most_Favored_Nation_Drug_Pricing_to_Every_Medicaid_Program_in_America.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-extends-most-favored-nation-pricing-to-every-medicaid-program-in-america/",
+      "summary": "**For decades, Presidents have promised to cut prescription drug prices, but only President Donald J. Trump has delivered.** Prescription drug prices have now recorded their sharpest annual drop in more than 60 years \u2014 and those lower prices now reach every Medicaid program in Am",
+      "title": "President Trump Extends Most Favored Nation Drug Pricing to Every Medicaid Program in America"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-18",
+      "id": "whitehouse:101aa0cfb6aad14b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-18T20:30:32.563179+00:00"
+      },
+      "path": "Fact Sheets/2026/09/18/Fact_Sheet_President_Donald_J_Trump_Announces_Lower_Drug_Prices_for_All_50_State_Medicaid_Programs.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-lower-drug-prices-for-all-50-state-medicaid-programs/",
+      "summary": "**ADVANCING MOST-FAVORED-NATION (MFN) PRICING IN MEDICAID:** Today, President Donald J. Trump announced that all 50 States\u2019 Medicaid programs will benefit from lower prescription drug prices under his agreements with pharmaceutical manufacturers to match the lowest prices paid by",
+      "title": "Fact Sheet: President Donald J. Trump Announces Lower Drug Prices for All 50 State Medicaid Programs"
+    },
     {
       "category": "Nominations & Appointments",
       "date": "2026-09-17",

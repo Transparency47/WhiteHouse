@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-18T17:32:03.641390+00:00",
+  "last_successful_run": "2026-09-18T20:30:34.641625+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -8877,6 +8877,17 @@
       ],
       "published": "2026-09-08T15:02:42-04:00",
       "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-lower-drug-prices-for-all-50-state-medicaid-programs/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-18T20:30:32.563179+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/18/Fact_Sheet_President_Donald_J_Trump_Announces_Lower_Drug_Prices_for_All_50_State_Medicaid_Programs.md"
+      ],
+      "published": "2026-09-18T15:47:36-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Announces Lower Drug Prices for All 50 State Medicaid Programs"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/": {
       "categories": [
@@ -23273,6 +23284,17 @@
       "published": "2026-09-09T16:14:42-04:00",
       "title": "President Trump Delivers Historic Results for the American People in Under Two Years"
     },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-extends-most-favored-nation-pricing-to-every-medicaid-program-in-america/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-18T20:30:32.972424+00:00",
+      "paths": [
+        "Releases/2026/09/18/President_Trump_Extends_Most_Favored_Nation_Drug_Pricing_to_Every_Medicaid_Program_in_America.md"
+      ],
+      "published": "2026-09-18T15:11:57-04:00",
+      "title": "President Trump Extends Most Favored Nation Drug Pricing to Every Medicaid Program in America"
+    },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/": {
       "categories": [
         "Releases"
@@ -23360,6 +23382,17 @@
       ],
       "published": "2026-09-14T13:45:59-04:00",
       "title": "Warrior Ethos in Action: DUDE 44 Bravo\u2019s Incredible Story"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/what-they-are-saying-president-trump-delivers-historic-victories-for-americas-hunters-anglers-and-outdoorsmen/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-18T20:30:33.382593+00:00",
+      "paths": [
+        "Releases/2026/09/18/WHAT_THEY_ARE_SAYING_President_Trump_Delivers_Historic_Victories_for_Americas_Hunters_Anglers_and_Outdoorsmen.md"
+      ],
+      "published": "2026-09-18T14:48:53-04:00",
+      "title": "WHAT THEY ARE SAYING: President Trump Delivers Historic Victories for America\u2019s Hunters, Anglers, and Outdoorsmen"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
