@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-18T20:30:34.641625+00:00",
+  "last_successful_run": "2026-09-18T23:03:36.368139+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4896,6 +4896,17 @@
       "published": "2026-08-04T20:47:48-04:00",
       "title": "Presidential Message on the Birthday of the United States Coast Guard"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-5334-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-18T23:03:34.740225+00:00",
+      "paths": [
+        "Briefings/2026/09/18/Congressional_Bill_H_R_5334_Signed_into_Law.md"
+      ],
+      "published": "2026-09-18T17:43:23-04:00",
+      "title": "Congressional Bill H.R. 5334 Signed into Law"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/": {
       "categories": [
         "Briefings & Statements"
@@ -8899,6 +8910,17 @@
       ],
       "published": "2026-09-10T10:06:53-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-further-enhances-program-integrity-and-interagency-coordination-in-the-h-1b-visa-program/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-18T23:03:33.952189+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/18/Fact_Sheet_President_Donald_J_Trump_Further_Enhances_Program_Integrity_and_Interagency_Coordination_in_the_H_1B_Visa_Program.md"
+      ],
+      "published": "2026-09-18T18:03:18-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Further Enhances Program Integrity and Interagency Coordination in the H-1B Visa Program"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/": {
       "categories": [
@@ -16272,6 +16294,18 @@
       "published": "2026-09-16T16:09:16-04:00",
       "title": "Constitution Day, Citizenship Day, and Constitution Week, 2026"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-18T23:03:34.349743+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/18/Enhancing_Program_Integrity_and_Integrity_and_Interagency_Coordination_in_the_Administration_of_the_H_1B_Nonimmigrant_Visa_Program.md"
+      ],
+      "published": "2026-09-18T18:02:43-04:00",
+      "title": "Enhancing Program Integrity and Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-bever/": {
       "categories": [
         "Presidential Actions",
@@ -16439,6 +16473,18 @@
       ],
       "published": "2026-09-16T16:27:39-04:00",
       "title": "Restoring Reciprocity in Government Procurement"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/restriction-on-entry-of-certain-nonimmigrant-workers-faad/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-09-18T23:03:35.138745+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/09/18/Restriction_on_Entry_of_Certain_Nonimmigrant_Workers.md"
+      ],
+      "published": "2026-09-18T17:42:13-04:00",
+      "title": "Restriction on Entry of Certain Nonimmigrant Workers"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/": {
       "categories": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:30:38.508095+00:00",
+  "generatedAt": "2026-09-18T23:03:39.953880+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/what-they-are-saying-president-trump-delivers-historic-victories-for-americas-hunters-anglers-and-outdoorsmen/",
       "summary": "President Donald J. Trump is delivering on his promises to America\u2019s outdoorsmen by cutting red tape, removing burdensome and unnecessary restrictions levied by previous Administrations and expanding America\u2019s great outdoor recreation sector that generates over $1.2 trillion annu",
       "title": "WHAT THEY ARE SAYING: President Trump Delivers Historic Victories for America\u2019s Hunters, Anglers, and Outdoorsmen"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-18",
+      "id": "whitehouse:ffb7e1c1c5d6fe39",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-18T23:03:35.138745+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/18/Restriction_on_Entry_of_Certain_Nonimmigrant_Workers.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/restriction-on-entry-of-certain-nonimmigrant-workers-faad/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Restriction on Entry of Certain Nonimmigrant Workers"
     },
     {
       "category": "Releases",
@@ -30,6 +43,19 @@
     {
       "category": "Fact Sheets",
       "date": "2026-09-18",
+      "id": "whitehouse:74926b9210975aed",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-18T23:03:33.952189+00:00"
+      },
+      "path": "Fact Sheets/2026/09/18/Fact_Sheet_President_Donald_J_Trump_Further_Enhances_Program_Integrity_and_Interagency_Coordination_in_the_H_1B_Visa_Program.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-further-enhances-program-integrity-and-interagency-coordination-in-the-h-1b-visa-program/",
+      "summary": "**PROTECTING AMERICAN JOBS:** Today, President Donald J. Trump signed an Executive Order and a Proclamation to continue to protect American national and economic security and American workers from abuses of the H-1B visa program.",
+      "title": "Fact Sheet: President Donald J. Trump Further Enhances Program Integrity and Interagency Coordination in the H-1B Visa Program"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-18",
       "id": "whitehouse:101aa0cfb6aad14b",
       "kind": "whitehouse_record",
       "metadata": {
@@ -39,6 +65,32 @@
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-lower-drug-prices-for-all-50-state-medicaid-programs/",
       "summary": "**ADVANCING MOST-FAVORED-NATION (MFN) PRICING IN MEDICAID:** Today, President Donald J. Trump announced that all 50 States\u2019 Medicaid programs will benefit from lower prescription drug prices under his agreements with pharmaceutical manufacturers to match the lowest prices paid by",
       "title": "Fact Sheet: President Donald J. Trump Announces Lower Drug Prices for All 50 State Medicaid Programs"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-18",
+      "id": "whitehouse:f0502707a746f672",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-18T23:03:34.349743+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/18/Enhancing_Program_Integrity_and_Integrity_and_Interagency_Coordination_in_the_Administration_of_the_H_1B_Nonimmigrant_Visa_Program.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Enhancing Program Integrity and Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-18",
+      "id": "whitehouse:b6d28d8917f996ff",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-18T23:03:34.740225+00:00"
+      },
+      "path": "Briefings/2026/09/18/Congressional_Bill_H_R_5334_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-5334-signed-into-law/",
+      "summary": "On Friday, September 18, 2026, the President signed into law:",
+      "title": "Congressional Bill H.R. 5334 Signed into Law"
     },
     {
       "category": "Nominations & Appointments",
