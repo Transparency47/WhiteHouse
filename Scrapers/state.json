@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-19T16:16:27.207780+00:00",
+  "last_successful_run": "2026-09-19T19:11:40.460414+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5016,6 +5016,17 @@
       ],
       "published": "2026-09-11T10:22:25-04:00",
       "title": "Presidential Message on Rosh Hashanah"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-79th-birthday-of-the-united-states-air-force/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-19T19:11:38.463517+00:00",
+      "paths": [
+        "Briefings/2026/09/18/Presidential_Message_on_the_79th_Birthday_of_the_United_States_Air_Force.md"
+      ],
+      "published": "2026-09-18T15:00:00-04:00",
+      "title": "Presidential Message on the 79th Birthday of the United States Air Force"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-anniversary-of-the-battle-of-fort-mchenry/": {
       "categories": [
