@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-20T14:32:27.545261+00:00",
+  "last_successful_run": "2026-09-20T18:00:57.320266+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5038,6 +5038,17 @@
       ],
       "published": "2026-09-13T17:37:19-04:00",
       "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-20T18:00:56.147801+00:00",
+      "paths": [
+        "Briefings/2026/09/20/Presidential_Message_on_Yom_Kippur.md"
+      ],
+      "published": "2026-09-20T13:02:49-04:00",
+      "title": "Presidential Message on Yom Kippur"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/s-858-signed-into-law/": {
       "categories": [

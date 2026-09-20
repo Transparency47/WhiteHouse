@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-20T14:32:30.468510+00:00",
+  "generatedAt": "2026-09-20T18:00:59.321452+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-20",
+      "id": "whitehouse:144716799c36ccc7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-20T18:00:56.147801+00:00"
+      },
+      "path": "Briefings/2026/09/20/Presidential_Message_on_Yom_Kippur.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/",
+      "summary": "On the holiest day of the Jewish calendar, I send my best wishes to the entire Jewish community for a blessed Yom Kippur.",
+      "title": "Presidential Message on Yom Kippur"
+    },
     {
       "category": "Releases",
       "date": "2026-09-18",
