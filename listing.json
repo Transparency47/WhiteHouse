@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-21T16:15:36.597683+00:00",
+  "generatedAt": "2026-09-21T20:48:45.960855+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-21",
+      "id": "whitehouse:b06731c1887fcb7a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-21T20:48:41.838383+00:00"
+      },
+      "path": "Releases/2026/09/21/White_House_Access_Is_a_Privilege_Not_a_Right.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
+      "summary": "**Last week, President Donald J. Trump** [**removed**](https://x.com/RapidResponse47/status/2101025120399626488) **CNN, MS NOW, and Politico from the White House grounds after** [**years**](https://www.newsbusters.org/blogs/nb/curtis-houck/2019/01/21/weekend-cnn-msnbc-spend-over-",
+      "title": "White House Access Is a Privilege \u2014 Not a Right"
+    },
     {
       "category": "Releases",
       "date": "2026-09-21",
