@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-22T18:32:58.481505+00:00",
+  "last_successful_run": "2026-09-22T21:48:50.750911+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23428,6 +23428,17 @@
       ],
       "published": "2026-09-08T14:11:32-04:00",
       "title": "President Trump Honors 9/11 Heroes and Renews America\u2019s Vow to Never Forget"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-inks-historic-arctic-security-agreement/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-22T21:48:49.530507+00:00",
+      "paths": [
+        "Releases/2026/09/22/President_Trump_Inks_Historic_Arctic_Security_Agreement.md"
+      ],
+      "published": "2026-09-22T17:03:03-04:00",
+      "title": "President Trump Inks Historic Arctic Security Agreement"
     },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-promised-to-make-memphis-safe-again-one-year-later-the-numbers-prove-it/": {
       "categories": [

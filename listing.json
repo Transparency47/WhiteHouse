@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:33:02.358662+00:00",
+  "generatedAt": "2026-09-22T21:48:54.552678+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/",
       "summary": "**Today, President Donald J. Trump** [**addressed**](https://x.com/RapidResponse47/status/2102418866966253677) **the 81st session of the United Nations General Assembly and delivered a powerful message: American strength and resolve is back.** President Trump declared that under ",
       "title": "President Trump at the United Nations: \u201cWhile Others Have Talked, I Have Acted\u201d"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-22",
+      "id": "whitehouse:f2892a20264f5e17",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-22T21:48:49.530507+00:00"
+      },
+      "path": "Releases/2026/09/22/President_Trump_Inks_Historic_Arctic_Security_Agreement.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-inks-historic-arctic-security-agreement/",
+      "summary": "**Today, President Donald J. Trump joined leaders of Denmark and Greenland to** [**sign**](https://x.com/RapidResponse47/status/2102424080586801322?s=20) **an unprecedented** [**agreement**](https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-",
+      "title": "President Trump Inks Historic Arctic Security Agreement"
     },
     {
       "category": "Briefings & Statements",
