@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-22T14:23:36.015185+00:00",
+  "last_successful_run": "2026-09-22T18:32:58.481505+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4896,6 +4896,17 @@
       "published": "2026-08-04T20:47:48-04:00",
       "title": "Presidential Message on the Birthday of the United States Coast Guard"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-22T18:32:57.257143+00:00",
+      "paths": [
+        "Briefings/2026/09/22/AGREEMENT_BETWEEN_THE_GOVERNMENT_OF_THE_UNITED_STATES_OF_AMERICA_AND_THE_GOVERNMENT_OF_THE_KINGDOM_OF_DENMARK_TOGETHER_WITH_THE_GOVERNMENT_OF_GREENLAND.md"
+      ],
+      "published": "2026-09-22T11:48:16-04:00",
+      "title": "AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-5334-signed-into-law/": {
       "categories": [
         "Briefings & Statements"
@@ -4950,6 +4961,17 @@
       ],
       "published": "2026-09-21T09:17:18-04:00",
       "title": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan\u2019s Visit to The White House"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-22T18:32:56.426475+00:00",
+      "paths": [
+        "Briefings/2026/09/22/First_Lady_Melania_Trump_Unveils_New_Fostering_the_Future_Together_Technology_Alliances_International_Events_and_Membership_Expansion.md"
+      ],
+      "published": "2026-09-22T14:07:04-04:00",
+      "title": "First Lady Melania Trump Unveils New Fostering the Future Together Technology Alliances, International Events, and Membership Expansion"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/": {
       "categories": [
@@ -23362,6 +23384,17 @@
       ],
       "published": "2026-09-04T11:25:08-04:00",
       "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-22T18:32:56.834307+00:00",
+      "paths": [
+        "Releases/2026/09/22/President_Trump_at_the_United_Nations_While_Others_Have_Talked_I_Have_Acted.md"
+      ],
+      "published": "2026-09-22T13:04:23-04:00",
+      "title": "President Trump at the United Nations: \u201cWhile Others Have Talked, I Have Acted\u201d"
     },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/": {
       "categories": [
