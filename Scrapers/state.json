@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-23T10:54:34.432153+00:00",
+  "last_successful_run": "2026-09-23T15:19:45.524116+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5016,6 +5016,17 @@
       ],
       "published": "2026-09-17T10:19:32-04:00",
       "title": "Presidential Message on National Hispanic Heritage Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-historically-black-colleges-and-universities-week-2026/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-23T15:19:43.498124+00:00",
+      "paths": [
+        "Briefings/2026/09/21/Presidential_Message_on_National_Historically_Black_Colleges_and_Universities_Week_2026.md"
+      ],
+      "published": "2026-09-21T09:16:01-04:00",
+      "title": "Presidential Message on National Historically Black Colleges and Universities Week, 2026"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-preparedness-month-6e71/": {
       "categories": [
@@ -23406,6 +23417,17 @@
       ],
       "published": "2026-09-09T16:14:42-04:00",
       "title": "President Trump Delivers Historic Results for the American People in Under Two Years"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-23T15:19:43.084124+00:00",
+      "paths": [
+        "Releases/2026/09/23/President_Trump_Delivers_Powerful_America_First_Message_to_the_United_Nations.md"
+      ],
+      "published": "2026-09-23T10:02:11-04:00",
+      "title": "President Trump Delivers Powerful America First Message to the United Nations"
     },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-extends-most-favored-nation-pricing-to-every-medicaid-program-in-america/": {
       "categories": [

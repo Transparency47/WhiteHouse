@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-23T10:54:38.196393+00:00",
+  "generatedAt": "2026-09-23T15:19:49.381817+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-23",
+      "id": "whitehouse:1d7099ed095ca2cc",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-23T15:19:43.084124+00:00"
+      },
+      "path": "Releases/2026/09/23/President_Trump_Delivers_Powerful_America_First_Message_to_the_United_Nations.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
+      "summary": "In his address to the United Nations, President Donald J. Trump [touted](https://x.com/WhiteHouse/status/2102392985828880599?s=20) his record of historic results that have reshaped world order for America\u2019s benefit and made our nation safer and more prosperous.",
+      "title": "President Trump Delivers Powerful America First Message to the United Nations"
+    },
     {
       "category": "Releases",
       "date": "2026-09-22",
@@ -65,6 +78,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
       "summary": "**Last week, President Donald J. Trump** [**removed**](https://x.com/RapidResponse47/status/2101025120399626488) **CNN, MS NOW, and Politico from the White House grounds after** [**years**](https://www.newsbusters.org/blogs/nb/curtis-houck/2019/01/21/weekend-cnn-msnbc-spend-over-",
       "title": "White House Access Is a Privilege \u2014 Not a Right"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-21",
+      "id": "whitehouse:133d4246edc3deb5",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-23T15:19:43.498124+00:00"
+      },
+      "path": "Briefings/2026/09/21/Presidential_Message_on_National_Historically_Black_Colleges_and_Universities_Week_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-historically-black-colleges-and-universities-week-2026/",
+      "summary": "For nearly two centuries, Historically Black Colleges and Universities (HBCUs) have opened doors of opportunity, cultivated excellence, and prepared generations of hardworking black Americans to become leaders in every field of national life. During National Historically Black Co",
+      "title": "Presidential Message on National Historically Black Colleges and Universities Week, 2026"
     },
     {
       "category": "Releases",
