@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-23T15:19:49.381817+00:00",
+  "generatedAt": "2026-09-23T19:29:17.406986+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-23",
+      "id": "whitehouse:961cbb25b78a2e0a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-23T19:29:12.385519+00:00"
+      },
+      "path": "Releases/2026/09/23/White_House_App_Hits_No_1_in_News_and_Cracks_App_Store_Top_20_as_Americans_Tune_Out_Fake_News.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/white-house-app-hits-no-1-in-news-and-cracks-app-store-top-20-as-americans-tune-out-fake-news/",
+      "summary": "**As of September 22, 2026, the official White House mobile app reached No. 1 in the News category on the App Store and climbed into the Top 20 among all apps.** The app previously hit No. 1 in News and, at launch, soared as high as No. 4 across the entire App Store. More and mor",
+      "title": "White House App Hits No. 1 in News and Cracks App Store Top 20 as Americans Tune Out Fake News"
+    },
     {
       "category": "Releases",
       "date": "2026-09-23",
