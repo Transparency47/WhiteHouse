@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-24T07:17:42.110574+00:00",
+  "generatedAt": "2026-09-24T13:17:50.048281+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-24",
+      "id": "whitehouse:ff861ae5e16fab1e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-24T13:17:46.124114+00:00"
+      },
+      "path": "Briefings/2026/09/24/First_Lady_Melania_Trump_Releases_Details_on_the_State_Dinner_with_His_Excellency_Xi_Jinping_President_of_The_Peoples_Republic_of_China_and_Madame_Peng_Liyuan.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
+      "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan for a State Dinner in the East Room of the White House this evening. The First Lady led the preparations for the dinn",
+      "title": "First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan"
+    },
     {
       "category": "Releases",
       "date": "2026-09-23",
