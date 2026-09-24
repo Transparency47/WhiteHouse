@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-24T13:17:47.276361+00:00",
+  "last_successful_run": "2026-09-24T18:15:10.406876+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4951,6 +4951,17 @@
       "published": "2026-09-16T16:02:31-04:00",
       "title": "Congressional Bills S. 32 and S. 307 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-and-madame-peng-liyuan-visit-smithsonian-national-museum-of-asian-art-highlighting-sino-american-artwork-culture-and-the-next-generation/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-24T18:15:08.467705+00:00",
+      "paths": [
+        "Briefings/2026/09/24/First_Lady_Melania_Trump_and_Madame_Peng_Liyuan_Visit_Smithsonian_National_Museum_of_Asian_Art_Highlighting_Sino_American_Artwork_Culture_and_the_Next_Generation.md"
+      ],
+      "published": "2026-09-24T13:33:46-04:00",
+      "title": "First Lady Melania Trump and Madame Peng Liyuan Visit Smithsonian National Museum of Asian Art Highlighting Sino-American Artwork, Culture, and the Next Generation"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/": {
       "categories": [
         "Briefings & Statements"
@@ -5093,6 +5104,17 @@
       ],
       "published": "2026-09-13T17:37:19-04:00",
       "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-24T18:15:08.873850+00:00",
+      "paths": [
+        "Briefings/2026/09/24/Presidential_Message_on_the_Beatification_of_Archbishop_Fulton_J_Sheen.md"
+      ],
+      "published": "2026-09-24T10:00:00-04:00",
+      "title": "Presidential Message on the Beatification of Archbishop Fulton J. Sheen"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/": {
       "categories": [

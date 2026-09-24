@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-09-24T13:17:50.048281+00:00",
+  "generatedAt": "2026-09-24T18:15:13.157911+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-24",
+      "id": "whitehouse:71663e716d150372",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-24T18:15:08.873850+00:00"
+      },
+      "path": "Briefings/2026/09/24/Presidential_Message_on_the_Beatification_of_Archbishop_Fulton_J_Sheen.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/",
+      "summary": "Melania and I join all those celebrating the life and legacy of Archbishop Fulton J. Sheen\u2014the Catholic priest who pioneered the use of media to speak the truth, preach the Gospel, and bring many souls closer to Christ. Today, Archbishop Sheen will become the first-ever American-",
+      "title": "Presidential Message on the Beatification of Archbishop Fulton J. Sheen"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-24",
+      "id": "whitehouse:2f3b93eaa5bd7fad",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-24T18:15:08.467705+00:00"
+      },
+      "path": "Briefings/2026/09/24/First_Lady_Melania_Trump_and_Madame_Peng_Liyuan_Visit_Smithsonian_National_Museum_of_Asian_Art_Highlighting_Sino_American_Artwork_Culture_and_the_Next_Generation.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-and-madame-peng-liyuan-visit-smithsonian-national-museum-of-asian-art-highlighting-sino-american-artwork-culture-and-the-next-generation/",
+      "summary": "First Lady Melania Trump and Madame Peng Liyuan visited the Smithsonian National Museum of Asian Art in Washington, DC today, where they explored works spanning centuries of artistic achievement and cultural exchange and shared a special moment with students from the Washington, ",
+      "title": "First Lady Melania Trump and Madame Peng Liyuan Visit Smithsonian National Museum of Asian Art Highlighting Sino-American Artwork, Culture, and the Next Generation"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-09-24",
