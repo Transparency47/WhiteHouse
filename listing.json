@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-25T13:17:57.552682+00:00",
+  "generatedAt": "2026-09-25T18:15:05.211607+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-25",
+      "id": "whitehouse:cb2165883750532c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-25T18:15:01.236004+00:00"
+      },
+      "path": "Briefings/2026/09/25/First_Lady_Melania_Trump_Highlights_Art_Culture_and_the_Next_Generation_During_State_Visit_of_President_Xi_Jinping_and_Madame_Peng_Liyuan.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
+      "summary": "\u201cArt and culture have a remarkable ability to transcend borders, connect generations, and offer us a deeper appreciation for one another. It was an honor to welcome President Xi Jinping and Madame Peng Liyuan and share with them the history, artistry, and traditions that help mak",
+      "title": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-09-24",

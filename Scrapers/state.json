@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-25T13:17:53.799968+00:00",
+  "last_successful_run": "2026-09-25T18:15:02.427590+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4961,6 +4961,17 @@
       ],
       "published": "2026-09-24T13:33:46-04:00",
       "title": "First Lady Melania Trump and Madame Peng Liyuan Visit Smithsonian National Museum of Asian Art Highlighting Sino-American Artwork, Culture, and the Next Generation"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-25T18:15:01.236004+00:00",
+      "paths": [
+        "Briefings/2026/09/25/First_Lady_Melania_Trump_Highlights_Art_Culture_and_the_Next_Generation_During_State_Visit_of_President_Xi_Jinping_and_Madame_Peng_Liyuan.md"
+      ],
+      "published": "2026-09-25T12:24:18-04:00",
+      "title": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/": {
       "categories": [
