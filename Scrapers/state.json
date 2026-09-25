@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-25T18:15:02.427590+00:00",
+  "last_successful_run": "2026-09-25T21:59:50.364140+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4939,6 +4939,17 @@
       ],
       "published": "2026-09-11T15:11:44-04:00",
       "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-3657-h-r-7250-s-550-s-603-s-759-and-s-790-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-25T21:59:48.334465+00:00",
+      "paths": [
+        "Briefings/2026/09/25/Congressional_Bills_H_R_3657_H_R_7250_S_550_S_603_S_759_and_S_790_Signed_into_Law.md"
+      ],
+      "published": "2026-09-25T15:48:25-04:00",
+      "title": "Congressional Bills H.R. 3657, H.R. 7250, S. 550, S. 603, S. 759 and S. 790 Signed into Law"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-s-32-and-s-307-signed-into-law/": {
       "categories": [
@@ -16452,6 +16463,18 @@
       "published": "2026-09-08T18:50:00-04:00",
       "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Motor Vehicles"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-09-25T21:59:48.737359+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/09/25/Gold_Star_Mothers_And_Familys_Day_2026.md"
+      ],
+      "published": "2026-09-25T15:47:32-04:00",
+      "title": "Gold Star Mother\u2019s And Family\u2019s Day, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/": {
       "categories": [
         "Presidential Actions",
@@ -23484,6 +23507,17 @@
       "published": "2026-09-18T15:11:57-04:00",
       "title": "President Trump Extends Most Favored Nation Drug Pricing to Every Medicaid Program in America"
     },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-25T21:59:47.932705+00:00",
+      "paths": [
+        "Releases/2026/09/25/President_Trump_First_Lady_Conclude_Historic_China_State_Visit.md"
+      ],
+      "published": "2026-09-25T16:10:42-04:00",
+      "title": "President Trump, First Lady Conclude Historic China State Visit"
+    },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/": {
       "categories": [
         "Releases"
@@ -23538,6 +23572,17 @@
       ],
       "published": "2026-09-17T08:00:00-04:00",
       "title": "President Trump\u2019s Top 250 Victories For People of Faith"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-25T21:59:49.139405+00:00",
+      "paths": [
+        "Releases/2026/09/25/Presidential_Public_Service_Announcements_Are_Nothing_New.md"
+      ],
+      "published": "2026-09-25T15:10:41-04:00",
+      "title": "Presidential Public Service Announcements Are Nothing New"
     },
     "https://www.whitehouse.gov/releases/2026/09/safer-stronger-built-in-america-president-trumps-record-in-north-carolina/": {
       "categories": [

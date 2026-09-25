@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-25T18:15:05.211607+00:00",
+  "generatedAt": "2026-09-25T21:59:53.561271+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-25",
+      "id": "whitehouse:f230aee178842979",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-25T21:59:49.139405+00:00"
+      },
+      "path": "Releases/2026/09/25/Presidential_Public_Service_Announcements_Are_Nothing_New.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/",
+      "summary": "**The attacks on President Donald J. Trump\u2019s public service announcements are highly dishonest.** The announcements are very clearly not campaign ads; President Trump is not on the ballot and there is no call to action. Instead, the announcements are a reminder for Americans to l",
+      "title": "Presidential Public Service Announcements Are Nothing New"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-25",
+      "id": "whitehouse:0f15464fd9a5e0f3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-25T21:59:47.932705+00:00"
+      },
+      "path": "Releases/2026/09/25/President_Trump_First_Lady_Conclude_Historic_China_State_Visit.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
+      "summary": "**Today, President Donald J. Trump and First Lady Melania Trump concluded a historic state visit with His Excellency Xi Jinping, President of the People\u2019s Republic of China, and Madame Peng Liyuan.** This marked the first visit to the White House by a Chinese President in more th",
+      "title": "President Trump, First Lady Conclude Historic China State Visit"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-09-25",
+      "id": "whitehouse:1cda960c526f7cdd",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-25T21:59:48.737359+00:00"
+      },
+      "path": "Actions/Proclamations/2026/09/25/Gold_Star_Mothers_And_Familys_Day_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Gold Star Mother\u2019s And Family\u2019s Day, 2026"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-09-25",
@@ -13,6 +52,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
       "summary": "\u201cArt and culture have a remarkable ability to transcend borders, connect generations, and offer us a deeper appreciation for one another. It was an honor to welcome President Xi Jinping and Madame Peng Liyuan and share with them the history, artistry, and traditions that help mak",
       "title": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-25",
+      "id": "whitehouse:fb14ac463454b135",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-25T21:59:48.334465+00:00"
+      },
+      "path": "Briefings/2026/09/25/Congressional_Bills_H_R_3657_H_R_7250_S_550_S_603_S_759_and_S_790_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-3657-h-r-7250-s-550-s-603-s-759-and-s-790-signed-into-law/",
+      "summary": "On Friday, September 25, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 3657, H.R. 7250, S. 550, S. 603, S. 759 and S. 790 Signed into Law"
     },
     {
       "category": "Briefings & Statements",
