@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-26T00:31:40.106409+00:00",
+  "last_successful_run": "2026-09-26T05:54:39.655155+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9009,6 +9009,17 @@
       ],
       "published": "2026-09-08T15:02:42-04:00",
       "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-26T05:54:38.434859+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/25/Fact_Sheet_President_Donald_J_Trump_Advances_a_Fair_and_Reciprocal_Relationship_with_China_While_Hosting_Historic_State_Visit.md"
+      ],
+      "published": "2026-09-25T23:29:32-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-lower-drug-prices-for-all-50-state-medicaid-programs/": {
       "categories": [
