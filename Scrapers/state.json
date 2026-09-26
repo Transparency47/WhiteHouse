@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-26T14:53:56.804938+00:00",
+  "last_successful_run": "2026-09-26T18:23:06.419613+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5071,6 +5071,17 @@
       ],
       "published": "2026-09-21T09:16:01-04:00",
       "title": "Presidential Message on National Historically Black Colleges and Universities Week, 2026"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-26T18:23:05.221922+00:00",
+      "paths": [
+        "Briefings/2026/09/26/Presidential_Message_on_National_Hunting_and_Fishing_Day.md"
+      ],
+      "published": "2026-09-26T12:26:20-04:00",
+      "title": "Presidential Message on National Hunting and Fishing Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-preparedness-month-6e71/": {
       "categories": [

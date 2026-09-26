@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-26T14:54:00.751756+00:00",
+  "generatedAt": "2026-09-26T18:23:10.249821+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-26",
+      "id": "whitehouse:56aa3765bec9004e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-26T18:23:05.221922+00:00"
+      },
+      "path": "Briefings/2026/09/26/Presidential_Message_on_National_Hunting_and_Fishing_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/",
+      "summary": "For over 250 years, America\u2019s hunters and anglers have been faithful stewards of our great outdoors\u2014respecting the land, pursuing their sport with honor, and preserving our lands and waters. On National Hunting and Fishing Day, we pay tribute to the American sportsmen, hunters, a",
+      "title": "Presidential Message on National Hunting and Fishing Day"
+    },
     {
       "category": "Releases",
       "date": "2026-09-25",
