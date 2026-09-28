@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-27T23:45:11.990742+00:00",
+  "generatedAt": "2026-09-28T04:03:33.363541+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-27",
+      "id": "whitehouse:84d34824ae1304f7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-28T04:03:28.210591+00:00"
+      },
+      "path": "Releases/2026/09/27/U_S_China_Board_of_Trade.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/",
+      "summary": "Working procedures",
+      "title": "U.S.-China Board of Trade"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-09-26",
