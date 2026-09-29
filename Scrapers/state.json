@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-28T19:19:58.720154+00:00",
+  "last_successful_run": "2026-09-29T00:13:13.230047+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -16557,6 +16557,18 @@
       "published": "2026-09-14T15:25:34-04:00",
       "title": "Nominations Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-09-29T00:13:11.622537+00:00",
+      "paths": [
+        "Actions/Nominations/2026/09/28/Nominations_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-09-28T15:59:28-04:00",
+      "title": "Nominations Sent to the Senate"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/": {
       "categories": [
         "Presidential Actions",
@@ -23485,6 +23497,17 @@
       "published": "2026-09-04T11:25:08-04:00",
       "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report"
     },
+    "https://www.whitehouse.gov/releases/2026/09/mined-melted-and-poured-in-america-president-trump-reverses-years-of-anti-mining-policy/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-29T00:13:12.022796+00:00",
+      "paths": [
+        "Releases/2026/09/28/Mined_Melted_and_Poured_in_America_President_Trump_Reverses_Years_of_Anti_Mining_Policy.md"
+      ],
+      "published": "2026-09-28T15:56:22-04:00",
+      "title": "Mined, Melted, and Poured in America: President Trump Reverses Years of Anti-Mining Policy"
+    },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/": {
       "categories": [
         "Releases"
@@ -23495,6 +23518,17 @@
       ],
       "published": "2026-09-22T13:04:23-04:00",
       "title": "President Trump at the United Nations: \u201cWhile Others Have Talked, I Have Acted\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-calls-on-congress-to-save-college-sports/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-09-29T00:13:11.223189+00:00",
+      "paths": [
+        "Releases/2026/09/28/President_Trump_Calls_on_Congress_to_Save_College_Sports.md"
+      ],
+      "published": "2026-09-28T17:41:45-04:00",
+      "title": "President Trump Calls on Congress to Save College Sports"
     },
     "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/": {
       "categories": [

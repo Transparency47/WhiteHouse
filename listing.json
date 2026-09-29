@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-28T19:20:02.557850+00:00",
+  "generatedAt": "2026-09-29T00:13:17.056471+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-28",
+      "id": "whitehouse:2601c146217cd944",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-29T00:13:11.223189+00:00"
+      },
+      "path": "Releases/2026/09/28/President_Trump_Calls_on_Congress_to_Save_College_Sports.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/president-trump-calls-on-congress-to-save-college-sports/",
+      "summary": "President Donald J. Trump is calling on Congress to pass the [Protect College Sports Act](https://x.com/RapidResponse47/status/2103951521369203166?s=20) and bring clarity, stability, and accountability back to college athletics.",
+      "title": "President Trump Calls on Congress to Save College Sports"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-09-28",
+      "id": "whitehouse:7ac726d054d57c1e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-29T00:13:11.622537+00:00"
+      },
+      "path": "Actions/Nominations/2026/09/28/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-28",
+      "id": "whitehouse:dd6a18423d620fa3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-29T00:13:12.022796+00:00"
+      },
+      "path": "Releases/2026/09/28/Mined_Melted_and_Poured_in_America_President_Trump_Reverses_Years_of_Anti_Mining_Policy.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/mined-melted-and-poured-in-america-president-trump-reverses-years-of-anti-mining-policy/",
+      "summary": "**Today, President Donald J. Trump** [**announced**](https://x.com/RapidResponse47/status/2104640636297388141) **one of the largest** [**steel plants**](https://www.wsj.com/politics/trump-to-unveil-planned-15-billion-iowa-steel-project-051bc7d8) **in American history: a $15 billi",
+      "title": "Mined, Melted, and Poured in America: President Trump Reverses Years of Anti-Mining Policy"
+    },
     {
       "category": "Releases",
       "date": "2026-09-27",
