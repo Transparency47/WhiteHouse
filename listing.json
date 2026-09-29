@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T19:08:11.582744+00:00",
+  "generatedAt": "2026-09-29T23:28:16.682689+00:00",
   "records": [
     {
       "category": "Executive Orders",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
       "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
       "title": "Streamlining Access to Government Services Through America.gov"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-29",
+      "id": "whitehouse:a6b02940be41b4a0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-29T23:28:13.613262+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/29/Inaugurating_The_Era_Of_Super_Intelligence.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Inaugurating The Era Of Super Intelligence"
     },
     {
       "category": "Briefings & Statements",
@@ -39,6 +52,45 @@
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/",
       "summary": "**REDESIGNING GOVERNMENT SERVICES FOR AMERICANS:** Today, President Donald J. Trump launched America.gov, a single digital point of entry for Americans to access Federal government information or services online, and signed an Executive Order to ensure Federal agencies integrate ",
       "title": "Fact Sheet: President Donald J. Trump Streamlines Access to Government Services Through America.gov"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-29",
+      "id": "whitehouse:a50f71acfd85401a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-29T23:28:13.226222+00:00"
+      },
+      "path": "Fact Sheets/2026/09/29/Fact_Sheet_President_Donald_J_Trump_Inaugurates_The_Era_of_Super_Intelligence.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+      "summary": "**USHERING IN SUPER INTELLIGENCE:** Today, President Donald J. Trump signed an Executive Order to replace the term \u201cArtificial Intelligence\u201d (\u201cAI\u201d) with \u201cSuper Intelligence\u201d (\u201cSI\u201d) in the executive branch to recognize the continuously advancing technological frontier and the limi",
+      "title": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-09-29",
+      "id": "whitehouse:060aa0501150f791",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-29T23:28:12.452801+00:00"
+      },
+      "path": "Fact Sheets/2026/09/29/Fact_Sheet_President_Donald_J_Trump_Eliminates_Disease_Carrying_Pests_and_Restores_Enjoyment_of_The_Great_Outdoors.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/",
+      "summary": "**ELIMINATING INVASIVE TICKS AND MOSQUITOES:** Today, President Donald J. Trump signed an Executive Order to eliminate invasive ticks and mosquitoes in the Federal jurisdiction of Washington, D.C. through safe and effective, non-chemical, and technology-enabled methods, and inves",
+      "title": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-09-29",
+      "id": "whitehouse:f24ad096ff844d5d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-29T23:28:12.842408+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/09/29/Eliminating_Disease_Carrying_Pests_And_Restoring_Enjoyment_Of_The_Great_Outdoors.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors"
     },
     {
       "category": "Releases",

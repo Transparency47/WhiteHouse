@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-29T19:08:07.689350+00:00",
+  "last_successful_run": "2026-09-29T23:28:14.769829+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9065,6 +9065,17 @@
       "published": "2026-09-10T10:06:53-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-29T23:28:12.452801+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/29/Fact_Sheet_President_Donald_J_Trump_Eliminates_Disease_Carrying_Pests_and_Restores_Enjoyment_of_The_Great_Outdoors.md"
+      ],
+      "published": "2026-09-29T17:24:24-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-further-enhances-program-integrity-and-interagency-coordination-in-the-h-1b-visa-program/": {
       "categories": [
         "Fact Sheets"
@@ -9075,6 +9086,17 @@
       ],
       "published": "2026-09-18T18:03:18-04:00",
       "title": "Fact Sheet: President Donald J. Trump Further Enhances Program Integrity and Interagency Coordination in the H-1B Visa Program"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-09-29T23:28:13.226222+00:00",
+      "paths": [
+        "Fact Sheets/2026/09/29/Fact_Sheet_President_Donald_J_Trump_Inaugurates_The_Era_of_Super_Intelligence.md"
+      ],
+      "published": "2026-09-29T17:21:06-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/": {
       "categories": [
@@ -16459,6 +16481,18 @@
       "published": "2026-09-16T16:09:16-04:00",
       "title": "Constitution Day, Citizenship Day, and Constitution Week, 2026"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-29T23:28:12.842408+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/29/Eliminating_Disease_Carrying_Pests_And_Restoring_Enjoyment_Of_The_Great_Outdoors.md"
+      ],
+      "published": "2026-09-29T17:23:48-04:00",
+      "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/": {
       "categories": [
         "Presidential Actions",
@@ -16518,6 +16552,18 @@
       ],
       "published": "2026-09-25T15:47:32-04:00",
       "title": "Gold Star Mother\u2019s And Family\u2019s Day, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-09-29T23:28:13.613262+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/09/29/Inaugurating_The_Era_Of_Super_Intelligence.md"
+      ],
+      "published": "2026-09-29T17:17:25-04:00",
+      "title": "Inaugurating The Era Of Super Intelligence"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/": {
       "categories": [
