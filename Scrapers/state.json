@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-09-30T10:55:35.991606+00:00",
+  "last_successful_run": "2026-09-30T16:41:57.670208+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -4896,6 +4896,17 @@
       "published": "2026-08-04T20:47:48-04:00",
       "title": "Presidential Message on the Birthday of the United States Coast Guard"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-30T16:41:56.127318+00:00",
+      "paths": [
+        "Briefings/2026/09/30/Adobe_Amazon_Intel_Starlink_Google_and_Zoom_partner_with_First_Lady_Melania_Trumps_Fostering_the_Future_Together.md"
+      ],
+      "published": "2026-09-30T08:28:07-04:00",
+      "title": "Adobe, Amazon, Intel, Starlink, Google, and Zoom partner with First Lady Melania Trump\u2019s Fostering the Future Together"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/": {
       "categories": [
         "Briefings & Statements"
@@ -4928,6 +4939,17 @@
       ],
       "published": "2026-09-02T20:02:19-04:00",
       "title": "Congressional Bill H.R. 6500 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-09-30T16:41:55.738317+00:00",
+      "paths": [
+        "Briefings/2026/09/30/Congressional_Bill_S_2398_Signed_into_Law.md"
+      ],
+      "published": "2026-09-30T12:17:26-04:00",
+      "title": "Congressional Bill S. 2398 Signed into Law"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/": {
       "categories": [

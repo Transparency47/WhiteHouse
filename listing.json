@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-09-30T10:55:39.813238+00:00",
+  "generatedAt": "2026-09-30T16:42:00.409393+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-30",
+      "id": "whitehouse:058b206823e77952",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-30T16:41:55.738317+00:00"
+      },
+      "path": "Briefings/2026/09/30/Congressional_Bill_S_2398_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
+      "summary": "On Wednesday, September 30, 2026, the President signed into law:",
+      "title": "Congressional Bill S. 2398 Signed into Law"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-09-30",
+      "id": "whitehouse:7a1634eb44bc659e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-30T16:41:56.127318+00:00"
+      },
+      "path": "Briefings/2026/09/30/Adobe_Amazon_Intel_Starlink_Google_and_Zoom_partner_with_First_Lady_Melania_Trumps_Fostering_the_Future_Together.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/",
+      "summary": "First Lady Melania Trump secured six new private-sector technology partnerships for Fostering the Future Together, including Adobe, Amazon, Intel, Starlink, Google, and Zoom.",
+      "title": "Adobe, Amazon, Intel, Starlink, Google, and Zoom partner with First Lady Melania Trump\u2019s Fostering the Future Together"
+    },
     {
       "category": "Executive Orders",
       "date": "2026-09-29",
