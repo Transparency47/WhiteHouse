@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-30T16:42:00.409393+00:00",
+  "generatedAt": "2026-09-30T21:14:07.497301+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-09-30",
+      "id": "whitehouse:eed4aa7cf4afdc41",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-09-30T21:14:03.086427+00:00"
+      },
+      "path": "Releases/2026/09/30/ICYMI_President_Trump_Announces_Largest_Ever_Steel_Plant_Coming_to_Iowa.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
+      "summary": "**President Donald J. Trump** [**announced**](https://x.com/RapidResponse47/status/2104640636297388141) **a $15 billion Mesabi Metallics steel complex is** [**coming to Iowa**](https://www.whitehouse.gov/releases/2026/09/mined-melted-and-poured-in-america-president-trump-reverses",
+      "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-09-30",
