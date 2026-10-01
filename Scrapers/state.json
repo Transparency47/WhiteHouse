@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-01T08:24:27.896386+00:00",
+  "last_successful_run": "2026-10-01T16:02:13.216699+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23565,6 +23565,17 @@
       ],
       "published": "2026-08-03T15:41:16-04:00",
       "title": "Under President Trump, U.S. Factories Expand at Fastest Clip in More Than Four Years"
+    },
+    "https://www.whitehouse.gov/releases/2026/09/democrats-unanimously-vote-against-the-stop-insider-trading-act/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-01T16:02:12.071535+00:00",
+      "paths": [
+        "Releases/2026/09/30/Democrats_UNANIMOUSLY_Vote_AGAINST_the_Stop_Insider_Trading_Act.md"
+      ],
+      "published": "2026-09-30T23:00:00-04:00",
+      "title": "Democrats UNANIMOUSLY Vote AGAINST the Stop Insider Trading Act"
     },
     "https://www.whitehouse.gov/releases/2026/09/g20-energy-abundance-ministerial-concludes-with-four-consensus-outcomes/": {
       "categories": [

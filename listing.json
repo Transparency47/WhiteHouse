@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:24:31.814975+00:00",
+  "generatedAt": "2026-10-01T16:02:15.221012+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
       "summary": "**President Donald J. Trump** [**announced**](https://x.com/RapidResponse47/status/2104640636297388141) **a $15 billion Mesabi Metallics steel complex is** [**coming to Iowa**](https://www.whitehouse.gov/releases/2026/09/mined-melted-and-poured-in-america-president-trump-reverses",
       "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-09-30",
+      "id": "whitehouse:eb0d80613ee7a25b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-01T16:02:12.071535+00:00"
+      },
+      "path": "Releases/2026/09/30/Democrats_UNANIMOUSLY_Vote_AGAINST_the_Stop_Insider_Trading_Act.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/09/democrats-unanimously-vote-against-the-stop-insider-trading-act/",
+      "summary": "President Trump stands with the American people\u2014 no lawmaker, regardless of party or seniority, should utilize insider information for personal profit. In his [State of the Union Address to Congress](https://x.com/RapidResponse47/status/2026493022335054138?s=20) earlier this year",
+      "title": "Democrats UNANIMOUSLY Vote AGAINST the Stop Insider Trading Act"
     },
     {
       "category": "Briefings & Statements",
