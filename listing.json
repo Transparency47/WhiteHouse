@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-01T16:02:15.221012+00:00",
+  "generatedAt": "2026-10-01T21:34:37.594450+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-01",
+      "id": "whitehouse:c55d087e51c4a278",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-01T21:34:32.559195+00:00"
+      },
+      "path": "Releases/2026/10/01/Nearly_Two_Years_In_President_Trump_Is_Still_Stacking_Historic_Wins_at_Record_Speed.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/nearly-two-years-in-president-trump-is-still-stacking-historic-wins-at-record-speed/",
+      "summary": "**On Day One, President Donald J. Trump** [**promised**](https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/) **to \u201cmove with purpose and speed to bring back hope, prosperity, safety, and peace.\u201d** Nearly two years into his second term, he has done exactly that \u2014 de",
+      "title": "Nearly Two Years In, President Trump Is Still Stacking Historic Wins at Record Speed"
+    },
     {
       "category": "Releases",
       "date": "2026-09-30",

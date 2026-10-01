@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-01T16:02:13.216699+00:00",
+  "last_successful_run": "2026-10-01T21:34:33.759192+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23851,6 +23851,17 @@
       ],
       "published": "2026-09-23T15:07:52-04:00",
       "title": "White House App Hits No. 1 in News and Cracks App Store Top 20 as Americans Tune Out Fake News"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/nearly-two-years-in-president-trump-is-still-stacking-historic-wins-at-record-speed/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-01T21:34:32.559195+00:00",
+      "paths": [
+        "Releases/2026/10/01/Nearly_Two_Years_In_President_Trump_Is_Still_Stacking_Historic_Wins_at_Record_Speed.md"
+      ],
+      "published": "2026-10-01T13:43:08-04:00",
+      "title": "Nearly Two Years In, President Trump Is Still Stacking Historic Wins at Record Speed"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
