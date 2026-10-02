@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-10-02T14:41:08.966885+00:00",
+  "generatedAt": "2026-10-02T19:46:37.306530+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-02",
+      "id": "whitehouse:1e47ea568625edb3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-02T19:46:31.019974+00:00"
+      },
+      "path": "Briefings/2026/10/02/Presidential_Message_on_National_Domestic_Violence_Awareness_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
+      "summary": "In communities across our great Nation, domestic violence destroys families, harms innocent children, and leaves lasting pain in our neighborhoods. For America to be strong, children must feel safe in their homes, spouses and significant others must be respected, and it must be a",
+      "title": "Presidential Message on National Domestic Violence Awareness Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-02",
+      "id": "whitehouse:a4e980c2c065b41e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-02T19:46:30.616782+00:00"
+      },
+      "path": "Briefings/2026/10/02/Presidential_Message_on_National_Cybersecurity_Awareness_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+      "summary": "In an age of rapid digital advancement, cyberspace has emerged as the new frontier of American innovation, prosperity, and strength. As new technologies open doors to discovery and opportunity that were once unimaginable, a secure cyberspace is essential to ensuring that America ",
+      "title": "Presidential Message on National Cybersecurity Awareness Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-02",
+      "id": "whitehouse:fcfae997ca67848d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-02T19:46:31.841102+00:00"
+      },
+      "path": "Briefings/2026/10/02/Presidential_Message_on_National_Breast_Cancer_Awareness_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
+      "summary": "During National Breast Cancer Awareness Month, we celebrate the resilience and courage of our Nation\u2019s four million breast cancer survivors, extend our unwavering support to those currently in the fight, and honor the memory of beloved family members and friends lost to this terr",
+      "title": "Presidential Message on National Breast Cancer Awareness Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-02",
+      "id": "whitehouse:d05343a9df621a95",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-02T19:46:31.424607+00:00"
+      },
+      "path": "Briefings/2026/10/02/Presidential_Message_on_Down_Syndrome_Awareness_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/",
+      "summary": "From the moment a child is conceived, they are a gift from God, created in His image and likeness, bringing hope, love, and a future filled with promise to our Nation and the world. This Down Syndrome Awareness Month, I join millions of Americans in celebrating the lives, accompl",
+      "title": "Presidential Message on Down Syndrome Awareness Month"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-10-02",
+      "id": "whitehouse:41b1fbfd56fea5f5",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-02T19:46:30.210519+00:00"
+      },
+      "path": "Actions/Proclamations/2026/10/02/National_Manufacturing_Day_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "National Manufacturing Day, 2026"
+    },
     {
       "category": "Research",
       "date": "2026-10-01",

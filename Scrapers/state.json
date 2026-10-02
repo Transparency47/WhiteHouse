@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-02T14:41:05.072214+00:00",
+  "last_successful_run": "2026-10-02T19:46:33.406403+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5203,6 +5203,50 @@
       ],
       "published": "2026-09-10T15:31:08-04:00",
       "title": "S. 858 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-02T19:46:31.424607+00:00",
+      "paths": [
+        "Briefings/2026/10/02/Presidential_Message_on_Down_Syndrome_Awareness_Month.md"
+      ],
+      "published": "2026-10-02T14:21:53-04:00",
+      "title": "Presidential Message on Down Syndrome Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-02T19:46:31.841102+00:00",
+      "paths": [
+        "Briefings/2026/10/02/Presidential_Message_on_National_Breast_Cancer_Awareness_Month.md"
+      ],
+      "published": "2026-10-02T14:20:21-04:00",
+      "title": "Presidential Message on National Breast Cancer Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-02T19:46:30.616782+00:00",
+      "paths": [
+        "Briefings/2026/10/02/Presidential_Message_on_National_Cybersecurity_Awareness_Month.md"
+      ],
+      "published": "2026-10-02T14:28:12-04:00",
+      "title": "Presidential Message on National Cybersecurity Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-02T19:46:31.019974+00:00",
+      "paths": [
+        "Briefings/2026/10/02/Presidential_Message_on_National_Domestic_Violence_Awareness_Month.md"
+      ],
+      "published": "2026-10-02T14:25:08-04:00",
+      "title": "Presidential Message on National Domestic Violence Awareness Month"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
@@ -16778,6 +16822,18 @@
       ],
       "published": "2026-09-17T11:48:13-04:00",
       "title": "Withdrawals Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-10-02T19:46:30.210519+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/10/02/National_Manufacturing_Day_2026.md"
+      ],
+      "published": "2026-10-02T15:29:58-04:00",
+      "title": "National Manufacturing Day, 2026"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
