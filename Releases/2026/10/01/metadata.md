@@ -9,3 +9,12 @@
 - Date accessed: 2026-10-01T21:34:32.559195+00:00
 - Markdown filename: Nearly_Two_Years_In_President_Trump_Is_Still_Stacking_Historic_Wins_at_Record_Speed.md
 
+## New Report: DSA Policies Would Cost Americans Trillions
+
+- URL: https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/
+- Title: New Report: DSA Policies Would Cost Americans Trillions
+- Category: Releases
+- Date published: 2026-10-01T18:22:29-04:00
+- Date accessed: 2026-10-02T01:19:03.423373+00:00
+- Markdown filename: New_Report_DSA_Policies_Would_Cost_Americans_Trillions.md
+

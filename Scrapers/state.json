@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-01T21:34:33.759192+00:00",
+  "last_successful_run": "2026-10-02T01:19:04.639582+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23863,6 +23863,17 @@
       "published": "2026-10-01T13:43:08-04:00",
       "title": "Nearly Two Years In, President Trump Is Still Stacking Historic Wins at Record Speed"
     },
+    "https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-02T01:19:03.423373+00:00",
+      "paths": [
+        "Releases/2026/10/01/New_Report_DSA_Policies_Would_Cost_Americans_Trillions.md"
+      ],
+      "published": "2026-10-01T18:22:29-04:00",
+      "title": "New Report: DSA Policies Would Cost Americans Trillions"
+    },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
         "Remarks"
@@ -24159,6 +24170,17 @@
       ],
       "published": "2026-07-15T12:12:50-04:00",
       "title": "Measuring Balance of Payments Deficits"
+    },
+    "https://www.whitehouse.gov/research/2026/10/52069/": {
+      "categories": [
+        "Research"
+      ],
+      "last_accessed": "2026-10-02T01:19:03.010901+00:00",
+      "paths": [
+        "Research/2026/10/01/The_Real_Cost_of_Socialism_in_America.md"
+      ],
+      "published": "2026-10-01T18:25:31-04:00",
+      "title": "The Real Cost of Socialism in America"
     }
   }
 }

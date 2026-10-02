@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-01T21:34:37.594450+00:00",
+  "generatedAt": "2026-10-02T01:19:08.490969+00:00",
   "records": [
+    {
+      "category": "Research",
+      "date": "2026-10-01",
+      "id": "whitehouse:b25ad93bc0f8e565",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-02T01:19:03.010901+00:00"
+      },
+      "path": "Research/2026/10/01/The_Real_Cost_of_Socialism_in_America.md",
+      "sourceUrl": "https://www.whitehouse.gov/research/2026/10/52069/",
+      "summary": "[whitehouse.gov/socialism](https://whitehouse.gov/socialism)",
+      "title": "The Real Cost of Socialism in America"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-01",
+      "id": "whitehouse:fac731e541064d3d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-02T01:19:03.423373+00:00"
+      },
+      "path": "Releases/2026/10/01/New_Report_DSA_Policies_Would_Cost_Americans_Trillions.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/",
+      "summary": "Today, President Donald J. Trump\u2019s Council of Economic Advisers released a [report](https://www.whitehouse.gov/socialism/) revealing the **[severe economic cost](https://www.whitehouse.gov/socialism/) \u2013 $49 TRILLION, over $350,000 per household \u2013 for American taxpayers** over the",
+      "title": "New Report: DSA Policies Would Cost Americans Trillions"
+    },
     {
       "category": "Releases",
       "date": "2026-10-01",
