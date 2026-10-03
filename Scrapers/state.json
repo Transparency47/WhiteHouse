@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-02T23:34:42.833915+00:00",
+  "last_successful_run": "2026-10-03T04:07:10.016055+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9262,6 +9262,17 @@
       ],
       "published": "2026-09-02T10:45:55-04:00",
       "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-03T04:07:08.835288+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/02/Fact_Sheet_President_Donald_J_Trump_Announces_Medicare_Improvement_Fund_Payments_for_Seniors.md"
+      ],
+      "published": "2026-10-02T23:01:43-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors"
     },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [

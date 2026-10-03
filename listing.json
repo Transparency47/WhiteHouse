@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:34:46.681020+00:00",
+  "generatedAt": "2026-10-03T04:07:13.597970+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -65,6 +65,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
       "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
       "title": "National Manufacturing Day, 2026"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-02",
+      "id": "whitehouse:ff7196b8293d1c0e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-03T04:07:08.835288+00:00"
+      },
+      "path": "Fact Sheets/2026/10/02/Fact_Sheet_President_Donald_J_Trump_Announces_Medicare_Improvement_Fund_Payments_for_Seniors.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
+      "summary": "**IMPROVING MEDICARE FOR SENIORS:** Today, President Donald J. Trump announced that the federal government will be making one-time payments of $90 per person to help more than 20 million enrollees pay for their Medicare Part B premiums.",
+      "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors"
     },
     {
       "category": "Research",
