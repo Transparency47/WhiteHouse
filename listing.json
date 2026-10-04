@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-04T02:25:54.348915+00:00",
+  "generatedAt": "2026-10-04T09:24:27.874365+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-04",
+      "id": "whitehouse:176d801e03690463",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-04T09:24:22.917382+00:00"
+      },
+      "path": "Releases/2026/10/04/U_S_Leads_International_Coalition_to_Endorse_Kyoto_Vision_for_a_Golden_Age_of_Science.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
+      "summary": "KYOTO, JAPAN \u2014 At the 23rd Annual Meeting of the Science and Technology in Society (STS) Forum convened in Kyoto, the United States and 16 countries endorsed the [Kyoto Vision for a Golden Age of Science](https://www.whitehouse.gov/wp-content/uploads/2026/10/Kyoto-Vision-for-a-Go",
+      "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-10-02",
