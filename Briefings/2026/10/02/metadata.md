@@ -36,3 +36,12 @@
 - Date accessed: 2026-10-02T19:46:31.841102+00:00
 - Markdown filename: Presidential_Message_on_National_Breast_Cancer_Awareness_Month.md
 
+## Presidential Message on Down Syndrome Awareness Month
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/
+- Title: Presidential Message on Down Syndrome Awareness Month
+- Category: Briefings & Statements
+- Date published: 2026-10-02T14:30:00-04:00
+- Date accessed: 2026-10-05T17:59:22.313778+00:00
+- Markdown filename: Presidential_Message_on_Down_Syndrome_Awareness_Month_ee47c37b.md
+

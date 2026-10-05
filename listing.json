@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-05T08:28:47.365728+00:00",
+  "generatedAt": "2026-10-05T17:59:27.438242+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-05",
+      "id": "whitehouse:e83715050b3b638e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-05T17:59:21.907871+00:00"
+      },
+      "path": "Releases/2026/10/05/President_Trump_and_Republicans_Are_Delivering_Real_Results_for_Nebraska.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/",
+      "summary": "**Today, President Donald J. Trump travels to Grand Island, Nebraska.** Under President Trump and Republican leadership, families in the Cornhusker State are keeping more of what they earn, farmers and ranchers are getting direct support, private investment is expanding productio",
+      "title": "President Trump and Republicans Are Delivering Real Results for Nebraska"
+    },
     {
       "category": "Releases",
       "date": "2026-10-04",
@@ -64,6 +77,19 @@
       "path": "Briefings/2026/10/02/Presidential_Message_on_Down_Syndrome_Awareness_Month.md",
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/",
       "summary": "From the moment a child is conceived, they are a gift from God, created in His image and likeness, bringing hope, love, and a future filled with promise to our Nation and the world. This Down Syndrome Awareness Month, I join millions of Americans in celebrating the lives, accompl",
+      "title": "Presidential Message on Down Syndrome Awareness Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-02",
+      "id": "whitehouse:56b4d224239c2bfb",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-05T17:59:22.313778+00:00"
+      },
+      "path": "Briefings/2026/10/02/Presidential_Message_on_Down_Syndrome_Awareness_Month_ee47c37b.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/",
+      "summary": "Every child is a gift from God, created in His image and likeness, bringing hope, love, and a future filled with promise to our Nation and the world. This Down Syndrome Awareness Month, I join millions of Americans in celebrating the lives, accomplishments, and contributions of p",
       "title": "Presidential Message on Down Syndrome Awareness Month"
     },
     {

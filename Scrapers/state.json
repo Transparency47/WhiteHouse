@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-05T08:28:44.235452+00:00",
+  "last_successful_run": "2026-10-05T17:59:23.533629+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5203,6 +5203,17 @@
       ],
       "published": "2026-09-10T15:31:08-04:00",
       "title": "S. 858 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-05T17:59:22.313778+00:00",
+      "paths": [
+        "Briefings/2026/10/02/Presidential_Message_on_Down_Syndrome_Awareness_Month_ee47c37b.md"
+      ],
+      "published": "2026-10-02T14:30:00-04:00",
+      "title": "Presidential Message on Down Syndrome Awareness Month"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/": {
       "categories": [
@@ -23940,6 +23951,17 @@
       ],
       "published": "2026-10-01T18:22:29-04:00",
       "title": "New Report: DSA Policies Would Cost Americans Trillions"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-05T17:59:21.907871+00:00",
+      "paths": [
+        "Releases/2026/10/05/President_Trump_and_Republicans_Are_Delivering_Real_Results_for_Nebraska.md"
+      ],
+      "published": "2026-10-05T13:02:29-04:00",
+      "title": "President Trump and Republicans Are Delivering Real Results for Nebraska"
     },
     "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
       "categories": [
