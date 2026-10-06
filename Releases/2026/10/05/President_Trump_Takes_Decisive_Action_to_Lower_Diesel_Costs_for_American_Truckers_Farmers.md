@@ -1,0 +1,21 @@
+<!-- source: https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/ -->
+<!-- date_published: 2026-10-05T20:20:07-04:00 -->
+<!-- date_accessed: 2026-10-06T06:06:58.751435+00:00 -->
+
+# President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers
+
+**Tonight, President Donald J. Trump** [**signed**](https://x.com/RapidResponse47/status/2107260705972080696) **an Executive Order to immediately cut diesel costs for the truckers and farmers who keep America moving.** The order temporarily opens highway use of tax-free dyed diesel, deferring the federal diesel tax on that fuel through the end of the year — no interest, no penalties.
+
+With elevated diesel prices and tightened global supply driven by the Russia-Ukraine war and a lack of refining capacity around the world, this is President Trump’s affordability agenda in action.
+
+“Today, I am announcing another unprecedented step to bring down costs. For many years, farm vehicles, construction equipment, and other off-road vehicles have used what is known as ‘red dye’ diesel… which is exactly the same as normal diesel, but is sold tax-free for off-road vehicles and big trucks… Tonight, I am going to sign a historic Executive Order to officially waive the off-road requirement and allow anyone to purchase tax-free red dye diesel for any reason,”
+
+President Trump
+
+said
+
+in Nebraska.
+
+**The federal diesel tax is** [**24.4 cents per gallon**](https://www.eia.gov/tools/faqs/faq.php?id=10&t=5) **, or about $60 on a 250-gallon fill.** Where states match this federal action, savings will top $100 per fill — a real difference for the hardworking Americans who haul the freight and grow the food.
+
+[**Click here to view the White House fact sheet**](https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability) **.**

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-05T17:59:23.533629+00:00",
+  "last_successful_run": "2026-10-06T06:07:00.358927+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5204,6 +5204,17 @@
       "published": "2026-09-10T15:31:08-04:00",
       "title": "S. 858 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-06T06:06:57.955110+00:00",
+      "paths": [
+        "Briefings/2026/10/05/Presidential_Message_on_Child_Health_Day.md"
+      ],
+      "published": "2026-10-05T21:04:09-04:00",
+      "title": "Presidential Message on Child Health Day"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/": {
       "categories": [
         "Briefings & Statements"
@@ -5225,6 +5236,17 @@
       ],
       "published": "2026-10-02T14:21:53-04:00",
       "title": "Presidential Message on Down Syndrome Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-06T06:06:58.351784+00:00",
+      "paths": [
+        "Briefings/2026/10/05/Presidential_Message_on_Fire_Prevention_Week.md"
+      ],
+      "published": "2026-10-05T21:02:35-04:00",
+      "title": "Presidential Message on Fire Prevention Week"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/": {
       "categories": [
@@ -9284,6 +9306,17 @@
       ],
       "published": "2026-10-02T23:01:43-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-06T06:06:59.162825+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/05/Fact_Sheet_President_Donald_J_Trump_Promotes_Diesel_Affordability.md"
+      ],
+      "published": "2026-10-05T20:07:38-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Promotes Diesel Affordability"
     },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
@@ -16845,6 +16878,18 @@
       "published": "2026-09-17T11:48:13-04:00",
       "title": "Withdrawals Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-10-06T06:06:57.559089+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/10/05/Emergency_Tax_Relief_on_Diesel_Fuel.md"
+      ],
+      "published": "2026-10-05T21:13:53-04:00",
+      "title": "Emergency Tax Relief on Diesel Fuel"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/": {
       "categories": [
         "Presidential Actions",
@@ -23962,6 +24007,17 @@
       ],
       "published": "2026-10-05T13:02:29-04:00",
       "title": "President Trump and Republicans Are Delivering Real Results for Nebraska"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-06T06:06:58.751435+00:00",
+      "paths": [
+        "Releases/2026/10/05/President_Trump_Takes_Decisive_Action_to_Lower_Diesel_Costs_for_American_Truckers_Farmers.md"
+      ],
+      "published": "2026-10-05T20:20:07-04:00",
+      "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers"
     },
     "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
       "categories": [

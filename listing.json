@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-05T17:59:27.438242+00:00",
+  "generatedAt": "2026-10-06T06:07:04.232001+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-05",
+      "id": "whitehouse:64b2e1702202cd10",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-06T06:06:58.351784+00:00"
+      },
+      "path": "Briefings/2026/10/05/Presidential_Message_on_Fire_Prevention_Week.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
+      "summary": "During Fire Prevention Week, my Administration honors the memory of America\u2019s courageous firefighters and first responders for their extraordinary service and sacrifice. We are reaffirming our commitment to strengthening fire prevention and emergency response across the Nation. I",
+      "title": "Presidential Message on Fire Prevention Week"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-05",
+      "id": "whitehouse:e2d2a3ddb5336437",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-06T06:06:57.955110+00:00"
+      },
+      "path": "Briefings/2026/10/05/Presidential_Message_on_Child_Health_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/",
+      "summary": "This Child Health Day, we renew our commitment to ensure the health and well-being of America\u2019s children \u2013 our Nation\u2019s future \u2013 so that they may live full, lasting, and happy lives free from the burden of health concerns.",
+      "title": "Presidential Message on Child Health Day"
+    },
     {
       "category": "Releases",
       "date": "2026-10-05",
@@ -13,6 +39,45 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/",
       "summary": "**Today, President Donald J. Trump travels to Grand Island, Nebraska.** Under President Trump and Republican leadership, families in the Cornhusker State are keeping more of what they earn, farmers and ranchers are getting direct support, private investment is expanding productio",
       "title": "President Trump and Republicans Are Delivering Real Results for Nebraska"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-05",
+      "id": "whitehouse:bb4cffd5111ff42e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-06T06:06:58.751435+00:00"
+      },
+      "path": "Releases/2026/10/05/President_Trump_Takes_Decisive_Action_to_Lower_Diesel_Costs_for_American_Truckers_Farmers.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/",
+      "summary": "**Tonight, President Donald J. Trump** [**signed**](https://x.com/RapidResponse47/status/2107260705972080696) **an Executive Order to immediately cut diesel costs for the truckers and farmers who keep America moving.** The order temporarily opens highway use of tax-free dyed dies",
+      "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-05",
+      "id": "whitehouse:52bb162b03a58591",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-06T06:06:59.162825+00:00"
+      },
+      "path": "Fact Sheets/2026/10/05/Fact_Sheet_President_Donald_J_Trump_Promotes_Diesel_Affordability.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/",
+      "summary": "**ADDRESSING AMERICAN DIESEL AFFORDABILITY:** Today, President Donald J. Trump signed an Executive Order to temporarily allow off-road \u201cdyed\u201d diesel for highway use and defer the applicable Federal excise tax, lowering costs for Americans.",
+      "title": "Fact Sheet: President Donald J. Trump Promotes Diesel Affordability"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-10-05",
+      "id": "whitehouse:6cd59b789ba69ab0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-06T06:06:57.559089+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/10/05/Emergency_Tax_Relief_on_Diesel_Fuel.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Emergency Tax Relief on Diesel Fuel"
     },
     {
       "category": "Releases",
