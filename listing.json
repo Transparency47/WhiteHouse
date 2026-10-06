@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-06T13:57:53.174731+00:00",
+  "generatedAt": "2026-10-06T19:24:24.874445+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-06",
+      "id": "whitehouse:c730278424f16288",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-06T19:24:21.686966+00:00"
+      },
+      "path": "Releases/2026/10/06/WHAT_THEY_ARE_SAYING_President_Trump_Delivers_Immediate_Diesel_Relief_Saving_Americans_Up_to_100_Per_Fill.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-delivers-immediate-diesel-relief-saving-americans-up-to-100-per-fill/",
+      "summary": "**Last night, President Donald J. Trump signed an [Executive Order](https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/) that immediately cuts diesel costs by authorizing highway use of tax-free dyed diesel and deferring the federal diesel",
+      "title": "WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel Relief, Saving Americans Up to $100 Per Fill"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-10-05",
