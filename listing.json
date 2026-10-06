@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:24:24.874445+00:00",
+  "generatedAt": "2026-10-06T23:36:44.474016+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-delivers-immediate-diesel-relief-saving-americans-up-to-100-per-fill/",
       "summary": "**Last night, President Donald J. Trump signed an [Executive Order](https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/) that immediately cuts diesel costs by authorizing highway use of tax-free dyed diesel and deferring the federal diesel",
       "title": "WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel Relief, Saving Americans Up to $100 Per Fill"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-06",
+      "id": "whitehouse:da70dbd5b8e24ab6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-06T23:36:40.465890+00:00"
+      },
+      "path": "Briefings/2026/10/06/Presidential_Message_on_German_American_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
+      "summary": "The German American story began on October 6, 1683, when 13 families from Krefeld, after braving the Atlantic in search of opportunity, landed on our shores and soon founded Germantown, Pennsylvania\u2014the first permanent German settlement in America.",
+      "title": "Presidential Message on German American Day"
     },
     {
       "category": "Briefings & Statements",
