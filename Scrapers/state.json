@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-07T18:31:47.926889+00:00",
+  "last_successful_run": "2026-10-07T23:27:42.793723+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5203,6 +5203,17 @@
       ],
       "published": "2026-09-10T15:31:08-04:00",
       "title": "S. 858 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-07T23:27:41.184910+00:00",
+      "paths": [
+        "Briefings/2026/10/07/Congressional_Bills_H_R_5345_and_S_766_Signed_into_Law.md"
+      ],
+      "published": "2026-10-07T15:57:24-04:00",
+      "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/": {
       "categories": [
@@ -16889,6 +16900,18 @@
       "published": "2026-09-17T11:48:13-04:00",
       "title": "Withdrawals Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-10-07T23:27:41.584091+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/10/07/Columbus_Day_2026.md"
+      ],
+      "published": "2026-10-07T15:47:48-04:00",
+      "title": "Columbus Day, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/": {
       "categories": [
         "Presidential Actions",
@@ -16900,6 +16923,18 @@
       ],
       "published": "2026-10-05T21:13:53-04:00",
       "title": "Emergency Tax Relief on Diesel Fuel"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-10-07T23:27:40.788644+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/10/07/National_Energy_Dominance_Month_2026.md"
+      ],
+      "published": "2026-10-07T16:05:21-04:00",
+      "title": "National Energy Dominance Month, 2026"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/": {
       "categories": [

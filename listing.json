@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-07T18:31:49.973158+00:00",
+  "generatedAt": "2026-10-07T23:27:46.679996+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-10-07",
+      "id": "whitehouse:d4715a3372a124fb",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-07T23:27:40.788644+00:00"
+      },
+      "path": "Actions/Proclamations/2026/10/07/National_Energy_Dominance_Month_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "National Energy Dominance Month, 2026"
+    },
     {
       "category": "Releases",
       "date": "2026-10-07",
@@ -13,6 +26,32 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/",
       "summary": "Today, President Donald J. Trump returns to Texas with a record of results: historic tax relief, the most secure border in a generation, safer streets, and a surge of new private investment creating jobs across the Lone Star State.",
       "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump\u2019s Texas Record"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-07",
+      "id": "whitehouse:9ceb82732553e031",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-07T23:27:41.184910+00:00"
+      },
+      "path": "Briefings/2026/10/07/Congressional_Bills_H_R_5345_and_S_766_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
+      "summary": "On Wednesday, October 7, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-10-07",
+      "id": "whitehouse:9a72616d06d9489c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-07T23:27:41.584091+00:00"
+      },
+      "path": "Actions/Proclamations/2026/10/07/Columbus_Day_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Columbus Day, 2026"
     },
     {
       "category": "Releases",
