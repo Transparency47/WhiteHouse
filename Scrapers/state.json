@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-07T11:33:31.614320+00:00",
+  "last_successful_run": "2026-10-07T18:31:47.926889+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -23985,6 +23985,17 @@
       ],
       "published": "2026-09-23T15:07:52-04:00",
       "title": "White House App Hits No. 1 in News and Cracks App Store Top 20 as Americans Tune Out Fake News"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-07T18:31:46.754949+00:00",
+      "paths": [
+        "Releases/2026/10/07/Lower_Taxes_Safer_Streets_Stronger_Border_President_Trumps_Texas_Record.md"
+      ],
+      "published": "2026-10-07T12:38:18-04:00",
+      "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump\u2019s Texas Record"
     },
     "https://www.whitehouse.gov/releases/2026/10/nearly-two-years-in-president-trump-is-still-stacking-historic-wins-at-record-speed/": {
       "categories": [
