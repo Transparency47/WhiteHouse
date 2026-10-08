@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-08T11:48:30.706356+00:00",
+  "generatedAt": "2026-10-08T18:30:52.944644+00:00",
   "records": [
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-08",
+      "id": "whitehouse:f23fd70cc79c54a2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-08T18:30:47.871397+00:00"
+      },
+      "path": "Fact Sheets/2026/10/08/Fact_Sheet_Trump_Administration_Announces_the_Most_Ambitious_Set_of_Science_Initiatives_This_Century.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
+      "summary": "**WASHINGTON, DC** \u2014 Today, at the *Science: A New Golden Age* Summit, the Trump Administration launched the most ambitious set of science initiatives in decades, representing over $6 billion in investments across the Federal Government, industry, academia, and philanthropy to us",
+      "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century"
+    },
     {
       "category": "Releases",
       "date": "2026-10-07",

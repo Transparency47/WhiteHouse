@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-08T11:48:26.769263+00:00",
+  "last_successful_run": "2026-10-08T18:30:49.068916+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9339,6 +9339,17 @@
       ],
       "published": "2026-10-05T20:07:38-04:00",
       "title": "Fact Sheet: President Donald J. Trump Promotes Diesel Affordability"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-08T18:30:47.871397+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/08/Fact_Sheet_Trump_Administration_Announces_the_Most_Ambitious_Set_of_Science_Initiatives_This_Century.md"
+      ],
+      "published": "2026-10-08T11:05:06-04:00",
+      "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century"
     },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
