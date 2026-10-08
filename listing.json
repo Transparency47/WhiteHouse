@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-08T18:30:52.944644+00:00",
+  "generatedAt": "2026-10-08T23:39:09.295574+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-08",
+      "id": "whitehouse:bfd321743c4e9ca6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-08T23:39:05.113775+00:00"
+      },
+      "path": "Releases/2026/10/08/President_Trump_Presents_National_Medals_of_Science_and_National_Medals_of_Technology_and_Innovation.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
+      "summary": "FOR IMMEDIATE RELEASE",
+      "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-08",
+      "id": "whitehouse:0f2bfd153bc9658d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-08T23:39:04.714357+00:00"
+      },
+      "path": "Releases/2026/10/08/President_Trump_Is_Putting_American_Industry_Jobs_and_Paychecks_Back_on_the_Map.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/",
+      "summary": "**President Donald J. Trump is delivering on his promise to the American worker: build it here, power it here, and put paychecks back in the communities Washington left behind.** In a matter of weeks, President Trump has locked in a run of steel, nuclear, gas, shipbuilding, and m",
+      "title": "President Trump Is Putting American Industry, Jobs, and Paychecks Back on the Map"
+    },
     {
       "category": "Fact Sheets",
       "date": "2026-10-08",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-08T18:30:49.068916+00:00",
+  "last_successful_run": "2026-10-08T23:39:06.299317+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24086,6 +24086,28 @@
       ],
       "published": "2026-10-05T13:02:29-04:00",
       "title": "President Trump and Republicans Are Delivering Real Results for Nebraska"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-08T23:39:04.714357+00:00",
+      "paths": [
+        "Releases/2026/10/08/President_Trump_Is_Putting_American_Industry_Jobs_and_Paychecks_Back_on_the_Map.md"
+      ],
+      "published": "2026-10-08T15:44:36-04:00",
+      "title": "President Trump Is Putting American Industry, Jobs, and Paychecks Back on the Map"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-08T23:39:05.113775+00:00",
+      "paths": [
+        "Releases/2026/10/08/President_Trump_Presents_National_Medals_of_Science_and_National_Medals_of_Technology_and_Innovation.md"
+      ],
+      "published": "2026-10-08T14:32:51-04:00",
+      "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/": {
       "categories": [
