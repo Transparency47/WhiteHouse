@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-07T23:27:46.679996+00:00",
+  "generatedAt": "2026-10-08T04:51:36.409701+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-07",
+      "id": "whitehouse:4a410d73f7d7c0ce",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-08T04:51:31.265288+00:00"
+      },
+      "path": "Releases/2026/10/07/Trump_Accounts_Put_70_Million_Kids_on_the_Path_to_Financial_Freedom.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
+      "summary": "Trump Accounts\u2014tax-advantaged investment accounts for kids\u2014are a game-changing tool designed to help every American child build savings and a stronger financial future.",
+      "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom"
+    },
     {
       "category": "Proclamations",
       "date": "2026-10-07",
