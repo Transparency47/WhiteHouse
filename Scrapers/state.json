@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-09T11:40:52.425513+00:00",
+  "last_successful_run": "2026-10-09T18:02:15.573867+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -16934,6 +16934,18 @@
       ],
       "published": "2026-10-05T21:13:53-04:00",
       "title": "Emergency Tax Relief on Diesel Fuel"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-10-09T18:02:14.338952+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/10/07/Establishment_of_a_Committee_of_Inquiry_to_Investigate_Allegations_of_False_Statements_by_Lisa_DeNell_Cook.md"
+      ],
+      "published": "2026-10-07T21:00:00-04:00",
+      "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/": {
       "categories": [

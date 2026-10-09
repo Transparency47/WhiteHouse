@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:40:56.438220+00:00",
+  "generatedAt": "2026-10-09T18:02:19.545330+00:00",
   "records": [
     {
       "category": "Releases",
@@ -78,6 +78,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/",
       "summary": "Today, President Donald J. Trump returns to Texas with a record of results: historic tax relief, the most secure border in a generation, safer streets, and a surge of new private investment creating jobs across the Lone Star State.",
       "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump\u2019s Texas Record"
+    },
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-10-07",
+      "id": "whitehouse:614dab49ca90e29d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-09T18:02:14.338952+00:00"
+      },
+      "path": "Actions/Memoranda/2026/10/07/Establishment_of_a_Committee_of_Inquiry_to_Investigate_Allegations_of_False_Statements_by_Lisa_DeNell_Cook.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
+      "summary": "MEMORANDUM FOR THE ATTORNEY GENERAL",
+      "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook"
     },
     {
       "category": "Briefings & Statements",
