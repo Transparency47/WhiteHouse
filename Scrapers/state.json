@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-09T18:02:15.573867+00:00",
+  "last_successful_run": "2026-10-09T23:03:15.289347+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5214,6 +5214,17 @@
       ],
       "published": "2026-10-07T15:57:24-04:00",
       "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-09T23:03:13.726335+00:00",
+      "paths": [
+        "Briefings/2026/10/09/Congressional_Bills_S_195_Signed_into_Law.md"
+      ],
+      "published": "2026-10-09T16:09:42-04:00",
+      "title": "Congressional Bills S. 195 Signed into Law"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/": {
       "categories": [
@@ -24164,6 +24175,17 @@
       ],
       "published": "2025-01-20T17:13:54-05:00",
       "title": "The Inaugural Address"
+    },
+    "https://www.whitehouse.gov/remarks/2026/10/remarks-by-director-michael-kratsios-at-the-science-a-new-golden-age-summit/": {
+      "categories": [
+        "Remarks"
+      ],
+      "last_accessed": "2026-10-09T23:03:14.119160+00:00",
+      "paths": [
+        "Remarks/2026/10/09/Remarks_by_Director_Michael_Kratsios_at_the_Science_A_New_Golden_Age_Summit.md"
+      ],
+      "published": "2026-10-09T14:46:08-04:00",
+      "title": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit"
     },
     "https://www.whitehouse.gov/research/2025/04/the-economic-impact-of-extending-expiring-provisions-of-the-tax-cuts-and-jobs-act/": {
       "categories": [

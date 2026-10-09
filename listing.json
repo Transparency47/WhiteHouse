@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-09T18:02:19.545330+00:00",
+  "generatedAt": "2026-10-09T23:03:18.127789+00:00",
   "records": [
+    {
+      "category": "Remarks",
+      "date": "2026-10-09",
+      "id": "whitehouse:44b2aeb524e79d0c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-09T23:03:14.119160+00:00"
+      },
+      "path": "Remarks/2026/10/09/Remarks_by_Director_Michael_Kratsios_at_the_Science_A_New_Golden_Age_Summit.md",
+      "sourceUrl": "https://www.whitehouse.gov/remarks/2026/10/remarks-by-director-michael-kratsios-at-the-science-a-new-golden-age-summit/",
+      "summary": "**Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit**",
+      "title": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-09",
+      "id": "whitehouse:6e25cfa53d8270af",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-09T23:03:13.726335+00:00"
+      },
+      "path": "Briefings/2026/10/09/Congressional_Bills_S_195_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/",
+      "summary": "On Friday, October 9, 2026, the President signed into law:",
+      "title": "Congressional Bills S. 195 Signed into Law"
+    },
     {
       "category": "Releases",
       "date": "2026-10-08",
