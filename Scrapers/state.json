@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-09T23:03:15.289347+00:00",
+  "last_successful_run": "2026-10-10T04:40:17.054317+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5280,6 +5280,17 @@
       ],
       "published": "2026-10-06T16:43:50-04:00",
       "title": "Presidential Message on German American Day"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-10T04:40:15.853625+00:00",
+      "paths": [
+        "Briefings/2026/10/09/Presidential_Message_on_Leif_Erikson_Day.md"
+      ],
+      "published": "2026-10-09T19:48:59-04:00",
+      "title": "Presidential Message on Leif Erikson Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/": {
       "categories": [

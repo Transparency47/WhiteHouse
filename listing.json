@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:03:18.127789+00:00",
+  "generatedAt": "2026-10-10T04:40:21.073892+00:00",
   "records": [
     {
       "category": "Remarks",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/remarks/2026/10/remarks-by-director-michael-kratsios-at-the-science-a-new-golden-age-summit/",
       "summary": "**Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit**",
       "title": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-09",
+      "id": "whitehouse:a8d5e50772ff2e6b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-10T04:40:15.853625+00:00"
+      },
+      "path": "Briefings/2026/10/09/Presidential_Message_on_Leif_Erikson_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
+      "summary": "Half a millennium before legendary American hero Christopher Columbus set foot in the New World, Norse explorer Leif Erikson made history as the first European to arrive on the North American continent. This Leif Erikson Day, we celebrate his exceptional legacy of bravery, daring",
+      "title": "Presidential Message on Leif Erikson Day"
     },
     {
       "category": "Briefings & Statements",
