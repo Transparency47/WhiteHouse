@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-10T20:29:02.467783+00:00",
+  "last_successful_run": "2026-10-11T00:06:50.356499+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24494,6 +24494,17 @@
       ],
       "published": "2026-10-01T18:25:31-04:00",
       "title": "The Real Cost of Socialism in America"
+    },
+    "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/": {
+      "categories": [
+        "Research"
+      ],
+      "last_accessed": "2026-10-11T00:06:49.143752+00:00",
+      "paths": [
+        "Research/2026/10/10/The_State_of_American_Manufacturing.md"
+      ],
+      "published": "2026-10-10T16:46:32-04:00",
+      "title": "The State of American Manufacturing"
     }
   }
 }

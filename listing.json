@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-10T20:29:06.456760+00:00",
+  "generatedAt": "2026-10-11T00:06:54.348192+00:00",
   "records": [
+    {
+      "category": "Research",
+      "date": "2026-10-10",
+      "id": "whitehouse:c5b61e4c5c72a1eb",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-11T00:06:49.143752+00:00"
+      },
+      "path": "Research/2026/10/10/The_State_of_American_Manufacturing.md",
+      "sourceUrl": "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/",
+      "summary": "The State of American Manufacturing_Oct2026",
+      "title": "The State of American Manufacturing"
+    },
     {
       "category": "Remarks",
       "date": "2026-10-09",
