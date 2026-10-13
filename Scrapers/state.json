@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-13T10:10:41.384112+00:00",
+  "last_successful_run": "2026-10-13T17:57:45.830166+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5226,6 +5226,17 @@
       "published": "2026-10-09T16:09:42-04:00",
       "title": "Congressional Bills S. 195 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-13T17:57:44.186531+00:00",
+      "paths": [
+        "Briefings/2026/10/13/First_Lady_Melania_Trump_Launches_2027_Presidential_SI_Challenge_and_Establishes_First_Lady_Seal_of_SI_Readiness.md"
+      ],
+      "published": "2026-10-13T12:36:32-04:00",
+      "title": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/": {
       "categories": [
         "Briefings & Statements"
@@ -5269,6 +5280,17 @@
       ],
       "published": "2026-10-05T21:02:35-04:00",
       "title": "Presidential Message on Fire Prevention Week"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-general-pulaski-memorial-day/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-13T17:57:44.593015+00:00",
+      "paths": [
+        "Briefings/2026/10/11/Presidential_Message_on_General_Pulaski_Memorial_Day.md"
+      ],
+      "published": "2026-10-11T17:00:00-04:00",
+      "title": "Presidential Message on General Pulaski Memorial Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/": {
       "categories": [
@@ -24077,6 +24099,17 @@
       "published": "2026-10-07T20:28:12-04:00",
       "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom"
     },
+    "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-13T17:57:43.667463+00:00",
+      "paths": [
+        "Releases/2026/10/13/Katie_Zacharia_Delivers_Powerful_Inaugural_Briefing_as_the_37th_White_House_Press_Secretary.md"
+      ],
+      "published": "2026-10-13T13:31:46-04:00",
+      "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White House Press Secretary"
+    },
     "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/": {
       "categories": [
         "Releases"
@@ -24153,6 +24186,17 @@
       ],
       "published": "2026-10-05T20:20:07-04:00",
       "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-13T17:57:43.255600+00:00",
+      "paths": [
+        "Releases/2026/10/13/President_Trump_Visits_Alaska_Delivering_Results_for_the_Last_Frontier.md"
+      ],
+      "published": "2026-10-13T13:47:35-04:00",
+      "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier"
     },
     "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
       "categories": [

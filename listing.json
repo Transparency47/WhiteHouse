@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-10-13T10:10:43.359160+00:00",
+  "generatedAt": "2026-10-13T17:57:49.864217+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-13",
+      "id": "whitehouse:f14d55d34fa6fb3b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-13T17:57:43.255600+00:00"
+      },
+      "path": "Releases/2026/10/13/President_Trump_Visits_Alaska_Delivering_Results_for_the_Last_Frontier.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
+      "summary": "**Today, President Donald J. Trump travels to Alaska.** He returns to the Last Frontier with a proven record of results that put Alaskans first: lower taxes, responsible development of the state\u2019s vast energy and mineral resources, safer communities, strong support for fisheries,",
+      "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-13",
+      "id": "whitehouse:62a80033ea4fef12",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-13T17:57:43.667463+00:00"
+      },
+      "path": "Releases/2026/10/13/Katie_Zacharia_Delivers_Powerful_Inaugural_Briefing_as_the_37th_White_House_Press_Secretary.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/",
+      "summary": "**Today, Katie Zacharia delivered a commanding** [**inaugural press briefing**](https://www.youtube.com/watch?v=g7we6gecwnc) **as the 37th White House Press Secretary.** The briefing, which generated [wall-to-wall coverage](https://x.com/RapidResponse47/status/2110004871613280464",
+      "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White House Press Secretary"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-13",
+      "id": "whitehouse:becc36a637d61769",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-13T17:57:44.186531+00:00"
+      },
+      "path": "Briefings/2026/10/13/First_Lady_Melania_Trump_Launches_2027_Presidential_SI_Challenge_and_Establishes_First_Lady_Seal_of_SI_Readiness.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+      "summary": "First Lady Melania Trump launched her 2027 Presidential Super Intelligence (SI) Challenge and established a new First Lady Seal of AI Readiness\u2014inviting K-12 students, educators, and schools across America to participate in the nationwide initiative.",
+      "title": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-11",
+      "id": "whitehouse:8752a9fee4c943d8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-13T17:57:44.593015+00:00"
+      },
+      "path": "Briefings/2026/10/11/Presidential_Message_on_General_Pulaski_Memorial_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-general-pulaski-memorial-day/",
+      "summary": "Today, we honor the heroic life and legacy of Brigadier General Casimir Pulaski\u2014a son of Poland turned American warrior, a father of Independence, and a martyr of Liberty, whose courage breathed life into the Continental Army, advancing the sacred cause of freedom during the Revo",
+      "title": "Presidential Message on General Pulaski Memorial Day"
+    },
     {
       "category": "Research",
       "date": "2026-10-10",
