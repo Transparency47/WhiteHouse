@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-14T18:19:42.817954+00:00",
+  "last_successful_run": "2026-10-14T22:04:17.617953+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24187,6 +24187,17 @@
       "published": "2026-10-08T14:32:51-04:00",
       "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation"
     },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-arizona-with-a-record-of-results-tax-relief-jobs-and-border-security/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-14T22:04:16.433253+00:00",
+      "paths": [
+        "Releases/2026/10/14/President_Trump_Returns_to_Arizona_with_a_Record_of_Results_Tax_Relief_Jobs_and_Border_Security.md"
+      ],
+      "published": "2026-10-14T14:56:18-04:00",
+      "title": "President Trump Returns to Arizona with a Record of Results: Tax Relief, Jobs, and Border Security"
+    },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/": {
       "categories": [
         "Releases"
@@ -24208,6 +24219,17 @@
       ],
       "published": "2026-10-13T13:47:35-04:00",
       "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-montana-with-a-record-of-results-for-workers-families-and-communities/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-14T22:04:16.024936+00:00",
+      "paths": [
+        "Releases/2026/10/14/President_Trump_Visits_Montana_with_a_Record_of_Results_for_Workers_Families_and_Communities.md"
+      ],
+      "published": "2026-10-14T17:58:37-04:00",
+      "title": "President Trump Visits Montana with a Record of Results for Workers, Families, and Communities"
     },
     "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
       "categories": [

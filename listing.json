@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-14T18:19:45.673943+00:00",
+  "generatedAt": "2026-10-14T22:04:19.944617+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-14",
+      "id": "whitehouse:b45a138c28e8d9ca",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-14T22:04:16.024936+00:00"
+      },
+      "path": "Releases/2026/10/14/President_Trump_Visits_Montana_with_a_Record_of_Results_for_Workers_Families_and_Communities.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-montana-with-a-record-of-results-for-workers-families-and-communities/",
+      "summary": "**Today, President Donald J. Trump heads to Montana for a stop in Kalispell.** He arrives with a proven record of America First policies that put Montana workers, families, seniors, and communities first \u2014 delivering historic tax relief, unleashing private investment and job grow",
+      "title": "President Trump Visits Montana with a Record of Results for Workers, Families, and Communities"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-14",
+      "id": "whitehouse:8a1b22c17d05f1be",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-14T22:04:16.433253+00:00"
+      },
+      "path": "Releases/2026/10/14/President_Trump_Returns_to_Arizona_with_a_Record_of_Results_Tax_Relief_Jobs_and_Border_Security.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-arizona-with-a-record-of-results-tax-relief-jobs-and-border-security/",
+      "summary": "**Today, President Donald J. Trump returns to the Grand Canyon State for a visit to Bullhead City.** He arrives with a clear record of America First results that put Arizona workers, families, seniors, and communities first \u2014 delivering tax relief, unleashing major private invest",
+      "title": "President Trump Returns to Arizona with a Record of Results: Tax Relief, Jobs, and Border Security"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-10-13",
