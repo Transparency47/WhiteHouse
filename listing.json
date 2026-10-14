@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-14T01:37:45.302056+00:00",
+  "generatedAt": "2026-10-14T07:10:31.632263+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-13",
+      "id": "whitehouse:d4b84194e44e108c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-14T07:10:28.359077+00:00"
+      },
+      "path": "Briefings/2026/10/13/Presidential_Message_on_the_Birthday_of_the_United_States_Navy.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
+      "summary": "For over 250 years, American sailors have defended our Nation upon the seas, forging the most lethal Navy in the history of the world. Today, on the birthday of the United States Navy, Icelebrate this incredible milestone with our active duty and reserve sailors, past and present",
+      "title": "Presidential Message on the Birthday of the United States Navy"
+    },
     {
       "category": "Releases",
       "date": "2026-10-13",
