@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-15T18:02:02.836309+00:00",
+  "generatedAt": "2026-10-15T21:58:08.273601+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-15",
+      "id": "whitehouse:f7d2195b4abe199b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-15T21:58:05.135603+00:00"
+      },
+      "path": "Releases/2026/10/15/Its_Not_a_Socialist_Revolution_Its_Misery_Starvation_and_Death.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/its-not-a-socialist-revolution-its-misery-starvation-and-death/",
+      "summary": "**A coordinated campaign is underway to sanitize, normalize, and romanticize one of history\u2019s most dangerous and lethal ideologies.** Newsweek is currently running a \u201c [little red test](https://www.newsweek.com/ready-to-join-the-american-socialist-revolution-take-our-quiz-and-fin",
+      "title": "It\u2019s Not a \u201cSocialist Revolution.\u201d It\u2019s Misery, Starvation, and Death."
+    },
     {
       "category": "Releases",
       "date": "2026-10-15",

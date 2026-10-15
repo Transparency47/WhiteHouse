@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-15T18:01:59.952328+00:00",
+  "last_successful_run": "2026-10-15T21:58:06.347616+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24142,6 +24142,17 @@
       ],
       "published": "2026-10-15T10:30:45-04:00",
       "title": "ICYMI: \u201cLargest-ever federal anti-transnational crime operation nets 1,296 Tren de Aragua arrests nationwide\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/its-not-a-socialist-revolution-its-misery-starvation-and-death/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-15T21:58:05.135603+00:00",
+      "paths": [
+        "Releases/2026/10/15/Its_Not_a_Socialist_Revolution_Its_Misery_Starvation_and_Death.md"
+      ],
+      "published": "2026-10-15T15:51:31-04:00",
+      "title": "It\u2019s Not a \u201cSocialist Revolution.\u201d It\u2019s Misery, Starvation, and Death."
     },
     "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/": {
       "categories": [
