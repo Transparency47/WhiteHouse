@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-15T13:06:54.699704+00:00",
+  "last_successful_run": "2026-10-15T18:01:59.952328+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24120,6 +24120,28 @@
       ],
       "published": "2026-10-07T20:28:12-04:00",
       "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/bombshell-report-exposes-true-cost-of-radical-democrats-mass-amnesty-open-borders-agenda/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-15T18:01:58.386392+00:00",
+      "paths": [
+        "Releases/2026/10/15/Bombshell_Report_Exposes_True_Cost_of_Radical_Democrats_Mass_Amnesty_Open_Borders_Agenda.md"
+      ],
+      "published": "2026-10-15T11:41:55-04:00",
+      "title": "Bombshell Report Exposes True Cost of Radical Democrats\u2019 Mass Amnesty \u2013 Open Borders Agenda"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/icymi-largest-ever-federal-anti-transnational-crime-operation-nets-1296-tren-de-aragua-arrests-nationwide/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-15T18:01:58.776998+00:00",
+      "paths": [
+        "Releases/2026/10/15/ICYMI_Largest_ever_federal_anti_transnational_crime_operation_nets_1_296_Tren_de_Aragua_arrests_nationwide.md"
+      ],
+      "published": "2026-10-15T10:30:45-04:00",
+      "title": "ICYMI: \u201cLargest-ever federal anti-transnational crime operation nets 1,296 Tren de Aragua arrests nationwide\u201d"
     },
     "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/": {
       "categories": [
