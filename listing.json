@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-15T01:14:29.168777+00:00",
+  "generatedAt": "2026-10-15T07:02:39.258133+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-14",
+      "id": "whitehouse:e2d65a92bf10c761",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-15T07:02:33.973923+00:00"
+      },
+      "path": "Briefings/2026/10/14/Presidential_Message_on_the_Birthday_of_President_Dwight_D_Eisenhower.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/",
+      "summary": "On this day, we mark the 136th birthday of President Dwight David Eisenhower\u2014a visionary leader, respected warrior, distinguished statesman, and noble public servant. In command of great armies and in the White House, he met every trial with steadiness, courage, and resolve, earn",
+      "title": "Presidential Message on the Birthday of President Dwight D. Eisenhower"
+    },
     {
       "category": "Releases",
       "date": "2026-10-14",

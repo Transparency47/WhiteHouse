@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-15T01:14:25.195856+00:00",
+  "last_successful_run": "2026-10-15T07:02:35.261218+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5346,6 +5346,17 @@
       ],
       "published": "2026-10-02T14:25:08-04:00",
       "title": "Presidential Message on National Domestic Violence Awareness Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-15T07:02:33.973923+00:00",
+      "paths": [
+        "Briefings/2026/10/14/Presidential_Message_on_the_Birthday_of_President_Dwight_D_Eisenhower.md"
+      ],
+      "published": "2026-10-14T22:17:50-04:00",
+      "title": "Presidential Message on the Birthday of President Dwight D. Eisenhower"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/": {
       "categories": [
