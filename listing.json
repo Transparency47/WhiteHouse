@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:58:08.273601+00:00",
+  "generatedAt": "2026-10-16T00:14:09.943616+00:00",
   "records": [
     {
       "category": "Releases",
@@ -26,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/icymi-largest-ever-federal-anti-transnational-crime-operation-nets-1296-tren-de-aragua-arrests-nationwide/",
       "summary": "**President Donald J. Trump is systematically dismantling the bloodthirsty Tren de Aragua gang that Biden\u2019s open borders allowed to pour into American communities.** The Trump Administration has launched the largest federal campaign against transnational crime in U.S. history \u2014 i",
       "title": "ICYMI: \u201cLargest-ever federal anti-transnational crime operation nets 1,296 Tren de Aragua arrests nationwide\u201d"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-15",
+      "id": "whitehouse:d14be35a92f4622e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-16T00:14:05.645288+00:00"
+      },
+      "path": "Briefings/2026/10/15/Congressional_Bills_S_240_S_283_and_S_2403_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/",
+      "summary": "On Thursday, October 15, 2026, the President signed into law:",
+      "title": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law"
     },
     {
       "category": "Releases",
