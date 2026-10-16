@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-16T19:22:02.276610+00:00",
+  "generatedAt": "2026-10-16T22:35:45.635729+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-16",
+      "id": "whitehouse:f01234fc273287a4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-16T22:35:40.324225+00:00"
+      },
+      "path": "Releases/2026/10/16/Trump_Vance_Administration_Leads_Nationwide_Coalition_in_Fighting_War_on_Fraud.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/",
+      "summary": "**President Donald J. Trump and Vice President JD Vance are aggressively shutting down the waste, fraud, and abuse that has drained billions from American taxpayers.** As head of the White House Task Force to Eliminate Fraud, Vice President Vance this week [called on](https://x.c",
+      "title": "Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud"
+    },
     {
       "category": "Releases",
       "date": "2026-10-16",

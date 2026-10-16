@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-16T19:21:58.600396+00:00",
+  "last_successful_run": "2026-10-16T22:35:41.551491+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24296,6 +24296,17 @@
       ],
       "published": "2026-10-14T17:58:37-04:00",
       "title": "President Trump Visits Montana with a Record of Results for Workers, Families, and Communities"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-16T22:35:40.324225+00:00",
+      "paths": [
+        "Releases/2026/10/16/Trump_Vance_Administration_Leads_Nationwide_Coalition_in_Fighting_War_on_Fraud.md"
+      ],
+      "published": "2026-10-16T15:25:01-04:00",
+      "title": "Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud"
     },
     "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
       "categories": [
