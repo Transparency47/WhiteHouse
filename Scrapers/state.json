@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-16T15:15:03.250636+00:00",
+  "last_successful_run": "2026-10-16T19:21:58.600396+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24252,6 +24252,17 @@
       ],
       "published": "2026-10-14T14:56:18-04:00",
       "title": "President Trump Returns to Arizona with a Record of Results: Tax Relief, Jobs, and Border Security"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-16T19:21:57.319469+00:00",
+      "paths": [
+        "Releases/2026/10/16/President_Trump_Returns_to_Georgia_with_a_Record_of_Results.md"
+      ],
+      "published": "2026-10-16T12:36:43-04:00",
+      "title": "President Trump Returns to Georgia with a Record of Results"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/": {
       "categories": [

@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-16T15:15:07.253616+00:00",
+  "generatedAt": "2026-10-16T19:22:02.276610+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-16",
+      "id": "whitehouse:5fd5df890de65497",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-16T19:21:57.319469+00:00"
+      },
+      "path": "Releases/2026/10/16/President_Trump_Returns_to_Georgia_with_a_Record_of_Results.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
+      "summary": "**Today, President Donald J. Trump returns to the Peach State with a proven record of America First results that put Georgia workers, families, seniors, and communities first.** Under the leadership of President Trump and Republicans, Georgians are seeing historic tax relief, a s",
+      "title": "President Trump Returns to Georgia with a Record of Results"
+    },
     {
       "category": "Releases",
       "date": "2026-10-15",
