@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-10-19T12:20:28.208816+00:00",
+  "generatedAt": "2026-10-19T19:03:51.723900+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-19",
+      "id": "whitehouse:417a9e1fa786f5c0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-19T19:03:47.445342+00:00"
+      },
+      "path": "Releases/2026/10/19/President_Trump_Delivers_Historic_Wins_for_Kansas_Workers_Families_Farmers_and_Rural_Communities.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
+      "summary": "**Today, President Donald J. Trump returns to Kansas to showcase his proven record of results that put Kansas workers, families, seniors, farmers, and communities first.** Under the leadership of President Trump and Republicans, Kansans are benefiting from historic tax relief, su",
+      "title": "President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-19",
+      "id": "whitehouse:66555f10b581ea73",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-19T19:03:47.833012+00:00"
+      },
+      "path": "Briefings/2026/10/19/First_Lady_Melania_Trump_Champions_New_U_S_Womens_Health_Initiative.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
+      "summary": "First Lady Melania Trump advanced a landmark program to improve women\u2019s health through a new executive order that strengthens research, prevention, diagnosis, treatment, and care for girls and women throughout every stage of life.",
+      "title": "First Lady Melania Trump Champions New U.S. Women\u2019s Health Initiative"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-19",
+      "id": "whitehouse:773bc1228e0eb193",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-19T19:03:48.610071+00:00"
+      },
+      "path": "Fact Sheets/2026/10/19/Fact_Sheet_President_Donald_J_Trump_and_First_Lady_Melania_Trump_Advance_Womens_Health_to_Improve_Outcomes_in_All_Phases_of_Life.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-and-first-lady-melania-trump-advance-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+      "summary": "**PRIORITIZING SOLUTIONS FOR WOMEN\u2019S HEALTH:** Today, President Donald J. Trump signed an Executive Order, led by First Lady Melania Trump, to strengthen research, prevention, diagnosis, treatment, and care for women and girls throughout every stage of life.",
+      "title": "Fact Sheet: President Donald J. Trump and First Lady Melania Trump Advance Women\u2019s Health to Improve Outcomes in All Phases of Life"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-10-19",
+      "id": "whitehouse:41848a74b15a6d61",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-19T19:03:48.224091+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/10/19/Advancing_Womens_Health_to_Improve_Outcomes_in_All_Phases_of_Life.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "Advancing Women\u2019s Health to Improve Outcomes in All Phases of Life"
+    },
     {
       "category": "Releases",
       "date": "2026-10-16",

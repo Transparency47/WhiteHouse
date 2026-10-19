@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-19T12:20:26.232060+00:00",
+  "last_successful_run": "2026-10-19T19:03:49.767389+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5237,6 +5237,17 @@
       "published": "2026-10-15T19:48:26-04:00",
       "title": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-19T19:03:47.833012+00:00",
+      "paths": [
+        "Briefings/2026/10/19/First_Lady_Melania_Trump_Champions_New_U_S_Womens_Health_Initiative.md"
+      ],
+      "published": "2026-10-19T11:35:08-04:00",
+      "title": "First Lady Melania Trump Champions New U.S. Women\u2019s Health Initiative"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/": {
       "categories": [
         "Briefings & Statements"
@@ -9394,6 +9405,17 @@
       ],
       "published": "2026-09-02T10:45:55-04:00",
       "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-and-first-lady-melania-trump-advance-womens-health-to-improve-outcomes-in-all-phases-of-life/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-19T19:03:48.610071+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/19/Fact_Sheet_President_Donald_J_Trump_and_First_Lady_Melania_Trump_Advance_Womens_Health_to_Improve_Outcomes_in_All_Phases_of_Life.md"
+      ],
+      "published": "2026-10-19T11:24:43-04:00",
+      "title": "Fact Sheet: President Donald J. Trump and First Lady Melania Trump Advance Women\u2019s Health to Improve Outcomes in All Phases of Life"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/": {
       "categories": [
@@ -16988,6 +17010,18 @@
       "published": "2026-09-17T11:48:13-04:00",
       "title": "Withdrawals Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-10-19T19:03:48.224091+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/10/19/Advancing_Womens_Health_to_Improve_Outcomes_in_All_Phases_of_Life.md"
+      ],
+      "published": "2026-10-19T11:25:57-04:00",
+      "title": "Advancing Women\u2019s Health to Improve Outcomes in All Phases of Life"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/": {
       "categories": [
         "Presidential Actions",
@@ -24231,6 +24265,17 @@
       ],
       "published": "2026-10-05T13:02:29-04:00",
       "title": "President Trump and Republicans Are Delivering Real Results for Nebraska"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-19T19:03:47.445342+00:00",
+      "paths": [
+        "Releases/2026/10/19/President_Trump_Delivers_Historic_Wins_for_Kansas_Workers_Families_Farmers_and_Rural_Communities.md"
+      ],
+      "published": "2026-10-19T14:00:25-04:00",
+      "title": "President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/": {
       "categories": [
