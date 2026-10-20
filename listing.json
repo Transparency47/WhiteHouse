@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-20T14:43:48.076797+00:00",
+  "generatedAt": "2026-10-20T18:57:39.221680+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-20",
+      "id": "whitehouse:de9b8b37e911a69d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-20T18:57:33.949951+00:00"
+      },
+      "path": "Releases/2026/10/20/How_President_Trump_Ended_the_Border_Invasion_and_Restored_American_Sovereignty.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/how-president-trump-ended-the-border-invasion-and-restored-american-sovereignty/",
+      "summary": "**President Donald J. Trump was returned to office with a clear mandate to end the invasion that Democrats allowed to overwhelm communities, drain public resources, and endanger public safety.** In less than two years, the Trump Administration has delivered the largest reduction ",
+      "title": "How President Trump Ended the Border Invasion and Restored American Sovereignty"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-20",
+      "id": "whitehouse:de6f4ae52883b197",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-20T18:57:33.472211+00:00"
+      },
+      "path": "Releases/2026/10/20/Delivering_for_North_Carolina_Safer_Streets_Bigger_Paychecks_and_a_Manufacturing_Boom_Under_President_Trump.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
+      "summary": "**President Donald J. Trump returns to North Carolina today with a clear record of results that put Tar Heel families, workers, seniors, and communities first.** Since taking office, the Trump Administration has driven down crime, returned money to workers\u2019 and seniors\u2019 pockets, ",
+      "title": "Delivering for North Carolina: Safer Streets, Bigger Paychecks, and a Manufacturing Boom Under President Trump"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-10-19",
