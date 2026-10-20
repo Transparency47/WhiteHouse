@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:57:39.221680+00:00",
+  "generatedAt": "2026-10-20T22:11:39.029212+00:00",
   "records": [
     {
       "category": "Releases",
@@ -26,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
       "summary": "**President Donald J. Trump returns to North Carolina today with a clear record of results that put Tar Heel families, workers, seniors, and communities first.** Since taking office, the Trump Administration has driven down crime, returned money to workers\u2019 and seniors\u2019 pockets, ",
       "title": "Delivering for North Carolina: Safer Streets, Bigger Paychecks, and a Manufacturing Boom Under President Trump"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-20",
+      "id": "whitehouse:1a739b6b8f116779",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-20T22:11:33.797274+00:00"
+      },
+      "path": "Briefings/2026/10/20/Congressional_Bills_H_R_227_H_R_837_H_R_1721_H_R_2388_H_R_2481_H_R_3620_H_R_4307_H_R_4467_H_R_6380_and_H_R_7831_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-227-h-r-837-h-r-1721-h-r-2388-h-r-2481-h-r-3620-h-r-4307-h-r-4467-h-r-6380-and-h-r-7831-signed-into-law/",
+      "summary": "On Tuesday, October 20, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 227, H.R. 837, H.R. 1721, H.R. 2388, H.R. 2481, H.R. 3620, H.R. 4307, H.R. 4467, H.R. 6380, and H.R. 7831 Signed into Law"
     },
     {
       "category": "Briefings & Statements",
