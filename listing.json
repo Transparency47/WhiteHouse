@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-19T23:22:03.239817+00:00",
+  "generatedAt": "2026-10-20T03:44:02.523036+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-19",
+      "id": "whitehouse:c05ca8465a360097",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-20T03:43:58.473567+00:00"
+      },
+      "path": "Briefings/2026/10/19/Presidential_Message_on_National_Forest_Products_Week.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-forest-products-week-5753/",
+      "summary": "From the misty evergreens of the Pacific Northwest to the hardwood ridges of Appalachia, America\u2019s forests are among our Nation\u2019s greatest natural treasures. During National Forest Products Week, we renew our commitment to conserving these incredible landscapes and responsibly ha",
+      "title": "Presidential Message on National Forest Products Week"
+    },
     {
       "category": "Releases",
       "date": "2026-10-19",
