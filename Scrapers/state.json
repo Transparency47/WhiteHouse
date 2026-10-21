@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-21T18:25:15.268618+00:00",
+  "last_successful_run": "2026-10-21T22:08:50.448431+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24364,6 +24364,17 @@
       ],
       "published": "2026-10-16T12:36:43-04:00",
       "title": "President Trump Returns to Georgia with a Record of Results"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-21T22:08:49.162950+00:00",
+      "paths": [
+        "Releases/2026/10/21/President_Trump_Secures_Major_Wins_for_South_Carolina_Workers_Families_and_Communities.md"
+      ],
+      "published": "2026-10-21T14:26:45-04:00",
+      "title": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/": {
       "categories": [
