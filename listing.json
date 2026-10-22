@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-22T13:31:03.273774+00:00",
+  "generatedAt": "2026-10-22T18:20:41.861616+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-22",
+      "id": "whitehouse:e01127748da1177a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T18:20:36.507608+00:00"
+      },
+      "path": "Releases/2026/10/22/New_Analysis_President_Trumps_Pro_Growth_Policies_Ignite_Manufacturing_Resurgence.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/new-analysis-president-trumps-pro-growth-policies-ignite-manufacturing-resurgence/",
+      "summary": "*New Analysis [Confirms](https://www.whitehouse.gov/wp-content/uploads/2026/10/The-State-of-American-Manufacturing_Oct2026.pdf) President Trump\u2019s Pro-Growth Policies Are Driving American Manufacturing Resurgence*",
+      "title": "New Analysis: President Trump\u2019s Pro-Growth Policies Ignite Manufacturing Resurgence"
+    },
     {
       "category": "Releases",
       "date": "2026-10-21",

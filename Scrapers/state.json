@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-22T13:31:01.232713+00:00",
+  "last_successful_run": "2026-10-22T18:20:37.741414+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24287,6 +24287,17 @@
       ],
       "published": "2026-10-01T13:43:08-04:00",
       "title": "Nearly Two Years In, President Trump Is Still Stacking Historic Wins at Record Speed"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/new-analysis-president-trumps-pro-growth-policies-ignite-manufacturing-resurgence/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-22T18:20:36.507608+00:00",
+      "paths": [
+        "Releases/2026/10/22/New_Analysis_President_Trumps_Pro_Growth_Policies_Ignite_Manufacturing_Resurgence.md"
+      ],
+      "published": "2026-10-22T13:51:54-04:00",
+      "title": "New Analysis: President Trump\u2019s Pro-Growth Policies Ignite Manufacturing Resurgence"
     },
     "https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/": {
       "categories": [
