@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-22T18:20:41.861616+00:00",
+  "generatedAt": "2026-10-22T22:08:45.409224+00:00",
   "records": [
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-10-22",
+      "id": "whitehouse:478c5d7949317742",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T22:08:38.438231+00:00"
+      },
+      "path": "Actions/Memoranda/2026/10/22/Presidential_Determination_Pursuant_to_Section_303_of_the_Defense_Production_Act_of_1950_as_Amended_on_Domestic_Petroleum_Production_Refining_and_Logistics_Capacity.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF WAR",
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity"
+    },
     {
       "category": "Releases",
       "date": "2026-10-22",
@@ -13,6 +26,84 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/new-analysis-president-trumps-pro-growth-policies-ignite-manufacturing-resurgence/",
       "summary": "*New Analysis [Confirms](https://www.whitehouse.gov/wp-content/uploads/2026/10/The-State-of-American-Manufacturing_Oct2026.pdf) President Trump\u2019s Pro-Growth Policies Are Driving American Manufacturing Resurgence*",
       "title": "New Analysis: President Trump\u2019s Pro-Growth Policies Ignite Manufacturing Resurgence"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-10-22",
+      "id": "whitehouse:ca3ea04d16c956b3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T22:08:37.215041+00:00"
+      },
+      "path": "Actions/Proclamations/2026/10/22/National_Seafood_Month_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/national-seafood-month-2026/",
+      "summary": "By the President of the United States of America",
+      "title": "National Seafood Month, 2026"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-22",
+      "id": "whitehouse:8d3ba6d8adbcceff",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T22:08:39.715801+00:00"
+      },
+      "path": "Releases/2026/10/22/Iowa_Wins_Big_Under_President_Trump_Lower_Taxes_New_Investment_and_Stronger_Rural_Communities.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/iowa-wins-big-under-president-trump-lower-taxes-new-investment-and-stronger-rural-communities/",
+      "summary": "**President Donald J. Trump returns to Iowa today to highlight a clear record of results for workers, families, seniors, farmers, and rural communities.** Under President Trump and Republican leadership, Iowans are seeing historic tax relief, major private investment, stronger ru",
+      "title": "Iowa Wins Big Under President Trump: Lower Taxes, New Investment, and Stronger Rural Communities"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-22",
+      "id": "whitehouse:39d673857833275c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T22:08:39.269475+00:00"
+      },
+      "path": "Fact Sheets/2026/10/22/Fact_Sheet_President_Donald_J_Trump_Decreases_Housing_Costs_for_Americans.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-decreases-housing-costs-for-americans/",
+      "summary": "**LOWERING COSTS AND EXPANDING ACCESS TO HOMEOWNERSHIP:** Today, President Donald J. Trump signed an Executive Order to lower the costs of single-family homeownership and mortgages and promote innovation throughout the housing market.",
+      "title": "Fact Sheet: President Donald J. Trump Decreases Housing Costs for Americans"
+    },
+    {
+      "category": "Executive Orders",
+      "date": "2026-10-22",
+      "id": "whitehouse:2ee46fc3034fb911",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T22:08:37.629157+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/10/22/DECREASING_HOUSING_COSTS_FOR_THE_AMERICAN_PEOPLE.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/",
+      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+      "title": "DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-22",
+      "id": "whitehouse:ca54817803a0ab94",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T22:08:38.032282+00:00"
+      },
+      "path": "Briefings/2026/10/22/Congressional_Bills_H_R_952_and_H_R_7022_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-952-and-h-r-7022-signed-into-law/",
+      "summary": "On Thursday, October 22, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 952 and H.R. 7022 Signed into Law"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-10-22",
+      "id": "whitehouse:1848539fc18c2b6a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-22T22:08:38.861256+00:00"
+      },
+      "path": "Actions/Proclamations/2026/10/22/Adjusting_Imports_of_Wind_Turbines_and_Their_Parts_and_Components_into_the_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "Adjusting Imports of Wind Turbines and Their Parts and Components into the United States"
     },
     {
       "category": "Releases",

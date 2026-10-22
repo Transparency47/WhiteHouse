@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-22T18:20:37.741414+00:00",
+  "last_successful_run": "2026-10-22T22:08:41.359013+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5226,6 +5226,17 @@
       "published": "2026-10-07T15:57:24-04:00",
       "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-952-and-h-r-7022-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-22T22:08:38.032282+00:00",
+      "paths": [
+        "Briefings/2026/10/22/Congressional_Bills_H_R_952_and_H_R_7022_Signed_into_Law.md"
+      ],
+      "published": "2026-10-22T16:47:18-04:00",
+      "title": "Congressional Bills H.R. 952 and H.R. 7022 Signed into Law"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/": {
       "categories": [
         "Briefings & Statements"
@@ -9449,6 +9460,17 @@
       ],
       "published": "2026-10-02T23:01:43-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-decreases-housing-costs-for-americans/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-22T22:08:39.269475+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/22/Fact_Sheet_President_Donald_J_Trump_Decreases_Housing_Costs_for_Americans.md"
+      ],
+      "published": "2026-10-22T15:25:44-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Decreases Housing Costs for Americans"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/": {
       "categories": [
@@ -17032,6 +17054,18 @@
       "published": "2026-09-17T11:48:13-04:00",
       "title": "Withdrawals Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-10-22T22:08:38.861256+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/10/22/Adjusting_Imports_of_Wind_Turbines_and_Their_Parts_and_Components_into_the_United_States.md"
+      ],
+      "published": "2026-10-22T15:32:11-04:00",
+      "title": "Adjusting Imports of Wind Turbines and Their Parts and Components into the United States"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/": {
       "categories": [
         "Presidential Actions",
@@ -17055,6 +17089,18 @@
       ],
       "published": "2026-10-07T15:47:48-04:00",
       "title": "Columbus Day, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-10-22T22:08:37.629157+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/10/22/DECREASING_HOUSING_COSTS_FOR_THE_AMERICAN_PEOPLE.md"
+      ],
+      "published": "2026-10-22T16:48:38-04:00",
+      "title": "DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/": {
       "categories": [
@@ -17115,6 +17161,30 @@
       ],
       "published": "2026-10-02T15:29:58-04:00",
       "title": "National Manufacturing Day, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/national-seafood-month-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-10-22T22:08:37.215041+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/10/22/National_Seafood_Month_2026.md"
+      ],
+      "published": "2026-10-22T16:51:22-04:00",
+      "title": "National Seafood Month, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-10-22T22:08:38.438231+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/10/22/Presidential_Determination_Pursuant_to_Section_303_of_the_Defense_Production_Act_of_1950_as_Amended_on_Domestic_Petroleum_Production_Refining_and_Logistics_Capacity.md"
+      ],
+      "published": "2026-10-22T16:41:16-04:00",
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
@@ -24243,6 +24313,17 @@
       ],
       "published": "2026-10-15T10:30:45-04:00",
       "title": "ICYMI: \u201cLargest-ever federal anti-transnational crime operation nets 1,296 Tren de Aragua arrests nationwide\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/iowa-wins-big-under-president-trump-lower-taxes-new-investment-and-stronger-rural-communities/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-22T22:08:39.715801+00:00",
+      "paths": [
+        "Releases/2026/10/22/Iowa_Wins_Big_Under_President_Trump_Lower_Taxes_New_Investment_and_Stronger_Rural_Communities.md"
+      ],
+      "published": "2026-10-22T14:25:32-04:00",
+      "title": "Iowa Wins Big Under President Trump: Lower Taxes, New Investment, and Stronger Rural Communities"
     },
     "https://www.whitehouse.gov/releases/2026/10/its-not-a-socialist-revolution-its-misery-starvation-and-death/": {
       "categories": [
