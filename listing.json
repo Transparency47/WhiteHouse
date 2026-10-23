@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-23T07:03:04.527906+00:00",
+  "generatedAt": "2026-10-23T13:07:34.288548+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-23",
+      "id": "whitehouse:265e1ad98ee6d2f1",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-23T13:07:28.632795+00:00"
+      },
+      "path": "Briefings/2026/10/23/Presidential_Message_on_the_World_Series.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
+      "summary": "This week, Americans across our great country are coming together to celebrate the 2026 World Series, the crown jewel of our Nation\u2019s favorite pastime. Baseball has long held a cherished place in our culture, and now, the Fall Classic once again unites us around this storied game",
+      "title": "Presidential Message on the World Series"
+    },
     {
       "category": "Presidential Memoranda",
       "date": "2026-10-22",
