@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:07:03.997513+00:00",
+  "generatedAt": "2026-10-23T21:52:22.934005+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -39,6 +39,45 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
       "summary": "First Lady Melania Trump successfully secured a ceasefire between Russia and Ukraine, localized to the city of Oleshky. Both nations agreed to temporarily stop all military action in Oleshky to allow for humanitarian aid to enter and to prepare a civilian evacuation through a des",
       "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-23",
+      "id": "whitehouse:f5b0905dd4ddd850",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-23T21:52:17.574407+00:00"
+      },
+      "path": "Fact Sheets/2026/10/23/Fact_Sheet_President_Donald_J_Trump_Further_Modifies_Canadian_Products_Subject_to_Tariffs_Under_Section_338.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/",
+      "summary": "**FURTHER COUNTERING CANADA\u2019S DISCRIMINATIORY TREATMENT OF AMERICAN EXPORTS:** Today, to continue addressing Canada\u2019s discriminatory treatment of U.S. commerce, President Donald J. Trump signed a Proclamation pursuant to Section 338 of the Tariff Act of 1930 to further refine the",
+      "title": "Fact Sheet: President Donald J. Trump Further Modifies Canadian Products Subject to Tariffs Under Section 338"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-23",
+      "id": "whitehouse:e32f1520d3f59c83",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-23T21:52:16.759486+00:00"
+      },
+      "path": "Fact Sheets/2026/10/23/Fact_Sheet_President_Donald_J_Trump_Announces_the_America_First_Seafood_Strategy_and_Seafood_gov.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/",
+      "summary": "**SECURING AMERICAN SEAFOOD DOMINANCE:** Today, President Donald J. Trump\u2019s Administration unveiled the historic [America First Seafood Strategy](https://www.usda.gov/sites/default/files/documents/america-first-seafood-strategy.pdf) and launched [Seafood.gov](https://seafood.gov)",
+      "title": "Fact Sheet: President Donald J. Trump Announces the America First Seafood Strategy and Seafood.gov"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-10-23",
+      "id": "whitehouse:cb6ebb0945745764",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-23T21:52:17.168943+00:00"
+      },
+      "path": "Actions/Proclamations/2026/10/23/FURTHER_MODIFYING_THE_SCOPE_OF_PRODUCTS_OF_CANADA_SUBJECT_TO_THE_ADDITIONAL_DUTIES_IMPOSED_TO_OFFSET_CANADIAN_DISCRIMINATION_AGAINST_THE_COMMERCE_OF_THE_UNITED_STATES_WITH_RESPECT_TO_MOTOR_VEHICLES.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES"
     },
     {
       "category": "Presidential Memoranda",

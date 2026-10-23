@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-23T18:06:59.856742+00:00",
+  "last_successful_run": "2026-10-23T21:52:18.901675+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9483,6 +9483,17 @@
       "published": "2026-10-02T23:01:43-04:00",
       "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-23T21:52:16.759486+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/23/Fact_Sheet_President_Donald_J_Trump_Announces_the_America_First_Seafood_Strategy_and_Seafood_gov.md"
+      ],
+      "published": "2026-10-23T16:10:57-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Announces the America First Seafood Strategy and Seafood.gov"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-decreases-housing-costs-for-americans/": {
       "categories": [
         "Fact Sheets"
@@ -9493,6 +9504,17 @@
       ],
       "published": "2026-10-22T15:25:44-04:00",
       "title": "Fact Sheet: President Donald J. Trump Decreases Housing Costs for Americans"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-23T21:52:17.574407+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/23/Fact_Sheet_President_Donald_J_Trump_Further_Modifies_Canadian_Products_Subject_to_Tariffs_Under_Section_338.md"
+      ],
+      "published": "2026-10-23T15:37:35-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Further Modifies Canadian Products Subject to Tariffs Under Section 338"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/": {
       "categories": [
@@ -17147,6 +17169,18 @@
       ],
       "published": "2026-10-07T21:00:00-04:00",
       "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-10-23T21:52:17.168943+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/10/23/FURTHER_MODIFYING_THE_SCOPE_OF_PRODUCTS_OF_CANADA_SUBJECT_TO_THE_ADDITIONAL_DUTIES_IMPOSED_TO_OFFSET_CANADIAN_DISCRIMINATION_AGAINST_THE_COMMERCE_OF_THE_UNITED_STATES_WITH_RESPECT_TO_MOTOR_VEHICLES.md"
+      ],
+      "published": "2026-10-23T15:51:09-04:00",
+      "title": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/": {
       "categories": [
