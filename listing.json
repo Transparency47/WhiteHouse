@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:07:34.288548+00:00",
+  "generatedAt": "2026-10-23T18:07:03.997513+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,32 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
       "summary": "This week, Americans across our great country are coming together to celebrate the 2026 World Series, the crown jewel of our Nation\u2019s favorite pastime. Baseball has long held a cherished place in our culture, and now, the Fall Classic once again unites us around this storied game",
       "title": "Presidential Message on the World Series"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-23",
+      "id": "whitehouse:f6700d616f9e40ee",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-23T18:06:58.177021+00:00"
+      },
+      "path": "Releases/2026/10/23/President_Trump_Returns_to_the_Sunshine_State_with_Major_Wins_for_Workers_Seniors_and_Veterans.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
+      "summary": "**President Donald J. Trump returns to Florida today to highlight a clear record of results that puts hardworking Americans first.** Under President Trump and Republican leadership, Floridians are seeing historic tax relief, a surge in private investment and job creation, stronge",
+      "title": "President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-23",
+      "id": "whitehouse:747994e6992e9d00",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-23T18:06:58.586956+00:00"
+      },
+      "path": "Briefings/2026/10/23/First_Lady_Melania_Trump_Secures_Ceasefire_Between_Russia_and_Ukraine_Localized_to_Oleshky.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+      "summary": "First Lady Melania Trump successfully secured a ceasefire between Russia and Ukraine, localized to the city of Oleshky. Both nations agreed to temporarily stop all military action in Oleshky to allow for humanitarian aid to enter and to prepare a civilian evacuation through a des",
+      "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky"
     },
     {
       "category": "Presidential Memoranda",
