@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:24:38.332186+00:00",
+  "generatedAt": "2026-10-24T14:17:06.867115+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -195,6 +195,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
       "summary": "**President Donald J. Trump returns to South Carolina today to highlight a proven record of results that put workers, families, seniors, and communities first.** Under President Trump and Republican leadership, South Carolinians are seeing historic tax relief, surging private inv",
       "title": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-20",
+      "id": "whitehouse:5c617206639071ef",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-24T14:17:00.980472+00:00"
+      },
+      "path": "Releases/2026/10/20/White_House_Appoints_2026_2027_Class_of_White_House_Fellows.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/white-house-press-release-white-house-appoints-2026-2027-class-of-white-house-fellows/",
+      "summary": "Today, the President\u2019s Commission on White House Fellows announced the appointment of 11 exceptional Americans who will serve as White House Fellows for a one-year term. The 2026-2027 Class of White House Fellows represents a cross-section of professions including law enforcement",
+      "title": "White House Appoints 2026-2027 Class of White House Fellows"
     },
     {
       "category": "Releases",

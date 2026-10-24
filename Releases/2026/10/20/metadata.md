@@ -18,3 +18,12 @@
 - Date accessed: 2026-10-20T18:57:33.949951+00:00
 - Markdown filename: How_President_Trump_Ended_the_Border_Invasion_and_Restored_American_Sovereignty.md
 
+## White House Appoints 2026-2027 Class of White House Fellows
+
+- URL: https://www.whitehouse.gov/releases/2026/10/white-house-press-release-white-house-appoints-2026-2027-class-of-white-house-fellows/
+- Title: White House Appoints 2026-2027 Class of White House Fellows
+- Category: Releases
+- Date published: 2026-10-20T17:30:00-04:00
+- Date accessed: 2026-10-24T14:17:00.980472+00:00
+- Markdown filename: White_House_Appoints_2026_2027_Class_of_White_House_Fellows.md
+
