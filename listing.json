@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-25T14:51:31.605350+00:00",
+  "generatedAt": "2026-10-25T18:11:25.154516+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-25",
+      "id": "whitehouse:de6b257a1cfed2e3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-25T18:11:20.559500+00:00"
+      },
+      "path": "Releases/2026/10/25/President_Trump_Secures_Major_Deals_to_Unleash_American_Energy_and_Cut_Gas_Prices_at_the_Pump.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-deals-to-unleash-american-energy-and-cut-gas-prices-at-the-pump/",
+      "summary": "**Gas and diesel prices will soon drop rapidly thanks to President Donald J. Trump\u2019s bold actions to unleash American Energy.** On day one, the Trump Administration began dismantling the failed Biden-era anti-energy policies, cutting red tape, and ending the Democrats\u2019 Green New ",
+      "title": "President Trump Secures Major Deals to Unleash American Energy and Cut Gas Prices at the Pump"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-10-23",

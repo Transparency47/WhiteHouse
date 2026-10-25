@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-25T14:51:28.693067+00:00",
+  "last_successful_run": "2026-10-25T18:11:21.763543+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24523,6 +24523,17 @@
       ],
       "published": "2026-10-23T13:30:14-04:00",
       "title": "President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-deals-to-unleash-american-energy-and-cut-gas-prices-at-the-pump/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-25T18:11:20.559500+00:00",
+      "paths": [
+        "Releases/2026/10/25/President_Trump_Secures_Major_Deals_to_Unleash_American_Energy_and_Cut_Gas_Prices_at_the_Pump.md"
+      ],
+      "published": "2026-10-25T10:56:24-04:00",
+      "title": "President Trump Secures Major Deals to Unleash American Energy and Cut Gas Prices at the Pump"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/": {
       "categories": [
