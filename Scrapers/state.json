@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-26T09:48:02.976331+00:00",
+  "last_successful_run": "2026-10-26T16:33:05.416454+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5258,6 +5258,17 @@
       ],
       "published": "2026-10-15T19:48:26-04:00",
       "title": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-26T16:33:04.250770+00:00",
+      "paths": [
+        "Briefings/2026/10/26/First_Lady_Melania_Trump_Announces_Halloween_at_the_White_House_2026.md"
+      ],
+      "published": "2026-10-26T08:47:15-04:00",
+      "title": "First Lady Melania Trump Announces Halloween at the White House 2026"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/": {
       "categories": [
