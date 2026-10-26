@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-26T16:33:07.706894+00:00",
+  "generatedAt": "2026-10-26T21:24:19.825824+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-26",
+      "id": "whitehouse:35f30fbb31925ac0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-26T21:24:15.320129+00:00"
+      },
+      "path": "Releases/2026/10/26/President_Trump_Puts_Mississippi_First_with_Historic_Tax_Cuts_Surging_Investment_and_Stronger_Communities.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-puts-mississippi-first-with-historic-tax-cuts-surging-investment-and-stronger-communities/",
+      "summary": "**Today, President Donald J. Trump returns to the Magnolia State to highlight a proven record of results that put Mississippi workers, families, seniors, farmers, and communities first.** Under the leadership of President Trump and Republicans, Mississippians are benefiting from ",
+      "title": "President Trump Puts Mississippi First with Historic Tax Cuts, Surging Investment, and Stronger Communities"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-26",
+      "id": "whitehouse:94ed136e86ab986d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-26T21:24:15.719886+00:00"
+      },
+      "path": "Releases/2026/10/26/From_Coast_to_Coast_President_Trump_Is_Putting_American_Industry_Back_on_the_Map.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
+      "summary": "**President Donald J. Trump is delivering an America First surge of manufacturing, energy, agriculture, semiconductor, shipbuilding, and national security investments that are bringing production home, expanding domestic capacity, and locking in American jobs.** These commitments",
+      "title": "From Coast to Coast, President Trump Is Putting American Industry Back on the Map"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-10-26",
