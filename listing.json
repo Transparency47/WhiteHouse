@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-28T11:01:02.495885+00:00",
+  "generatedAt": "2026-10-28T17:57:18.525207+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-28",
+      "id": "whitehouse:d22a3195167b7e16",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-28T17:57:14.034004+00:00"
+      },
+      "path": "Releases/2026/10/28/President_Trump_Returns_to_Ohio_With_a_Record_of_Results.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/",
+      "summary": "**Today, President Donald J. Trump returns to the Buckeye State to showcase a record of results that puts Ohio workers, families, seniors, farmers, and communities first.** Under the leadership of President Trump and Republicans, Ohioans are benefiting from historic tax relief, f",
+      "title": "President Trump Returns to Ohio With a Record of Results"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-28",
+      "id": "whitehouse:186a94e09e5a1cae",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-28T17:57:14.424980+00:00"
+      },
+      "path": "Releases/2026/10/28/President_Trump_Announces_Arrival_of_First_One_Million_Barrels_of_Oil_in_Texas_Thanks_to_Historic_Oil_Deal.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
+      "summary": "*\u201cThis historic win gives us control over a massive part of the world\u2019s oil supply.\u201d \u2013 President Donald J. Trump*",
+      "title": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal"
+    },
     {
       "category": "Releases",
       "date": "2026-10-27",

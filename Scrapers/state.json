@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-28T11:00:59.615974+00:00",
+  "last_successful_run": "2026-10-28T17:57:15.600947+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24491,6 +24491,17 @@
       "published": "2026-10-05T13:02:29-04:00",
       "title": "President Trump and Republicans Are Delivering Real Results for Nebraska"
     },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-28T17:57:14.424980+00:00",
+      "paths": [
+        "Releases/2026/10/28/President_Trump_Announces_Arrival_of_First_One_Million_Barrels_of_Oil_in_Texas_Thanks_to_Historic_Oil_Deal.md"
+      ],
+      "published": "2026-10-28T08:29:46-04:00",
+      "title": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal"
+    },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/": {
       "categories": [
         "Releases"
@@ -24556,6 +24567,17 @@
       ],
       "published": "2026-10-16T12:36:43-04:00",
       "title": "President Trump Returns to Georgia with a Record of Results"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-28T17:57:14.034004+00:00",
+      "paths": [
+        "Releases/2026/10/28/President_Trump_Returns_to_Ohio_With_a_Record_of_Results.md"
+      ],
+      "published": "2026-10-28T11:52:54-04:00",
+      "title": "President Trump Returns to Ohio With a Record of Results"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/": {
       "categories": [
