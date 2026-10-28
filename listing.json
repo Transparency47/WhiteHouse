@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-28T17:57:18.525207+00:00",
+  "generatedAt": "2026-10-28T22:25:35.645912+00:00",
   "records": [
+    {
+      "category": "Research",
+      "date": "2026-10-28",
+      "id": "whitehouse:82d91de791435a19",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-28T22:25:30.404131+00:00"
+      },
+      "path": "Research/2026/10/28/The_Economic_Benefits_of_Permitting_Reform.md",
+      "sourceUrl": "https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/",
+      "summary": "Economic Benefits of Permitting Reform",
+      "title": "The Economic Benefits of Permitting Reform"
+    },
     {
       "category": "Releases",
       "date": "2026-10-28",
@@ -26,6 +39,45 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
       "summary": "*\u201cThis historic win gives us control over a massive part of the world\u2019s oil supply.\u201d \u2013 President Donald J. Trump*",
       "title": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-28",
+      "id": "whitehouse:5c9ca0acf07f7826",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-28T22:25:29.158501+00:00"
+      },
+      "path": "Fact Sheets/2026/10/28/Fact_Sheet_President_Donald_J_Trump_Ended_the_Illegal_and_Discriminatory_Practices_of_Diversity_Equity_and_Inclusion.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-ended-the-illegal-and-discriminatory-practices-of-diversity-equity-and-inclusion/",
+      "summary": "**ENDING DIVERSITY, EQUITY, AND INCLUSION PRACTICES:** In 21 months back in office, President Donald J. Trump has removed wasteful and unmeritocratic DEI programs from government, education, and the private sector. President Trump promised it and delivered \u2013 DEI is dead.",
+      "title": "Fact Sheet: President Donald J. Trump Ended the Illegal and Discriminatory Practices of Diversity, Equity, and Inclusion"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-10-28",
+      "id": "whitehouse:31a2edfb6ca8d91f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-28T22:25:29.567852+00:00"
+      },
+      "path": "Fact Sheets/2026/10/28/Fact_Sheet_President_Donald_J_Trump_Adjusts_Imports_of_Robotics_Industrial_Machinery_and_their_Parts_and_Components_into_the_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
+      "summary": "**STRENGTHENING AMERICAN INDUSTRY:** Today, President Donald J. Trump signed a Proclamation pursuant to Section 232 of the Trade Expansion Act of 1962 (Section 232) to address the threatened impairment of national security with respect to imports of robotics, industrial machinery",
+      "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Robotics, Industrial Machinery, and their Parts and Components into the United States"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-10-28",
+      "id": "whitehouse:265321f6330865c5",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-28T22:25:29.980329+00:00"
+      },
+      "path": "Actions/Proclamations/2026/10/28/ADJUSTING_IMPORTS_OF_ROBOTICS_INDUSTRIAL_MACHINERY_AND_THEIR_PARTS_AND_COMPONENTS_INTO_THE_UNITED_STATES.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES"
     },
     {
       "category": "Releases",

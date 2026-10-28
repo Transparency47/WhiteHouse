@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-28T17:57:15.600947+00:00",
+  "last_successful_run": "2026-10-28T22:25:31.622611+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9472,6 +9472,17 @@
       "published": "2026-09-02T10:45:55-04:00",
       "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-28T22:25:29.567852+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/28/Fact_Sheet_President_Donald_J_Trump_Adjusts_Imports_of_Robotics_Industrial_Machinery_and_their_Parts_and_Components_into_the_United_States.md"
+      ],
+      "published": "2026-10-28T16:09:27-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Robotics, Industrial Machinery, and their Parts and Components into the United States"
+    },
     "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-and-first-lady-melania-trump-advance-womens-health-to-improve-outcomes-in-all-phases-of-life/": {
       "categories": [
         "Fact Sheets"
@@ -9515,6 +9526,17 @@
       ],
       "published": "2026-10-22T15:25:44-04:00",
       "title": "Fact Sheet: President Donald J. Trump Decreases Housing Costs for Americans"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-ended-the-illegal-and-discriminatory-practices-of-diversity-equity-and-inclusion/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-10-28T22:25:29.158501+00:00",
+      "paths": [
+        "Fact Sheets/2026/10/28/Fact_Sheet_President_Donald_J_Trump_Ended_the_Illegal_and_Discriminatory_Practices_of_Diversity_Equity_and_Inclusion.md"
+      ],
+      "published": "2026-10-28T17:05:10-04:00",
+      "title": "Fact Sheet: President Donald J. Trump Ended the Illegal and Discriminatory Practices of Diversity, Equity, and Inclusion"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/": {
       "categories": [
@@ -17108,6 +17130,18 @@
       ],
       "published": "2026-09-17T11:48:13-04:00",
       "title": "Withdrawals Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-10-28T22:25:29.980329+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/10/28/ADJUSTING_IMPORTS_OF_ROBOTICS_INDUSTRIAL_MACHINERY_AND_THEIR_PARTS_AND_COMPONENTS_INTO_THE_UNITED_STATES.md"
+      ],
+      "published": "2026-10-28T16:03:48-04:00",
+      "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states/": {
       "categories": [
@@ -25007,6 +25041,17 @@
       ],
       "published": "2026-10-01T18:25:31-04:00",
       "title": "The Real Cost of Socialism in America"
+    },
+    "https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/": {
+      "categories": [
+        "Research"
+      ],
+      "last_accessed": "2026-10-28T22:25:30.404131+00:00",
+      "paths": [
+        "Research/2026/10/28/The_Economic_Benefits_of_Permitting_Reform.md"
+      ],
+      "published": "2026-10-28T14:46:24-04:00",
+      "title": "The Economic Benefits of Permitting Reform"
     },
     "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/": {
       "categories": [

@@ -1,0 +1,11 @@
+# Metadata
+
+## ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES
+
+- URL: https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/
+- Title: ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES
+- Category: Proclamations
+- Date published: 2026-10-28T16:03:48-04:00
+- Date accessed: 2026-10-28T22:25:29.980329+00:00
+- Markdown filename: ADJUSTING_IMPORTS_OF_ROBOTICS_INDUSTRIAL_MACHINERY_AND_THEIR_PARTS_AND_COMPONENTS_INTO_THE_UNITED_STATES.md
+
