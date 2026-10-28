@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-27T23:32:42.007213+00:00",
+  "last_successful_run": "2026-10-28T04:22:45.558758+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24468,6 +24468,17 @@
       ],
       "published": "2026-10-01T18:22:29-04:00",
       "title": "New Report: DSA Policies Would Cost Americans Trillions"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/new-survey-president-trump-delivers-historic-drop-in-violent-crime/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-28T04:22:44.313700+00:00",
+      "paths": [
+        "Releases/2026/10/27/NEW_SURVEY_President_Trump_Delivers_Historic_Drop_in_Violent_Crime.md"
+      ],
+      "published": "2026-10-27T21:04:12-04:00",
+      "title": "NEW SURVEY: President Trump Delivers Historic Drop in Violent Crime"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/": {
       "categories": [

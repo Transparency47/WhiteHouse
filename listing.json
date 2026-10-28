@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-27T23:32:44.948750+00:00",
+  "generatedAt": "2026-10-28T04:22:49.624178+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-27",
+      "id": "whitehouse:e2916a7be3062eea",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-28T04:22:44.313700+00:00"
+      },
+      "path": "Releases/2026/10/27/NEW_SURVEY_President_Trump_Delivers_Historic_Drop_in_Violent_Crime.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/new-survey-president-trump-delivers-historic-drop-in-violent-crime/",
+      "summary": "President Donald J. Trump is delivering on his promise to restore law and order. According to the [DOJ\u2019s National Crime Victimization Survey](https://us.list-manage.com/TA2FtW6Kzcq?e=e070a83827&c2id=b10bf9502296de100c94915c3befd22c), violent crime PLUMMETED in 2025 under Presiden",
+      "title": "NEW SURVEY: President Trump Delivers Historic Drop in Violent Crime"
+    },
     {
       "category": "Releases",
       "date": "2026-10-26",
