@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-10-29T09:28:25.123842+00:00",
+  "generatedAt": "2026-10-29T16:39:23.735586+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-29",
+      "id": "whitehouse:f8aeea2daa9f3ff2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-29T16:39:18.521727+00:00"
+      },
+      "path": "Releases/2026/10/29/President_Trump_Unleashes_the_American_Economy_GDP_Surges_as_Investment_Hits_Multi_Year_High.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/",
+      "summary": "**The U.S. economy** [**grew**](https://x.com/RapidResponse47/status/2115803576920637441) **at a strong annual rate of 3.4% in the third quarter of 2026 \u2014 the strongest pace in a year.** President Donald J. Trump\u2019s America First agenda is delivering as promised: faster growth, hi",
+      "title": "President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-29",
+      "id": "whitehouse:072f90b08ce66094",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-29T16:39:19.334893+00:00"
+      },
+      "path": "Releases/2026/10/29/President_Trump_Put_Money_Back_in_Your_PocketsRadical_Democrats_Want_It_Back_and_More.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/",
+      "summary": "In less than two years, President Donald J. Trump delivered the largest working-class tax cuts for American families, the largest decrease in prescription drug prices for Americans in nearly 70 years, reached record-high real median household income, created over one million priv",
+      "title": "President Trump Put Money Back in Your Pockets\u2014Radical Democrats Want It Back and More"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-10-29",
+      "id": "whitehouse:459e934369d272ff",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-29T16:39:18.929695+00:00"
+      },
+      "path": "Releases/2026/10/29/Memorandum_of_Understanding_Between_The_Government_of_the_United_States_of_America_and_the_Government_of_Finland_Regarding_the_Technology_Prosperity_Deal.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/memorandum-of-understanding-between-the-government-of-the-united-states-of-america-and-the-government-of-finland-regarding-the-technology-prosperity-deal/",
+      "summary": "The Government of the United States of America and the Government of Finland (hereinafter referred to as the \u201cParticipants\u201d),",
+      "title": "Memorandum of Understanding Between The Government of the United States of America and the Government of Finland Regarding the Technology Prosperity Deal"
+    },
     {
       "category": "Research",
       "date": "2026-10-28",

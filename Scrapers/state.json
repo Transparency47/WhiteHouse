@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-29T09:28:21.072833+00:00",
+  "last_successful_run": "2026-10-29T16:39:21.014412+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24470,6 +24470,17 @@
       "published": "2026-10-07T12:38:18-04:00",
       "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump\u2019s Texas Record"
     },
+    "https://www.whitehouse.gov/releases/2026/10/memorandum-of-understanding-between-the-government-of-the-united-states-of-america-and-the-government-of-finland-regarding-the-technology-prosperity-deal/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-29T16:39:18.929695+00:00",
+      "paths": [
+        "Releases/2026/10/29/Memorandum_of_Understanding_Between_The_Government_of_the_United_States_of_America_and_the_Government_of_Finland_Regarding_the_Technology_Prosperity_Deal.md"
+      ],
+      "published": "2026-10-29T10:28:02-04:00",
+      "title": "Memorandum of Understanding Between The Government of the United States of America and the Government of Finland Regarding the Technology Prosperity Deal"
+    },
     "https://www.whitehouse.gov/releases/2026/10/nearly-two-years-in-president-trump-is-still-stacking-historic-wins-at-record-speed/": {
       "categories": [
         "Releases"
@@ -24569,6 +24580,17 @@
       "published": "2026-10-08T14:32:51-04:00",
       "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation"
     },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-29T16:39:19.334893+00:00",
+      "paths": [
+        "Releases/2026/10/29/President_Trump_Put_Money_Back_in_Your_PocketsRadical_Democrats_Want_It_Back_and_More.md"
+      ],
+      "published": "2026-10-29T08:14:00-04:00",
+      "title": "President Trump Put Money Back in Your Pockets\u2014Radical Democrats Want It Back and More"
+    },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-puts-mississippi-first-with-historic-tax-cuts-surging-investment-and-stronger-communities/": {
       "categories": [
         "Releases"
@@ -24656,6 +24678,17 @@
       ],
       "published": "2026-10-05T20:20:07-04:00",
       "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-29T16:39:18.521727+00:00",
+      "paths": [
+        "Releases/2026/10/29/President_Trump_Unleashes_the_American_Economy_GDP_Surges_as_Investment_Hits_Multi_Year_High.md"
+      ],
+      "published": "2026-10-29T12:27:20-04:00",
+      "title": "President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High"
     },
     "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/": {
       "categories": [
