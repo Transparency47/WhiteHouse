@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-30T20:27:29.285688+00:00",
+  "last_successful_run": "2026-10-31T00:27:34.252181+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24744,6 +24744,17 @@
       ],
       "published": "2026-10-06T12:22:32-04:00",
       "title": "WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel Relief, Saving Americans Up to $100 Per Fill"
+    },
+    "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-puts-americas-fishermen-first-and-secures-american-seafood-dominance/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-10-31T00:27:33.024785+00:00",
+      "paths": [
+        "Releases/2026/10/30/WHAT_THEY_ARE_SAYING_President_Trump_Puts_Americas_Fishermen_First_and_Secures_American_Seafood_Dominance.md"
+      ],
+      "published": "2026-10-30T16:28:51-04:00",
+      "title": "WHAT THEY ARE SAYING: President Trump Puts America\u2019s Fishermen First and Secures American Seafood Dominance"
     },
     "https://www.whitehouse.gov/releases/2026/10/white-house-press-release-white-house-appoints-2026-2027-class-of-white-house-fellows/": {
       "categories": [

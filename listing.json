@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-30T20:27:33.322839+00:00",
+  "generatedAt": "2026-10-31T00:27:38.443117+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-10-30",
+      "id": "whitehouse:c5bc6b5837989d4e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-31T00:27:33.024785+00:00"
+      },
+      "path": "Releases/2026/10/30/WHAT_THEY_ARE_SAYING_President_Trump_Puts_Americas_Fishermen_First_and_Secures_American_Seafood_Dominance.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-puts-americas-fishermen-first-and-secures-american-seafood-dominance/",
+      "summary": "President Trump has delivered historic wins for America\u2019s fishing industry by putting American fishermen first, unlocking billions of dollars in economic growth, revitalizing the industry, and providing critical regulatory relief.",
+      "title": "WHAT THEY ARE SAYING: President Trump Puts America\u2019s Fishermen First and Secures American Seafood Dominance"
+    },
     {
       "category": "Releases",
       "date": "2026-10-29",
