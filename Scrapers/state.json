@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-10-31T06:41:24.047495+00:00",
+  "last_successful_run": "2026-10-31T13:21:51.948592+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5423,6 +5423,17 @@
       ],
       "published": "2026-10-19T22:02:45-04:00",
       "title": "Presidential Message on National Forest Products Week"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-10-31T13:21:50.730564+00:00",
+      "paths": [
+        "Briefings/2026/10/31/Presidential_Message_on_Reformation_Day.md"
+      ],
+      "published": "2026-10-31T09:00:00-04:00",
+      "title": "Presidential Message on Reformation Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/": {
       "categories": [

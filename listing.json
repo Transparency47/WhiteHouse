@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-31T06:41:28.284945+00:00",
+  "generatedAt": "2026-10-31T13:21:53.920575+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-10-31",
+      "id": "whitehouse:9714ffbd425aba26",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-10-31T13:21:50.730564+00:00"
+      },
+      "path": "Briefings/2026/10/31/Presidential_Message_on_Reformation_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/",
+      "summary": "From the earliest days of our Republic, prayer and faith in Almighty God have stood as the foundation of our strength, the source of our unity, and the fount of our greatness. This Reformation Day, I send my best wishes to the countless Christians across our country commemorating",
+      "title": "Presidential Message on Reformation Day"
+    },
     {
       "category": "Releases",
       "date": "2026-10-30",
