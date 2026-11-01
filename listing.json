@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-01T08:48:56.579513+00:00",
+  "generatedAt": "2026-11-01T15:49:29.325071+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-01",
+      "id": "whitehouse:5d5707a33cf9138e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-01T15:49:24.722256+00:00"
+      },
+      "path": "Briefings/2026/11/01/Presidential_Message_on_All_Saints_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/",
+      "summary": "On All Saints\u2019 Day, I join Christians across our Nation in honoring the men and women through the centuries whose extraordinary lives of faithfulness reveal the great goodness and love to which human beings can aspire.",
+      "title": "Presidential Message on All Saints\u2019 Day"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-10-31",

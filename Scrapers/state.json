@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-01T08:48:52.510202+00:00",
+  "last_successful_run": "2026-11-01T15:49:26.317570+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5467,6 +5467,17 @@
       ],
       "published": "2026-10-23T08:22:50-04:00",
       "title": "Presidential Message on the World Series"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-01T15:49:24.722256+00:00",
+      "paths": [
+        "Briefings/2026/11/01/Presidential_Message_on_All_Saints_Day.md"
+      ],
+      "published": "2026-11-01T10:24:46-05:00",
+      "title": "Presidential Message on All Saints\u2019 Day"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
