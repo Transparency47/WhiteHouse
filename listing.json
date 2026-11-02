@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-02T07:19:18.556311+00:00",
+  "generatedAt": "2026-11-02T17:53:39.328292+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-02",
+      "id": "whitehouse:e18386c11a729f2e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-02T17:53:35.182460+00:00"
+      },
+      "path": "Releases/2026/11/02/President_Trumps_Second_Term_Promises_Made_Promises_Kept_Results_Delivered.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/",
+      "summary": "**President Donald J. Trump has executed the most sweeping restoration of American sovereignty, strength, and prosperity in modern history.** With ferocious speed and resolve, President Trump has reversed decades of decline, kept more promises than any modern President, and deliv",
+      "title": "President Trump\u2019s Second Term: Promises Made, Promises Kept, Results Delivered"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-01",
