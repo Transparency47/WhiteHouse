@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-03T15:52:45.331307+00:00",
+  "last_successful_run": "2026-11-03T21:32:01.375689+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24810,6 +24810,17 @@
       ],
       "published": "2026-11-02T17:03:21-05:00",
       "title": "President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-03T21:32:00.186292+00:00",
+      "paths": [
+        "Releases/2026/11/03/President_Trump_Is_Powering_an_American_Manufacturing_Renaissance.md"
+      ],
+      "published": "2026-11-03T13:49:00-05:00",
+      "title": "President Trump Is Powering an American Manufacturing Renaissance"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/": {
       "categories": [
