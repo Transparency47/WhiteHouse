@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T17:53:39.328292+00:00",
+  "generatedAt": "2026-11-03T00:37:21.933460+00:00",
   "records": [
     {
       "category": "Releases",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/",
       "summary": "**President Donald J. Trump has executed the most sweeping restoration of American sovereignty, strength, and prosperity in modern history.** With ferocious speed and resolve, President Trump has reversed decades of decline, kept more promises than any modern President, and deliv",
       "title": "President Trump\u2019s Second Term: Promises Made, Promises Kept, Results Delivered"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-02",
+      "id": "whitehouse:691eb124b0babf88",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-03T00:37:16.606107+00:00"
+      },
+      "path": "Releases/2026/11/02/President_Trump_Completes_Historic_Travel_Blitz_30_Events_20_States_32_Days.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/",
+      "summary": "**President Donald J. Trump has just completed one of the most relentless, far-reaching** [**travel schedules**](https://www.foxnews.com/politics/trump-takes-midterm-campaign-blitz-historic-stage-grand-finale-before-election-day) **of any modern presidency: 20 states in 32 days, ",
+      "title": "President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days"
     },
     {
       "category": "Briefings & Statements",
