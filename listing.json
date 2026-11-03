@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-03T07:38:10.599759+00:00",
+  "generatedAt": "2026-11-03T15:52:49.249112+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-03",
+      "id": "whitehouse:508b63fc8c729639",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-03T15:52:44.095698+00:00"
+      },
+      "path": "Briefings/2026/11/03/First_Lady_Melania_Trump_to_Convene_Russian_and_Ukrainian_Representatives_at_the_White_House.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
+      "summary": "First Lady Melania Trump will personally bring representatives of Russia and Ukraine, two nations actively at war, together at the White House. This event represents an extraordinary moment in American history.",
+      "title": "First Lady Melania Trump to Convene Russian and Ukrainian Representatives at the White House"
+    },
     {
       "category": "Releases",
       "date": "2026-11-02",
