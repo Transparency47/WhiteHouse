@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-04T16:53:22.873696+00:00",
+  "last_successful_run": "2026-11-04T22:26:57.935674+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5478,6 +5478,17 @@
       ],
       "published": "2026-11-03T16:49:08-05:00",
       "title": "Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-04T22:26:56.321528+00:00",
+      "paths": [
+        "Briefings/2026/11/04/First_Lady_Melania_Trump_and_LSU_Establish_5_Million_Fostering_the_Future_Endowment_Fund.md"
+      ],
+      "published": "2026-11-04T15:48:41-05:00",
+      "title": "First Lady Melania Trump and LSU Establish $5 Million Fostering the Future Endowment Fund"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/": {
       "categories": [

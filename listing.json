@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-04T16:53:25.969182+00:00",
+  "generatedAt": "2026-11-04T22:27:02.127337+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-04",
+      "id": "whitehouse:4dcec98a213f02b6",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-04T22:26:56.321528+00:00"
+      },
+      "path": "Briefings/2026/11/04/First_Lady_Melania_Trump_and_LSU_Establish_5_Million_Fostering_the_Future_Endowment_Fund.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
+      "summary": "*Historic Donation Creates Permanent Scholarships for LSU Students from Foster Care*",
+      "title": "First Lady Melania Trump and LSU Establish $5 Million Fostering the Future Endowment Fund"
+    },
     {
       "category": "Proclamations",
       "date": "2026-11-03",
