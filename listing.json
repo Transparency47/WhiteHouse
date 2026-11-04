@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-03T21:32:05.264107+00:00",
+  "generatedAt": "2026-11-04T01:56:06.712715+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-11-03",
+      "id": "whitehouse:69f3c23963b2534b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-04T01:56:02.043196+00:00"
+      },
+      "path": "Actions/Proclamations/2026/11/03/THE_AMERICAN_DECLARATION_OF_FREEDOM_IN_SPACE.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE"
+    },
     {
       "category": "Releases",
       "date": "2026-11-03",
@@ -15,6 +28,32 @@
       "title": "President Trump Is Powering an American Manufacturing Renaissance"
     },
     {
+      "category": "Releases",
+      "date": "2026-11-03",
+      "id": "whitehouse:7d80b78d2ea258c8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-04T01:56:03.200072+00:00"
+      },
+      "path": "Releases/2026/11/03/ICYMI_Relentless_Travel_Schedule_Puts_Trump_Administrations_Results_Front_and_Center.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/icymi-relentless-travel-schedule-puts-trump-administrations-results-front-and-center/",
+      "summary": "Over the past month, President Donald J. Trump and Vice President JD Vance maintained an unmatched pace of [travel](https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/) across the country, meeting with Americans",
+      "title": "ICYMI: Relentless Travel Schedule Puts Trump Administration\u2019s Results Front and Center"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-03",
+      "id": "whitehouse:8fbbb5e439c3168e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-04T01:56:02.804787+00:00"
+      },
+      "path": "Releases/2026/11/03/ICYMI_Drug_Prices_Are_Falling_at_the_Fastest_Rate_in_Over_60_Years_Under_President_Trump.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/icymi-drug-prices-are-falling-at-the-fastest-rate-in-over-60-years-under-president-trump/",
+      "summary": "**Prescription drug prices are plummeting for the first time in decades under the leadership of President Donald J. Trump \u2014 delivering real, measurable relief to millions of Americans.** In *City Journal*, Dr. Joel Zinberg [explains](https://www.city-journal.org/article/prescript",
+      "title": "ICYMI: Drug Prices Are Falling at the Fastest Rate in Over 60 Years Under President Trump"
+    },
+    {
       "category": "Briefings & Statements",
       "date": "2026-11-03",
       "id": "whitehouse:508b63fc8c729639",
@@ -26,6 +65,32 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
       "summary": "First Lady Melania Trump will personally bring representatives of Russia and Ukraine, two nations actively at war, together at the White House. This event represents an extraordinary moment in American history.",
       "title": "First Lady Melania Trump to Convene Russian and Ukrainian Representatives at the White House"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-03",
+      "id": "whitehouse:e15dbc021b1b9c91",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-04T01:56:02.423329+00:00"
+      },
+      "path": "Briefings/2026/11/03/Congressional_Bills_H_R_1744_and_H_R_8205_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/",
+      "summary": "On Tuesday, November 3, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-11-03",
+      "id": "whitehouse:a411852431c0bfee",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-04T01:56:01.661603+00:00"
+      },
+      "path": "Actions/Proclamations/2026/11/03/ANTI_COMMUNISM_WEEK_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "ANTI-COMMUNISM WEEK, 2026"
     },
     {
       "category": "Releases",
