@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-05T11:55:05.759800+00:00",
+  "last_successful_run": "2026-11-05T19:35:54.404394+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5500,6 +5500,17 @@
       ],
       "published": "2026-11-03T07:32:47-05:00",
       "title": "First Lady Melania Trump to Convene Russian and Ukrainian Representatives at the White House"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-05T19:35:53.193423+00:00",
+      "paths": [
+        "Briefings/2026/11/05/First_Lady_Melania_Trump_Unites_Russia_and_Ukraine_at_The_White_House_Following_Historic_Ceasefire.md"
+      ],
+      "published": "2026-11-05T11:31:07-05:00",
+      "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/": {
       "categories": [

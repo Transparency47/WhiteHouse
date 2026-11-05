@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-05T11:55:07.786326+00:00",
+  "generatedAt": "2026-11-05T19:35:58.538398+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-05",
+      "id": "whitehouse:de2d87a438c77398",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-05T19:35:53.193423+00:00"
+      },
+      "path": "Briefings/2026/11/05/First_Lady_Melania_Trump_Unites_Russia_and_Ukraine_at_The_White_House_Following_Historic_Ceasefire.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+      "summary": "First Lady Melania Trump gathered leaders from Russia and Ukraine at the White House today. The occasion is believed to mark the first time in American history that a First Lady has personally brought representatives of two nations actively at war together to the White House for ",
+      "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire"
+    },
     {
       "category": "Releases",
       "date": "2026-11-04",
