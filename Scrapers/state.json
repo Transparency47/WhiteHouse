@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-04T22:26:57.935674+00:00",
+  "last_successful_run": "2026-11-05T03:13:56.543991+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24889,6 +24889,17 @@
       ],
       "published": "2026-11-03T13:49:00-05:00",
       "title": "President Trump Is Powering an American Manufacturing Renaissance"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/president-trump-will-again-defy-the-odds-the-fake-news-and-the-radical-left/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-05T03:13:55.316452+00:00",
+      "paths": [
+        "Releases/2026/11/04/President_Trump_Will_Again_Defy_the_Odds_the_Fake_News_and_the_Radical_Left.md"
+      ],
+      "published": "2026-11-04T17:39:03-05:00",
+      "title": "President Trump Will Again Defy the Odds, the Fake News, and the Radical Left"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/": {
       "categories": [
