@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-11-06T15:42:26.513329+00:00",
+  "generatedAt": "2026-11-06T21:18:49.677506+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-06",
+      "id": "whitehouse:42c149d785888272",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-06T21:18:44.676187+00:00"
+      },
+      "path": "Releases/2026/11/06/What_They_Are_Saying_Blowout_October_Jobs_Report_Smashes_Expectations.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
+      "summary": "**President Donald J. Trump has long said that America is the hottest country in the world \u2014 and today\u2019s** [**blockbuster jobs report**](https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/) **delive",
+      "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-06",
+      "id": "whitehouse:9b27ae9bb1c986e0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-06T21:18:45.092756+00:00"
+      },
+      "path": "Releases/2026/11/06/President_Trump_Was_Right_Tariffs_and_Tax_Cuts_Are_Reshoring_Manufacturing_Creating_Jobs.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
+      "summary": "**The October [jobs report](https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html) crushed expectations, confirming that President Trump\u2019s America First agenda is delivering a manufacturing renaissance.** Tariffs and tax cuts are bringing production home, strengthening su",
+      "title": "President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-05",
