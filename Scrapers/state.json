@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-05T19:35:54.404394+00:00",
+  "last_successful_run": "2026-11-06T00:49:01.446088+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9637,6 +9637,17 @@
       "published": "2026-10-08T11:05:06-04:00",
       "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century"
     },
+    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-11-06T00:48:59.883818+00:00",
+      "paths": [
+        "Fact Sheets/2026/11/05/Fact_Sheet_President_Donald_J_Trump_Establishes_the_Oval_Office_as_a_National_Monument.md"
+      ],
+      "published": "2026-11-05T17:53:44-05:00",
+      "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument"
+    },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
         "Presidential Actions"
@@ -17364,6 +17375,18 @@
       ],
       "published": "2026-11-03T17:32:29-05:00",
       "title": "ANTI-COMMUNISM WEEK, 2026"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-11-06T00:49:00.281392+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/11/05/ESTABLISHMENT_OF_THE_OVAL_OFFICE_NATIONAL_MONUMENT.md"
+      ],
+      "published": "2026-11-05T17:51:56-05:00",
+      "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/": {
       "categories": [

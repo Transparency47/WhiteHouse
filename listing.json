@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:35:58.538398+00:00",
+  "generatedAt": "2026-11-06T00:49:03.422214+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,32 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
       "summary": "First Lady Melania Trump gathered leaders from Russia and Ukraine at the White House today. The occasion is believed to mark the first time in American history that a First Lady has personally brought representatives of two nations actively at war together to the White House for ",
       "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-11-05",
+      "id": "whitehouse:b9d0676fd9f77063",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-06T00:48:59.883818+00:00"
+      },
+      "path": "Fact Sheets/2026/11/05/Fact_Sheet_President_Donald_J_Trump_Establishes_the_Oval_Office_as_a_National_Monument.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
+      "summary": "**ESTABLISHING THE OVAL OFFICE NATIONAL MONUMENT:** Today, President Donald J. Trump signed a Proclamation establishing the Oval Office as a National Monument to ensure its preservation, proper care, and management.",
+      "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-11-05",
+      "id": "whitehouse:ba5d11e24a1c9d1a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-06T00:49:00.281392+00:00"
+      },
+      "path": "Actions/Proclamations/2026/11/05/ESTABLISHMENT_OF_THE_OVAL_OFFICE_NATIONAL_MONUMENT.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT"
     },
     {
       "category": "Releases",
