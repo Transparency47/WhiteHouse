@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-06T21:18:46.301110+00:00",
+  "last_successful_run": "2026-11-07T01:39:40.369308+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -24923,6 +24923,17 @@
       ],
       "published": "2026-11-03T13:49:00-05:00",
       "title": "President Trump Is Powering an American Manufacturing Renaissance"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-07T01:39:39.131373+00:00",
+      "paths": [
+        "Releases/2026/11/06/President_Trump_Names_Stephen_Miller_as_33rd_White_House_Chief_of_Staff.md"
+      ],
+      "published": "2026-11-06T16:56:55-05:00",
+      "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/": {
       "categories": [

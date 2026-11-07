@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:18:49.677506+00:00",
+  "generatedAt": "2026-11-07T01:39:44.566501+00:00",
   "records": [
     {
       "category": "Releases",
@@ -26,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
       "summary": "**The October [jobs report](https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html) crushed expectations, confirming that President Trump\u2019s America First agenda is delivering a manufacturing renaissance.** Tariffs and tax cuts are bringing production home, strengthening su",
       "title": "President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-06",
+      "id": "whitehouse:83c415b882a30958",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-07T01:39:39.131373+00:00"
+      },
+      "path": "Releases/2026/11/06/President_Trump_Names_Stephen_Miller_as_33rd_White_House_Chief_of_Staff.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+      "summary": "**Today, President Donald J. Trump** [**announced**](https://x.com/RapidResponse47/status/2118778661243634138) **the appointment of Stephen Miller as the 33rd White House Chief of Staff, succeeding Susie Wiles after her highly successful tenure.** Miller has served alongside Pres",
+      "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff"
     },
     {
       "category": "Briefings & Statements",
