@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-08T17:41:01.860557+00:00",
+  "last_successful_run": "2026-11-08T21:45:07.567155+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5533,6 +5533,28 @@
       ],
       "published": "2026-11-01T10:24:46-05:00",
       "title": "Presidential Message on All Saints\u2019 Day"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-08T21:45:05.916039+00:00",
+      "paths": [
+        "Briefings/2026/11/08/Presidential_Message_on_Diwali.md"
+      ],
+      "published": "2026-11-08T12:47:27-05:00",
+      "title": "Presidential Message on Diwali"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-08T21:45:06.325312+00:00",
+      "paths": [
+        "Briefings/2026/11/07/Presidential_Message_on_Honoring_the_American_Flag.md"
+      ],
+      "published": "2026-11-07T17:00:00-05:00",
+      "title": "Presidential Message on Honoring the American Flag"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
@@ -24890,6 +24912,17 @@
       ],
       "published": "2026-10-20T17:30:00-04:00",
       "title": "White House Appoints 2026-2027 Class of White House Fellows"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-08T21:45:05.505826+00:00",
+      "paths": [
+        "Releases/2026/11/08/ICYMI_AG_Todd_Blanche_Dismantles_Democrats_Oversight_Charade_on_the_Sunday_Shows.md"
+      ],
+      "published": "2026-11-08T14:10:42-05:00",
+      "title": "ICYMI: AG Todd Blanche Dismantles Democrats\u2019 \u201cOversight\u201d Charade on the Sunday Shows"
     },
     "https://www.whitehouse.gov/releases/2026/11/icymi-drug-prices-are-falling-at-the-fastest-rate-in-over-60-years-under-president-trump/": {
       "categories": [

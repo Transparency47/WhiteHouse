@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-11-08T17:41:04.827098+00:00",
+  "generatedAt": "2026-11-08T21:45:11.680823+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-08",
+      "id": "whitehouse:fbd4af6b4a38cd2f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-08T21:45:05.916039+00:00"
+      },
+      "path": "Briefings/2026/11/08/Presidential_Message_on_Diwali.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/",
+      "summary": "Today, I send my warmest greetings to Americans across our great Nation celebrating Diwali\u2014the Festival of Lights.",
+      "title": "Presidential Message on Diwali"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-08",
+      "id": "whitehouse:7b24044b807abbc8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-08T21:45:05.505826+00:00"
+      },
+      "path": "Releases/2026/11/08/ICYMI_AG_Todd_Blanche_Dismantles_Democrats_Oversight_Charade_on_the_Sunday_Shows.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/",
+      "summary": "This morning, Attorney General Todd Blanche appeared on the Sunday shows and made clear that the Department of Justice will fulfill its Constitutional duty to represent the Executive Branch \u2014 and that Democrats\u2019 explicit threats of endless investigations, impeachments, and retrib",
+      "title": "ICYMI: AG Todd Blanche Dismantles Democrats\u2019 \u201cOversight\u201d Charade on the Sunday Shows"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-07",
+      "id": "whitehouse:6ecefb256330b87a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-08T21:45:06.325312+00:00"
+      },
+      "path": "Briefings/2026/11/07/Presidential_Message_on_Honoring_the_American_Flag.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/",
+      "summary": "For nearly two and a half centuries, the American Flag has stood as the most iconic and magnificent symbol of freedom, liberty, and justice that the world has ever known. Today, we recommit ourselves to honoring our beloved Stars and Stripes by ensuring it is always treated with ",
+      "title": "Presidential Message on Honoring the American Flag"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-07",
