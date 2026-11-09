@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-11-09T09:14:54.071920+00:00",
+  "generatedAt": "2026-11-09T20:27:57.089116+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-09",
+      "id": "whitehouse:21bf992a871f44f4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-09T20:27:51.317484+00:00"
+      },
+      "path": "Briefings/2026/11/09/Presidential_Message_on_National_American_History_and_Founders_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/",
+      "summary": "The story of America is the greatest story of freedom in all of human history. During National American History and Founders Month, we honor the legendary patriots whose vision gave birth to our Republic; we celebrate the magnificent heritage they entrusted to us; and we pledge t",
+      "title": "Presidential Message on National American History and Founders Month"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-09",
+      "id": "whitehouse:35ace412718c925a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-09T20:27:51.739862+00:00"
+      },
+      "path": "Releases/2026/11/09/ICYMI_President_Trump_on_60_Minutes_We_Have_Historically_Good_Numbers.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/",
+      "summary": "**Last night, President Donald J. Trump sat down with *60 Minutes* following the midterm elections and made a powerful case for his America First record.** President Trump highlighted the booming Trump economy \u2014 165,000 new jobs in October, record 401(k) balances, and hundreds of",
+      "title": "ICYMI: President Trump on 60 Minutes: \u201cWe Have Historically Good Numbers\u201d"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-08",

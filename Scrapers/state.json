@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-09T09:14:50.822301+00:00",
+  "last_successful_run": "2026-11-09T20:27:52.955518+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5555,6 +5555,17 @@
       ],
       "published": "2026-11-07T17:00:00-05:00",
       "title": "Presidential Message on Honoring the American Flag"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-09T20:27:51.317484+00:00",
+      "paths": [
+        "Briefings/2026/11/09/Presidential_Message_on_National_American_History_and_Founders_Month.md"
+      ],
+      "published": "2026-11-09T14:14:35-05:00",
+      "title": "Presidential Message on National American History and Founders Month"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
@@ -24934,6 +24945,17 @@
       ],
       "published": "2026-11-03T16:34:30-05:00",
       "title": "ICYMI: Drug Prices Are Falling at the Fastest Rate in Over 60 Years Under President Trump"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-09T20:27:51.739862+00:00",
+      "paths": [
+        "Releases/2026/11/09/ICYMI_President_Trump_on_60_Minutes_We_Have_Historically_Good_Numbers.md"
+      ],
+      "published": "2026-11-09T14:03:35-05:00",
+      "title": "ICYMI: President Trump on 60 Minutes: \u201cWe Have Historically Good Numbers\u201d"
     },
     "https://www.whitehouse.gov/releases/2026/11/icymi-relentless-travel-schedule-puts-trump-administrations-results-front-and-center/": {
       "categories": [
