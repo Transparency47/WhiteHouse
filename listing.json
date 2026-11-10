@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:27:57.089116+00:00",
+  "generatedAt": "2026-11-10T03:13:29.930172+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/",
       "summary": "The story of America is the greatest story of freedom in all of human history. During National American History and Founders Month, we honor the legendary patriots whose vision gave birth to our Republic; we celebrate the magnificent heritage they entrusted to us; and we pledge t",
       "title": "Presidential Message on National American History and Founders Month"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-11-09",
+      "id": "whitehouse:4868e048167cf1da",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-10T03:13:25.802550+00:00"
+      },
+      "path": "Actions/Nominations/2026/11/09/Nominations_and_Withdrawals_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations and Withdrawals Sent to the Senate"
     },
     {
       "category": "Releases",

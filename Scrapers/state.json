@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-09T20:27:52.955518+00:00",
+  "last_successful_run": "2026-11-10T03:13:26.997817+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -17431,6 +17431,18 @@
       ],
       "published": "2026-11-05T17:51:56-05:00",
       "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-11-10T03:13:25.802550+00:00",
+      "paths": [
+        "Actions/Nominations/2026/11/09/Nominations_and_Withdrawals_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-11-09T17:53:29-05:00",
+      "title": "Nominations and Withdrawals Sent to the Senate"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/": {
       "categories": [
