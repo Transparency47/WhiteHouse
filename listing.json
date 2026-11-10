@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-11-10T12:11:51.467044+00:00",
+  "generatedAt": "2026-11-10T20:16:11.165388+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-10",
+      "id": "whitehouse:06aa010d71e1ebed",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-10T20:16:05.556449+00:00"
+      },
+      "path": "Releases/2026/11/10/Secretary_Hegseth_Torches_Baseless_Impeachment_Stunt_This_Is_Not_Patriotism_This_Is_Sabotage.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/",
+      "summary": "**This morning, Secretary of War Pete Hegseth systematically [dismantled](https://x.com/RapidResponse47/status/2120186014568272071) the desperate, ego-driven impeachment hoax by a disgruntled and defeated Congressman.** Secretary Hegseth made clear that every operation targeted i",
+      "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-10",
+      "id": "whitehouse:095035d50c0e59c7",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-10T20:16:05.955944+00:00"
+      },
+      "path": "Briefings/2026/11/10/First_Lady_Melania_Trumps_Fostering_the_Future_Together_Grows_Its_International_Momentum_Across_the_United_States_Asia_Europe_and_the_Caribbean.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/",
+      "summary": "First Lady Melania Trump\u2019s Fostering the Future Together is accelerating its global mission with four major international gatherings before the end of 2026. The member nation leaders are mobilizing to empower children through technology and education.",
+      "title": "First Lady Melania Trump\u2019s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-09",

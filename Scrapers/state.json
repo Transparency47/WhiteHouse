@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-10T12:11:47.589313+00:00",
+  "last_successful_run": "2026-11-10T20:16:07.157960+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5522,6 +5522,17 @@
       ],
       "published": "2026-11-05T11:31:07-05:00",
       "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-10T20:16:05.955944+00:00",
+      "paths": [
+        "Briefings/2026/11/10/First_Lady_Melania_Trumps_Fostering_the_Future_Together_Grows_Its_International_Momentum_Across_the_United_States_Asia_Europe_and_the_Caribbean.md"
+      ],
+      "published": "2026-11-10T13:22:09-05:00",
+      "title": "First Lady Melania Trump\u2019s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/": {
       "categories": [
@@ -25045,6 +25056,17 @@
       ],
       "published": "2026-11-02T09:45:43-05:00",
       "title": "President Trump\u2019s Second Term: Promises Made, Promises Kept, Results Delivered"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-10T20:16:05.556449+00:00",
+      "paths": [
+        "Releases/2026/11/10/Secretary_Hegseth_Torches_Baseless_Impeachment_Stunt_This_Is_Not_Patriotism_This_Is_Sabotage.md"
+      ],
+      "published": "2026-11-10T13:57:20-05:00",
+      "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d"
     },
     "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/": {
       "categories": [
