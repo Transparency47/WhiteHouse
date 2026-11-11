@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-11T16:55:55.871186+00:00",
+  "last_successful_run": "2026-11-11T23:20:57.418310+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5632,6 +5632,17 @@
       ],
       "published": "2026-11-10T22:16:22-05:00",
       "title": "Presidential Message on the Birthday of the United States Marine Corps"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-11T23:20:56.233021+00:00",
+      "paths": [
+        "Briefings/2026/11/11/Presidential_Message_on_Victory_Day_for_World_War_I.md"
+      ],
+      "published": "2026-11-11T14:30:08-05:00",
+      "title": "Presidential Message on Victory Day for World War I"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
@@ -25169,6 +25180,17 @@
       ],
       "published": "2026-11-10T13:57:20-05:00",
       "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-11T23:20:55.842045+00:00",
+      "paths": [
+        "Releases/2026/11/11/We_Render_You_the_Highest_Salute_President_Trump_Honors_Americas_Veterans_on_Hallowed_Ground_at_Arlington.md"
+      ],
+      "published": "2026-11-11T17:17:51-05:00",
+      "title": "\u201cWe Render You the Highest Salute\u201d: President Trump Honors America\u2019s Veterans on Hallowed Ground at Arlington"
     },
     "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/": {
       "categories": [

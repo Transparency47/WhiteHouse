@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-11-11T16:55:58.716734+00:00",
+  "generatedAt": "2026-11-11T23:20:59.574442+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-11",
+      "id": "whitehouse:0af969e1ee340a12",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T23:20:55.842045+00:00"
+      },
+      "path": "Releases/2026/11/11/We_Render_You_the_Highest_Salute_President_Trump_Honors_Americas_Veterans_on_Hallowed_Ground_at_Arlington.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
+      "summary": "**On this Veterans Day, President Donald J. Trump stood among the fallen at Arlington National Cemetery and rendered our nation\u2019s highest salute to the living who still carry the cost of freedom.** In words that echoed across the quiet hills where generations of heroes rest, the ",
+      "title": "\u201cWe Render You the Highest Salute\u201d: President Trump Honors America\u2019s Veterans on Hallowed Ground at Arlington"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-11",
+      "id": "whitehouse:4cf38e01bef0d833",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T23:20:56.233021+00:00"
+      },
+      "path": "Briefings/2026/11/11/Presidential_Message_on_Victory_Day_for_World_War_I.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
+      "summary": "On November 11, 1918, after more than four grueling years, an armistice at last silenced the guns of the First World War. With enduring pride, we celebrate America\u2019s pivotal role in winning this global conflict. The enemy was defeated with powerful weapons of land, sea, and sky a",
+      "title": "Presidential Message on Victory Day for World War I"
+    },
     {
       "category": "Proclamations",
       "date": "2026-11-10",
