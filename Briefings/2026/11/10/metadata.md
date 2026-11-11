@@ -18,3 +18,39 @@
 - Date accessed: 2026-11-11T01:02:50.664487+00:00
 - Markdown filename: Congressional_Bills_H_R_997_H_R_1703_H_R_1945_and_H_R_7730_Signed_into_Law.md
 
+## Presidential Message on National Diabetes Month
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/
+- Title: Presidential Message on National Diabetes Month
+- Category: Briefings & Statements
+- Date published: 2026-11-10T22:17:54-05:00
+- Date accessed: 2026-11-11T08:55:22.753474+00:00
+- Markdown filename: Presidential_Message_on_National_Diabetes_Month.md
+
+## Presidential Message on the Birthday of the United States Marine Corps
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/
+- Title: Presidential Message on the Birthday of the United States Marine Corps
+- Category: Briefings & Statements
+- Date published: 2026-11-10T22:16:22-05:00
+- Date accessed: 2026-11-11T08:55:23.193159+00:00
+- Markdown filename: Presidential_Message_on_the_Birthday_of_the_United_States_Marine_Corps.md
+
+## Presidential Message on National Alzheimer’s Disease Awareness Month
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/
+- Title: Presidential Message on National Alzheimer’s Disease Awareness Month
+- Category: Briefings & Statements
+- Date published: 2026-11-10T22:14:47-05:00
+- Date accessed: 2026-11-11T08:55:23.629990+00:00
+- Markdown filename: Presidential_Message_on_National_Alzheimers_Disease_Awareness_Month.md
+
+## Presidential Message on Critical Infrastructure Security and Resilience Month
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/
+- Title: Presidential Message on Critical Infrastructure Security and Resilience Month
+- Category: Briefings & Statements
+- Date published: 2026-11-10T22:12:55-05:00
+- Date accessed: 2026-11-11T08:55:24.067590+00:00
+- Markdown filename: Presidential_Message_on_Critical_Infrastructure_Security_and_Resilience_Month.md
+

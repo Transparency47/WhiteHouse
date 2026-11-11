@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:02:55.157727+00:00",
+  "generatedAt": "2026-11-11T08:55:29.282460+00:00",
   "records": [
     {
       "category": "Proclamations",
@@ -26,6 +26,58 @@
       "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/",
       "summary": "**This morning, Secretary of War Pete Hegseth systematically [dismantled](https://x.com/RapidResponse47/status/2120186014568272071) the desperate, ego-driven impeachment hoax by a disgruntled and defeated Congressman.** Secretary Hegseth made clear that every operation targeted i",
       "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-10",
+      "id": "whitehouse:9886580e116c3e41",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T08:55:23.193159+00:00"
+      },
+      "path": "Briefings/2026/11/10/Presidential_Message_on_the_Birthday_of_the_United_States_Marine_Corps.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/",
+      "summary": "For over two and a half centuries, the United States Marine Corps has stood as a living embodiment of the American Spirit. With honor, courage, and unwavering commitment to preserving and advancing the interests of the United States, Marines have proven time and again that they w",
+      "title": "Presidential Message on the Birthday of the United States Marine Corps"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-10",
+      "id": "whitehouse:981bbeaad91461b0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T08:55:22.753474+00:00"
+      },
+      "path": "Briefings/2026/11/10/Presidential_Message_on_National_Diabetes_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/",
+      "summary": "Nearly every American family has been touched by diabetes\u2014a parent, a grandparent, a child, or a neighbor whose daily life is shaped by this disease. This National Diabetes Month, we recognize the millions of Americans struggling with diabetes, and we reaffirm our commitment to r",
+      "title": "Presidential Message on National Diabetes Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-10",
+      "id": "whitehouse:f2c8834135459974",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T08:55:23.629990+00:00"
+      },
+      "path": "Briefings/2026/11/10/Presidential_Message_on_National_Alzheimers_Disease_Awareness_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/",
+      "summary": "This National Alzheimer\u2019s Disease Awareness Month, we stand with every American living with this cruel disease, every family walking beside a loved one through its difficult course, and every caregiver who devotes themselves to others day after day with extraordinary patience and",
+      "title": "Presidential Message on National Alzheimer\u2019s Disease Awareness Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-10",
+      "id": "whitehouse:f7564a8db218780d",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T08:55:24.067590+00:00"
+      },
+      "path": "Briefings/2026/11/10/Presidential_Message_on_Critical_Infrastructure_Security_and_Resilience_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/",
+      "summary": "America\u2019s critical infrastructure is the foundation of our prosperity, the backbone of our national defense, and the bedrock of our resilience. For more than two centuries, American workers, through their own ingenuity and grit, have built the infrastructure that enables the worl",
+      "title": "Presidential Message on Critical Infrastructure Security and Resilience Month"
     },
     {
       "category": "Presidential Memoranda",

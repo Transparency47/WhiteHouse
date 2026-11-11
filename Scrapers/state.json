@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-11T01:02:52.339741+00:00",
+  "last_successful_run": "2026-11-11T08:55:25.356447+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5556,6 +5556,17 @@
       "published": "2026-11-01T10:24:46-05:00",
       "title": "Presidential Message on All Saints\u2019 Day"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-11T08:55:24.067590+00:00",
+      "paths": [
+        "Briefings/2026/11/10/Presidential_Message_on_Critical_Infrastructure_Security_and_Resilience_Month.md"
+      ],
+      "published": "2026-11-10T22:12:55-05:00",
+      "title": "Presidential Message on Critical Infrastructure Security and Resilience Month"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/": {
       "categories": [
         "Briefings & Statements"
@@ -5578,6 +5589,17 @@
       "published": "2026-11-07T17:00:00-05:00",
       "title": "Presidential Message on Honoring the American Flag"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-11T08:55:23.629990+00:00",
+      "paths": [
+        "Briefings/2026/11/10/Presidential_Message_on_National_Alzheimers_Disease_Awareness_Month.md"
+      ],
+      "published": "2026-11-10T22:14:47-05:00",
+      "title": "Presidential Message on National Alzheimer\u2019s Disease Awareness Month"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/": {
       "categories": [
         "Briefings & Statements"
@@ -5588,6 +5610,28 @@
       ],
       "published": "2026-11-09T14:14:35-05:00",
       "title": "Presidential Message on National American History and Founders Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-11T08:55:22.753474+00:00",
+      "paths": [
+        "Briefings/2026/11/10/Presidential_Message_on_National_Diabetes_Month.md"
+      ],
+      "published": "2026-11-10T22:17:54-05:00",
+      "title": "Presidential Message on National Diabetes Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-11T08:55:23.193159+00:00",
+      "paths": [
+        "Briefings/2026/11/10/Presidential_Message_on_the_Birthday_of_the_United_States_Marine_Corps.md"
+      ],
+      "published": "2026-11-10T22:16:22-05:00",
+      "title": "Presidential Message on the Birthday of the United States Marine Corps"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
