@@ -9,3 +9,12 @@
 - Date accessed: 2026-11-10T20:16:05.955944+00:00
 - Markdown filename: First_Lady_Melania_Trumps_Fostering_the_Future_Together_Grows_Its_International_Momentum_Across_the_United_States_Asia_Europe_and_the_Caribbean.md
 
+## Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/
+- Title: Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law
+- Category: Briefings & Statements
+- Date published: 2026-11-10T16:03:39-05:00
+- Date accessed: 2026-11-11T01:02:50.664487+00:00
+- Markdown filename: Congressional_Bills_H_R_997_H_R_1703_H_R_1945_and_H_R_7730_Signed_into_Law.md
+

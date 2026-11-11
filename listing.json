@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-10T20:16:11.165388+00:00",
+  "generatedAt": "2026-11-11T01:02:55.157727+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-11-10",
+      "id": "whitehouse:3934ad52489d3b27",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T01:02:49.820521+00:00"
+      },
+      "path": "Actions/Proclamations/2026/11/10/VETERANS_DAY_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
+      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "title": "VETERANS DAY, 2026"
+    },
     {
       "category": "Releases",
       "date": "2026-11-10",
@@ -15,6 +28,32 @@
       "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d"
     },
     {
+      "category": "Presidential Memoranda",
+      "date": "2026-11-10",
+      "id": "whitehouse:0dfcfa2f9a8adb42",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T01:02:50.243106+00:00"
+      },
+      "path": "Actions/Memoranda/2026/11/10/Presidential_Determination_Concerning_Wildfire_Suppression_Activities_in_the_United_States.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/",
+      "summary": "MEMORANDUM FOR THE SECRETARY OF THE INTERIOR, THE SECRETARY OF AGRICULTURE, THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY",
+      "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-11-10",
+      "id": "whitehouse:b8b9188d4b859a64",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T01:02:49.392838+00:00"
+      },
+      "path": "Actions/Nominations/2026/11/10/Nominations_and_Withdrawals_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations and Withdrawals Sent to the Senate"
+    },
+    {
       "category": "Briefings & Statements",
       "date": "2026-11-10",
       "id": "whitehouse:095035d50c0e59c7",
@@ -26,6 +65,32 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/",
       "summary": "First Lady Melania Trump\u2019s Fostering the Future Together is accelerating its global mission with four major international gatherings before the end of 2026. The member nation leaders are mobilizing to empower children through technology and education.",
       "title": "First Lady Melania Trump\u2019s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-11-10",
+      "id": "whitehouse:a611ee7d44f52c4e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T01:02:51.097078+00:00"
+      },
+      "path": "Fact Sheets/2026/11/10/Fact_Sheet_President_Donald_J_Trump_Advances_Wildfire_Suppression.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-advances-wildfire-suppression/",
+      "summary": "**KEEPING AMERICANS SAFE:** Today, President Donald J. Trump signed a Presidential Memorandum to protect communities at risk from wildfires and ensure immediate action is taken to control fires before they become major natural disasters that destroy thousands of acres of timber a",
+      "title": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-10",
+      "id": "whitehouse:cb307c567bbbb8c1",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-11T01:02:50.664487+00:00"
+      },
+      "path": "Briefings/2026/11/10/Congressional_Bills_H_R_997_H_R_1703_H_R_1945_and_H_R_7730_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/",
+      "summary": "On Tuesday, November 10, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law"
     },
     {
       "category": "Briefings & Statements",

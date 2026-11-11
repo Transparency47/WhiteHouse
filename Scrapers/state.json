@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-10T20:16:07.157960+00:00",
+  "last_successful_run": "2026-11-11T01:02:52.339741+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5479,6 +5479,17 @@
       "published": "2026-11-03T16:49:08-05:00",
       "title": "Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-11T01:02:50.664487+00:00",
+      "paths": [
+        "Briefings/2026/11/10/Congressional_Bills_H_R_997_H_R_1703_H_R_1945_and_H_R_7730_Signed_into_Law.md"
+      ],
+      "published": "2026-11-10T16:03:39-05:00",
+      "title": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/": {
       "categories": [
         "Briefings & Statements"
@@ -9691,6 +9702,17 @@
       ],
       "published": "2026-10-08T11:05:06-04:00",
       "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-advances-wildfire-suppression/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-11-11T01:02:51.097078+00:00",
+      "paths": [
+        "Fact Sheets/2026/11/10/Fact_Sheet_President_Donald_J_Trump_Advances_Wildfire_Suppression.md"
+      ],
+      "published": "2026-11-10T16:03:02-05:00",
+      "title": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/": {
       "categories": [
@@ -17443,6 +17465,18 @@
       "published": "2026-11-05T17:51:56-05:00",
       "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-11-11T01:02:49.392838+00:00",
+      "paths": [
+        "Actions/Nominations/2026/11/10/Nominations_and_Withdrawals_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-11-10T16:56:49-05:00",
+      "title": "Nominations and Withdrawals Sent to the Senate"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/": {
       "categories": [
         "Presidential Actions",
@@ -17455,6 +17489,18 @@
       "published": "2026-11-09T17:53:29-05:00",
       "title": "Nominations and Withdrawals Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-11-11T01:02:50.243106+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/11/10/Presidential_Determination_Concerning_Wildfire_Suppression_Activities_in_the_United_States.md"
+      ],
+      "published": "2026-11-10T16:11:07-05:00",
+      "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/": {
       "categories": [
         "Presidential Actions",
@@ -17466,6 +17512,18 @@
       ],
       "published": "2026-11-03T16:50:59-05:00",
       "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-11-11T01:02:49.820521+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/11/10/VETERANS_DAY_2026.md"
+      ],
+      "published": "2026-11-10T16:12:15-05:00",
+      "title": "VETERANS DAY, 2026"
     },
     "https://www.whitehouse.gov/releases/2025/02/america-is-back-and-president-trump-is-just-getting-started/": {
       "categories": [
