@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-12T15:47:21.270757+00:00",
+  "last_successful_run": "2026-11-12T22:04:20.219515+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5512,6 +5512,17 @@
       "published": "2026-11-07T14:31:59-05:00",
       "title": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-12T22:04:18.413873+00:00",
+      "paths": [
+        "Briefings/2026/11/12/First_Lady_Melania_Trump_Honors_Americas_Elite_Soldiers_and_the_Sacrifices_of_Military_Families.md"
+      ],
+      "published": "2026-11-12T12:18:04-05:00",
+      "title": "First Lady Melania Trump Honors America\u2019s Elite Soldiers and the Sacrifices of Military Families"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/": {
       "categories": [
         "Briefings & Statements"
@@ -5621,6 +5632,39 @@
       ],
       "published": "2026-11-10T22:17:54-05:00",
       "title": "Presidential Message on National Diabetes Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-12T22:04:18.004361+00:00",
+      "paths": [
+        "Briefings/2026/11/12/Presidential_Message_on_National_Entrepreneurship_Month.md"
+      ],
+      "published": "2026-11-12T16:33:37-05:00",
+      "title": "Presidential Message on National Entrepreneurship Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-12T22:04:17.616067+00:00",
+      "paths": [
+        "Briefings/2026/11/12/Presidential_Message_on_National_Military_Families_Month.md"
+      ],
+      "published": "2026-11-12T16:34:51-05:00",
+      "title": "Presidential Message on National Military Families Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-12T22:04:17.226258+00:00",
+      "paths": [
+        "Briefings/2026/11/12/Presidential_Message_on_National_Native_American_Heritage_Month.md"
+      ],
+      "published": "2026-11-12T16:35:41-05:00",
+      "title": "Presidential Message on National Native American Heritage Month"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/": {
       "categories": [
@@ -25059,6 +25103,17 @@
       ],
       "published": "2026-10-20T17:30:00-04:00",
       "title": "White House Appoints 2026-2027 Class of White House Fellows"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-12T22:04:16.836331+00:00",
+      "paths": [
+        "Releases/2026/11/12/Democrats_Will_Help_Us_Caravans_March_North_as_Dems_Vow_to_Reopen_the_Border_President_Trump_Wont_Let_It_Happen.md"
+      ],
+      "published": "2026-11-12T16:46:53-05:00",
+      "title": "\u201cDemocrats Will Help Us\u201d: Caravans March North as Dems Vow to Reopen the Border. President Trump Won\u2019t Let It Happen."
     },
     "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/": {
       "categories": [

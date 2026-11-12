@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-11-12T15:47:24.091843+00:00",
+  "generatedAt": "2026-11-12T22:04:22.561909+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-12",
+      "id": "whitehouse:0e5d8c0c2e02b6b8",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-12T22:04:16.836331+00:00"
+      },
+      "path": "Releases/2026/11/12/Democrats_Will_Help_Us_Caravans_March_North_as_Dems_Vow_to_Reopen_the_Border_President_Trump_Wont_Let_It_Happen.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/",
+      "summary": "**Days after the midterms, caravans of illegal aliens are already** [**marching**](https://x.com/AliBradleyTV/status/2120872953390801083) [**north**](https://x.com/FoxNews/status/2120891219257561573) **to the U.S. \u2014 and they\u2019re counting on Democrats to let them in.** Why wouldn\u2019t",
+      "title": "\u201cDemocrats Will Help Us\u201d: Caravans March North as Dems Vow to Reopen the Border. President Trump Won\u2019t Let It Happen."
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-12",
+      "id": "whitehouse:8b19b20b18bbfb49",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-12T22:04:17.226258+00:00"
+      },
+      "path": "Briefings/2026/11/12/Presidential_Message_on_National_Native_American_Heritage_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/",
+      "summary": "Alaska Natives and Native Americans are inextricably linked to the history of our Republic and are integral to our glorious future. During National Native American Heritage Month, we honor the sacrifices and the innumerable contributions of tribal communities to the prosperity an",
+      "title": "Presidential Message on National Native American Heritage Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-12",
+      "id": "whitehouse:24b2a37f5bf2893e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-12T22:04:17.616067+00:00"
+      },
+      "path": "Briefings/2026/11/12/Presidential_Message_on_National_Military_Families_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/",
+      "summary": "For 250 years, our glorious Republic has been safeguarded by noble and heroic patriots in the United States Armed Forces. Throughout our storied history, these warriors have been sustained by the support, love, strength, and grit provided by their incomparable families. During Na",
+      "title": "Presidential Message on National Military Families Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-12",
+      "id": "whitehouse:8f2b4bd63be6e209",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-12T22:04:18.004361+00:00"
+      },
+      "path": "Briefings/2026/11/12/Presidential_Message_on_National_Entrepreneurship_Month.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/",
+      "summary": "The entrepreneurial spirit of America has been forged by the determination of generations who envisioned a Nation where every hardworking citizen can live their glorious American Dream. For over 250 years, entrepreneurs have created the strong foundation that our country has buil",
+      "title": "Presidential Message on National Entrepreneurship Month"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-12",
+      "id": "whitehouse:aa1d812166175583",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-12T22:04:18.413873+00:00"
+      },
+      "path": "Briefings/2026/11/12/First_Lady_Melania_Trump_Honors_Americas_Elite_Soldiers_and_the_Sacrifices_of_Military_Families.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families/",
+      "summary": "First Lady Melania Trump visited Fort Rucker, the headquarters U.S. Army Aviation, to honor America\u2019s soldiers and the sacrifices of the military families who support them.",
+      "title": "First Lady Melania Trump Honors America\u2019s Elite Soldiers and the Sacrifices of Military Families"
+    },
     {
       "category": "Releases",
       "date": "2026-11-11",
