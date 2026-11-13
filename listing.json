@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:04:22.561909+00:00",
+  "generatedAt": "2026-11-13T03:11:14.287708+00:00",
   "records": [
     {
       "category": "Releases",
@@ -52,6 +52,32 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/",
       "summary": "The entrepreneurial spirit of America has been forged by the determination of generations who envisioned a Nation where every hardworking citizen can live their glorious American Dream. For over 250 years, entrepreneurs have created the strong foundation that our country has buil",
       "title": "Presidential Message on National Entrepreneurship Month"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-11-12",
+      "id": "whitehouse:b7903c7c8f2b1d80",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-13T03:11:09.000040+00:00"
+      },
+      "path": "Actions/Nominations/2026/11/12/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-12",
+      "id": "whitehouse:5bdc238782cfcfd3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-13T03:11:08.363501+00:00"
+      },
+      "path": "Briefings/2026/11/12/First_Lady_Melania_Trump_Honors_Americas_Fallen_Heroes_at_the_Tomb_of_The_Unknown_Soldier.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/",
+      "summary": "The First Lady of the United States of America, Mrs. Melania Trump, participated in a wreath-laying ceremony at the Tomb of the Unknown Soldier at Arlington National Cemetery on Veterans Day.",
+      "title": "First Lady Melania Trump Honors America\u2019s Fallen Heroes at the Tomb of The Unknown Soldier"
     },
     {
       "category": "Briefings & Statements",

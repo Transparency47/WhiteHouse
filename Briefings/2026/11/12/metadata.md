@@ -36,3 +36,12 @@
 - Date accessed: 2026-11-12T22:04:18.413873+00:00
 - Markdown filename: First_Lady_Melania_Trump_Honors_Americas_Elite_Soldiers_and_the_Sacrifices_of_Military_Families.md
 
+## First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/
+- Title: First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier
+- Category: Briefings & Statements
+- Date published: 2026-11-12T17:36:37-05:00
+- Date accessed: 2026-11-13T03:11:08.363501+00:00
+- Markdown filename: First_Lady_Melania_Trump_Honors_Americas_Fallen_Heroes_at_the_Tomb_of_The_Unknown_Soldier.md
+

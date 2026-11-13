@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-12T22:04:20.219515+00:00",
+  "last_successful_run": "2026-11-13T03:11:10.370285+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5522,6 +5522,17 @@
       ],
       "published": "2026-11-12T12:18:04-05:00",
       "title": "First Lady Melania Trump Honors America\u2019s Elite Soldiers and the Sacrifices of Military Families"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-13T03:11:08.363501+00:00",
+      "paths": [
+        "Briefings/2026/11/12/First_Lady_Melania_Trump_Honors_Americas_Fallen_Heroes_at_the_Tomb_of_The_Unknown_Soldier.md"
+      ],
+      "published": "2026-11-12T17:36:37-05:00",
+      "title": "First Lady Melania Trump Honors America\u2019s Fallen Heroes at the Tomb of The Unknown Soldier"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/": {
       "categories": [
@@ -17587,6 +17598,18 @@
       ],
       "published": "2026-11-09T17:53:29-05:00",
       "title": "Nominations and Withdrawals Sent to the Senate"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-11-13T03:11:09.000040+00:00",
+      "paths": [
+        "Actions/Nominations/2026/11/12/Nominations_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-11-12T17:04:41-05:00",
+      "title": "Nominations Sent to the Senate"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/": {
       "categories": [
