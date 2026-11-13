@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-13T11:54:03.730946+00:00",
+  "generatedAt": "2026-11-13T19:16:52.032328+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-13",
+      "id": "whitehouse:006c358b9cdaa760",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-13T19:16:47.509748+00:00"
+      },
+      "path": "Releases/2026/11/13/Trump_Administration_Delivers_Record_Setting_Results_Through_Executive_Action.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+      "summary": "Under President Donald J. Trump\u2019s leadership, the Administration has delivered historic results for the American people in just 21 months through executive action alone. The promise of America has been quickly reignited under the President\u2019s common-sense leadership, making Americ",
+      "title": "Trump Administration Delivers Record-Setting Results Through Executive Action"
+    },
     {
       "category": "Releases",
       "date": "2026-11-12",

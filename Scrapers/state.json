@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-13T11:54:01.609182+00:00",
+  "last_successful_run": "2026-11-13T19:16:48.702347+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -25258,6 +25258,17 @@
       ],
       "published": "2026-11-10T13:57:20-05:00",
       "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-13T19:16:47.509748+00:00",
+      "paths": [
+        "Releases/2026/11/13/Trump_Administration_Delivers_Record_Setting_Results_Through_Executive_Action.md"
+      ],
+      "published": "2026-11-13T08:10:00-05:00",
+      "title": "Trump Administration Delivers Record-Setting Results Through Executive Action"
     },
     "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/": {
       "categories": [
