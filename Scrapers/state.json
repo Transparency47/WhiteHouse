@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-15T19:34:35.808591+00:00",
+  "last_successful_run": "2026-11-15T23:47:20.561875+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -25192,6 +25192,17 @@
       ],
       "published": "2026-11-03T16:32:31-05:00",
       "title": "ICYMI: Relentless Travel Schedule Puts Trump Administration\u2019s Results Front and Center"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-15T23:47:19.388803+00:00",
+      "paths": [
+        "Releases/2026/11/15/ICYMI_Secretary_Duffys_Full_Sunday_Circuit_Outlines_Ground_Stop_Response_and_the_Path_Forward.md"
+      ],
+      "published": "2026-11-15T16:07:34-05:00",
+      "title": "ICYMI: Secretary Duffy\u2019s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/": {
       "categories": [
