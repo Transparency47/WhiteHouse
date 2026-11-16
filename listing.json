@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-11-16T14:59:29.833350+00:00",
+  "generatedAt": "2026-11-16T23:42:42.406770+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-16",
+      "id": "whitehouse:31edfa698b3d7b0a",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-16T23:42:36.794777+00:00"
+      },
+      "path": "Releases/2026/11/16/President_Trumps_Immigration_Policies_Are_Saving_American_Lives.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/",
+      "summary": "**Traffic fatalities have** [**fallen**](https://www.nhtsa.gov/press-releases/decline-traffic-fatalities-first-half-2026) **to the second-lowest level in American history following President Donald J. Trump\u2019s crackdown on illegal alien truck drivers.** That good news joins sharp ",
+      "title": "President Trump\u2019s Immigration Policies Are Saving American Lives"
+    },
+    {
+      "category": "Nominations & Appointments",
+      "date": "2026-11-16",
+      "id": "whitehouse:e873d9bb5e3f31da",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-16T23:42:36.386604+00:00"
+      },
+      "path": "Actions/Nominations/2026/11/16/Nominations_Sent_to_the_Senate.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/",
+      "summary": "NOMINATIONS SENT TO THE SENATE:",
+      "title": "Nominations Sent to the Senate"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-16",
+      "id": "whitehouse:915400821fac368c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-16T23:42:37.195596+00:00"
+      },
+      "path": "Releases/2026/11/16/ICYMI_Trump_border_crackdown_drives_encounters_to_record_October_low_as_zero_release_streak_hits_18_months.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months/",
+      "summary": "**For 18 straight months, zero illegal aliens have been released into the United States as President Donald J. Trump continues to deliver the most secure border in American history.** It\u2019s a direct consequence of restored enforcement, deterrence, and operational control that has ",
+      "title": "ICYMI: \u201cTrump border crackdown drives encounters to record October low as zero-release streak hits 18 months\u201d"
+    },
     {
       "category": "Releases",
       "date": "2026-11-15",

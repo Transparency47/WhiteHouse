@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-16T14:59:26.976279+00:00",
+  "last_successful_run": "2026-11-16T23:42:38.418288+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -17611,6 +17611,18 @@
       "published": "2026-11-12T17:04:41-05:00",
       "title": "Nominations Sent to the Senate"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/": {
+      "categories": [
+        "Presidential Actions",
+        "Nominations & Appointments"
+      ],
+      "last_accessed": "2026-11-16T23:42:36.386604+00:00",
+      "paths": [
+        "Actions/Nominations/2026/11/16/Nominations_Sent_to_the_Senate.md"
+      ],
+      "published": "2026-11-16T15:50:09-05:00",
+      "title": "Nominations Sent to the Senate"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/": {
       "categories": [
         "Presidential Actions",
@@ -25204,6 +25216,17 @@
       "published": "2026-11-15T16:07:34-05:00",
       "title": "ICYMI: Secretary Duffy\u2019s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward"
     },
+    "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-16T23:42:37.195596+00:00",
+      "paths": [
+        "Releases/2026/11/16/ICYMI_Trump_border_crackdown_drives_encounters_to_record_October_low_as_zero_release_streak_hits_18_months.md"
+      ],
+      "published": "2026-11-16T15:29:50-05:00",
+      "title": "ICYMI: \u201cTrump border crackdown drives encounters to record October low as zero-release streak hits 18 months\u201d"
+    },
     "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/": {
       "categories": [
         "Releases"
@@ -25258,6 +25281,17 @@
       ],
       "published": "2026-11-04T17:39:03-05:00",
       "title": "President Trump Will Again Defy the Odds, the Fake News, and the Radical Left"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-16T23:42:36.794777+00:00",
+      "paths": [
+        "Releases/2026/11/16/President_Trumps_Immigration_Policies_Are_Saving_American_Lives.md"
+      ],
+      "published": "2026-11-16T15:40:32-05:00",
+      "title": "President Trump\u2019s Immigration Policies Are Saving American Lives"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/": {
       "categories": [
