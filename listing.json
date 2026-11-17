@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T16:43:30.102859+00:00",
+  "generatedAt": "2026-11-17T23:45:52.018666+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/",
       "summary": "On November 17, 2026, \u2014 President Donald J. Trump of the United States, Prime Minister Anthony Albanese of Australia, Prime Minister Narendra Modi of India, and Prime Minister Takaichi Sanae of Japan \u2014 met for a Quad Leaders\u2019 Summit in Manila. This year marks nearly a decade sinc",
       "title": "Quad Leaders\u2019 Summit Joint Press Release"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-17",
+      "id": "whitehouse:ee26e9966e938338",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-17T23:45:47.836078+00:00"
+      },
+      "path": "Briefings/2026/11/17/Presidential_Message_on_American_Education_Week.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/",
+      "summary": "Education is among the most important investments we make in America\u2019s future, equipping the next generation with the knowledge, skills, and confidence to lead our country toward greater prosperity. This American Education Week, my Administration reaffirms its commitment to resto",
+      "title": "Presidential Message on American Education Week"
     },
     {
       "category": "Briefings & Statements",

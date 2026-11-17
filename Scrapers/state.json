@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-17T16:43:26.115817+00:00",
+  "last_successful_run": "2026-11-17T23:45:49.667018+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5588,6 +5588,17 @@
       ],
       "published": "2026-11-01T10:24:46-05:00",
       "title": "Presidential Message on All Saints\u2019 Day"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-17T23:45:47.836078+00:00",
+      "paths": [
+        "Briefings/2026/11/17/Presidential_Message_on_American_Education_Week.md"
+      ],
+      "published": "2026-11-17T17:56:40-05:00",
+      "title": "Presidential Message on American Education Week"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/": {
       "categories": [

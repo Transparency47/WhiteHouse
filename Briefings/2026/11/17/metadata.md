@@ -18,3 +18,12 @@
 - Date accessed: 2026-11-17T16:43:24.831934+00:00
 - Markdown filename: Joint_Statement_on_an_Agreement_Between_the_United_States_of_America_and_the_Kingdom_of_Thailand_on_Reciprocal_Trade.md
 
+## Presidential Message on American Education Week
+
+- URL: https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/
+- Title: Presidential Message on American Education Week
+- Category: Briefings & Statements
+- Date published: 2026-11-17T17:56:40-05:00
+- Date accessed: 2026-11-17T23:45:47.836078+00:00
+- Markdown filename: Presidential_Message_on_American_Education_Week.md
+
