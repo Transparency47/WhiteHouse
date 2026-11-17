@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-17T06:52:52.438213+00:00",
+  "last_successful_run": "2026-11-17T16:43:26.115817+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5567,6 +5567,17 @@
       "published": "2026-11-10T13:22:09-05:00",
       "title": "First Lady Melania Trump\u2019s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-17T16:43:24.831934+00:00",
+      "paths": [
+        "Briefings/2026/11/17/Joint_Statement_on_an_Agreement_Between_the_United_States_of_America_and_the_Kingdom_of_Thailand_on_Reciprocal_Trade.md"
+      ],
+      "published": "2026-11-17T07:43:27-05:00",
+      "title": "Joint Statement on an Agreement Between the United States of America and the Kingdom of Thailand on Reciprocal Trade"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/": {
       "categories": [
         "Briefings & Statements"
@@ -5698,6 +5709,17 @@
       ],
       "published": "2026-11-11T14:30:08-05:00",
       "title": "Presidential Message on Victory Day for World War I"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-17T16:43:24.392586+00:00",
+      "paths": [
+        "Briefings/2026/11/17/Quad_Leaders_Summit_Joint_Press_Release.md"
+      ],
+      "published": "2026-11-17T10:20:56-05:00",
+      "title": "Quad Leaders\u2019 Summit Joint Press Release"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
