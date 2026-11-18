@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-18T06:12:51.394711+00:00",
+  "last_successful_run": "2026-11-18T16:13:50.003640+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -9867,6 +9867,17 @@
       ],
       "published": "2026-11-05T17:53:44-05:00",
       "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-11-18T16:13:48.402154+00:00",
+      "paths": [
+        "Fact Sheets/2026/11/18/Fact_Sheet_President_Donald_J_Trump_Secures_Historic_Economic_Deals_for_American_Workers_and_Strengthens_Americas_Leadership_in_Asia.md"
+      ],
+      "published": "2026-11-18T10:51:02-05:00",
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Economic Deals for American Workers and Strengthens America\u2019s Leadership in Asia"
     },
     "https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/": {
       "categories": [
@@ -25259,6 +25270,17 @@
       ],
       "published": "2026-11-16T15:29:50-05:00",
       "title": "ICYMI: \u201cTrump border crackdown drives encounters to record October low as zero-release streak hits 18 months\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-18T16:13:48.804685+00:00",
+      "paths": [
+        "Releases/2026/11/18/No_Indication_of_a_Cyberattack_DNI_Clayton_and_Secretary_Rubio_on_Recent_Tech_Outages.md"
+      ],
+      "published": "2026-11-18T10:43:23-05:00",
+      "title": "\u201cNo Indication of a Cyberattack\u201d: DNI Clayton and Secretary Rubio on Recent Tech Outages"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/": {
       "categories": [

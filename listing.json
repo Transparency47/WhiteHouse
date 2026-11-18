@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-11-18T06:12:53.727302+00:00",
+  "generatedAt": "2026-11-18T16:13:53.946254+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-18",
+      "id": "whitehouse:ce49f4b11c72beff",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-18T16:13:48.804685+00:00"
+      },
+      "path": "Releases/2026/11/18/No_Indication_of_a_Cyberattack_DNI_Clayton_and_Secretary_Rubio_on_Recent_Tech_Outages.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/",
+      "summary": "**The Trump Administration sees no indication of a coordinated cyberattack, state-sponsored activity, or malign actor behind the recent tech outages.** Director of National Intelligence Jay Clayton and National Security Adviser Marco Rubio made clear that these are separate incid",
+      "title": "\u201cNo Indication of a Cyberattack\u201d: DNI Clayton and Secretary Rubio on Recent Tech Outages"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-11-18",
+      "id": "whitehouse:49e6ace2da61f002",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-18T16:13:48.402154+00:00"
+      },
+      "path": "Fact Sheets/2026/11/18/Fact_Sheet_President_Donald_J_Trump_Secures_Historic_Economic_Deals_for_American_Workers_and_Strengthens_Americas_Leadership_in_Asia.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/",
+      "summary": "**SUPPORTING AMERICAN JOBS AND STRENGTHENING U.S. DIPLOMATIC LEADERSHIP IN THE INDO-PACIFIC:** Today, President Donald J. Trump concluded a two-day visit to the Philippines for a State Visit and the Association of Southeast Asian Nations (ASEAN) Summit, where he announced over $1",
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Economic Deals for American Workers and Strengthens America\u2019s Leadership in Asia"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-17",
