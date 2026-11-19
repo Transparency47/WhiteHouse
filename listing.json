@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-19T06:14:28.611811+00:00",
+  "generatedAt": "2026-11-19T16:21:30.855112+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-19",
+      "id": "whitehouse:1ceec712f1dac810",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-19T16:21:25.674248+00:00"
+      },
+      "path": "Briefings/2026/11/19/U_S_Russia_China_Heads_of_State_Declaration_toward_Peace.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
+      "summary": "Donald J. Trump, President of the United States of America, Vladimir Putin, President of the Russian Federation, and Xi Jinping, State Chairman of the People\u2019s Republic of China, met in Shenzhen on November 19, 2026. The U.S. and Russian heads of state expressed appreciation to C",
+      "title": "U.S.-Russia-China Heads of State Declaration toward Peace"
+    },
     {
       "category": "Releases",
       "date": "2026-11-18",

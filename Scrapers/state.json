@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-19T06:14:26.508036+00:00",
+  "last_successful_run": "2026-11-19T16:21:26.883338+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5731,6 +5731,17 @@
       ],
       "published": "2026-11-17T10:20:56-05:00",
       "title": "Quad Leaders\u2019 Summit Joint Press Release"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-19T16:21:25.674248+00:00",
+      "paths": [
+        "Briefings/2026/11/19/U_S_Russia_China_Heads_of_State_Declaration_toward_Peace.md"
+      ],
+      "published": "2026-11-19T08:53:04-05:00",
+      "title": "U.S.-Russia-China Heads of State Declaration toward Peace"
     },
     "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": {
       "categories": [
