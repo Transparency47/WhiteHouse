@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:21:30.855112+00:00",
+  "generatedAt": "2026-11-19T23:25:05.784982+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
       "summary": "Donald J. Trump, President of the United States of America, Vladimir Putin, President of the Russian Federation, and Xi Jinping, State Chairman of the People\u2019s Republic of China, met in Shenzhen on November 19, 2026. The U.S. and Russian heads of state expressed appreciation to C",
       "title": "U.S.-Russia-China Heads of State Declaration toward Peace"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-19",
+      "id": "whitehouse:9a67271f78ca65ff",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-19T23:25:00.487119+00:00"
+      },
+      "path": "Releases/2026/11/19/ICYMI_President_Trump_Talks_China_Iran_Super_Intelligence_and_the_Path_Ahead_in_Exclusive_Interview_from_Shenzhen.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen/",
+      "summary": "**Last night, President Donald J. Trump delivered a message of American resurgence in an exclusive live interview on Fox News from Shenzhen, China \u2014 just hours before his historic meeting with President Xi Jinping and President Vladimir Putin.** He highlighted the respect America",
+      "title": "ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen"
     },
     {
       "category": "Releases",

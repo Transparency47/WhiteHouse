@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-19T16:21:26.883338+00:00",
+  "last_successful_run": "2026-11-19T23:25:01.726603+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -25248,6 +25248,17 @@
       ],
       "published": "2026-11-09T14:03:35-05:00",
       "title": "ICYMI: President Trump on 60 Minutes: \u201cWe Have Historically Good Numbers\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-19T23:25:00.487119+00:00",
+      "paths": [
+        "Releases/2026/11/19/ICYMI_President_Trump_Talks_China_Iran_Super_Intelligence_and_the_Path_Ahead_in_Exclusive_Interview_from_Shenzhen.md"
+      ],
+      "published": "2026-11-19T14:20:20-05:00",
+      "title": "ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen"
     },
     "https://www.whitehouse.gov/releases/2026/11/icymi-relentless-travel-schedule-puts-trump-administrations-results-front-and-center/": {
       "categories": [
