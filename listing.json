@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-11-20T15:17:48.021745+00:00",
+  "generatedAt": "2026-11-20T22:30:20.273774+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-20",
+      "id": "whitehouse:33bea811ce4f8b57",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-20T22:30:15.737254+00:00"
+      },
+      "path": "Releases/2026/11/20/President_Trump_Taps_Pentagon_Cyber_Chief_Kirsten_Davies_as_National_Cyber_Director.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
+      "summary": "**Yesterday, President Donald J. Trump** [**named**](https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329) **Kirsten A. Davies to lead the White House Office of the National Cyber Director.** A battle-teste",
+      "title": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-11-20",
+      "id": "whitehouse:1dbde305d5be6d28",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-20T22:30:16.124170+00:00"
+      },
+      "path": "Fact Sheets/2026/11/20/President_Trump_Brings_Home_Billions_in_Economic_Growth_and_Strengthens_Americas_Security.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
+      "summary": "President Donald J. Trump has concluded his four-day visit to the Philippines and China where he advanced his America First agenda, secured billions in deals that support American workers, ensured a free and open Indo-Pacific that benefits everyday Americans, and bolstered region",
+      "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-20",
+      "id": "whitehouse:b5da53f69bb81f8e",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-20T22:30:15.350294+00:00"
+      },
+      "path": "Briefings/2026/11/20/H_R_10167_Common_Cents_Act.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/",
+      "summary": "On Friday, November 20, 2026, the President signed into law:",
+      "title": "H.R. 10167 \u2013 Common Cents Act"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-19",
