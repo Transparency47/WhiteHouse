@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:59:14.017829+00:00",
+  "generatedAt": "2026-11-20T15:17:48.021745+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
       "summary": "Donald J. Trump, President of the United States of America, Vladimir Putin, President of the Russian Federation, and Xi Jinping, State Chairman of the People\u2019s Republic of China, met in Shenzhen on November 19, 2026. The U.S. and Russian heads of state expressed appreciation to C",
       "title": "U.S.-Russia-China Heads of State Declaration toward Peace"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-19",
+      "id": "whitehouse:6264fe94fd9981c4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-20T15:17:42.780553+00:00"
+      },
+      "path": "Briefings/2026/11/19/Presidential_Message_on_National_Rural_Health_Day.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day/",
+      "summary": "On National Rural Health Day, we honor the doctors, nurses, first responders, caregivers, and other healthcare professionals who serve millions of Americans in rural communities across our country. Their work is essential to the strength of our Nation, and my Administration is co",
+      "title": "Presidential Message on National Rural Health Day"
     },
     {
       "category": "Releases",

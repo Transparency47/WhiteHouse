@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-20T05:59:09.998817+00:00",
+  "last_successful_run": "2026-11-20T15:17:43.997384+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5698,6 +5698,17 @@
       ],
       "published": "2026-11-12T16:35:41-05:00",
       "title": "Presidential Message on National Native American Heritage Month"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-20T15:17:42.780553+00:00",
+      "paths": [
+        "Briefings/2026/11/19/Presidential_Message_on_National_Rural_Health_Day.md"
+      ],
+      "published": "2026-11-19T17:00:00-05:00",
+      "title": "Presidential Message on National Rural Health Day"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/": {
       "categories": [
