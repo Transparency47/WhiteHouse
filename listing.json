@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:25:05.784982+00:00",
+  "generatedAt": "2026-11-20T05:59:14.017829+00:00",
   "records": [
     {
       "category": "Briefings & Statements",
@@ -13,6 +13,19 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
       "summary": "Donald J. Trump, President of the United States of America, Vladimir Putin, President of the Russian Federation, and Xi Jinping, State Chairman of the People\u2019s Republic of China, met in Shenzhen on November 19, 2026. The U.S. and Russian heads of state expressed appreciation to C",
       "title": "U.S.-Russia-China Heads of State Declaration toward Peace"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-19",
+      "id": "whitehouse:76a05d106dbd81d4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-20T05:59:08.799042+00:00"
+      },
+      "path": "Releases/2026/11/19/NATIONAL_RURAL_HEALTH_DAY_President_Trump_Delivers_Largest_Rural_Health_Investment_in_History.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/",
+      "summary": "***National Rural Health Day honors the people who keep rural America strong.***",
+      "title": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History"
     },
     {
       "category": "Releases",

@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-19T23:25:01.726603+00:00",
+  "last_successful_run": "2026-11-20T05:59:09.998817+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -25292,6 +25292,17 @@
       ],
       "published": "2026-11-16T15:29:50-05:00",
       "title": "ICYMI: \u201cTrump border crackdown drives encounters to record October low as zero-release streak hits 18 months\u201d"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-20T05:59:08.799042+00:00",
+      "paths": [
+        "Releases/2026/11/19/NATIONAL_RURAL_HEALTH_DAY_President_Trump_Delivers_Largest_Rural_Health_Investment_in_History.md"
+      ],
+      "published": "2026-11-19T21:12:39-05:00",
+      "title": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History"
     },
     "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/": {
       "categories": [
