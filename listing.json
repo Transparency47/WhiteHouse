@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-20T22:30:20.273774+00:00",
+  "generatedAt": "2026-11-21T03:47:24.741319+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-20",
+      "id": "whitehouse:1e851ebc2cc08ca2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-21T03:47:20.315325+00:00"
+      },
+      "path": "Releases/2026/11/20/WHAT_THEY_ARE_SAYING_Send_the_Bipartisan_American_Affordability_and_Jobs_Act_to_President_Trumps_Desk.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
+      "summary": "*\u201cLast night, landmark permitting reform legislation passed the Senate. It\u2019s one of the biggest things that you will see. It\u2019s a big deal\u2026 It\u2019s projected to put at least $1,300 a year back in the pockets of hardworking Americans.\u201d* \u2013 President Donald J. Trump",
+      "title": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump\u2019s Desk"
+    },
     {
       "category": "Releases",
       "date": "2026-11-20",
@@ -28,6 +41,32 @@
       "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security"
     },
     {
+      "category": "Executive Orders",
+      "date": "2026-11-20",
+      "id": "whitehouse:2aa5722915932359",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-21T03:47:19.536774+00:00"
+      },
+      "path": "Actions/Executive Orders/2026/11/20/PROTECTING_THE_EXECUTIVES_PRIVILEGES_AND_ENHANCING_EFFICIENCIES_IN_FEDERAL_CONTRACTING.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
+      "summary": "Executive Order 14438",
+      "title": "PROTECTING THE EXECUTIVE\u2019S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING"
+    },
+    {
+      "category": "Proclamations",
+      "date": "2026-11-20",
+      "id": "whitehouse:7143b4d8eb0bd62f",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-21T03:47:19.153201+00:00"
+      },
+      "path": "Actions/Proclamations/2026/11/20/NATIONAL_ADOPTION_MONTH_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
+      "summary": "From the moment a child is conceived, they are a gift from God, bringing hope, love, and a future filled with promise into the world. For countless children across our Nation, adoption provides the gift of a loving family and nurturing home where they can feel safe, supported, an",
+      "title": "NATIONAL ADOPTION MONTH, 2026"
+    },
+    {
       "category": "Briefings & Statements",
       "date": "2026-11-20",
       "id": "whitehouse:b5da53f69bb81f8e",
@@ -39,6 +78,45 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/",
       "summary": "On Friday, November 20, 2026, the President signed into law:",
       "title": "H.R. 10167 \u2013 Common Cents Act"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-11-20",
+      "id": "whitehouse:c9b6c7b42b2acc75",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-21T03:47:18.391505+00:00"
+      },
+      "path": "Fact Sheets/2026/11/20/Fact_Sheet_President_Donald_J_Trump_Protects_the_Executives_Privileges_and_Enhances_Efficiencies_in_Federal_Contracting.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
+      "summary": "**PROTECTING EXECUTIVE PRIVILEGES FROM CONGRESSIONAL OVERREACH TO SERVE THE AMERICAN PEOPLE:** Today, President Donald J. Trump signed an Executive Order to ensure Federal contractors and subcontractors protect the Executive Branch\u2019s interest and rights, and ensure economical and",
+      "title": "Fact Sheet: President Donald J. Trump Protects the Executive\u2019s Privileges and Enhances Efficiencies in Federal Contracting"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-20",
+      "id": "whitehouse:9b87f8577525ceb3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-21T03:47:18.771155+00:00"
+      },
+      "path": "Briefings/2026/11/20/Congressional_Bills_H_R_5284_H_R_8352_and_H_R_10159_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/",
+      "summary": "On Friday, November 20, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-20",
+      "id": "whitehouse:c8ef305a28a6633b",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-21T03:47:19.931774+00:00"
+      },
+      "path": "Releases/2026/11/20/At_Press_Briefing_President_Trump_Touts_Historic_Wins_for_Americans_Signals_Deal_Making_on_Healthcare.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
+      "summary": "**In a White House press briefing today, President Donald J. Trump took questions from reporters alongside Vice President JD Vance and Secretary of State Marco Rubio.** Fresh off his return from Asia, President Trump used the briefing to underscore that America is negotiating fro",
+      "title": "At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare"
     },
     {
       "category": "Briefings & Statements",

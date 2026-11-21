@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-20T22:30:17.290788+00:00",
+  "last_successful_run": "2026-11-21T03:47:21.867582+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5479,6 +5479,17 @@
       "published": "2026-11-03T16:49:08-05:00",
       "title": "Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-21T03:47:18.771155+00:00",
+      "paths": [
+        "Briefings/2026/11/20/Congressional_Bills_H_R_5284_H_R_8352_and_H_R_10159_Signed_into_Law.md"
+      ],
+      "published": "2026-11-20T21:33:50-05:00",
+      "title": "Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/": {
       "categories": [
         "Briefings & Statements"
@@ -9900,6 +9911,17 @@
       ],
       "published": "2026-11-05T17:53:44-05:00",
       "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-11-21T03:47:18.391505+00:00",
+      "paths": [
+        "Fact Sheets/2026/11/20/Fact_Sheet_President_Donald_J_Trump_Protects_the_Executives_Privileges_and_Enhances_Efficiencies_in_Federal_Contracting.md"
+      ],
+      "published": "2026-11-20T21:46:26-05:00",
+      "title": "Fact Sheet: President Donald J. Trump Protects the Executive\u2019s Privileges and Enhances Efficiencies in Federal Contracting"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/": {
       "categories": [
@@ -17663,6 +17685,18 @@
       "published": "2026-11-05T17:51:56-05:00",
       "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT"
     },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-11-21T03:47:19.153201+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/11/20/NATIONAL_ADOPTION_MONTH_2026.md"
+      ],
+      "published": "2026-11-20T21:31:38-05:00",
+      "title": "NATIONAL ADOPTION MONTH, 2026"
+    },
     "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/": {
       "categories": [
         "Presidential Actions",
@@ -17722,6 +17756,18 @@
       ],
       "published": "2026-11-10T16:11:07-05:00",
       "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/": {
+      "categories": [
+        "Presidential Actions",
+        "Executive Orders"
+      ],
+      "last_accessed": "2026-11-21T03:47:19.536774+00:00",
+      "paths": [
+        "Actions/Executive Orders/2026/11/20/PROTECTING_THE_EXECUTIVES_PRIVILEGES_AND_ENHANCING_EFFICIENCIES_IN_FEDERAL_CONTRACTING.md"
+      ],
+      "published": "2026-11-20T21:31:05-05:00",
+      "title": "PROTECTING THE EXECUTIVE\u2019S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/": {
       "categories": [
@@ -25227,6 +25273,17 @@
       "published": "2026-10-20T17:30:00-04:00",
       "title": "White House Appoints 2026-2027 Class of White House Fellows"
     },
+    "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-21T03:47:19.931774+00:00",
+      "paths": [
+        "Releases/2026/11/20/At_Press_Briefing_President_Trump_Touts_Historic_Wins_for_Americans_Signals_Deal_Making_on_Healthcare.md"
+      ],
+      "published": "2026-11-20T20:50:58-05:00",
+      "title": "At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare"
+    },
     "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/": {
       "categories": [
         "Releases"
@@ -25479,6 +25536,17 @@
       ],
       "published": "2026-11-06T12:51:30-05:00",
       "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-21T03:47:20.315325+00:00",
+      "paths": [
+        "Releases/2026/11/20/WHAT_THEY_ARE_SAYING_Send_the_Bipartisan_American_Affordability_and_Jobs_Act_to_President_Trumps_Desk.md"
+      ],
+      "published": "2026-11-20T17:57:43-05:00",
+      "title": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump\u2019s Desk"
     },
     "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/": {
       "categories": [
