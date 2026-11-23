@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-23T11:53:58.992397+00:00",
+  "last_successful_run": "2026-11-23T23:28:26.235486+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5522,6 +5522,17 @@
       ],
       "published": "2026-11-07T14:31:59-05:00",
       "title": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-23T23:28:23.220508+00:00",
+      "paths": [
+        "Briefings/2026/11/23/First_Lady_Melania_Trump_Hails_Americas_Armed_Forces.md"
+      ],
+      "published": "2026-11-23T14:20:12-05:00",
+      "title": "First Lady Melania Trump Hails America\u2019s Armed Forces"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families/": {
       "categories": [
@@ -25383,6 +25394,17 @@
       "published": "2026-11-16T15:29:50-05:00",
       "title": "ICYMI: \u201cTrump border crackdown drives encounters to record October low as zero-release streak hits 18 months\u201d"
     },
+    "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-23T23:28:23.617258+00:00",
+      "paths": [
+        "Releases/2026/11/23/ICYMI_White_House_Convenes_Elite_Team_To_Prevent_Air_Traffic_Outages_Ahead_Of_Thanksgiving.md"
+      ],
+      "published": "2026-11-23T11:11:31-05:00",
+      "title": "ICYMI: \u201cWhite House Convenes Elite Team To Prevent Air Traffic Outages Ahead Of Thanksgiving\u201d"
+    },
     "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/": {
       "categories": [
         "Releases"
@@ -25404,6 +25426,17 @@
       ],
       "published": "2026-11-18T10:43:23-05:00",
       "title": "\u201cNo Indication of a Cyberattack\u201d: DNI Clayton and Secretary Rubio on Recent Tech Outages"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-23T23:28:25.035775+00:00",
+      "paths": [
+        "Releases/2026/11/20/President_Trump_Brings_Home_Billions_in_Economic_Growth_and_Strengthens_Americas_Security.md"
+      ],
+      "published": "2026-11-20T10:39:53-05:00",
+      "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/": {
       "categories": [
@@ -25437,6 +25470,17 @@
       ],
       "published": "2026-11-06T16:56:55-05:00",
       "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-23T23:28:22.820777+00:00",
+      "paths": [
+        "Releases/2026/11/23/President_Trump_Stands_with_Victims_Families_as_Newsom_Grants_Mass_Clemency_to_Depraved_Killers.md"
+      ],
+      "published": "2026-11-23T17:33:50-05:00",
+      "title": "President Trump Stands with Victims\u2019 Families as Newsom Grants Mass Clemency to Depraved Killers"
     },
     "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/": {
       "categories": [
@@ -25514,6 +25558,17 @@
       ],
       "published": "2026-11-13T08:10:00-05:00",
       "title": "Trump Administration Delivers Record-Setting Results Through Executive Action"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-23T23:28:24.019347+00:00",
+      "paths": [
+        "Releases/2026/11/23/Voting_Begins_for_the_2026_National_Thanksgiving_Turkey_Pardon_Ceremony.md"
+      ],
+      "published": "2026-11-23T09:47:18-05:00",
+      "title": "Voting Begins for the 2026 National Thanksgiving Turkey Pardon Ceremony"
     },
     "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/": {
       "categories": [

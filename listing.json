@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-11-23T11:54:01.119689+00:00",
+  "generatedAt": "2026-11-23T23:28:30.195674+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-23",
+      "id": "whitehouse:1493f3695a18b876",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-23T23:28:24.019347+00:00"
+      },
+      "path": "Releases/2026/11/23/Voting_Begins_for_the_2026_National_Thanksgiving_Turkey_Pardon_Ceremony.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/",
+      "summary": "President Donald J. Trump will celebrate a uniquely American Thanksgiving tradition as the White House hosts the 79th National Thanksgiving Turkey presentation and pardoning ceremony on Tuesday, November 24, 2026.",
+      "title": "Voting Begins for the 2026 National Thanksgiving Turkey Pardon Ceremony"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-23",
+      "id": "whitehouse:d97044f71659c7ac",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-23T23:28:22.820777+00:00"
+      },
+      "path": "Releases/2026/11/23/President_Trump_Stands_with_Victims_Families_as_Newsom_Grants_Mass_Clemency_to_Depraved_Killers.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers/",
+      "summary": "**Today, President Donald J. Trump stood with the families of murder victims to condemn Gov. Gavin Newsom\u2019s gutless decision to wipe out the death sentences of all 548 inmates on California\u2019s death row.** Two days after the election, Newsom [handed](https://www.gov.ca.gov/2026/11",
+      "title": "President Trump Stands with Victims\u2019 Families as Newsom Grants Mass Clemency to Depraved Killers"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-23",
+      "id": "whitehouse:90c3814c190e9ada",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-23T23:28:23.617258+00:00"
+      },
+      "path": "Releases/2026/11/23/ICYMI_White_House_Convenes_Elite_Team_To_Prevent_Air_Traffic_Outages_Ahead_Of_Thanksgiving.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving/",
+      "summary": "**As millions of Americans prepare to travel for the Thanksgiving holiday, President Donald J. Trump is making sure the skies stay open and the systems run smoothly.** Under President Trump\u2019s leadership, the White House has assembled an elite, interagency team to keep America\u2019s a",
+      "title": "ICYMI: \u201cWhite House Convenes Elite Team To Prevent Air Traffic Outages Ahead Of Thanksgiving\u201d"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-23",
+      "id": "whitehouse:e7e93f3fb21c95d9",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-23T23:28:23.220508+00:00"
+      },
+      "path": "Briefings/2026/11/23/First_Lady_Melania_Trump_Hails_Americas_Armed_Forces.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
+      "summary": "*Declaring precision and mental strength the foundation of global military superiority*",
+      "title": "First Lady Melania Trump Hails America\u2019s Armed Forces"
+    },
     {
       "category": "Releases",
       "date": "2026-11-20",
@@ -37,6 +89,19 @@
       },
       "path": "Fact Sheets/2026/11/20/President_Trump_Brings_Home_Billions_in_Economic_Growth_and_Strengthens_Americas_Security.md",
       "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
+      "summary": "President Donald J. Trump has concluded his four-day visit to the Philippines and China where he advanced his America First agenda, secured billions in deals that support American workers, ensured a free and open Indo-Pacific that benefits everyday Americans, and bolstered region",
+      "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-20",
+      "id": "whitehouse:d3b4d425f87fad28",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-23T23:28:25.035775+00:00"
+      },
+      "path": "Releases/2026/11/20/President_Trump_Brings_Home_Billions_in_Economic_Growth_and_Strengthens_Americas_Security.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
       "summary": "President Donald J. Trump has concluded his four-day visit to the Philippines and China where he advanced his America First agenda, secured billions in deals that support American workers, ensured a free and open Indo-Pacific that benefits everyday Americans, and bolstered region",
       "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security"
     },
