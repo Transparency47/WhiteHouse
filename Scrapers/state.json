@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-24T08:44:08.538712+00:00",
+  "last_successful_run": "2026-11-24T19:58:34.845714+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -25339,6 +25339,17 @@
       ],
       "published": "2026-11-12T16:46:53-05:00",
       "title": "\u201cDemocrats Will Help Us\u201d: Caravans March North as Dems Vow to Reopen the Border. President Trump Won\u2019t Let It Happen."
+    },
+    "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-24T19:58:33.635372+00:00",
+      "paths": [
+        "Releases/2026/11/24/Gas_Prices_Plunge_Ahead_of_Thanksgiving_Just_as_President_Trump_Predicted.md"
+      ],
+      "published": "2026-11-24T12:18:40-05:00",
+      "title": "Gas Prices Plunge Ahead of Thanksgiving \u2014 Just as President Trump Predicted"
     },
     "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/": {
       "categories": [

@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-24T08:44:12.699342+00:00",
+  "generatedAt": "2026-11-24T19:58:36.904816+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-24",
+      "id": "whitehouse:817152829048045c",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-24T19:58:33.635372+00:00"
+      },
+      "path": "Releases/2026/11/24/Gas_Prices_Plunge_Ahead_of_Thanksgiving_Just_as_President_Trump_Predicted.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/",
+      "summary": "**Just as President Donald J. Trump** [**predicted**](https://x.com/RapidResponse47/status/2123180022659723313) **, gas prices are tumbling down \u2014 and American families are feeling the relief just in time for Thanksgiving.** From coast to coast, prices at the pump are falling fas",
+      "title": "Gas Prices Plunge Ahead of Thanksgiving \u2014 Just as President Trump Predicted"
+    },
     {
       "category": "Releases",
       "date": "2026-11-23",
