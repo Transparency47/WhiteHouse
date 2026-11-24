@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:28:30.195674+00:00",
+  "generatedAt": "2026-11-24T08:44:12.699342+00:00",
   "records": [
     {
       "category": "Releases",
@@ -52,6 +52,45 @@
       "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
       "summary": "*Declaring precision and mental strength the foundation of global military superiority*",
       "title": "First Lady Melania Trump Hails America\u2019s Armed Forces"
+    },
+    {
+      "category": "Fact Sheets",
+      "date": "2026-11-23",
+      "id": "whitehouse:446297b5435cfbc2",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-24T08:44:07.295520+00:00"
+      },
+      "path": "Fact Sheets/2026/11/23/Fact_Sheet_President_Donald_J_Trump_Ensures_Expeditious_Enforcements_of_Capital_Sentences_and_the_Pursuit_of_Justice_for_Victims_of_Heinous_Crimes.md",
+      "sourceUrl": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
+      "summary": "**ENFORCING PROMPT CAPITAL SENTENCES:** Today, President Donald J. Trump signed a Memorandum to pursue capital punishment for heinous federal crimes and expedite the enforcement of capital sentences.",
+      "title": "Fact Sheet: President Donald J. Trump Ensures Expeditious Enforcements of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes"
+    },
+    {
+      "category": "Presidential Memoranda",
+      "date": "2026-11-23",
+      "id": "whitehouse:f1bfecfc0041a5be",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-24T08:44:06.882787+00:00"
+      },
+      "path": "Actions/Memoranda/2026/11/23/Expeditious_Enforcement_of_Capital_Sentences_and_the_Pursuit_of_Justice_for_Victims_of_Heinous_Crimes.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
+      "summary": "Memorandum for THE ATTORNEY GENERAL",
+      "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes"
+    },
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-23",
+      "id": "whitehouse:e18009cd443191b3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-24T08:44:06.468866+00:00"
+      },
+      "path": "Briefings/2026/11/23/Congressional_Bills_H_R_1550_H_R_4930_and_H_R_8552_Signed_into_Law.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
+      "summary": "On Monday, November 23, 2026, the President signed into law:",
+      "title": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law"
     },
     {
       "category": "Releases",

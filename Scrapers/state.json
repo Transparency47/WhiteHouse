@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-23T23:28:26.235486+00:00",
+  "last_successful_run": "2026-11-24T08:44:08.538712+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5468,6 +5468,17 @@
       "published": "2026-10-23T08:22:50-04:00",
       "title": "Presidential Message on the World Series"
     },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-24T08:44:06.468866+00:00",
+      "paths": [
+        "Briefings/2026/11/23/Congressional_Bills_H_R_1550_H_R_4930_and_H_R_8552_Signed_into_Law.md"
+      ],
+      "published": "2026-11-23T18:39:52-05:00",
+      "title": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law"
+    },
     "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/": {
       "categories": [
         "Briefings & Statements"
@@ -9911,6 +9922,17 @@
       ],
       "published": "2026-11-10T16:03:02-05:00",
       "title": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression"
+    },
+    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/": {
+      "categories": [
+        "Fact Sheets"
+      ],
+      "last_accessed": "2026-11-24T08:44:07.295520+00:00",
+      "paths": [
+        "Fact Sheets/2026/11/23/Fact_Sheet_President_Donald_J_Trump_Ensures_Expeditious_Enforcements_of_Capital_Sentences_and_the_Pursuit_of_Justice_for_Victims_of_Heinous_Crimes.md"
+      ],
+      "published": "2026-11-23T18:33:57-05:00",
+      "title": "Fact Sheet: President Donald J. Trump Ensures Expeditious Enforcements of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes"
     },
     "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/": {
       "categories": [
@@ -17695,6 +17717,18 @@
       ],
       "published": "2026-11-05T17:51:56-05:00",
       "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/": {
+      "categories": [
+        "Presidential Actions",
+        "Presidential Memoranda"
+      ],
+      "last_accessed": "2026-11-24T08:44:06.882787+00:00",
+      "paths": [
+        "Actions/Memoranda/2026/11/23/Expeditious_Enforcement_of_Capital_Sentences_and_the_Pursuit_of_Justice_for_Victims_of_Heinous_Crimes.md"
+      ],
+      "published": "2026-11-23T18:36:12-05:00",
+      "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/": {
       "categories": [
