@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-25T13:56:23.522730+00:00",
+  "last_successful_run": "2026-11-25T22:58:54.214169+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -17824,6 +17824,18 @@
       ],
       "published": "2026-11-20T21:31:05-05:00",
       "title": "PROTECTING THE EXECUTIVE\u2019S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING"
+    },
+    "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/": {
+      "categories": [
+        "Presidential Actions",
+        "Proclamations"
+      ],
+      "last_accessed": "2026-11-25T22:58:53.050002+00:00",
+      "paths": [
+        "Actions/Proclamations/2026/11/25/Thanksgiving_Day_2026.md"
+      ],
+      "published": "2026-11-25T09:30:00-05:00",
+      "title": "Thanksgiving Day, 2026"
     },
     "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/": {
       "categories": [

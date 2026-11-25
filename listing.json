@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-25T13:56:27.572848+00:00",
+  "generatedAt": "2026-11-25T22:58:57.121669+00:00",
   "records": [
+    {
+      "category": "Proclamations",
+      "date": "2026-11-25",
+      "id": "whitehouse:01be237c21459ef4",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-25T22:58:53.050002+00:00"
+      },
+      "path": "Actions/Proclamations/2026/11/25/Thanksgiving_Day_2026.md",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/",
+      "summary": "As families and friends gather across our country to celebrate Thanksgiving in this 250th anniversary year of American Independence, we pledge to carry forward the spirit of faith and fellowship that marked the first Thanksgiving feast, and we renew our mission to continue usheri",
+      "title": "Thanksgiving Day, 2026"
+    },
     {
       "category": "Briefings & Statements",
       "date": "2026-11-25",
