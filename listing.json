@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-25T03:29:01.935587+00:00",
+  "generatedAt": "2026-11-25T13:56:27.572848+00:00",
   "records": [
+    {
+      "category": "Briefings & Statements",
+      "date": "2026-11-25",
+      "id": "whitehouse:71535dd3e7bb6fd0",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-25T13:56:22.306265+00:00"
+      },
+      "path": "Briefings/2026/11/25/First_Lady_Melania_Trump_Secures_Reunification_of_Nine_Additional_Children_with_their_Families.md",
+      "sourceUrl": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families/",
+      "summary": "***Bringing Total to 43 Amid Russia-Ukraine War***",
+      "title": "First Lady Melania Trump Secures Reunification of Nine Additional Children with their Families"
+    },
     {
       "category": "Releases",
       "date": "2026-11-24",

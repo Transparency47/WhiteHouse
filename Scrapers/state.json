@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-25T03:28:58.582465+00:00",
+  "last_successful_run": "2026-11-25T13:56:23.522730+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -5566,6 +5566,17 @@
       ],
       "published": "2026-11-12T17:36:37-05:00",
       "title": "First Lady Melania Trump Honors America\u2019s Fallen Heroes at the Tomb of The Unknown Soldier"
+    },
+    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families/": {
+      "categories": [
+        "Briefings & Statements"
+      ],
+      "last_accessed": "2026-11-25T13:56:22.306265+00:00",
+      "paths": [
+        "Briefings/2026/11/25/First_Lady_Melania_Trump_Secures_Reunification_of_Nine_Additional_Children_with_their_Families.md"
+      ],
+      "published": "2026-11-25T07:01:00-05:00",
+      "title": "First Lady Melania Trump Secures Reunification of Nine Additional Children with their Families"
     },
     "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/": {
       "categories": [
