@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-11-25T22:58:57.121669+00:00",
+  "generatedAt": "2026-11-26T04:53:37.273206+00:00",
   "records": [
+    {
+      "category": "Releases",
+      "date": "2026-11-25",
+      "id": "whitehouse:d335e2a0207bd185",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-26T04:53:32.004146+00:00"
+      },
+      "path": "Releases/2026/11/25/Trump_Administration_Leads_Whole_of_Government_Effort_to_Safely_Neutralize_Obama_Era_Explosives_Threat_in_Iowa.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa/",
+      "summary": "**Under President Donald J. Trump\u2019s leadership, the U.S. Army this morning safely destroyed nearly five tons of degraded explosives at the Iowa Army Ammunition Plant.** All initial indications show the controlled detonation to be highly successful, with EPA monitors [reporting](h",
+      "title": "Trump Administration Leads Whole-of-Government Effort to Safely Neutralize Obama-Era Explosives Threat in Iowa"
+    },
     {
       "category": "Proclamations",
       "date": "2026-11-25",
@@ -13,6 +26,19 @@
       "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/",
       "summary": "As families and friends gather across our country to celebrate Thanksgiving in this 250th anniversary year of American Independence, we pledge to carry forward the spirit of faith and fellowship that marked the first Thanksgiving feast, and we renew our mission to continue usheri",
       "title": "Thanksgiving Day, 2026"
+    },
+    {
+      "category": "Releases",
+      "date": "2026-11-25",
+      "id": "whitehouse:122f27f90a51c6f3",
+      "kind": "whitehouse_record",
+      "metadata": {
+        "dateAccessed": "2026-11-26T04:53:31.581310+00:00"
+      },
+      "path": "Releases/2026/11/25/President_Trump_Unleashes_Whole_of_Government_Effort_to_Protect_Americas_Critical_Infrastructure.md",
+      "sourceUrl": "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/",
+      "summary": "At President Donald J. Trump\u2019s direction, the Administration is pursuing a coordinated, whole-of-government effort to modernize federal systems, strengthen our defenses, and protect America\u2019s critical infrastructure. The Trump Administration has assembled a highly capable interag",
+      "title": "President Trump Unleashes Whole-of-Government Effort to Protect America\u2019s Critical Infrastructure"
     },
     {
       "category": "Briefings & Statements",

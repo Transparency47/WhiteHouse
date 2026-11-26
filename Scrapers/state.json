@@ -1,5 +1,5 @@
 {
-  "last_successful_run": "2026-11-25T22:58:54.214169+00:00",
+  "last_successful_run": "2026-11-26T04:53:33.222803+00:00",
   "seen_urls": {
     "https://www.whitehouse.gov/briefings-statements/2025/01/first-lady-melania-trumps-official-portrait/": {
       "categories": [
@@ -25561,6 +25561,17 @@
       "published": "2026-11-20T11:53:12-05:00",
       "title": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director"
     },
+    "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-26T04:53:31.581310+00:00",
+      "paths": [
+        "Releases/2026/11/25/President_Trump_Unleashes_Whole_of_Government_Effort_to_Protect_Americas_Critical_Infrastructure.md"
+      ],
+      "published": "2026-11-25T19:38:59-05:00",
+      "title": "President Trump Unleashes Whole-of-Government Effort to Protect America\u2019s Critical Infrastructure"
+    },
     "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/": {
       "categories": [
         "Releases"
@@ -25626,6 +25637,17 @@
       ],
       "published": "2026-11-13T08:10:00-05:00",
       "title": "Trump Administration Delivers Record-Setting Results Through Executive Action"
+    },
+    "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa/": {
+      "categories": [
+        "Releases"
+      ],
+      "last_accessed": "2026-11-26T04:53:32.004146+00:00",
+      "paths": [
+        "Releases/2026/11/25/Trump_Administration_Leads_Whole_of_Government_Effort_to_Safely_Neutralize_Obama_Era_Explosives_Threat_in_Iowa.md"
+      ],
+      "published": "2026-11-25T18:10:56-05:00",
+      "title": "Trump Administration Leads Whole-of-Government Effort to Safely Neutralize Obama-Era Explosives Threat in Iowa"
     },
     "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/": {
       "categories": [
